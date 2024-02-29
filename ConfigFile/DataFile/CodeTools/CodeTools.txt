@@ -1,0 +1,96 @@
+# 此规则存放对于速度和延迟敏感的 代码相关工具 如 包资源 或者在线数据库等
+
+## Github
+.atom.io
+.dependabot.com
+.ghcr.io
+.git.io
+.github-atom-io-herokuapp-com.freetls.fastly.net
+.github-avatars.oss-cn-hongkong.aliyuncs.com
+.github-cloud.s3.amazonaws.com
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.githubassets.com
+.githubhackathon.com
+.githubpreview.dev
+.githubstatus.com
+.githubuniverse.com
+.githubusercontent.com
+.myoctocat.com
+.npm.community
+.npmjs.com
+.npmjs.org
+.opensource.guide
+.rawgit.com
+.rawgithub.com
+.thegithubshop.com
+.gitbook.com
+.gitbook.io
+.gitbook.zendesk.com
+.exp-tas.com
+
+## Gitlab
+.gitlab-static.net
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitlab-assets.oss-cn-hongkong.aliyuncs.com
+.gitter-static.net
+.gitter.im
+
+## 代码工具
+.supabase.com
+.visualstudio.com
+.wakapi.dev
+.vscode-sync.trafficmanager.net
+.vscode-unpkg.net
+.vscode-cdn.net
+.vscodeexperiments.azureedge.net
+.vo.msecnd.net
+.vsassets.io
+.fig.io
+
+.anaconda.com
+.jsdelivr.net
+.open-vsx.org
+.yarnpkg.com
+.npmjs.org
+
+.githubusercontent.com
+
+.nuget.org
+.tensorflow.org
+.maven.apache.org
+.huggingface.co
+
+## Debian 仓库
+.debian.org
+
+## kali 仓库
+.kali.org
+.kali.cs.nycu.edu.tw
+
+## docker
+.docker.io
+.docker.com
+
+## brew
+.brew.sh
+
+## go
+.goproxy.io
+.go.dev
+
+## python
+.pypi.org
+.pythonhosted.org
+.python.org
+
+## other
+.orbstack.dev
+.remix.run
+.wireshark.org

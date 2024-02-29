@@ -1,0 +1,59 @@
+! 本规则适用于 AdGuard
+! update: 2024-02-03
+
+! bilibili
+t.bilibili.com##.bili-dyn-ads
+t.bilibili.com##.bili-dyn-banner
+t.bilibili.com##.bili-dyn-version-control
+bilibili.com##.ad-report
+bilibili.com##.header-channel
+bilibili.com##.carousel-transform
+bilibili.com##.desktop-download-tip
+bilibili.com##.download-client-trigger
+
+! csdn
+blog.csdn.net###asideNewNps
+blog.csdn.net###asideWriteGuide
+blog.csdn.net###csdn-toolbar
+blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.passport-login-tip-container
+blog.csdn.net##.passport-container-mini
+
+! zhihu
+zhihu.com##.css-1wq6v87
+zhihu.com##.css-1q7njkh
+zhihu.com##.Modal-wrapper
+zhihu.com##.LoadingBar
+zhuanlan.zhihu.com##.css-1wq6v87
+zhuanlan.zhihu.com##.css-nk32ej
+zhuanlan.zhihu.com##.Modal-wrapper
+zhuanlan.zhihu.com##.Modal-enter-done
+zhuanlan.zhihu.com##.LoadingBar
+zhuanlan.zhihu.com##.signFlowModal
+zhuanlan.zhihu.com##.js-clientConfig
+zhuanlan.zhihu.com##.js-initialData
+zhuanlan.zhihu.com##.css-8pdeid
+zhuanlan.zhihu.com##.Modal-backdrop
+
+! smzdm
+post.smzdm.com##.side-stuff
+post.smzdm.com##.z-stuff-bar
+post.smzdm.com##.z-stuff-bar-footer
+
+! 51cto
+blog.51cto.com##.ac-box
+blog.51cto.com##.minmenu
+blog.51cto.com##.creative
+blog.51cto.com##.commonhide
+blog.51cto.com##.action-aside-left
+
+! apkpure.net
+apkpure.net##.ad-adsense
+apkpure.net##.ad-box
+apkpure.net##.debut-game
+apkpure.net##.share-fixed
+
+! other
+tool.oschina.net##.ad-wrap
+juejin.cn##.wechat-ad
+www.jianshu.com##._3Pnjry

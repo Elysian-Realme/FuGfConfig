@@ -1,0 +1,19 @@
+payload:
+  # zhihu
+  - DOMAIN-SUFFIX,sugar.zhihu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,appcloud2.in.zhihu.com
+  - IP-CIDR,118.89.204.198/32
+  # bilibili
+  - DOMAIN-SUFFIX,dataflow.biliapi.com
+  - DOMAIN-SUFFIX,data.bilibili.com/log
+  - DOMAIN-SUFFIX,grpc.biliapi.net
+  # 其他
+  - DOMAIN,appcloud2.in.zhihu.com,REJECT
+  - DOMAIN-SUFFIX,s.deepl.com,REJECT
+  - DOMAIN-SUFFIX,ios.bugly.qq.com,REJECT
+  - DOMAIN-SUFFIX,api.tusdk.com,REJECT
+  - DOMAIN-SUFFIX,app.adjust.net.in,REJECT
+  - DOMAIN-SUFFIX,app.adjust.world,REJECT
+  - DOMAIN-SUFFIX,app.adjust.com,REJECT
+  - DOMAIN-SUFFIX,p.qlogo.cn,REJECT

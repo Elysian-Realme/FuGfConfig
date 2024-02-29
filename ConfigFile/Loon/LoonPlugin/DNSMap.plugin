@@ -1,0 +1,95 @@
+[Host]
+## 米忽悠
+*.bh3.com = server:https://doh.pub/dns-query
+*.mihoyo.com = server:https://doh.pub/dns-query
+*.yuanshen.com = server:https://doh.pub/dns-query
+*-os.yuanshen.com = server:https://doh.pub/dns-query
+## 阿里系
+*.taobao.com = server:https://dns.alidns.com/dns-query
+*.tmall.com = server:https://dns.alidns.com/dns-query
+*.alipay.com = server:https://dns.alidns.com/dns-query
+*.alicdn.com = server:https://dns.alidns.com/dns-query
+*.aliyun.com = server:https://dns.alidns.com/dns-query
+*.aliyundrive.com = server:https://dns.alidns.com/dns-query
+## 腾讯系
+*.qq.com = server:https://doh.pub/dns-query
+*.tencent.com = server:https://doh.pub/dns-query
+*.weixin.com = server:https://doh.pub/dns-query
+*.wechat.com = server:https://doh.pub/dns-query
+*.tenpay.com = server:https://doh.pub/dns-query
+*.weiyun.com = server:https://doh.pub/dns-query
+*.gtimg.cn = server:https://doh.pub/dns-query
+*.idqqimg.com = server:https://doh.pub/dns-query
+*.gcloudsdk.com = server:https://doh.pub/dns-query
+## bilibili
+*.bilibili.com = server:https://doh.pub/dns-query
+*.bilivideo.com = server:https://doh.pub/dns-query
+*.bilivideo.cn = server:https://doh.pub/dns-query
+*.hdslb.com = server:https://doh.pub/dns-query
+*.b23.tv = server:https://doh.pub/dns-query
+b23.tv = server:https://doh.pub/dns-query
+*.biliapi.net = server:https://doh.pub/dns-query
+*.static.geetest.com = server:https://doh.pub/dns-query
+## sina
+*.weibo.com = server:https://doh.pub/dns-query
+*.miaopai.com = server:https://doh.pub/dns-query
+weibo.com = server:https://doh.pub/dns-query
+*.weibo.cn = server:https://doh.pub/dns-query
+*.weibocdn.com = server:https://doh.pub/dns-query
+*.sinaimg.com = server:https://doh.pub/dns-query
+*.miaopai.com = server:https://doh.pub/dns-query
+*.sina.com.cn = server:https://doh.pub/dns-query
+*.sinajs.cn = server:https://doh.pub/dns-query
+## zhihu
+*.zhihu.com = server:https://doh.pub/dns-query
+*.zhimg.com = server:https://doh.pub/dns-query
+## sspai
+*.sspai.com = server:https://doh.pub/dns-query
+## 喜马拉雅
+*.xmcdn.com = server:https://doh.pub/dns-query
+*.ximalaya.com = server:https://doh.pub/dns-query
+## xiaomi
+*.xiaomi.com = server:https://doh.pub/dns-query
+*.mi.com = server:https://doh.pub/dns-query
+*.miwifi.com = server:https://doh.pub/dns-query
+# douban
+*.douban.com = server:https://doh.pub/dns-query
+*.doubanio.com = server:https://doh.pub/dns-query
+*.douc.cc = server:https://doh.pub/dns-query
+## baidu
+*.baidu.com = server:https://doh.pub/dns-query
+*.bdimg.com = server:https://doh.pub/dns-query
+*.bdstatic.com = server:https://doh.pub/dns-query
+*.bcebos.com = server:https://doh.pub/dns-query
+## nga
+#*.nga.178.com = server:https://doh.pub/dns-query
+*.ngacn.cc = server:https://doh.pub/dns-query
+*.178.com = server:https://doh.pub/dns-query
+## jd
+*.jd.com = server:https://doh.pub/dns-query
+*.jdcloud.com = server:https://doh.pub/dns-query
+*.jd.hk = server:https://doh.pub/dns-query
+*.360buyimg.com = server:https://doh.pub/dns-query
+## 爱奇艺
+*.iqiyi.com = server:https://doh.pub/dns-query
+*.qiyi.com = server:https://doh.pub/dns-query
+*.iqiyipic.com = server:https://doh.pub/dns-query
+*.qiyipic.com = server:https://doh.pub/dns-query
+*.ppsimg.com = server:https://doh.pub/dns-query
+## 其他
+*.163.com = server:https://doh.pub/dns-query
+*.126.com = server:https://doh.pub/dns-query
+*.126.net = server:https://doh.pub/dns-query
+*.127.net = server:https://doh.pub/dns-query
+*.95516.com = server:https://doh.pub/dns-query
+*.netease.com = server:https://doh.pub/dns-query
+*.caiyunapp.com = server:https://doh.pub/dns-query
+*.ithome.com = server:https://doh.pub/dns-query
+*.abchina.com = server:https://doh.pub/dns-query
+*.10010.com = server:https://doh.pub/dns-query
+*.10010.cn = server:https://doh.pub/dns-query
+*.gov.cn = server:https://doh.pub/dns-query
+*.sohu.com = server:https://doh.pub/dns-query
+*.csdn.com = server:https://doh.pub/dns-query
+## 全局
+*.cn = server:https://doh.pub/dns-query

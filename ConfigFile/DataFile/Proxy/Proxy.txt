@@ -1,0 +1,298 @@
+# 此规则存放对代理 IP 频繁变化不敏感的需要走代理的服务
+
+
+## vscode
+.vscode-unpkg.net
+.vscode-cdn.net
+.visualstudio.com
+.vscodeexperiments.azureedge.net
+.vo.msecnd.net
+.vsassets.io
+.vscode-webview.net
+
+## vscodium
+vscodium.now.sh
+.vscodium.com
+
+## code docs
+.vuejs.org
+
+## 编辑器
+.zed.dev
+
+## proton
+.proton.me
+.pm.me
+.protonmail.ch
+.protonmail.com
+.protonstatus.com
+
+## blender
+.blender.org
+
+## 维基百科
+.wikipedia.org
+.wikimedia.org
+
+## Pixiv
+.pximg.net
+.fanbox.cc
+.pixiv.me
+.pixiv.net
+.pixiv.re
+210.140.131.199
+210.140.139.131
+
+## Twitter
+.twitter.com
+.twimg.com
+
+## 密码管理器
+.bitwarden.com
+.bitwarden.net
+.1password.com
+
+# Win 检测是否可以联网域名
+.msftconnecttest.com
+
+## apksure
+.apkpure.com
+.cdnpure.com
+.pureapk.com
+.winudf.com
+
+## dropbox
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropbox.zendesk.com
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+.paper-attachments.s3.amazonaws.com
+
+## duckduckgo
+.duckduckgo.com
+.duckduckco.com
+
+## lastfm
+.last.fm
+
+## vercel
+.vercel.app
+
+## 长毛象
+.o3o.ca
+.cmx.im
+
+## 笔记软件
+# notion
+.notion.so
+http-inputs-notion.splunkcloud.com
+.obsidian.md
+
+## vivaldi
+.vivaldi.com
+.vivaldi.net
+
+## matrix
+.matrix.org
+
+## vercel
+.vercel.com
+.vercel.sh
+
+## stripe
+.stripe.com
+.stripe.network
+
+## typlog
+.typlog.com
+.typlog.io
+
+## anchor
+.anchor.fm
+
+## facebook
+.facebook.com
+.fbcdn.net
+
+## onedrive 网页版
+onedrive.live.com
+
+## mega
+.mega.co.nz
+.mega.nz
+
+## discord
+.discord.com
+.discord.gg
+.discord.media
+.discordapp.com
+.discordapp.net
+
+## twitch
+.twitch.tv
+.twitchcdn.net
+# static-cdn.jtvnw.net
+# .ttvnw.net
+# poe.live-video.net
+
+## emby
+.emby.media
+.embydata.com
+
+.kodi.tv
+
+## 影音网站
+.adtidy.org
+.mb3admin.com
+.themoviedb.org
+.thetvdb.com
+.omdbapi.com
+.fanart.tv
+
+## gravatar
+.gravatar.com
+.vercel.com
+
+## matters
+.matters.news
+.mattersprotocol.io
+.matters.town
+
+## Figma
+.figma.com
+
+
+## vk
+.mvk.com
+.userapi.com
+.vk-cdn.me
+.vk-cdn.net
+.vk-portal.net
+.vk.cc
+.vk.com
+.vk.design
+.vk.link
+.vk.me
+.vkcache.com
+.vkgo.app
+.vklive.app
+.vkmessenger.app
+.vkmessenger.com
+.vkontakte.ru
+.vkuseraudio.com
+.vkuserlive.net
+.vkuservideo.com
+.vkuservideo.net
+
+## SSL 相关
+.lencr.org
+.letsencrypt.org
+.comodoca.com
+.sectigo.com
+.positivessl.com
+.digicert.com
+
+## Gitea
+.gitea.io
+.gitea.com
+
+## 亚马逊
+.amazontrust.com
+.amazon.com
+
+## unity
+.unity3d.com
+.unity.com
+
+## reddit
+.reddit.com
+.redditstatic.com
+.redditmedia.com
+
+## tailscale
+.tailscale.com
+.tailscale.io
+
+## f-droid
+.f-droid.org
+
+## proxmox
+.proxmox.com
+
+## 多邻国 duolingo
+.duolingo.com
+
+## ubnt
+.ui.com
+.ubnt.com
+.ui.direct
+
+## resilio
+54.192.18.123
+31.13.67.41
+.resilio.com
+
+## 存疑
+.vscode-sync.trafficmanager.net
+.monitor.firefox.com
+.vortex.data.microsoft.com
+.vchv.ltd
+
+## 其他
+.fontawesome.com
+.polyfill.io
+.gpgtools.org
+.raycast.com
+.jquery.com
+.adguard.com
+.typlod.io
+.fireside.fm
+.pwalist.app
+.moon.fm
+.half.plus
+.halfs.me
+.sm.ms
+.nsloon.com
+.vercel.app
+.v2ex.com
+.appsco.pe
+.decohack.com
+.campaign-archive.com
+calibre-ebook.com
+.sharepoint.com
+.office.net
+.xiaomi.eu
+.minamigo.moe
+.relingo.net
+.quantumult.app
+.arc.net
+.deepl.com
+.edu.tw
+.prodkeys.net
+.eggnsemulator.com
+.tii.la
+.archive.org
+.annas-archive.org
+.openwrt.org
+.sublimetext.com
+.rfi.fr
+.surge-activation.com
+.hlj.fun
+.authy.com
+.feedburner.com
+.torproject.org
+.apkpure.com
+.apkpure.net
+.cdnpure.com

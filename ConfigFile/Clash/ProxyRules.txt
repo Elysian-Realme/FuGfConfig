@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-KEYWORD,tokyo-hot,PROXY
+  - DOMAIN-KEYWORD,vivaldi,PROXY
+  - DOMAIN,imap.vivaldi.net,PROXY
+  - DOMAIN-KEYWORD,pornhub,PROXY
+  - DOMAIN-SUFFIX,mediator.goodsync.com,PROXY
+  - DOMAIN-KEYWORD,goodsync,PROXY
+  - DOMAIN-SUFFIX,notion.so,PROXY
+  - DOMAIN-SUFFIX,gstatic.com,PROXY
+  - DOMAIN,notion.so,PROXY
+  - DOMAIN-KEYWORD,notion.so,PROXY
+  - DOMAIN-KEYWORD,github,PROXY
+  - DOMAIN-KEYWORD,githubusercontent,PROXY
+  - DOMAIN-KEYWORD,passcloud,PROXY
+  - DOMAIN-KEYWORD,joplin,PROXY
+  - DOMAIN-KEYWORD,dropbox,PROXY
+  - DOMAIN-KEYWORD,dropboxapi,PROXY

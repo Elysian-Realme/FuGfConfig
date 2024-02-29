@@ -1,0 +1,21 @@
+[Host]
+*.apple.com = server:https://dns.alidns.com/dns-query
+*.apple.cn = server:https://dns.alidns.com/dns-query
+*.itunes.apple.com = server:https://dns.alidns.com/dns-query
+*.icloud.com = server:https://dns.alidns.com/dns-query
+*.mzstatic.com = server:https://dns.alidns.com/dns-query
+*.cdn-apple.com = server:https://dns.alidns.com/dns-query
+*.cdn-apple-mapkit.com = server:https://dns.alidns.com/dns-query
+*.apple-mapkit.com = server:https://dns.alidns.com/dns-query
+*.apple-cloudkit.com = server:https://dns.alidns.com/dns-query
+*.icloud-content.com = server:https://dns.alidns.com/dns-query
+*.apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.itunes-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.origin-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.ls-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.push-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.cdn-apple.com.akadns.net = server:https://dns.alidns.com/dns-query
+*.apple-support.akadns.net = server:https://dns.alidns.com/dns-query
+*.aaplimg.com = server:https://dns.alidns.com/dns-query
+*.ls.apple.com.edgesuite.net = server:https://dns.alidns.com/dns-query
+*.icloud.com.akadns.net = server:https://dns.alidns.com/dns-query

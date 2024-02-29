@@ -1,0 +1,15 @@
+.bing.com
+.openai.com
+.auth0.com
+.openaiapi-site.azureedge.net
+.poe.com
+.poecdn.net
+.claude.ai
+.anthropic.com
+.oaistatic.com
+.oaiusercontent.com
+24.199.123.28
+64.23.132.171
+.intercom.io
+.intercomcdn.com
+.poe.com

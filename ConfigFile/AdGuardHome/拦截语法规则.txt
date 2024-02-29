@@ -1,0 +1,14 @@
+||example.org^ – 拦截 example.org 域名及其所有子域名
+
+@@||example.org^ – 放行 example.org 及其所有子域名
+
+127.0.0.1 example.org – 将会把 example.org（但不包括它的子域名）解析到 127.0.0.1
+
+! 注释符号，表示这是一行注释
+
+# 这也是注释符号，同样表示这是一行注释
+
+/REGEX/ – 正则表达式模式
+
+
+https://www.leeyiding.com/archives/50/

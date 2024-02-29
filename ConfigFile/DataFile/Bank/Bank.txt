@@ -1,0 +1,17 @@
+## HSBC HK
+.hsbc.com.hk
+
+## BOCHK
+.bochk.com
+.etnet.com.hk
+
+## za
+.za.group
+.zaticdn.com
+
+## wise
+.wise.com
+
+## IBKR
+.interactivebrokers.com
+.ibkr.com
