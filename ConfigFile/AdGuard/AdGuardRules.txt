@@ -1,5 +1,15 @@
 ! 本规则适用于 AdGuard
-! update: 2024-02-03
+! update: 2024/03/01
+! class 选择器 .
+! css 选择器 #
+
+！ 全局
+##.ads
+##.ads-ss
+##.add-panel
+
+！icons8
+icons8.com##.by-sell-ads-large
 
 ! bilibili
 t.bilibili.com##.bili-dyn-ads
@@ -52,6 +62,11 @@ apkpure.net##.ad-adsense
 apkpure.net##.ad-box
 apkpure.net##.debut-game
 apkpure.net##.share-fixed
+
+! freebuf.com
+www.freebuf.com##.aside-left
+www.freebuf.com##.module-middle
+www.freebuf.com##.floating-view
 
 ! other
 tool.oschina.net##.ad-wrap

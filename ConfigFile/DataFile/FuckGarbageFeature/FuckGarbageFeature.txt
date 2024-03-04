@@ -7839,7 +7839,8 @@ drink.lemonpiggy.com
 aim-abtesting-sdk.za.group
 xman-xflow-sdk.za.group
 appguard.za.group
-api.geevisit.com
+.api.geevisit.com
+.static.geevisit.com
 report.futunn.com
 125.39.104.14
 vectorsdk.map.qq.com
@@ -7906,3 +7907,8 @@ bs2.yumchina.com
 .inkiwike.com
 .tapi.pureapk.com
 .busuanzi.ibruce.info
+180.76.198.77/32
+185.199.110.133/32
+.gcaptcha4.geetest.com
+.clientstream.launchdarkly.com
+.mobile.launchdarkly.com

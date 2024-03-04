@@ -94,3 +94,4 @@
 .orbstack.dev
 .remix.run
 .wireshark.org
+.portswigger.net

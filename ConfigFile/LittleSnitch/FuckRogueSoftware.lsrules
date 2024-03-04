@@ -1,0 +1,11 @@
+{
+  "name": "FuckRogueSoftware",
+  "description": "FuckRogueSoftware",
+  "denied-remote-domains": [
+    "baidu.com",
+    "huawei.com",
+    "huaweicloud.cn",
+    "huaweicloud.com",
+    "huaweicloud-dns.cn"
+  ]
+}
