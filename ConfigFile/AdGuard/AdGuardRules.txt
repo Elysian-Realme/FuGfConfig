@@ -28,6 +28,7 @@ blog.csdn.net###csdn-toolbar
 blog.csdn.net##.csdn-side-toolbar
 blog.csdn.net##.passport-login-tip-container
 blog.csdn.net##.passport-container-mini
+blog.csdn.net##.passport-login-container
 
 ! zhihu
 zhihu.com##.css-1wq6v87
