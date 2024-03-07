@@ -1,6 +1,7 @@
 {
   "name": "FuckRogueSoftware",
   "description": "FuckRogueSoftware",
+  "priority": "high",
   "denied-remote-domains": [
     "1.feihua.net.cn",
     "1q2w3.fun",
@@ -3013,7 +3014,6 @@
     "37bvsblobprodcus311.blob.core.windows.net",
     "397c0.admaster.com.cn",
     "3gimg.qq.com",
-    "71.am",
     "a.alimama.cn",
     "a.app.qq.com",
     "a.baidu.cn",
