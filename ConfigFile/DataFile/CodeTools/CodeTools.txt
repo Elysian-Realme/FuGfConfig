@@ -95,3 +95,4 @@
 .remix.run
 .wireshark.org
 .portswigger.net
+.svelte.dev

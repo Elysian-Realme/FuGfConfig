@@ -1,7 +1,9 @@
 .bing.com
 .openai.com
+.chatgpt.com
 .auth0.com
 .openaiapi-site.azureedge.net
+chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .poe.com
 .poecdn.net
 .claude.ai
