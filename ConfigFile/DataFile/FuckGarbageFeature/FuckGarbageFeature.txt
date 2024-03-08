@@ -7912,3 +7912,5 @@ bs2.yumchina.com
 .gcaptcha4.geetest.com
 .clientstream.launchdarkly.com
 .mobile.launchdarkly.com
+.ohttp-relay1.fastly-edge.com
+.checkpoint.prisma.io

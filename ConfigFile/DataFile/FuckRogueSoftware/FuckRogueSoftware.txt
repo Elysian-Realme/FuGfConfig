@@ -1691,8 +1691,11 @@ dualstack-logs.amap.com
 .cgicol.amap.com
 
 
-## 各种银行
+## 招商银行
 log.cmbchina.com
+ccclub.cmbchina.com
+yl.zh.cmbchina.com
+sodefaultwordapi.paas.cmbchina.com
 
 
 ## 移动认证

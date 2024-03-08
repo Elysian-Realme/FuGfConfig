@@ -2,6 +2,7 @@
   "name": "FuckRogueSoftware",
   "description": "FuckRogueSoftware",
   "priority": "high",
+  "owner": "system",
   "denied-remote-domains": [
     "1.feihua.net.cn",
     "1q2w3.fun",
