@@ -39,7 +39,7 @@
 # zhifubao
 ^https?:\/\/loggw-ex\.alipay\.com\/loggw\/logUpload\.do.*$ - reject
 ^https?:\/\/datagw-edge\.alipay\.com\/loggw\/logUpload\.do.*$ - reject
-^https?:\/\/loggw\.alipay\.com\.cn\/loggw\/logUpload\.do.*$ - rejecƒt
+^https?:\/\/loggw\.alipay\.com\.cn\/loggw\/logUpload\.do.*$ - reject
 ^https?:\/\/gw\.alipayobjects\.com\/config\/loggw\/logConfig.do.*$ - reject
 ^https?:\/\/amdc-sibling\.alipay\.com\.cn\/s?query.*$ - reject
 ^https?:\/\/amdc\.alipay\.com\/s?query.*$ - reject
