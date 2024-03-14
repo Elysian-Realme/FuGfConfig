@@ -1,8 +1,8 @@
 {
   "name": "FuckRogueSoftware",
-  "description": "FuckRogueSoftware",
-  "priority": "high",
+  "description": "FuckRogueSoftware, URL: https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/LittleSnitch/FuckRogueSoftware.lsrules",
   "owner": "system",
+  "priority": "high",
   "denied-remote-domains": [
     "1.feihua.net.cn",
     "1q2w3.fun",
@@ -622,6 +622,7 @@
     "cgi.connect.qq.com",
     "cgicol.amap.com",
     "channel-analysis-js.gmw.cn",
+    "checkpoint.prisma.io",
     "choice.microsoft.com",
     "choice.microsoft.com.nsatc.net",
     "cir-smart.baidu.com",

@@ -7841,6 +7841,7 @@ xman-xflow-sdk.za.group
 appguard.za.group
 .api.geevisit.com
 .static.geevisit.com
+.gcaptcha4.geevisit.com
 report.futunn.com
 125.39.104.14
 vectorsdk.map.qq.com
@@ -7914,3 +7915,4 @@ bs2.yumchina.com
 .mobile.launchdarkly.com
 .ohttp-relay1.fastly-edge.com
 .checkpoint.prisma.io
+.appd.ocbc.com
