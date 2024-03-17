@@ -69,6 +69,12 @@ www.freebuf.com##.aside-left
 www.freebuf.com##.module-middle
 www.freebuf.com##.floating-view
 
+
+! weixin
+mp.weixin.qq.com##.js_pc_qr_code
+mp.weixin.qq.com##.qr_code_pc_inner
+mp.weixin.qq.com##.qr_code_pc
+
 ! other
 tool.oschina.net##.ad-wrap
 juejin.cn##.wechat-ad
