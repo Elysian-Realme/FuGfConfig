@@ -2982,6 +2982,10 @@ onelink.appsflyer.com
 .tldqxt-dynamic-report-api.appsflyersdk.com
 .tldqxt-cdn-settings.appsflyersdk.com
 .dlsdk.appsflyer.com
+hcef9b-attr.appsflyersdk.com
+hcef9b-dynamic-config-api.appsflyersdk.com
+hcef9b-conversions.appsflyersdk.com
+hcef9b-dynamic-report-api.appsflyersdk.com
 
 
 ## flurry

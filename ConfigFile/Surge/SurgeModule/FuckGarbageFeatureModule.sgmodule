@@ -1501,6 +1501,7 @@ appguard.za.group = 0.0.0.0
 *.appsdt.com = 0.0.0.0
 *.appservice5.omniture.com = 0.0.0.0
 *.appsflyer.com = 0.0.0.0
+*.appsflyersdk.com = 0.0.0.0
 *.appsrv.display.io = 0.0.0.0
 appstoreonrt-stsdk.vivo.com.cn = 0.0.0.0
 appsupport.qq.com = 0.0.0.0

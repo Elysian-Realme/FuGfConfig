@@ -7911,3 +7911,5 @@ bs2.yumchina.com
 .game.meituan.com
 .rmonitor.ga.com
 .p2p.haplat.net
+111.175.28.154
+.appsflyersdk.com

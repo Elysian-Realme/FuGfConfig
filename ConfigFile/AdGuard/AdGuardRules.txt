@@ -7,6 +7,8 @@
 ##.ads
 ##.ads-ss
 ##.add-panel
+##.Ad-root
+##.ad-root
 
 ！icons8
 icons8.com##.by-sell-ads-large
