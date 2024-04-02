@@ -9,6 +9,7 @@
 ##.add-panel
 ##.Ad-root
 ##.ad-root
+###live2d
 
 ！icons8
 icons8.com##.by-sell-ads-large
@@ -22,6 +23,7 @@ bilibili.com##.header-channel
 bilibili.com##.carousel-transform
 bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger
+bilibili.com##.trial-feed-wrap
 
 ! csdn
 blog.csdn.net###asideNewNps

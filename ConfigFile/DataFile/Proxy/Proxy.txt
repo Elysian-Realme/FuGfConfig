@@ -296,3 +296,4 @@ calibre-ebook.com
 .apkpure.com
 .apkpure.net
 .cdnpure.com
+.archive.ph

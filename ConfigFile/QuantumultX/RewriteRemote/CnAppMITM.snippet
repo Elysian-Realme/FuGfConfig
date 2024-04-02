@@ -102,6 +102,16 @@
 ^https?:\/\/api\.bilibili\.com/x/(push\/)?report.*$ url reject
 ^https?:\/\/api\.bilibili\.com/x/v[\d.]+/(dataflow|history)/report.*$ url reject
 ^https?:\/\/api\.bilibili\.com/open/monitor/apm/report.*$ url reject
+^https?:\/\/s1\.hdslb\.com/bfs/seed/log.*$ url reject
+^https?:\/\/data\.bilibili\.com/log.*$ url reject
+^https?:\/\/data\.bilibili\.com/v[\d.]+/log.*$ url reject
+^https?:\/\/skynet\.bilivideo\.com/.*?/log.*$ url reject
+^https?:\/\/app\.bilibili\.com/x/v[\d.]+/view/ad.*$ url reject
+# 视频下方和左侧的广告
+# ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad).(avif|webp)$ url reject
+# ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)$ url reject
+^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)(\.(avif|webp))?$ url reject
+
 ^https?:\/\/api\.bilibili\.com/session_svr/v[\d.]+/session_svr/single_unread.*$ url reject
 ^https?:\/\/api\.bilibili\.com/x/web-interface/(wbi\/)?search/default.*$ url reject
 ^https?:\/\/api\.bilibili\.com/x/vip/ads/materials.*$ url reject
@@ -119,11 +129,9 @@
 ^https?:\/\/app\.bilibili\.com/bilibili.app.interface.v[\d.]+.Search/DefaultWords.*$ url reject
 ^https?:\/\/app\.bilibili\.com/bilibili.app.resource.v[\d.]+.Module/List.*$ url reject
 
-^https?:\/\/data\.bilibili\.com/log.*$ url reject
-^https?:\/\/data\.bilibili\.com/v[\d.]+/log.*$ url reject
 ^https?:\/\/data\.bilibili\.com/gol/postweb.*$ url reject
 ^https?:\/\/api\.live\.bilibili\.com/xlive/web-room/v[\d.]+/index/getIpInfo.*$ url reject
-^https?:\/\/s1\.hdslb\.com/bfs/seed/log.*$ url reject
+
 ^https?:\/\/(s1|s2)\.hdslb\.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/(log-reporter|event-tracker|pv-tracker).*$ url reject
 
 ^https?:\/\/i0\.hdslb\.com/bfs/static/manga/artifact/statistics/baidu.js$ url reject
@@ -137,11 +145,8 @@
 ^https?:\/\/(i0|s1)\.hdslb\.com/bfs/static/jinkela/long/images/(pic962110|desktop-download-tip).png$ url reject
 ^https?:\/\/static\.hdslb\.com/images/base/icons.png$ url reject
 ^https?:\/\/activity\.hdslb\.com/blackboard/static/\w+/\w+/report_new.js$ url reject
-^https?:\/\/skynet\.bilivideo\.com/.*?/log.*$ url reject
-# 视频下方和左侧的广告
-# ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad).(avif|webp)$ url reject
-# ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)$ url reject
-^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)(\.(avif|webp))?$ url reject
+
+
 
 # 视频下方的其他直播间
 ^https?:\/\/api\.live\.bilibili\.com/xlive/web-interface/v[\d.]+/webMain/getVideoRecList.*$ url reject

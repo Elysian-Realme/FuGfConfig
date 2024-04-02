@@ -1949,6 +1949,7 @@ antivirus.baidu.com
 .ota.baidu.com
 .activity.baidu.com
 .updown.mobileassist.baidu.com
+.agent-proxy.baidu.com
 
 ## Facebook
 .graph.facebook.com
