@@ -24,6 +24,7 @@ bilibili.com##.carousel-transform
 bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger
 bilibili.com##.trial-feed-wrap
+live.bilibili.com##.flip-view
 
 ! csdn
 blog.csdn.net###asideNewNps

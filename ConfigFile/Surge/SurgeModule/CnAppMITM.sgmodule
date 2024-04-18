@@ -114,7 +114,7 @@
 # ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad).(avif|webp)$ - reject
 # ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)$ - reject
 ^https?:\/\/i0\.hdslb\.com/bfs/.*!(web-video-ad-cover|web-video-right-bottom-ad)(\.(avif|webp))?$ - reject
-
+^https?:\/\/i1\.hdslb\.com/bfs/.*!(1e_1c\.webp)$ - reject
 ^https?:\/\/api\.bilibili\.com/session_svr/v[\d.]+/session_svr/single_unread.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/web-interface/(wbi\/)?search/default.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/vip/ads/materials.*$ - reject
