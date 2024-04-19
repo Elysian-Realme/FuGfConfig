@@ -1,5 +1,6 @@
 #!name=FuckRogueSoftware
 #!desc=FuckRogueSoftware
+#!category=FuckGFW
 [Host]
 *.09-0-2-erguj-3e54r9gh-w0e9jv-0sd8ghv-0das9jh-0hyf.obs.ap-southeast-1.myhuaweicloud.com = 0.0.0.0
 *.1.feihua.net.cn = 0.0.0.0

@@ -1,5 +1,6 @@
 #!name=FuckGarbageFeature
 #!desc=FuckGarbageFeature
+#!category=FuckGFW
 [Host]
 *.0ce3c-1fd43.api.pushwoosh.com = 0.0.0.0
 *.100016075.collect.igodigital.com = 0.0.0.0

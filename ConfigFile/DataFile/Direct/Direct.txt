@@ -1,6 +1,5 @@
 ## 全局
 .cn
-.139.com
 
 ## mihoyo
 .mihoyo.com
@@ -165,3 +164,6 @@ test-ipv6.com
 .saxyit.com
 .eccdnx.com
 .123pan.com
+.139.com
+.baidu.com
+.bytescm.com
