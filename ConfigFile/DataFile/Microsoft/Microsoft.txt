@@ -21,3 +21,4 @@
 .microsoftonline.com
 .office365.com
 .office.net
+.bingapis.com

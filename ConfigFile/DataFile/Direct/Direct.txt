@@ -167,3 +167,4 @@ test-ipv6.com
 .139.com
 .baidu.com
 .bytescm.com
+.byteimg.com

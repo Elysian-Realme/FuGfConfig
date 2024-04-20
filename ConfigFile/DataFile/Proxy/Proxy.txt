@@ -1,6 +1,5 @@
 # 此规则存放对代理 IP 频繁变化不敏感的需要走代理的服务
 
-
 ## vscode
 .vscode-unpkg.net
 .vscode-cdn.net
@@ -46,6 +45,7 @@ vscodium.now.sh
 ## Twitter
 .twitter.com
 .twimg.com
+.x.com
 
 ## 密码管理器
 .bitwarden.com
@@ -173,7 +173,6 @@ onedrive.live.com
 ## Figma
 .figma.com
 
-
 ## vk
 .mvk.com
 .userapi.com
@@ -203,6 +202,7 @@ onedrive.live.com
 .sectigo.com
 .positivessl.com
 .digicert.com
+.ocsp.pki.goog
 
 ## Gitea
 .gitea.io
@@ -265,7 +265,6 @@ onedrive.live.com
 .halfs.me
 .sm.ms
 .nsloon.com
-.vercel.app
 .v2ex.com
 .appsco.pe
 .decohack.com
@@ -297,3 +296,4 @@ calibre-ebook.com
 .apkpure.net
 .cdnpure.com
 .archive.ph
+.medium.com

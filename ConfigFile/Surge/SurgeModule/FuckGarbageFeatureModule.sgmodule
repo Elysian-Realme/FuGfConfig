@@ -1848,6 +1848,7 @@ big.bilibili.com = 0.0.0.0
 *.brightroll-partners.tremorhub.com = 0.0.0.0
 broadcast.chat.bilibili.com = 0.0.0.0
 *.browser-http-intake.logs.datadoghq.com = 0.0.0.0
+*.browser-intake-datadoghq.com = 0.0.0.0
 *.browser.qq.com = 0.0.0.0
 browserplat.vivo.com.cn = 0.0.0.0
 brssp.ibreader.com = 0.0.0.0
