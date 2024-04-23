@@ -2244,6 +2244,8 @@ crashlyticsreports-pa.googleapis.com
 .perf-events.cloud.unity3d.com
 .gw.mediation.unity3d.com
 .o-sdk.mediation.unity3d.com
+.hbevents.mz.unity3d.com
+.w.isx.unity3d.com
 
 ## crashlytics
 settings.crashlytics.com
@@ -2958,9 +2960,9 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 .info.appsflyer.com
 .learn.appsflyer.com
 .impression.appsflyer.com
-creatives-cdn.appsflyer.com
-m.appsflyer.com
-onelink.appsflyer.com
+.creatives-cdn.appsflyer.com
+.m.appsflyer.com
+.onelink.appsflyer.com
 .sdk.appsflyer.com
 .monitorsdk.appsflyer.com
 .gcdsdk.appsflyer.com
@@ -2987,16 +2989,8 @@ onelink.appsflyer.com
 .cdn.apflyer.com
 .api.apflyer.com
 .t.appsflyersdk.com
-.tldaqxt-launches.appsflyersdk.com
-.tldqxt-launches.appsflyersdk.com
-.tldqxt-skadsdkless.appsflyersdk.com
-.tldqxt-dynamic-report-api.appsflyersdk.com
-.tldqxt-cdn-settings.appsflyersdk.com
 .dlsdk.appsflyer.com
-hcef9b-attr.appsflyersdk.com
-hcef9b-dynamic-config-api.appsflyersdk.com
-hcef9b-conversions.appsflyersdk.com
-hcef9b-dynamic-report-api.appsflyersdk.com
+.attr.appsflyersdk.com
 .onelinksmartscript.appsflyer.com
 .engagements.appsflyer.com
 .sdkless.appsflyer.com
@@ -3031,6 +3025,8 @@ hcef9b-dynamic-report-api.appsflyersdk.com
 *-cdn-settings.appsflyersdk.com
 *-inapps.appsflyersdk.com
 *-skadsdkless.appsflyersdk.com
+*-impression.appsflyersdk.com
+*-dynamic-config-api.appsflyersdk.com
 
 ## vungle
 .ads.vungle.com

@@ -1631,6 +1631,7 @@ codepush.appcenter.ms
 .l.inmobicdn.net
 .i.l.inmobicdn.net
 .glance.l.inmobicdn.net
+.sdk.inmobi.cn
 .mzbcdn.net
 .sonar-iad.xx.fbcdn.net
 .analytics.yolacdn.net
@@ -7910,3 +7911,8 @@ download.csdn.net
 .mtgglobals.com
 .mintegral.net
 .appsflyer.tk
+.googleadsserving.cn
+.googletagservices.com
+.googleadservices.com
+.notifications-gke-sdk-bidding.fyber.com
+.ssadscdn.cn
