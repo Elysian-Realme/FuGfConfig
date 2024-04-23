@@ -49,6 +49,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				continue
 			case strings.Contains(v.Value, "DOMAIN-SUFFIX"):
 				fmt.Fprint(write, "DOMAIN-SUFFIX,")
+			case strings.Contains(v.Value, "DOMAIN-KEYWORD"):
+				fmt.Fprint(write, "DOMAIN-KEYWORD,")
 			case strings.Contains(v.Value, "DOMAIN"):
 				fmt.Fprint(write, "DOMAIN,")
 			default:
@@ -105,6 +107,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				fmt.Fprint(write, "HOST-SUFFIX,")
 			case strings.Contains(v.Value, "DOMAIN"):
 				fmt.Fprint(write, "HOST,")
+			case strings.Contains(v.Value, "DOMAIN-KEYWORD"):
+				fmt.Fprint(write, "HOST-KEYWORD,")
 			case strings.Contains(v.Value, "HOST-WILDCARD"):
 				fmt.Fprint(write, "HOST-WILDCARD,")
 			default:
@@ -135,6 +139,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				continue
 			case strings.Contains(v.Value, "DOMAIN-SUFFIX"):
 				fmt.Fprint(write, "DOMAIN-SUFFIX,")
+			case strings.Contains(v.Value, "DOMAIN-KEYWORD"):
+				fmt.Fprint(write, "DOMAIN-KEYWORD,")
 			case strings.Contains(v.Value, "DOMAIN"):
 				fmt.Fprint(write, "DOMAIN,")
 			default:
@@ -146,6 +152,7 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 		fmt.Println("SurgeHost")
 		fmt.Fprintln(write, "#!name="+policyName)
 		fmt.Fprintln(write, "#!desc="+policyName)
+		fmt.Fprintln(write, "#!category="+"FuckGFW")
 		fmt.Fprintln(write, "[Host]")
 		for _, v := range data {
 			if strings.Contains(v.Value, "DOMAIN-SUFFIX") || strings.Contains(v.Value, "DOMAIN") {
@@ -222,6 +229,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				continue
 			case strings.Contains(v.Value, "DOMAIN-SUFFIX"):
 				fmt.Fprint(write, "DOMAIN-SUFFIX,")
+			case strings.Contains(v.Value, "DOMAIN-KEYWORD"):
+				fmt.Fprint(write, "DOMAIN-KEYWORD,")
 			case strings.Contains(v.Value, "DOMAIN"):
 				fmt.Fprint(write, "DOMAIN,")
 			}
@@ -255,6 +264,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				continue
 			case strings.Contains(v.Value, "DOMAIN-SUFFIX"):
 				fmt.Fprint(write, "DOMAIN-SUFFIX,")
+			case strings.Contains(v.Value, "DOMAIN-KEYWORD"):
+				fmt.Fprint(write, "DOMAIN-KEYWORD,")
 			case strings.Contains(v.Value, "DOMAIN"):
 				fmt.Fprint(write, "DOMAIN,")
 			}

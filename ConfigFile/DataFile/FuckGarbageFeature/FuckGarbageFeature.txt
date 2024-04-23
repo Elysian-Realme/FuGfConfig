@@ -7598,16 +7598,7 @@ codepush.appcenter.ms
 .androidsdk.ads.mp.mydas.mobi
 .adsmogo.mobi
 .inner-active.mobi
-.wv.inner-active.mobi
-.event.inner-active.mobi
-.vast-events.inner-active.mobi
-.client-events.inner-active.mobi
-.sdk-events.inner-active.mobi
-.event-staging.inner-active.mobi
-.vast-events-staging.inner-active.mobi
-.ad-tag.inner-active.mobi
-.cdn2.inner-active.mobi
-.m2m1.inner-active.mobi
+
 .logs.ironsrc.mobi
 .participants.evolv.ai
 .media.evolv.ai
@@ -7915,3 +7906,7 @@ bs2.yumchina.com
 .appsflyersdk.com
 download.csdn.net
 .browser-intake-datadoghq.com
+.chinaliftoff.io
+.mtgglobals.com
+.mintegral.net
+.appsflyer.tk

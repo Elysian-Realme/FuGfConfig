@@ -29,7 +29,7 @@ func main() {
 	var base, inbox, inboxResult []string
 	var ans []model.Pair
 
-	// names := []string{"ChinaASN"}
+	// names := []string{"FuckRogueSoftware"}
 	names := []string{"AI", "Bank", "Direct", "Cryptocurrency", "Telegram", "Proxy", "CodeTools", "Microsoft", "Tracker", "FuckGarbageFeature", "FuckRogueSoftware", "Games"}
 	for _, name := range names {
 		//  清空残留的数据
@@ -124,6 +124,8 @@ func policyProcessing(base []string, inbox []string) ([]model.Pair, []string) {
 			} else if strings.HasPrefix(v, "*.") {
 				v = strings.TrimPrefix(v, "*.")
 				ansMap[v] = "DOMAIN-SUFFIX"
+			} else if v[0] == '*' && strings.Count(v, string('*')) == 1 { // 如果第一个字符为 * 且 * 只出现了一次
+				ansMap[v[1:]] = "DOMAIN-KEYWORD"
 			} else if strings.Contains(v, "*") {
 				ansMap[v] = "HOST-WILDCARD"
 			} else {

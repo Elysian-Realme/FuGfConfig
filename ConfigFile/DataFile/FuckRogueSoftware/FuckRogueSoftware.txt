@@ -1950,6 +1950,7 @@ antivirus.baidu.com
 .activity.baidu.com
 .updown.mobileassist.baidu.com
 .agent-proxy.baidu.com
+.sp1.baidu.com
 
 ## Facebook
 .graph.facebook.com
@@ -2219,6 +2220,7 @@ crashlyticsreports-pa.googleapis.com
 .analytics.yahoo.com
 .ads.yahoo.com
 .advertising.yahoo.com
+.web-oao.ssp.yahoo.com
 
 ## twitter
 .ads-twitter.com
@@ -2230,6 +2232,18 @@ crashlyticsreports-pa.googleapis.com
 .ads-bidder-api.twitter.com
 .ads-twitter.com
 .static.ads-twitter.com
+
+## unity3d
+.iads.unity3d.com
+.unityads.unity3d.com
+.o-iab.mediation.unity3d.com
+.ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+.cdp.cloud.unity3d.com
+.data-optout-service.uca.cloud.unity3d.com
+.thind-gke-euw.prd.data.corp.unity3d.com
+.perf-events.cloud.unity3d.com
+.gw.mediation.unity3d.com
+.o-sdk.mediation.unity3d.com
 
 ## crashlytics
 settings.crashlytics.com
@@ -2499,7 +2513,7 @@ ulogs2.gifshow.com
 
 ## Oracle
 tms.oracle.com
-
+cobrowse.oraclecloud.com
 
 ## sina
 d*.sina.com.cn
@@ -2599,7 +2613,6 @@ preferences-mgr.truste.com
 .maps.amung.us
 .widgets.amung.us
 
-
 ## persona
 .sdk.persona.ly
 .dsp.persona.ly
@@ -2611,7 +2624,6 @@ preferences-mgr.truste.com
 .cdn.trackjs.com
 .my.trackjs.com
 .usage.trackjs.com
-
 
 ## 数美
 # https://help.ishumei.com
@@ -2662,11 +2674,9 @@ fp-*it*.fengkongcloud.com
 .static.fengkongcloud.com
 .castatic.fengkongcloud.com
 
-
 ## 梦享网络 及刻
 .log-sdk.clickwifi.net
 .vivonew-sdk.clickwifi.net
-
 
 ## HBuilder 数字天堂
 s*.*cloud.net.cn
@@ -2844,7 +2854,7 @@ vivomaa.chinanetcenter.com
 .riskct.geetest.com
 # APP本机校验（OnePass）
 .onepass.geetest.com
-.static.geetest.com
+# .static.geetest.com 屏蔽后无法触发一些网站的验证码
 .onelogin.geetest.com
 .log.geetest.com
 monitor.geetest.com
@@ -2987,11 +2997,80 @@ hcef9b-attr.appsflyersdk.com
 hcef9b-dynamic-config-api.appsflyersdk.com
 hcef9b-conversions.appsflyersdk.com
 hcef9b-dynamic-report-api.appsflyersdk.com
+.onelinksmartscript.appsflyer.com
+.engagements.appsflyer.com
+.sdkless.appsflyer.com
+.skadsdkless.appsflyer.com
+.customlinks.appsflyer.com
+.cdn-settings.appsflyer.com
+.dls2s.appsflyer.com
+.dynamic-report-api.appsflyer.com
+.dynamic-config-api.appsflyer.com
+.customlinks-nginx-stg.appsflyer.com
+.customlinks-stg.appsflyer.com
+.experience.appsflyer.com
+.biz.appsflyer.com
+.skadsdkless.appsflyersdk.com
+.app.appsflyersdk.com
+.impression.appsflyersdk.com
+.dlsdk.appsflyersdk.com
+.dynamic-config-api.appsflyersdk.com
+.dynamic-report-api.appsflyersdk.com
+.appsflyersdk.com.DOMAIN.name
+.skadsdk.appsflyersdk.com
+.register.appsflyersdk.com
+*-adrevenue.appsflyersdk.com
+*-dynamic-report-api.appsflyersdk.com
+*-skadsdk.appsflyersdk.com
+*-gcdsdk.appsflyersdk.com
+*-dlsdk.appsflyersdk.com
+*-onelink.appsflyersdk.com
+*-attr.appsflyersdk.com
+*-register.appsflyersdk.com
+*-launches.appsflyersdk.com
+*-cdn-settings.appsflyersdk.com
+*-inapps.appsflyersdk.com
+*-skadsdkless.appsflyersdk.com
 
+## vungle
+.ads.vungle.com
 
 ## flurry
 .data.flurry.com
 
+## chinaliftoff
+.impression-east.chinaliftoff.io
+cdn.chinaliftoff-creatives.io
+
+## mtgglobals or mintegral
+.us01.mtgglobals.com
+.us01-cdn.mtgglobals.com
+.adx-tk.mtgglobals.com
+.playable-stats.mintegral.net
+.vg-new-hb-bid-feedback.mtgglobals.com
+.cdn-adn-https-new.mtgglobals.com
+.configure-tcp-android.mtgglobals.com
+
+## isprog
+.wins.isprog.com
+.vid.isprog.com
+.ops.isprog.com
+.init.isprog.com
+.k.isprog.com
+.cdn.isprog.com
+.events.isprog.com
+
+## inner-active
+.wv.inner-active.mobi
+.event.inner-active.mobi
+.vast-events.inner-active.mobi
+.client-events.inner-active.mobi
+.sdk-events.inner-active.mobi
+.event-staging.inner-active.mobi
+.vast-events-staging.inner-active.mobi
+.ad-tag.inner-active.mobi
+.cdn2.inner-active.mobi
+.m2m1.inner-active.mobi
 
 ## singular
 sdk-api-v1.singular.net
