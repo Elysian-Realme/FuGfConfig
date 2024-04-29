@@ -82,6 +82,7 @@
 .brew.sh
 
 ## go
+.golang.org
 .goproxy.io
 .go.dev
 

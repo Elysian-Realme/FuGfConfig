@@ -297,3 +297,4 @@ calibre-ebook.com
 .cdnpure.com
 .archive.ph
 .medium.com
+.t.co
