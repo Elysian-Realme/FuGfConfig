@@ -3,8 +3,10 @@
 #!category=FuckGFW
 [Host]
 -adrevenue.appsflyersdk.com = 0.0.0.0
+-api.appsflyersdk.com = 0.0.0.0
 -attr.appsflyersdk.com = 0.0.0.0
 -cdn-settings.appsflyersdk.com = 0.0.0.0
+-conversions.appsflyersdk.com = 0.0.0.0
 -dlsdk.appsflyersdk.com = 0.0.0.0
 -dynamic-config-api.appsflyersdk.com = 0.0.0.0
 -dynamic-report-api.appsflyersdk.com = 0.0.0.0
@@ -2765,6 +2767,7 @@ omgmta1.qq.com = 0.0.0.0
 *.onecollector.cloudapp.aria.akadns.net = 0.0.0.0
 *.oneid.mmstat.com = 0.0.0.0
 *.onelink.appsflyer.com = 0.0.0.0
+*.onelink.appsflyersdk.com = 0.0.0.0
 *.onelinksmartscript.appsflyer.com = 0.0.0.0
 *.onelogin.geetest.com = 0.0.0.0
 *.onepass.geetest.com = 0.0.0.0

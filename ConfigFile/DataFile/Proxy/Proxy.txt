@@ -271,7 +271,6 @@ onedrive.live.com
 .campaign-archive.com
 calibre-ebook.com
 .sharepoint.com
-.office.net
 .xiaomi.eu
 .minamigo.moe
 .relingo.net
