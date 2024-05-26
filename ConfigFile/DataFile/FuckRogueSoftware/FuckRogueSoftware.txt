@@ -1545,6 +1545,7 @@ az.appstore.vivo.com.cn
 .ys-log-upload.mihoyo.com
 .cnuspider.yuanshen.com
 .h5collector.mihoyo.com
+.h5log-api-dualstack.mihoyo.com
 
 
 ## zhihu 知乎
@@ -3172,7 +3173,9 @@ v3-default.365yg.com
 
 ## 个推
 dnms.getui.com
+.gtc.getui.net
 .c-gtc.getui.net
+.b-gtc.getui.net
 .b-gtc.gepush.com
 .cm-10-139.getui.com
 # 存疑

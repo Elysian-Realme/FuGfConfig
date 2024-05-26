@@ -7921,3 +7921,6 @@ download.csdn.net
 .sacdnssedge.com
 .img.strpst.com
 .xlivesex.com
+.getui.com
+.getui.net
+.gepush.com
