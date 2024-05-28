@@ -220,6 +220,7 @@ onedrive.live.com
 .reddit.com
 .redditstatic.com
 .redditmedia.com
+.redd.it
 
 ## tailscale
 .tailscale.com
@@ -298,3 +299,5 @@ calibre-ebook.com
 .medium.com
 .t.co
 .unlock-music.dev
+.ollama.com
+.ollama.ai

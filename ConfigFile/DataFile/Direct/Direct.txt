@@ -168,3 +168,4 @@ test-ipv6.com
 .baidu.com
 .bytescm.com
 .byteimg.com
+.hf-mirror.com
