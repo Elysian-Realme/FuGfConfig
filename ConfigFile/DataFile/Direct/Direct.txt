@@ -15,6 +15,7 @@
 .aliyun.com
 .aliyuncdn.com
 .aliyundrive.com
+.aliyundrive.net
 .alicdn.com
 .taobao.com
 .taobaocdn.com
@@ -23,6 +24,7 @@
 .alipay.com
 .alipayobjects.com
 .doh.pub
+.alipan.com
 
 ## Tencent
 .tencent.com
@@ -143,6 +145,11 @@ vipstatic.com
 .chinaunicom.com
 .chinaunicom.com.hk
 
+## 镜像站
+.npmmirror.com
+.hf-mirror.com
+.tuna.tsinghua.edu.cn
+
 ## 其他
 snapdrop.net
 test-ipv6.com
@@ -168,4 +175,5 @@ test-ipv6.com
 .baidu.com
 .bytescm.com
 .byteimg.com
-.hf-mirror.com
+.kugou.com
+.gecimi.com

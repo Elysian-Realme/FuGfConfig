@@ -270,9 +270,10 @@ onedrive.live.com
 .appsco.pe
 .decohack.com
 .campaign-archive.com
-calibre-ebook.com
+.calibre-ebook.com
 .sharepoint.com
 .xiaomi.eu
+.gamer.com.tw
 .minamigo.moe
 .relingo.net
 .quantumult.app

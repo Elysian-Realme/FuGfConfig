@@ -1526,6 +1526,7 @@ az.appstore.vivo.com.cn
 .stappupgrade.vivo.com.cn
 .browserconf.vivo.com.cn
 .vcode-api.vivo.com.cn
+.adxlog-adnet.vivo.com.cn
 
 ## mihoyo 米哈游
 .client-report.bh3.com
@@ -2184,6 +2185,7 @@ bn4sch101120814.wns.windows.com
 
 ## Facebook
 graph.facebook.com
+mobile-facebook.com.vn
 
 ## Google
 .gvt2.com
@@ -2197,6 +2199,15 @@ ssl-google-analytics.l.google.com
 .googlesyndication.com
 .pagead2.googlesyndication.com
 crashlyticsreports-pa.googleapis.com
+.adservice.google.com.uy
+.adservice.google.az
+.adservice.google.com.cy
+.adservice.google.co.zw
+.adservice.google.rw
+.adservice.google.mw
+.adservice.google.com.kw
+.adservice.google.com.sv
+.adservice.google.mv
 
 ## amazon
 .aan.amazon.com
@@ -2215,6 +2226,10 @@ crashlyticsreports-pa.googleapis.com
 .analytics.s3.amazonaws.com
 .analyticsengine.s3.amazonaws.com
 .advice-ads.s3.amazonaws.com
+.advertising.amazon.de
+.rcm-de.amazon.de
+.smetrics.flex.amazon.ca
+.smetrics.flex.amazon.com.mx
 
 ## yahoo
 .adserver.yahoo.com
@@ -2566,6 +2581,7 @@ wbapp.mobile.sina.cn
 sdkclick.mobile.sina.cn
 u1.img.mobile.sina.cn
 .newspush.sinajs.cn
+.ad.weibo.com
 
 
 ## truste
@@ -2796,6 +2812,8 @@ api.applink.mob.com
 .code.hot-mob.com
 .ad.hot-mob.com
 .testad.hot-mob.com
+.api.adnet.mob.com
+.cca.mob.com
 
 
 ## 基调听云
@@ -2913,6 +2931,9 @@ monitor.geetest.com
 .umv0.com
 .umv5.com
 .wrating.com
+.api.wsq.umeng.com
+.offmsg.umeng.com
+.fb.umeng.com
 
 ## AppsFlyer
 .launches.appsflyer.com
@@ -3152,6 +3173,8 @@ sdk-api-v1.singular.net
 .app.adjust.com
 .s2s.adjust.com
 .app.adjust.net.in
+.view.adjust.com
+.app.us.adjust.com
 
 
 ## 阳光宽频网
@@ -3233,6 +3256,12 @@ dnms.getui.com
 .igetui.com
 .igexin.com
 .cm-10-133.getui.com
+.gi.getui.net
+.b-gi.getui.net
+.talk.nz4.getui.net
+.cdn-sdk-opt.getui.com
+.lc.getui.com
+.talk.nz4.getui.com
 
 
 ## 数字联盟
@@ -4718,3 +4747,33 @@ dynatracegateway.ocbc.id
 .doubleclick.net.proxy.c9wm.com
 .analytics.gridea.dev
 .geo2.adobe.com
+.app-analytics-services.com
+.log.ulivetv.net
+.tracker.ulivetv.net
+.ads.gfsrv.net
+.log-tiktok.byteoversea.net
+.amp-analytics.newshub.co.nz
+.analytics.mercadolibre.com.uy
+.analytics.neoogilvy.uy
+.analytics.flatart.agency
+.analytics.shift.agency
+.analytics.pipelife.lv
+.analytics.cookiefirst.dev
+.analytics.rotapost.ru
+.analytics.sports.ru
+.analytics.ngs.ru
+.analytics.pipelife.hu
+.event-analytics-backend.skyeng.ru
+.crm-analytics.imweb.ru
+.analytics.metro-cc.ru
+.analytics.move.ru
+.analytics.msk1.ru
+.analytics.e1.ru
+.stat-analytics.mediavitrina.ru
+.analytics.fontanka.ru
+.analytics.ngs55.ru
+.analytics.74.ru
+.analytics.sandbox.alloka.ru
+.analytics.alloka.ru
+.analytics.staging.alloka.ru
+*-ads.hara.vn
