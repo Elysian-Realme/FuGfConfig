@@ -122,6 +122,9 @@ http-inputs-notion.splunkcloud.com
 ## anchor
 .anchor.fm
 
+## google
+.research.google
+
 ## facebook
 .facebook.com
 .fbcdn.net

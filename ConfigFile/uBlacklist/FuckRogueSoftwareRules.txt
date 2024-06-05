@@ -1,0 +1,12 @@
+! update: 2024-06-04
+! Title: FuckRogueSoftwareRules on uBlacklist
+
+*://*.honor.cn/*
+*://*.huawei.cn/*
+*://*.huawei.com/*
+*://*.huawei.com.cn/*
+*://*.huaweicloud.cn/*
+*://*.huaweicloud.com/*
+*://*.hwclouds.cn/*
+*://*.hwclouds.com/*
+*://*.douyin.com/*

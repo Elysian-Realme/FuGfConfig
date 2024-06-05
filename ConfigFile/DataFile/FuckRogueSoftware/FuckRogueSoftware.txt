@@ -956,6 +956,8 @@ v*-be-pack.pglstatp-toutiao.com
 .ib.snssdk.com
 .tnc3-aliec2.snssdk.com
 .tnc3-alisc1.snssdk.com
+.ctobsnssdk.com
+.snr.snssdk.com
 .client_monitor.isnssdk.com
 .mon.isnssdk.com
 .open.isnssdk.com
@@ -1396,19 +1398,23 @@ pcapp-data-collect.youku.com
 
 
 ## sohu.com
-v.aty.sohu.com
-p.aty.sohu.com
-agn.aty.sohu.com
-m.aty.sohu.com
-vm.aty.sohu.com
-pm.aty.sohu.com
-vg.aty.sohu.com
-pg.aty.sohu.com
-mmg.aty.sohu.com
-f.aty.sohu.com
+.ads.sohu.com
+.ad.sohu.com
+.aty.sohu.com
 api.danmu.tv.sohu.com
-pv.sohu.com
+.pv.sohu.com
+.pv.hd.sohu.com
 download.wan.sohu.com
+vstat.my.tv.sohu.com
+count.vrs.sohu.com
+.x1.go.sohu.com
+.changyan.sohu.com
+.ad.mail.sohu.com
+.a.track.sohu.com
+.vstat.v.blog.sohu.com
+.ctr.hd.sohu.com
+.wl.hd.sohu.com
+.click2.hd.sohu.com
 
 
 ## 爱奇艺
@@ -1617,6 +1623,8 @@ log.ergeduoduo.com
 .crash.xiaohongshu.com
 
 ## 360
+.ad.360.cn
+.se.360.cn
 .msch.f.360.cn
 .c.sayhi.360.cn
 .dd.browser.360.cn
@@ -1670,7 +1678,15 @@ log.ergeduoduo.com
 .papi.look.360.cn
 .stat.wifi.360.cn
 .hao.360.cn
-
+.tr.p.360.cn
+.agd.p.360.cn
+.agd2.p.360.cn
+.mobilem.360.cn
+.huodong.mobilem.360.cn
+.show.look.360.cn
+.sdk.look.360.cn
+.shake.360.cn
+.iad.e.360.cn
 
 ## 2345
 .2345.com
@@ -1685,12 +1701,15 @@ applog.manmanbuy.com
 .sentry-monitor-new.zdmimg.com
 .shence-import.smzdm.com
 .analytics-api.smzdm.com
+.res-ga.smzdm.com
 
 
 ## 高德地图
 dualstack-logs.amap.com
 .logs.amap.com
 .cgicol.amap.com
+.amap-aos-info-nogw.amap.com
+.adashx.ut.amap.com
 
 
 ## 招商银行
@@ -1953,6 +1972,12 @@ antivirus.baidu.com
 .updown.mobileassist.baidu.com
 .agent-proxy.baidu.com
 .sp1.baidu.com
+.toolbar.baidu.co
+.sv.map.baidu.com
+.ps.map.baidu.com
+.newvector.map.baidu.com
+.offnavi.map.baidu.com
+.tongji.baidu.com
 
 ## Facebook
 .graph.facebook.com
@@ -1960,6 +1985,12 @@ antivirus.baidu.com
 .dns.facebook.com
 .analytics.facebook.com
 .platform.facebook.com
+.pirater-msn-facebook.eu
+.wiadomosci-facebook.eu
+.recovery-facebook.ws
+.compte-facebook.ws
+.graph.facebook.com
+.mobile-facebook.com.vn
 
 ## nvidia
 .events.gfe.nvidia.com
@@ -2183,9 +2214,6 @@ bn4sch101120814.wns.windows.com
 .ads.bing.com
 .adserver.bing.com
 
-## Facebook
-graph.facebook.com
-mobile-facebook.com.vn
 
 ## Google
 .gvt2.com
@@ -2391,9 +2419,7 @@ e-p*p.163.com
 .rec.g.163.com
 .g.163.com
 .g1.163.com
-.analytics.ws.126.net
-.push.126.net
-.m.analytics.126.net
+
 .haitaoad.nosdn.127.net
 .analytics.hz.netease.com
 .statis.push.netease.com
@@ -2413,6 +2439,15 @@ e-p*p.163.com
 59.111.239.62/32
 115.236.121.51
 115.236.121.195
+.yt-adp.ws.126.net
+.pg-ad-b2.ws.126.net
+.pg-ad-b1.ws.126.net
+.analytics.ws.126.net
+.push.126.net
+.m.analytics.126.net
+iadmusicmat.music.126.net
+iadmusicmatvideo.music.126.net
+admusicpic.music.126.net
 
 
 ## 网易七鱼
@@ -4777,3 +4812,19 @@ dynatracegateway.ocbc.id
 .analytics.alloka.ru
 .analytics.staging.alloka.ru
 *-ads.hara.vn
+.jupiter.appads.com
+.req.appads.com
+.saturn.appads.com
+.neptune.appads.com
+.jupiter3.appads.com
+.req3.appads.com
+.saturn3.appads.com
+.neptune3.appads.com
+.jupiter2.appads.com
+.req2.appads.com
+.saturn2.appads.com
+.neptune2.appads.com
+.jupiter1.appads.com
+.req1.appads.com
+.saturn1.appads.com
+.neptune1.appads.com
