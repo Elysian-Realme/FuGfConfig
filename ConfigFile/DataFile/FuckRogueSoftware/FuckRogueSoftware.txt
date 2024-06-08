@@ -13,6 +13,7 @@
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 # https://github.com/StevenBlack/hosts
 # https://github.com/bigdargon/hostsVN/blob/1e3fcd9dd21db43a5cdc48441450aac2b4620b09/source/hosts-group.txt#L11471
+# https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.txt
 
 ## 对于小厂 DNS 封杀，以防
 .opendns.com
@@ -1005,6 +1006,21 @@ v*-be-pack.pglstatp-toutiao.com
 .ad.zijieapi.com.w.cdngslb.com
 .ad.zijieapi.com.bytedns1.com
 .toblog.ctobsnssdk.com.w.cdngslb.com
+.apmplus.volces.com
+.apmplus.volces.com.queniusz.com
+.mssdk.volces.com.queniusz.com
+.volces.com.queniusz.com
+.tos-s3-cn-shanghai.volces.com
+.tos-s3-cn-beijing.volces.com
+.neptune-api.volces.com
+.gator.volces.com
+.tab.volces.com
+.tos.volces.com
+.aic-report.volces.com
+.volces.com.c.dsa.cdnbuild.net
+.vegameapi.volces.com
+.vegamemon.volces.com
+
 
 ## 小米
 ad.*.xiaomi.com
@@ -1687,6 +1703,7 @@ log.ergeduoduo.com
 .sdk.look.360.cn
 .shake.360.cn
 .iad.e.360.cn
+.ad.iot.360.cn
 
 ## 2345
 .2345.com
@@ -1991,6 +2008,9 @@ antivirus.baidu.com
 .compte-facebook.ws
 .graph.facebook.com
 .mobile-facebook.com.vn
+ep*.facebook.com
+.ep2.facebook.com
+.ep7.facebook.com
 
 ## nvidia
 .events.gfe.nvidia.com
@@ -2969,6 +2989,84 @@ monitor.geetest.com
 .api.wsq.umeng.com
 .offmsg.umeng.com
 .fb.umeng.com
+.utow.umeng.com
+.weiw.umeng.com
+.eyew.umeng.com
+.vskit.umeng.com
+.act.umeng.com
+.livechat.umeng.com
+.andeyeplus.umeng.com
+.errnewlogos.umeng.com
+.new-ccs.umeng.com
+.jobpeter.umeng.com
+.ansjer.umeng.com
+.wear.umeng.com
+.collect.wsq.umeng.com
+.netp.umeng.com
+.app.umeng.com
+.allfootballapp.umeng.com
+.happ.umeng.com
+.netpop.umeng.com
+.mp.umeng.com
+.outdip.umeng.com
+.jobp.umeng.com
+.video.umeng.com
+.ludo.umeng.com
+.laun.umeng.com
+.alon.umeng.com
+.litterpenguin.umeng.com
+.login.umeng.com
+.finplus-open.umeng.com
+.alaboyuyan.umeng.com
+.pian.umeng.com
+.m.umeng.com
+.apm.umeng.com
+.com.umeng.com
+.yunantcam.umeng.com
+.appl.umeng.com
+.yall.umeng.com
+.counsel.umeng.com
+.kongblank.umeng.com
+.ansj.umeng.com
+.aspect-upush.umeng.com
+.dclaunch.umeng.com
+.s9launch.umeng.com
+.ossnt-errlog.umeng.com
+.ming.umeng.com
+.zb-umpzid.umeng.com
+.new-audid.umeng.com
+.new-aaid.umeng.com
+.ucc.umeng.com
+.mob.umeng.com
+.uweb.umeng.com
+.eumlab.umeng.com
+.liya.umeng.com
+.chua.umeng.com
+.wuta.umeng.com
+.heta.umeng.com
+.zebra.umeng.com
+.music55.umeng.com
+.qxp1.umeng.com
+
+z*.cnzz.com
+s*.cnzz.com
+q*.cnzz.com
+.c.cnzz.com
+.z.cnzz.com
+.w.cnzz.com
+.pw.cnzz.com
+.gds.cnzz.com
+.jserr.cnzz.com
+.gxbr.cnzz.com
+.q.cnzz.com
+.vvip.cnzz.com
+.icon.cnzz.com
+.ei.cnzz.com
+.quanjing.cnzz.com
+.online.cnzz.com
+.pcookie.cnzz.com
+.timeserver.cnzz.net
+.pcookie.cnzz.net
 
 ## AppsFlyer
 .launches.appsflyer.com
@@ -2985,6 +3083,7 @@ api2.appsflyer.com
 .inapps.appsflyersdk.com
 .conversions.appsflyersdk.com
 .launches.appsflyersdk.com
+.nerytu-launches.appsflyersdk.com
 .gcdsdk.appsflyersdk.com
 appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
 appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
@@ -3088,6 +3187,16 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 *-impression.appsflyersdk.com
 *-dynamic-config-api.appsflyersdk.com
 *-conversions.appsflyersdk.com
+.sdktest.appsflyer.com
+*-webhandler.appsflyer.com
+.it.appsflyer.com
+.careers.appsflyer.com
+.esplinks.appsflyer.com
+.espclicks.appsflyer.com
+.kb.appsflyer.com
+.sa.appsflyer.com
+.sqa.appsflyer.com
+.app.bidflyer.com
 
 ## vungle
 .ads.vungle.com
@@ -3297,6 +3406,12 @@ dnms.getui.com
 .cdn-sdk-opt.getui.com
 .lc.getui.com
 .talk.nz4.getui.com
+.xfr-ss.getui.com
+.c-ss.getui.com
+.extension.getui.com
+.talk.getui.com
+.conf.getui.com
+.cname.getui.com
 
 
 ## 数字联盟
@@ -3329,6 +3444,11 @@ dnms.getui.com
 .digitalunion.cn
 .kxid.cn
 .mobid.cn
+.optn.shuzilm.cn
+.dxld.shuzilm.cn
+.wdaa.shuzilm.cn
+.cbsipv4.shuzilm.cn
+.ddi2.shuzilm.cn
 
 
 ## 数据收集，详见 https://tech.sina.com.cn/i/2019-03-25/doc-ihsxncvh5289363.shtml
@@ -3363,6 +3483,17 @@ zxid-m.mobileservice.cn
 ## 小满 商业化运营 SaaS 服务平台
 .saas.hixiaoman.com
 
+## AdsWizz
+.ec2eu.adswizz.com
+.kronehit.adswizz.com
+.wideorbit.adswizz.com
+.amnet.adswizz.com
+.cox.adswizz.com
+.synchrobox.adswizz.com
+.lobster.adswizz.com
+.sonar.adswizz.com
+.sbswo.adswizz.com
+.accuradio.adswizz.com
 
 ## adsplay.xyz
 .sony.adsplay.xyz
@@ -4828,3 +4959,7 @@ dynatracegateway.ocbc.id
 .req1.appads.com
 .saturn1.appads.com
 .neptune1.appads.com
+.test-sentry.chatglm.cn
+.analysis.chatglm.cn
+.sfile.chatglm.cn
+.ad.cdnjm.cn

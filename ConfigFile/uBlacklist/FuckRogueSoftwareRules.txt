@@ -10,3 +10,4 @@
 *://*.hwclouds.cn/*
 *://*.hwclouds.com/*
 *://*.douyin.com/*
+*://*.tiktok.com/*

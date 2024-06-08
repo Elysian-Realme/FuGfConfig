@@ -8040,3 +8040,13 @@ www.korzystna-zakupomania.buzz
 lnpost.dostawa03435.buzz
 www.pol24.buzz
 www.pol23.buzz
+.event-tracking.lbkrs.com
+.geotest.lbkrs.com
+.kinesis.ap-east-1.amazonaws.com
+.volces.com
+.quark.cn
+.ugsdk.cn
+.snstack.cn
+.cnzz.com
+.cnzz.net
+.adswizz.com

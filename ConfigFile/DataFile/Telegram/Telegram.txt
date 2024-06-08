@@ -14,6 +14,7 @@
 .telega.one
 .telegra.ph
 .telegram-cdn.org
+.cdn-telegram.org
 .telegram.dog
 .telegram.me
 .telegram.org
