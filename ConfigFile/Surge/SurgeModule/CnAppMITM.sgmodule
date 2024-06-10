@@ -87,7 +87,7 @@
 # ^https?:\/\/mum\.alibabachengdun\.net/repEd.json.*$ - reject
 # 存疑
 ^https?:\/\/gm\.mmstat\.com/jstracker.*$ - reject
-^https?:\/\/arms-retcode\.aliyuncs\.com/r.png.*$ - reject
+# ^https?:\/\/arms-retcode\.aliyuncs\.com/r.png.*$ - reject
 
 # 阿里云盘
 # www.aliyundrive.com, ynuf.aliapp.org, api.alipan.com, member.aliyundrive.com
@@ -179,7 +179,7 @@
 # Bilibili Test
 ^https?:\/\/api\.bilibili\.com/x/player/online/total.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/player/wbi/v[\d.]+.*$ - reject
-^https?:\/\/s1\.hdslb\.com/bfs/cm/cm-sdk.*$ - reject
+# ^https?:\/\/s1\.hdslb\.com/bfs/cm/cm-sdk.*$ - reject
 ^https?:\/\/i0\.hdslb\.com/bfs/svg-next/BDC/(headset_customer_line|arrow_up_triangle_fill|arrow_play_next_line|blocked_line|miniplayer_line|uploader_name_square_line)/v[\d.]+.json.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/v[\d.]+/dm/wbi/web/seg.so.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/web-show/wbi/res/locs.*$ - reject
@@ -234,6 +234,7 @@
 ^https?:\/\/apimobile\.meituan\.com/aggroup/homepage/display.*$ - reject
 ^https?:\/\/apimobile\.meituan\.com/appupdate/alita/checkUpdate.*$ - reject
 ^https?:\/\/apimobile\.meituan\.com/group/v[\d.]+/recommend/homepage/city.*$ - reject
+^https?:\/\/msp\.meituan\.com/fingerprint/v[\d.]+/notapp/bio/info/report.*$ - reject
 
 ## zhihu
 # api.zhihu.com, www.zhihu.com, zhuanlan.zhihu.com, static.zhihu.com, unpkg.zhimg.com

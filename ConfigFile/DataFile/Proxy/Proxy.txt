@@ -306,3 +306,4 @@ onedrive.live.com
 .unlock-music.dev
 .ollama.com
 .ollama.ai
+.primevideo.com

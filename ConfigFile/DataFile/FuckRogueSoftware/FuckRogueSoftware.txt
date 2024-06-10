@@ -22,6 +22,13 @@
 .ubmdns.com
 .jomodns.com
 .httpdns.calorietech.com
+.httpdns.bcelive.com
+.httpdns-euex-push.heytapmobile.com
+.httpdns-push.heytapmobile.com
+.httpdns-ocloud.heytapmobile.com
+.httpdns.huaweicloud.com
+.httpdns.gslb.yy.com
+.httpdns.y5en.com
 
 ## 腾讯系
 119.29.29.98
@@ -502,6 +509,7 @@ v6.htdata.qq.com
 .keyrotate.qq.com
 .compliance.tdos.qq.com
 .appservice.qq.com
+.nt.qq.com.cn
 
 
 ## 阿里系
@@ -1005,6 +1013,15 @@ v*-be-pack.pglstatp-toutiao.com
 .tnc3-alisc1.zijieapi.com
 .ad.zijieapi.com.w.cdngslb.com
 .ad.zijieapi.com.bytedns1.com
+.log.zijieapi.com
+.applog.zijieapi.com
+.starkgame.zijieapi.com
+*-normal.zijieapi.com
+*-normal-lf.zijieapi.com
+neptune-platform.zijieapi.com
+.gecko.zijieapi.com
+.timon.zijieapi.com
+.view.zijieapi.com
 .toblog.ctobsnssdk.com.w.cdngslb.com
 .apmplus.volces.com
 .apmplus.volces.com.queniusz.com
@@ -1020,6 +1037,10 @@ v*-be-pack.pglstatp-toutiao.com
 .volces.com.c.dsa.cdnbuild.net
 .vegameapi.volces.com
 .vegamemon.volces.com
+.mssdk.volces.com
+.tos-cn-beijing.volces.com
+.httpdns.volcengineapi.com
+.vod.volcengineapi.com
 
 
 ## 小米
@@ -1322,6 +1343,7 @@ jjnctjd.com
 .analytics.jd-powered.net
 .lbsgw.m.jd.com
 .blackhole-m.m.jd.com
+.httpfereport.jd.com
 
 
 ## 优酷 youku
@@ -1431,6 +1453,30 @@ count.vrs.sohu.com
 .ctr.hd.sohu.com
 .wl.hd.sohu.com
 .click2.hd.sohu.com
+.click.hd.sohu.com.cn
+.pb.hd.sohu.com.cn
+.mb.hd.sohu.com.cn
+.push.my.tv.sohu.com
+.score.my.tv.sohu.com
+.lm.tv.sohu.com
+.z.m.tv.sohu.com
+.push.tv.sohu.com
+.images.sohu.com
+.assp.sohu.com
+.corp.sohu.com
+.go.sohu.com
+.track.sohu.com
+.api.k.sohu.com
+.hui.sohu.com
+.yule.sohu.com
+.pl.hd.sohu.com
+.bd.hd.sohu.com
+.pb.hd.sohu.com
+.qpb.sohu.com
+.fzw.a.sohu.com
+.qpb1.sohu.com
+.fpb1.sohu.com
+.qpb0.sohu.com
 
 
 ## 爱奇艺
@@ -1584,6 +1630,11 @@ az.appstore.vivo.com.cn
 # 强制跳转 app 下载页面
 .oia.zhihu.com
 appcloud2.in.zhihu.com
+.in.zhihu.com
+.apm.zhihu.com
+.zhstatic.zhihu.com
+.datahub.zhihu.com
+.appcloud2.zhihu.com
 
 ## douban 豆瓣
 .erebor.douban.com
@@ -1603,7 +1654,8 @@ fzapph5.gifzpt.cn
 .dreport.meituan.net
 .hreport.meituan.com
 .report.meituan.com
-analytics.meituan.net
+.analytics.meituan.com
+.analytics.meituan.net
 adgame.waimai.meituan.com
 flowplus.meituan.net
 api-unionid.meituan.com
@@ -1632,11 +1684,14 @@ tne.pinduoduo.com
 meta.pinduoduo.com
 pmmtk-a.pinduoduo.com
 th-a.pinduoduo.com
-log.ergeduoduo.com
+.log.ergeduoduo.com
+.m.pinduoduo.net
 
 ## xiaohongshu
 .t-ads.xiaohongshu.com
 .crash.xiaohongshu.com
+.spider-tracker.xiaohongshu.com
+.xhsci-hk-cos.xiaohongshu.net
 
 ## 360
 .ad.360.cn
@@ -1719,6 +1774,9 @@ applog.manmanbuy.com
 .shence-import.smzdm.com
 .analytics-api.smzdm.com
 .res-ga.smzdm.com
+.bc-ad-vod.zdmimg.com
+.s3.zdmimg.com
+.s2.zdmimg.com
 
 
 ## 高德地图
@@ -1745,6 +1803,7 @@ sodefaultwordapi.paas.cmbchina.com
 
 ## 彩云
 .ad.caiyunapp.com
+.bcd.caiyunapp.com
 
 
 ## baidu 百度
@@ -1752,6 +1811,7 @@ sodefaultwordapi.paas.cmbchina.com
 .httpdns.baidu.com
 .httpdns.baidubce.com
 186.76.76.200/32
+.ad.baidu.com
 .hm.baidu.com
 .hmma.baidu.com
 .nsclick.baidu.com
@@ -1995,6 +2055,10 @@ antivirus.baidu.com
 .newvector.map.baidu.com
 .offnavi.map.baidu.com
 .tongji.baidu.com
+.ufosdk.baidu.com
+.report-uri.baidu.com
+.jzapi.baidu.com
+.cpu-openapi.baidu.com
 
 ## Facebook
 .graph.facebook.com
@@ -2014,6 +2078,12 @@ ep*.facebook.com
 
 ## nvidia
 .events.gfe.nvidia.com
+.telemetry.nvidia.com
+.nvmos.nvidia.com
+.metrics.nvidia.com
+.smetrics.nvidia.com
+.click.nvgaming.nvidia.com
+.telemetry.gfe.nvidia.com
 
 ## we-stats
 us.v2.we-stats.com
@@ -2231,8 +2301,22 @@ bn4sch101120814.wns.windows.com
 .bingads.microsoft.com
 .analytics.live.com
 .measure.office.com
+.measure.office.net
 .ads.bing.com
 .adserver.bing.com
+.nexxtv-events.servicebus.windows.net
+.wayfinderanalytics.servicebus.windows.net
+.analyticsehnwe.servicebus.windows.net
+.optanon.blob.core.windows.net
+.insitez.blob.core.windows.net
+.decsitefinitycdn.blob.core.windows.net
+.targetemsecure.blob.core.windows.net
+.iriscoremetadataprod.blob.core.windows.net
+.pouya.blob.core.windows.net
+.fsuseaad1.blob.core.windows.net
+outlook.live.net.mcas-df.ms
+outlook.office.net.mcas-df.ms
+office.microsoft.com.mcas-df.ms
 
 
 ## Google
@@ -2557,11 +2641,11 @@ com-cloud-0-eventsvip-svc-engine.14.0.oppo.cn
 .kuaishou.httpdns.pro
 .httpdns.kwd.inkuai.com
 .apidns.kwd.inkuai.com
-
 .imgx.kwd.inkuai.com
 .zt-sup.kwd.inkuai.com
 .cny-pro.kwd.inkuai.com
 .push.kwd.inkuai.com
+.eve.kwd.inkuai.com
 .magic-face.kwd.inkuai.com
 .res-warmup-vod.kwd.inkuai.com
 .kkd.kwd.inkuai.com
@@ -2637,6 +2721,10 @@ sdkclick.mobile.sina.cn
 u1.img.mobile.sina.cn
 .newspush.sinajs.cn
 .ad.weibo.com
+.hits.sinajs.cn
+.rs.sinajs.cn
+.tjs.sjs.sinajs.cn
+.simg.sinajs.cn
 
 
 ## truste
@@ -2647,6 +2735,7 @@ preferences.truste.com
 choices.truste.com
 choices-or.truste.com
 preferences-mgr.truste.com
+.prefmgr-cookie.truste-svc.net
 
 
 ## 奶牛快传 厦门稿定股份有限公司
@@ -2654,6 +2743,7 @@ preferences-mgr.truste.com
 
 
 ## 喜马拉雅
+.ad.c.ximalaya.com
 .location.ximalaya.com
 .adse.ximalaya.com
 .xdcs-collector.ximalaya.com
@@ -2672,9 +2762,9 @@ preferences-mgr.truste.com
 .adsehera.ximalaya.com
 
 
-## 其他推送平台
-
 ## adtrue
+.analytics.adtrue.com
+.static.adtrue.com
 .exchange.adtrue.com
 .cdn.adtrue.com
 .track.adtrue.com
@@ -2760,6 +2850,16 @@ ac*.*cloud.net.cn
 .ac1.dcloud.net.cn
 .ac1.cloud.net.cn
 
+## 融云
+.rmtp.rong-edge.com
+.collection.rong-edge.com
+.cloudcontrol.rong-edge.com
+.nav-b.rong-edge.com
+.rmtp-b.rong-edge.com
+.nav.rong-edge.com
+.ws.rong-edge.com
+.stats.rong-edge.com
+
 
 ## juicyads
 .ads.juicyads.com
@@ -2778,6 +2878,10 @@ ac*.*cloud.net.cn
 .static.juicyads.com
 .stats.juicyads.com
 .xapi.juicyads.com
+.dw.juicyads.com
+.adserver-api-dev.juicyads.com
+.ads-g.juicyads.com
+.manage-qa.juicyads.com
 
 
 ## 极光推送
@@ -2829,6 +2933,10 @@ fcapi-ipv6.jpush.cn
 .aurorapush.cn
 .aurorapush.com
 .pushcfg.com
+*-ipv6.jpush.cn
+.pushstyle.jpush.cn
+.apns-recv.jpush.cn
+.config.jpush-ipv6.cn
 
 
 ## MobTech 袤博
@@ -2875,6 +2983,12 @@ api.applink.mob.com
 # https://doc.tingyun.com/index.html
 # 听云小程序
 .report.tingyun.com
+.wkrt.tingyun.com
+.wkrd.tingyun.com
+.wkbrs2.tingyun.com
+.wkdcm2.tingyun.com
+.wkbrs1.tingyun.com
+.wkdcm1.tingyun.com
 
 
 ## talkingdata
@@ -2938,6 +3052,7 @@ monitor.geetest.com
 
 ## 神策数据分析
 .cloud.sensorsdata.cn
+.static.sensorsdata.cn
 
 ## 友盟
 .errlog.umeng.com
@@ -3197,6 +3312,8 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 .sa.appsflyer.com
 .sqa.appsflyer.com
 .app.bidflyer.com
+.ctv.appsflyer.com
+.dev.appsflyer.com
 
 ## vungle
 .ads.vungle.com
@@ -3209,6 +3326,16 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 cdn.chinaliftoff-creatives.io
 
 ## mtgglobals or mintegral
+.analytics.mtgglobals.com
+.analytics-ios.mtgglobals.com
+.analytics-ios-tcp.mtgglobals.com
+.analytics-tcp.mtgglobals.com
+.hybird.mtgglobals.com
+*-ios.mtgglobals.com
+*-tcp.mtgglobals.com
+*-https.mtgglobals.com
+*-feedback.mtgglobals.com
+*-hb.mtgglobals.com
 .us01.mtgglobals.com
 .us01-cdn.mtgglobals.com
 .adx-tk.mtgglobals.com
@@ -3243,6 +3370,23 @@ sdk-api-v1.singular.net
 .t.singular.net
 .i.singular.net
 .s2s.singular.net
+.app.singular.live
+.service.singular.live
+.exceptions.singular.net
+.skan-s2s.singular.net
+.safetrack-s2s.singular.net
+.sup.singular.net
+.cdn.singular.net
+.web-sdk-cdn.singular.net
+.skan.singular.net
+.skadnetwork.singular.net
+.safetrack.singular.net
+.t-api.singular.net
+.s2s-gate.singular.net
+.sdk-gate.singular.net
+.i-gate.singular.net
+.c-gate.singular.net
+.c.singular.net
 
 ## braze
 .iad-01.braze.com
@@ -3311,6 +3455,9 @@ sdk-api-v1.singular.net
 .staging.taplytics.com
 .switch.taplytics.com
 .wpengine.taplytics.com
+.decision.taplytics.com
+.gh-stable.taplytics.com
+.decision-rbc.taplytics.com
 
 
 ## adjust
@@ -3319,6 +3466,11 @@ sdk-api-v1.singular.net
 .app.adjust.net.in
 .view.adjust.com
 .app.us.adjust.com
+.gps.adjust.com
+.bizapp.adjust.com
+.replyapp.adjust.com
+.toreplyapp.adjust.com
+.llpolicyapp.adjust.com
 
 
 ## 阳光宽频网
@@ -4186,6 +4338,10 @@ x.da.mgtv.com
 y.da.mgtv.com
 ys.da.mgtv.com
 da.mgtv.com
+.bslivepull.qing.mgtv.com
+.ott-v0-al.data.mgtv.com
+.ott.v1.data.mgtv.com
+.crash.data.v2.mgtv.com
 log.da.hunantv.com
 log.event.hunantv.com
 log.p2p.hunantv.com
@@ -4942,6 +5098,15 @@ dynatracegateway.ocbc.id
 .analytics.sandbox.alloka.ru
 .analytics.alloka.ru
 .analytics.staging.alloka.ru
+.analytics.play.works
+.analytics.us.umami.is
+.analytics.umami.is
+.analytics-webhook.doximity.services
+.analytics.insightly.services
+.analytics.sieuviet.services
+.analytics.adxpremium.services
+.analytics-cdn.sport.es
+.analytics.sixt.es
 *-ads.hara.vn
 .jupiter.appads.com
 .req.appads.com
@@ -4963,3 +5128,4 @@ dynatracegateway.ocbc.id
 .analysis.chatglm.cn
 .sfile.chatglm.cn
 .ad.cdnjm.cn
+*-rtb1.rfihub.com
