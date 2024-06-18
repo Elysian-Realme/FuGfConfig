@@ -8,6 +8,7 @@
 .akamaized.net
 .windows.net
 .windows.com
+.windowsupdate.com
 .skype.com
 .s-microsoft.com
 .onedrive.com

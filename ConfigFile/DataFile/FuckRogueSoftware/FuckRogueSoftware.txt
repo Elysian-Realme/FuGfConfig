@@ -91,6 +91,7 @@ other.upqzfile.com
 video.upqzfile.com
 # bugly
 .bugly.qq.com
+.bugly.qq.com.lan
 .rqd.qq.com
 # wechat 微信
 .dns.weixin.qq.com.cn
@@ -276,6 +277,7 @@ miniapp.gtimg.cn
 .masdkv6.3g.qq.com
 .mdevstat.qqlive.qq.com
 .mdt.qq.com
+.mdt.qq.com.lan
 .monitor.music.qq.com
 .mta.qq.com
 .mtrace.qq.com
@@ -2396,7 +2398,7 @@ crashlyticsreports-pa.googleapis.com
 .w.isx.unity3d.com
 
 ## crashlytics
-settings.crashlytics.com
+.settings.crashlytics.com
 
 ## cloudflare
 .cloudflareinsights.com
