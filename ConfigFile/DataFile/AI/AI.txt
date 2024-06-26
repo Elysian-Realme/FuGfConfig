@@ -1,4 +1,3 @@
-.bing.com
 .openai.com
 .chatgpt.com
 .auth0.com

@@ -8095,7 +8095,7 @@ www.pol23.buzz
 .rfihub.com
 .videoplayerhub.com
 .intsmarthub.com
-*-us-west-2.amazonaws.com
 .gxh.material.qq.com
 .qq.com.lan
 .tpns.coolapk.com
+.dev.virtualearth.net

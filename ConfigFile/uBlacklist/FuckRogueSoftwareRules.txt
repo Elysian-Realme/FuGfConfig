@@ -9,5 +9,7 @@
 *://*.huaweicloud.com/*
 *://*.hwclouds.cn/*
 *://*.hwclouds.com/*
+*://*.gitcode.com/*
+*://*.csdn.com/*
 *://*.douyin.com/*
 *://*.tiktok.com/*

@@ -5131,3 +5131,4 @@ dynatracegateway.ocbc.id
 .sfile.chatglm.cn
 .ad.cdnjm.cn
 *-rtb1.rfihub.com
+.events.data.microsoft.com

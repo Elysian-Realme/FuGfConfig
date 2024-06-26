@@ -1516,6 +1516,7 @@ eu.v2.we-stats.com = 0.0.0.0
 *.event.toggle.qq.com = 0.0.0.0
 *.events-dra.op.hicloud.com = 0.0.0.0
 *.events.appsflyer.com = 0.0.0.0
+*.events.data.microsoft.com = 0.0.0.0
 *.events.gfe.nvidia.com = 0.0.0.0
 *.events.isprog.com = 0.0.0.0
 *.evilsbedont.de = 0.0.0.0

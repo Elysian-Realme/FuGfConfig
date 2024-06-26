@@ -52,9 +52,6 @@ vscodium.now.sh
 .bitwarden.net
 .1password.com
 
-# Win 检测是否可以联网域名
-.msftconnecttest.com
-
 ## apksure
 .apkpure.com
 .cdnpure.com
@@ -307,3 +304,8 @@ onedrive.live.com
 .ollama.com
 .ollama.ai
 .primevideo.com
+.woolyss.com
+.spacex.com
+.flickr.com
+.bbc.com
+.bbc.co.uk

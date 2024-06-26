@@ -2,7 +2,6 @@
 #!desc=FuckGarbageFeature
 #!category=FuckGFW
 [Host]
--us-west-2.amazonaws.com = 0.0.0.0
 *.0ce3c-1fd43.api.pushwoosh.com = 0.0.0.0
 *.100016075.collect.igodigital.com = 0.0.0.0
 *.10148.engine.mobileapptracking.com = 0.0.0.0
@@ -2920,6 +2919,7 @@ detectportal.firefox.com = 0.0.0.0
 *.dev-track.adthrive.com = 0.0.0.0
 *.dev.appboy.com = 0.0.0.0
 *.dev.nodle.io = 0.0.0.0
+*.dev.virtualearth.net = 0.0.0.0
 *.dev.visualwebsiteoptimizer.com = 0.0.0.0
 *.device-api.asnapieu.com = 0.0.0.0
 *.device-api.urbanairship.com = 0.0.0.0
