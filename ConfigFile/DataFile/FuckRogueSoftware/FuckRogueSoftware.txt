@@ -3875,6 +3875,37 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 # 存在延迟，失效等问题
 .tjzckjkj.cn
 164.155.255.240
+91.241.60.117
+.polyfill.io
+.googie-anaiytics.com
+.bootcdn.net
+.bootcss.com
+.staticfile.net
+.staticfile.org
+.unionadjs.com
+.xhsbpza.com
+.union.macoms.la
+.newcrbpc.com
+.polyfill.com
+.bittorrent.es
+.googlo.co
+.aksia.co
+.z-lib.io
+.z-lib.id
+.zlibrary.to
+.z-lib.ee
+.z-lib.tf
+.z-lib.wf
+.z-lib.yt
+.z-lib.lol
+.zlibrary-global.com
+.zlib-official.com
+.zlibrary.lol
+.z-library.live
+.z-library.wiki
+.z-library.blog
+.z-library-proxy.com
+.go-to-zlibrary.com
 
 # NoCoin Filter List
 # Blocking Web Browser Bitcoin Mining
