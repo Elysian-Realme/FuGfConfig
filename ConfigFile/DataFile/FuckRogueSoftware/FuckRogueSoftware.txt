@@ -1617,7 +1617,7 @@ az.appstore.vivo.com.cn
 .cnuspider.yuanshen.com
 .h5collector.mihoyo.com
 .h5log-api-dualstack.mihoyo.com
-
+.zzz-log-upload.mihoyo.com
 
 ## zhihu 知乎
 .zhihu-web-analytics.zhihu.com
@@ -5163,3 +5163,4 @@ dynatracegateway.ocbc.id
 .ad.cdnjm.cn
 *-rtb1.rfihub.com
 .events.data.microsoft.com
+.analytics.intern.b1-systems.de

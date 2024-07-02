@@ -5,6 +5,7 @@
 .mihoyo.com
 .bh3.com
 .yuanshen.com
+.juequling.com
 
 ## 人机验证
 .hcaptcha.com

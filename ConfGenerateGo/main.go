@@ -30,7 +30,7 @@ func main() {
 	var ans []model.Pair
 
 	// names := []string{"FuckRogueSoftware"}
-	names := []string{"AI", "Bank", "Direct", "Cryptocurrency", "Telegram", "Proxy", "CodeTools", "Microsoft", "Tracker", "FuckGarbageFeature", "FuckRogueSoftware", "Games"}
+	names := []string{"AI", "Bank", "Direct", "ChinaASN", "Cloudflare", "Cryptocurrency", "Telegram", "Proxy", "CodeTools", "Microsoft", "Tracker", "FuckGarbageFeature", "FuckRogueSoftware", "Games"}
 	for _, name := range names {
 		//  清空残留的数据
 		base, inbox, inboxResult = []string{}, []string{}, []string{}
@@ -86,7 +86,7 @@ func readRule(baseFilePath string, inboxFilePath string) ([]string, []string) {
 	if err == nil {
 		base = util.ReadFile(baseFilePath)
 	} else {
-		fmt.Println("发生错误:", err)
+		fmt.Println("发生错误：", err)
 	}
 
 	// 读取 inbox
@@ -142,7 +142,7 @@ func policyProcessing(base []string, inbox []string) ([]model.Pair, []string) {
 		}
 	}
 
-	fmt.Println("规则基础库构建完成，共:", len(ansMap), "条规则")
+	fmt.Println("规则基础库构建完成，共：", len(ansMap), "条规则")
 
 	// 遍历 inbox
 	var inboxResult []string
@@ -178,12 +178,12 @@ func policyProcessing(base []string, inbox []string) ([]model.Pair, []string) {
 							break
 						}
 					}
-					// 如果所有后缀域名均不在 base map 且不在 inboxResultSet 里面 ，则加入到 inbox map
+					// 如果所有后缀域名均不在 base map 且不在 inboxResultSet 里面，则加入到 inbox map
 					if !flag1 && !flag2 {
 						inboxResultSet[v] = member
 					}
 				} else if util.IsIPV4(v) {
-					// todo 如果是 IPV4 规则，匹配一下 去掉 CIDR格式 前后的字符串是否在 base map 和 inbox map 中
+					// todo 如果是 IPV4 规则，匹配一下 去掉 CIDR 格式 前后的字符串是否在 base map 和 inbox map 中
 					inboxResultSet[v] = member
 				} else {
 					inboxResultSet[v] = member
@@ -216,7 +216,7 @@ func policyProcessing(base []string, inbox []string) ([]model.Pair, []string) {
 	}
 	sort.Sort(sort.Reverse(data))
 
-	fmt.Println("排序处理完后的规则共: ", len(data), " 条")
+	fmt.Println("排序处理完后的规则共：", len(data), " 条")
 
 	return data, inboxResult
 }

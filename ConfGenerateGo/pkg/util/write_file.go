@@ -128,7 +128,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 				fmt.Fprintln(write, "IP-ASN,"+v.Key+",no-resolve")
 				continue
 			case strings.Contains(v.Value, "IP-CIDR6"):
-				fmt.Fprint(write, "IP-CIDR6,")
+				fmt.Fprint(write, "IP-CIDR6,"+v.Key+",no-resolve")
+				continue
 			case strings.Contains(v.Value, "IP-CIDR"):
 				fmt.Fprint(write, "IP-CIDR,")
 				fmt.Fprint(write, v.Key)
@@ -146,7 +147,8 @@ func WriteFile(matchType string, data model.Pairs, policyName string, filePath s
 			default:
 				fmt.Fprint(write, v.Value+",")
 			}
-			fmt.Fprintln(write, v.Key)
+			fmt.Fprint(write, v.Key)
+			fmt.Fprintln(write, ","+"extended-matching")
 		}
 	case strings.Contains(matchType, "SurgeHost"):
 		fmt.Println("SurgeHost")
