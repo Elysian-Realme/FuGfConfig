@@ -8099,3 +8099,5 @@ www.pol23.buzz
 .qq.com.lan
 .tpns.coolapk.com
 .dev.virtualearth.net
+.vanilla.matthewpalmer.net
+.wp.com
