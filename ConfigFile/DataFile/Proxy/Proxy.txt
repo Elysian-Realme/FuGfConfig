@@ -39,13 +39,24 @@ vscodium.now.sh
 .pixiv.me
 .pixiv.net
 .pixiv.re
+.pixiv.cat
+.pixiv.co.jp
+.pixiv.org
+.booth.pm
 210.140.131.199
 210.140.139.131
 
 ## Twitter
 .twitter.com
 .twimg.com
+.t.co
 .x.com
+192.133.76.0/22
+199.59.148.0/22
+199.96.56.0/21
+202.160.128.0/22
+209.237.192.0/19
+69.195.160.0/19
 
 ## 密码管理器
 .bitwarden.com
@@ -299,7 +310,6 @@ onedrive.live.com
 .cdnpure.com
 .archive.ph
 .medium.com
-.t.co
 .unlock-music.dev
 .ollama.com
 .ollama.ai
@@ -309,3 +319,4 @@ onedrive.live.com
 .flickr.com
 .bbc.com
 .bbc.co.uk
+.nssurge.com

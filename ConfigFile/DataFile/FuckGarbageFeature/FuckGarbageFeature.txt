@@ -8101,3 +8101,7 @@ www.pol23.buzz
 .dev.virtualearth.net
 .vanilla.matthewpalmer.net
 .wp.com
+.baichuan-sdk.taobao.com
+.douyin.starrydyn.com
+.nodesdk.starrydyn.com
+.secure.fountayn.com

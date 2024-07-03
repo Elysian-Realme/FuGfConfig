@@ -271,10 +271,11 @@ DOMAIN-SUFFIX,adash-c.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,adash-c.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,adash.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,adash.man.aliyuncs.com,extended-matching
+DOMAIN-SUFFIX,adash.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashbc.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashbc.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashx.m.taobao.com,extended-matching
-DOMAIN,adashx.m.taobao.com.gds.alibabadns.com,extended-matching
+DOMAIN-SUFFIX,adashx.m.taobao.com.gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.amap.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.dingtalk.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.hzshudian.com,extended-matching
@@ -549,6 +550,8 @@ DOMAIN-SUFFIX,analytics.facebook.com,extended-matching
 DOMAIN-SUFFIX,analytics.ff.avast.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,analytics.flatart.agency,extended-matching
 DOMAIN-SUFFIX,analytics.fontanka.ru,extended-matching
+DOMAIN-SUFFIX,analytics.gismart.xyz,extended-matching
+DOMAIN-SUFFIX,analytics.gnetworks.xyz,extended-matching
 DOMAIN-SUFFIX,analytics.gridea.dev,extended-matching
 DOMAIN-SUFFIX,analytics.hz.netease.com,extended-matching
 DOMAIN-SUFFIX,analytics.insightly.services,extended-matching
@@ -582,6 +585,7 @@ DOMAIN-SUFFIX,analytics.snssdk.com,extended-matching
 DOMAIN-SUFFIX,analytics.sports.ru,extended-matching
 DOMAIN-SUFFIX,analytics.staging.alloka.ru,extended-matching
 DOMAIN-SUFFIX,analytics.techweb.com.cn,extended-matching
+DOMAIN-SUFFIX,analytics.trafficfactory.biz,extended-matching
 DOMAIN-SUFFIX,analytics.twitter.com,extended-matching
 DOMAIN-SUFFIX,analytics.tylenol.com,extended-matching
 DOMAIN-SUFFIX,analytics.umami.is,extended-matching
@@ -859,6 +863,7 @@ DOMAIN-SUFFIX,autologica.ga,extended-matching
 DOMAIN,avlstatic.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,awake-stats.jpush.cn,extended-matching
 DOMAIN-SUFFIX,aweme.snssdk.com,extended-matching
+DOMAIN-SUFFIX,aws-logsdk.snackvideo.com,extended-matching
 DOMAIN,awssgp0-files.fds.api.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,axoncoho.tk,extended-matching
 DOMAIN,az.appstore.vivo.com.cn,extended-matching
@@ -1687,6 +1692,8 @@ DOMAIN,fzapp.chanct.cn,extended-matching
 DOMAIN,fzapp.gifzpt.cn,extended-matching
 DOMAIN,fzapph5.gifzpt.cn,extended-matching
 DOMAIN-SUFFIX,fzw.a.sohu.com,extended-matching
+DOMAIN-SUFFIX,g-logsdk.snackvideo.com,extended-matching
+DOMAIN-SUFFIX,g-ulog.snackvideo.com,extended-matching
 DOMAIN-SUFFIX,g.163.com,extended-matching
 DOMAIN-SUFFIX,g.baidu.com,extended-matching
 DOMAIN-SUFFIX,g.click.taobao.com,extended-matching
@@ -1827,6 +1834,7 @@ DOMAIN-SUFFIX,gz.getui.com,extended-matching
 DOMAIN-SUFFIX,h-adashx.ut.dingtalk.com,extended-matching
 DOMAIN-SUFFIX,h-adashx.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,h-adashx4ae.ut.taobao.com,extended-matching
+DOMAIN-SUFFIX,h-adashx4bc.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,h-adashx4sg.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,h-adashx4yt.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,h.msn.com,extended-matching
@@ -2052,7 +2060,9 @@ DOMAIN,intldlgs.qq.com,extended-matching
 DOMAIN-SUFFIX,invida.net.cn,extended-matching
 DOMAIN,iosrqd.iot.wechatpay.cn,extended-matching
 DOMAIN-SUFFIX,iot.qq.com,extended-matching
+DOMAIN-SUFFIX,ip.ictapi.xyz,extended-matching
 DOMAIN-SUFFIX,ip.ptqy.gitv.tv,extended-matching
+DOMAIN-SUFFIX,ip.taobao.com,extended-matching
 DOMAIN-SUFFIX,ipi.shuzilm.cn,extended-matching
 DOMAIN,ipm.atm.youku.com,extended-matching
 DOMAIN-SUFFIX,ipv4.shuzilm.cn,extended-matching
@@ -3620,6 +3630,7 @@ DOMAIN-SUFFIX,secure.juicyads.com,extended-matching
 DOMAIN-SUFFIX,securemetrics.apple.com,extended-matching
 DOMAIN-SUFFIX,security.browser.miui.com,extended-matching
 DOMAIN-SUFFIX,security.snssdk.com,extended-matching
+DOMAIN-SUFFIX,security.snyk.io,extended-matching
 DOMAIN-SUFFIX,seed-1.nimiq-network.com,extended-matching
 DOMAIN-SUFFIX,seed-1.nimiq.com,extended-matching
 DOMAIN-SUFFIX,seed-1.nimiq.network,extended-matching
@@ -4157,6 +4168,7 @@ DOMAIN-SUFFIX,tunion-api.m.taobao.com,extended-matching
 DOMAIN,tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com,extended-matching
 DOMAIN,tvupgrade.yunos.com,extended-matching
 DOMAIN-SUFFIX,tw13b093.sandai.net,extended-matching
+DOMAIN-SUFFIX,tx-ulog.snackvideo.com,extended-matching
 DOMAIN,tyaqy.m.cn.miaozhen.com,extended-matching
 DOMAIN,tyh.taobao.com,extended-matching
 DOMAIN,tysdk.95516.com,extended-matching

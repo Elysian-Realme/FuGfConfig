@@ -2015,6 +2015,7 @@ DOMAIN-SUFFIX,b2c.com,extended-matching
 DOMAIN-SUFFIX,b3.mookie1.com,extended-matching
 DOMAIN-SUFFIX,babel.innertrends.com,extended-matching
 DOMAIN,baichuan-sdk.alicdn.com,extended-matching
+DOMAIN-SUFFIX,baichuan-sdk.taobao.com,extended-matching
 DOMAIN-SUFFIX,balanced-clk.taptica.com,extended-matching
 DOMAIN-SUFFIX,balanced-collect.deltadna.net,extended-matching
 DOMAIN-SUFFIX,balanced-engage.deltadna.net,extended-matching
@@ -3316,6 +3317,7 @@ DOMAIN-SUFFIX,dotomi.weighted.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,doubleclick.net,extended-matching
 DOMAIN-SUFFIX,doubleverify.com,extended-matching
 DOMAIN-SUFFIX,doubleverify.com.edgekey.net,extended-matching
+DOMAIN-SUFFIX,douyin.starrydyn.com,extended-matching
 DOMAIN-SUFFIX,down.qq.com,extended-matching
 DOMAIN,download.csdn.net,extended-matching
 DOMAIN-SUFFIX,download.wildcard.applovin.com.edgekey.net,extended-matching
@@ -5155,6 +5157,7 @@ DOMAIN-SUFFIX,nmcdn.us,extended-matching
 DOMAIN-SUFFIX,nmtracking.netflix.com,extended-matching
 DOMAIN-SUFFIX,node-p2e-zii3oh.sitescout.com,extended-matching
 DOMAIN-SUFFIX,nodeny.targetspot.com,extended-matching
+DOMAIN-SUFFIX,nodesdk.starrydyn.com,extended-matching
 DOMAIN-SUFFIX,nonmutt.eastus.trafficmanager.inmobi.com,extended-matching
 DOMAIN-SUFFIX,nonmutt.sgp.trafficmanager.inmobi.com,extended-matching
 DOMAIN,norma-external-collect.meizu.com,extended-matching
@@ -6239,6 +6242,7 @@ DOMAIN-SUFFIX,secure-uk.imrworldwide.com,extended-matching
 DOMAIN-SUFFIX,secure-us.imrworldwide.com,extended-matching
 DOMAIN-SUFFIX,secure.ads.placeiq.com,extended-matching
 DOMAIN-SUFFIX,secure.flashtalking.com.edgekey.net,extended-matching
+DOMAIN-SUFFIX,secure.fountayn.com,extended-matching
 DOMAIN-SUFFIX,secure.gooddata.com,extended-matching
 DOMAIN-SUFFIX,secure.insightexpressai.com,extended-matching
 DOMAIN-SUFFIX,secure.leadback.advertising.com,extended-matching

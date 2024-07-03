@@ -723,7 +723,8 @@ i.ipinyou.com
 feedback.whalecloud.com
 sjarvis.taobao.com
 log.video.taobao.com
-adashx.m.taobao.com.gds.alibabadns.com
+.adash.ut.taobao.com
+.adashx.m.taobao.com.gds.alibabadns.com
 .shop115048570.taobao.com
 .simaba.m.taobao.com
 .stat.simba.taobao.com
@@ -736,9 +737,11 @@ adashx.m.taobao.com.gds.alibabadns.com
 .adashx.ut.taobao.com
 .adash-c.m.taobao.com
 .acookie.taobao.com
+.h-adashx4bc.ut.taobao.com
 .h-adashx4yt.ut.taobao.com
 .h-adashx4sg.ut.taobao.com
 .h-adashx4ae.ut.taobao.com
+.ip.taobao.com
 .strip.alicdn.com
 .gen.alicdn.com
 .aecpm.alicdn.com
@@ -5164,3 +5167,12 @@ dynatracegateway.ocbc.id
 *-rtb1.rfihub.com
 .events.data.microsoft.com
 .analytics.intern.b1-systems.de
+.security.snyk.io
+.ip.ictapi.xyz
+.aws-logsdk.snackvideo.com
+.g-logsdk.snackvideo.com
+.tx-ulog.snackvideo.com
+.g-ulog.snackvideo.com
+.analytics.gismart.xyz
+.analytics.gnetworks.xyz
+.analytics.trafficfactory.biz

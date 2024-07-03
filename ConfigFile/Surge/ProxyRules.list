@@ -1,8 +1,14 @@
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
 DOMAIN-SUFFIX,1password.com,extended-matching
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
 IP-CIDR,210.140.131.199/32,no-resolve
 IP-CIDR,210.140.139.131/32,no-resolve
 IP-CIDR,31.13.67.41/32,no-resolve
 IP-CIDR,54.192.18.123/32,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
 DOMAIN-SUFFIX,adguard.com,extended-matching
 DOMAIN-SUFFIX,adtidy.org,extended-matching
 DOMAIN-SUFFIX,amazon.com,extended-matching
@@ -21,6 +27,7 @@ DOMAIN-SUFFIX,bbc.com,extended-matching
 DOMAIN-SUFFIX,bitwarden.com,extended-matching
 DOMAIN-SUFFIX,bitwarden.net,extended-matching
 DOMAIN-SUFFIX,blender.org,extended-matching
+DOMAIN-SUFFIX,booth.pm,extended-matching
 DOMAIN-SUFFIX,calibre-ebook.com,extended-matching
 DOMAIN-SUFFIX,campaign-archive.com,extended-matching
 DOMAIN-SUFFIX,cdnpure.com,extended-matching
@@ -96,6 +103,7 @@ DOMAIN-SUFFIX,moon.fm,extended-matching
 DOMAIN-SUFFIX,mvk.com,extended-matching
 DOMAIN-SUFFIX,notion.so,extended-matching
 DOMAIN-SUFFIX,nsloon.com,extended-matching
+DOMAIN-SUFFIX,nssurge.com,extended-matching
 DOMAIN-SUFFIX,o3o.ca,extended-matching
 DOMAIN-SUFFIX,obsidian.md,extended-matching
 DOMAIN-SUFFIX,ocsp.pki.goog,extended-matching
@@ -105,8 +113,11 @@ DOMAIN-SUFFIX,omdbapi.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
 DOMAIN-SUFFIX,openwrt.org,extended-matching
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com,extended-matching
+DOMAIN-SUFFIX,pixiv.cat,extended-matching
+DOMAIN-SUFFIX,pixiv.co.jp,extended-matching
 DOMAIN-SUFFIX,pixiv.me,extended-matching
 DOMAIN-SUFFIX,pixiv.net,extended-matching
+DOMAIN-SUFFIX,pixiv.org,extended-matching
 DOMAIN-SUFFIX,pixiv.re,extended-matching
 DOMAIN-SUFFIX,pm.me,extended-matching
 DOMAIN-SUFFIX,polyfill.io,extended-matching

@@ -24,8 +24,6 @@
 .tg.dev
 .tx.me
 .usercontent.dev
-USER-AGENT,?telegram*
-USER-AGENT,com.nicegram.Telegram-iOS*
 5.28.195.80/32
 5.28.195.163/32
 5.28.195.205/32
