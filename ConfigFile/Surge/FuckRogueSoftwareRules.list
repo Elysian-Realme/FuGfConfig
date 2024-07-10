@@ -578,6 +578,7 @@ DOMAIN-SUFFIX,analytics.rotapost.ru,extended-matching
 DOMAIN-SUFFIX,analytics.s3.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,analytics.sandbox.alloka.ru,extended-matching
 DOMAIN-SUFFIX,analytics.send.cm,extended-matching
+DOMAIN-SUFFIX,analytics.services.jetbrains.com,extended-matching
 DOMAIN-SUFFIX,analytics.shift.agency,extended-matching
 DOMAIN-SUFFIX,analytics.sieuviet.services,extended-matching
 DOMAIN-SUFFIX,analytics.sixt.es,extended-matching

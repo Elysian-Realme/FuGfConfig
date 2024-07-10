@@ -24,3 +24,4 @@
 .office.net
 .bingapis.com
 .msftconnecttest.com
+.azurewebsites.net

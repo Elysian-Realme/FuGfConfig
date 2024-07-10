@@ -137,6 +137,8 @@ http-inputs-notion.splunkcloud.com
 .facebook.com
 .fbcdn.net
 .meta.com
+.instagram.com
+.cdninstagram.com
 
 ## onedrive 网页版
 onedrive.live.com
@@ -320,3 +322,6 @@ onedrive.live.com
 .bbc.com
 .bbc.co.uk
 .nssurge.com
+.nyaa.si
+.archive.is
+.download-chromium.appspot.com

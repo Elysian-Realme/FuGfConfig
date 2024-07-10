@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,apkpure.com,extended-matching
 DOMAIN-SUFFIX,apkpure.net,extended-matching
 DOMAIN-SUFFIX,appsco.pe,extended-matching
 DOMAIN-SUFFIX,arc.net,extended-matching
+DOMAIN-SUFFIX,archive.is,extended-matching
 DOMAIN-SUFFIX,archive.org,extended-matching
 DOMAIN-SUFFIX,archive.ph,extended-matching
 DOMAIN-SUFFIX,authy.com,extended-matching
@@ -30,6 +31,7 @@ DOMAIN-SUFFIX,blender.org,extended-matching
 DOMAIN-SUFFIX,booth.pm,extended-matching
 DOMAIN-SUFFIX,calibre-ebook.com,extended-matching
 DOMAIN-SUFFIX,campaign-archive.com,extended-matching
+DOMAIN-SUFFIX,cdninstagram.com,extended-matching
 DOMAIN-SUFFIX,cdnpure.com,extended-matching
 DOMAIN-SUFFIX,cmx.im,extended-matching
 DOMAIN-SUFFIX,comodoca.com,extended-matching
@@ -42,6 +44,7 @@ DOMAIN-SUFFIX,discord.gg,extended-matching
 DOMAIN-SUFFIX,discord.media,extended-matching
 DOMAIN-SUFFIX,discordapp.com,extended-matching
 DOMAIN-SUFFIX,discordapp.net,extended-matching
+DOMAIN-SUFFIX,download-chromium.appspot.com,extended-matching
 DOMAIN-SUFFIX,dropbox-dns.com,extended-matching
 DOMAIN-SUFFIX,dropbox.com,extended-matching
 DOMAIN-SUFFIX,dropbox.tech,extended-matching
@@ -83,6 +86,7 @@ DOMAIN-SUFFIX,half.plus,extended-matching
 DOMAIN-SUFFIX,halfs.me,extended-matching
 DOMAIN-SUFFIX,hlj.fun,extended-matching
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
+DOMAIN-SUFFIX,instagram.com,extended-matching
 DOMAIN-SUFFIX,jquery.com,extended-matching
 DOMAIN-SUFFIX,kodi.tv,extended-matching
 DOMAIN-SUFFIX,last.fm,extended-matching
@@ -104,6 +108,7 @@ DOMAIN-SUFFIX,mvk.com,extended-matching
 DOMAIN-SUFFIX,notion.so,extended-matching
 DOMAIN-SUFFIX,nsloon.com,extended-matching
 DOMAIN-SUFFIX,nssurge.com,extended-matching
+DOMAIN-SUFFIX,nyaa.si,extended-matching
 DOMAIN-SUFFIX,o3o.ca,extended-matching
 DOMAIN-SUFFIX,obsidian.md,extended-matching
 DOMAIN-SUFFIX,ocsp.pki.goog,extended-matching
