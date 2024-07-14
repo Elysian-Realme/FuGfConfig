@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,adtidy.org,extended-matching
 DOMAIN-SUFFIX,amazon.com,extended-matching
 DOMAIN-SUFFIX,amazontrust.com,extended-matching
 DOMAIN-SUFFIX,anchor.fm,extended-matching
+DOMAIN-SUFFIX,annas-archive.gs,extended-matching
 DOMAIN-SUFFIX,annas-archive.org,extended-matching
 DOMAIN-SUFFIX,apkpure.com,extended-matching
 DOMAIN-SUFFIX,apkpure.net,extended-matching
@@ -33,9 +34,11 @@ DOMAIN-SUFFIX,calibre-ebook.com,extended-matching
 DOMAIN-SUFFIX,campaign-archive.com,extended-matching
 DOMAIN-SUFFIX,cdninstagram.com,extended-matching
 DOMAIN-SUFFIX,cdnpure.com,extended-matching
+DOMAIN-SUFFIX,chromium.org,extended-matching
 DOMAIN-SUFFIX,cmx.im,extended-matching
 DOMAIN-SUFFIX,comodoca.com,extended-matching
 DOMAIN-SUFFIX,db.tt,extended-matching
+DOMAIN-SUFFIX,dcbadge.limes.pink,extended-matching
 DOMAIN-SUFFIX,decohack.com,extended-matching
 DOMAIN-SUFFIX,deepl.com,extended-matching
 DOMAIN-SUFFIX,digicert.com,extended-matching
@@ -68,6 +71,7 @@ DOMAIN-SUFFIX,emby.media,extended-matching
 DOMAIN-SUFFIX,embydata.com,extended-matching
 DOMAIN-SUFFIX,f-droid.org,extended-matching
 DOMAIN-SUFFIX,facebook.com,extended-matching
+DOMAIN-SUFFIX,facebook.net,extended-matching
 DOMAIN-SUFFIX,fanart.tv,extended-matching
 DOMAIN-SUFFIX,fanbox.cc,extended-matching
 DOMAIN-SUFFIX,fbcdn.net,extended-matching
@@ -146,6 +150,7 @@ DOMAIN-SUFFIX,redditstatic.com,extended-matching
 DOMAIN-SUFFIX,relingo.net,extended-matching
 DOMAIN-SUFFIX,research.google,extended-matching
 DOMAIN-SUFFIX,resilio.com,extended-matching
+DOMAIN-SUFFIX,reuters.com,extended-matching
 DOMAIN-SUFFIX,rfi.fr,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
 DOMAIN-SUFFIX,sharepoint.com,extended-matching

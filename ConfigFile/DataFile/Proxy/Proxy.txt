@@ -135,6 +135,7 @@ http-inputs-notion.splunkcloud.com
 
 ## facebook
 .facebook.com
+.facebook.net
 .fbcdn.net
 .meta.com
 .instagram.com
@@ -153,6 +154,7 @@ onedrive.live.com
 .discord.media
 .discordapp.com
 .discordapp.net
+.dcbadge.limes.pink
 
 ## twitch
 .twitch.tv
@@ -259,6 +261,11 @@ onedrive.live.com
 31.13.67.41
 .resilio.com
 
+## news
+.bbc.com
+.bbc.co.uk
+.reuters.com
+
 ## 存疑
 .vscode-sync.trafficmanager.net
 .monitor.firefox.com
@@ -299,6 +306,7 @@ onedrive.live.com
 .tii.la
 .archive.org
 .annas-archive.org
+.annas-archive.gs
 .openwrt.org
 .sublimetext.com
 .rfi.fr
@@ -319,9 +327,8 @@ onedrive.live.com
 .woolyss.com
 .spacex.com
 .flickr.com
-.bbc.com
-.bbc.co.uk
 .nssurge.com
 .nyaa.si
 .archive.is
 .download-chromium.appspot.com
+.chromium.org

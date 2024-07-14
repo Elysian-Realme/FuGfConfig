@@ -4,26 +4,9 @@
 
 # https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Surge/SurgeModule/CnAppMITM.sgmodule
 
-[Header Rewrite]
-## UA Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
-## zhihu
-^https?://zhihu.com header-del referer
-^https?://.*.zhihu.com header-del referer
-## Bilibili
-^https?://.*.bilibili.com header-del accept-language
-^https?://.*.bilibili.com header-replace sec-ch-ua ""Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120""
-^https?://.*.bilibili.com header-replace sec-ch-ua-mobile ?0
-^https?://.*.bilibili.com header-replace sec-ch-ua-platform "Windows"
-^https?://.*.bilibili.com header-replace user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
-^https?://.*.hdslb.com header-del accept-language
-^https?://.*.hdslb.com header-replace sec-ch-ua ""Not_A Brand";v="8", "Chromium";v="120", "Microsoft Edge";v="120""
-^https?://.*.hdslb.com header-replace sec-ch-ua-mobile ?0
-^https?://.*.hdslb.com header-replace sec-ch-ua-platform "Windows"
-^https?://.*.hdslb.com header-replace user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
-
 [URL Rewrite]
 ## Tim
-# d.url.cn, dl.url.cn, h5.qzone.qq.com, i.gtimg.cn
+# d.url.cn, dl.url.cn, h5.qzone.qq.com, i.gtimg.cn,
 # 加上 (.*\.xml)?$
 # ^https?:\/\/d\.url\.cn/.*\.plist - reject
 ^https?:\/\/(d|dl)\.url\.cn/.*\.plist(.*\.xml)?$ - reject
@@ -33,7 +16,7 @@
 ^https?:\/\/i\.gtimg\.cn/qqshow/admindata/comdata/vipData_url_to_api/ios.json - reject
 
 ## weixin
-# mp.weixin.qq.com, badjs.weixinbridge.com
+# mp.weixin.qq.com, badjs.weixinbridge.com,
 ^https?:\/\/mp\.weixin\.qq\.com/mp/(wapcommreport|appmsg_comment|jsreport|jsmonitor).*$ - reject
 # ^https?:\/\/mp\.weixin\.qq\.com/mp/appmsg_comment.*$ - reject
 # ^https?:\/\/mp\.weixin\.qq\.com/mp/jsreport.*$ - reject
@@ -42,11 +25,11 @@
 ^https?:\/\/badjs\.weixinbridge\.com/frontend/reportspeed.*$ - reject
 
 ## 腾讯会议
-# rmonitor.qq.com
+# rmonitor.qq.com,
 ^https?:\/\/rmonitor\.qq\.com/appconfig.*$ - reject
 
 ## alibaba
-# live-spare.alicdn.com, alive-interact.alicdn.com, livemsgconnect.taobao.com, videotool.ossgw.alicdn.com, fe.m.taobao.com, loggw-ex.alipay.com, datagw-edge.alipay.com, loggw.alipay.com.cn, amdc-sibling.alipay.com.cn, amdc.alipay.com, live-spare.alicdn.com, gw.alipayobjects.com, umdc.alibabachengdun.net, acs.m.taobao.com, impaas.alicdn.com, mum.alibabachengdun.net, log.mmstat.com, amdc.m.taobao.com, audid-api.taobao.com, h-adashx.ut.hzshudian.com, wgo.mmstat.com, market.m.taobao.com, guide-acs.m.taobao.com, entpsz.alipay.com, gm.mmstat.com, arms-retcode.aliyuncs.com
+# live-spare.alicdn.com, alive-interact.alicdn.com, livemsgconnect.taobao.com, videotool.ossgw.alicdn.com, fe.m.taobao.com, loggw-ex.alipay.com, datagw-edge.alipay.com, loggw.alipay.com.cn, amdc-sibling.alipay.com.cn, amdc.alipay.com, live-spare.alicdn.com, gw.alipayobjects.com, umdc.alibabachengdun.net, acs.m.taobao.com, impaas.alicdn.com, mum.alibabachengdun.net, log.mmstat.com, amdc.m.taobao.com, audid-api.taobao.com, h-adashx.ut.hzshudian.com, wgo.mmstat.com, market.m.taobao.com, guide-acs.m.taobao.com, entpsz.alipay.com, gm.mmstat.com, arms-retcode.aliyuncs.com,
 # taobao
 ^https?:\/\/live-spare\.alicdn\.com/message.*$ - reject
 ^https?:\/\/alive-interact\.alicdn\.com/(livedetail|groupBuy)/common.*$ - reject
@@ -78,7 +61,7 @@
 ^https?:\/\/market\.m\.taobao\.com/app/im/message-push-pop-v[\d.]+/logistic.*$ - reject
 # ^https?:\/\/g\.alicdn\.com/tb/tracker.*$ - reject
 # ^https?:\/\/g\.alicdn\.com/jstracker.*$ - reject
-# ^https?:\/\/g\.alicdn\.com/alilog.*$ - reject
+^https?:\/\/g\.alicdn\.com/alilog.*$ - reject
 # ^https?:\/\/g\.alicdn\.com/code/npm/@ali/react-videox.*$ - reject
 # https://atoken.m.taobao.com/api/updateZdata/v4
 ^https?:\/\/guide-acs\.m\.taobao\.com/gw/(mtop.tmall.fc.resource.popplayer.precheck|mtop.alibaba.tmall.app.ad.event.report|mtop.film.life.popup.report|mtop.film.mtoptinyvideoapi.reportplay).*$ - reject
@@ -90,7 +73,7 @@
 # ^https?:\/\/arms-retcode\.aliyuncs\.com/r.png.*$ - reject
 
 # 阿里云盘
-# www.aliyundrive.com, ynuf.aliapp.org, api.alipan.com, member.aliyundrive.com
+# www.aliyundrive.com, ynuf.aliapp.org, api.alipan.com, member.aliyundrive.com,
 ^https?:\/\/www\.aliyundrive\.com/log.*$ - reject
 ^https?:\/\/ynuf\.aliapp\.org/saveWb.json.*$ - reject
 ^https?:\/\/api\.alipan\.com/users/v[\d.]+/users/update_device_extras.*$ - reject
@@ -99,14 +82,14 @@
 ^https?:\/\/api\.alipan\.com/adrive/v[\d.]+/file/get_last_cursor.*$ - reject
 
 ## dingding
-# orange-dc.alibaba.com, mobilegw.alipay.com, vip.dingtalk.com, d.alicdn.com
+# orange-dc.alibaba.com, mobilegw.alipay.com, vip.dingtalk.com, d.alicdn.com,
 ^https?:\/\/orange-dc\.alibaba\.com/(checkUpdate|downloadResource).*$ - reject
 ^https?:\/\/mobilegw\.alipay\.com/mgw.htm.*$ - reject
 ^https?:\/\/vip\.dingtalk\.com/alfa.*$ - reject
 ^https?:\/\/d\.alicdn\.com/alilog.*$ - reject
 
 ## jd
-# api.m.jd.com, perf.m.jd.com, waapdg.jd.com, storage.360buyimg.com, jdpull.jd.com, aks.jdpay.com, ccflbs.m.jd.com, wlmonitor.m.jd.com, heracles.jd.com
+# api.m.jd.com, perf.m.jd.com, waapdg.jd.com, storage.360buyimg.com, jdpull.jd.com, aks.jdpay.com, ccflbs.m.jd.com, wlmonitor.m.jd.com, heracles.jd.com,
 ^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(start|uniformRecommend|xview2Config|stationPullServiceV1008|hotSearchTerms|hotWords|platEventCollect)$ - reject
 ^https?:\/\/perf\.m\.jd\.com/app_monitor/v[\d.]+/report.*$ - reject
 ^https?:\/\/waapdg\.jd\.com/api/v[\d.]+/jdguard.*$ - reject
@@ -119,7 +102,7 @@
 ^https?:\/\/heracles\.jd\.com/download/policy_eids.*$ - reject
 
 ## bilibili
-# api.bilibili.com, data.bilibili.com, skynet.bilivideo.com, app.bilibili.com, *.hdslb.com, api.live.bilibili.com, api.vc.bilibili.com, security.bilibili.com, space.bilibili.com
+# api.bilibili.com, data.bilibili.com, skynet.bilivideo.com, app.bilibili.com, *.hdslb.com, api.live.bilibili.com, api.vc.bilibili.com, security.bilibili.com, space.bilibili.com,
 # 日志
 ^https?:\/\/api\.bilibili\.com/x/(push\/)?report.*$ - reject
 ^https?:\/\/api\.bilibili\.com/x/v[\d.]+/(dataflow|history)/report.*$ - reject
@@ -193,7 +176,7 @@
 ^https?:\/\/s1\.hdslb\.com/bfs/activity-seed/activity/activity/activity-report-era.js$ - reject
 
 ## mihoyo
-# minor-api.mihoyo.com, bbs-api.miyoushe.com, ug-data.mihoyo.com, cnuspider.yuanshen.com, h5collector.mihoyo.com, public-data-api.mihoyo.com, apm-log-upload.mihoyo.com, abtest-api-data.mihoyo.com, sdk-common-api.mihoyo.com, sentry-inc.ssr.mihoyo.com, apm-api.mihoyo.com, api-mall.mihoyogift.com
+# minor-api.mihoyo.com, bbs-api.miyoushe.com, ug-data.mihoyo.com, cnuspider.yuanshen.com, h5collector.mihoyo.com, public-data-api.mihoyo.com, apm-log-upload.mihoyo.com, abtest-api-data.mihoyo.com, sdk-common-api.mihoyo.com, sentry-inc.ssr.mihoyo.com, apm-api.mihoyo.com, api-mall.mihoyogift.com,
 ^https?:\/\/minor-api\.mihoyo\.com/common/h5log/log.*$ - reject
 ^https?:\/\/bbs-api\.miyoushe\.com/apihub/api/getAppSplash$ - reject
 ^https?:\/\/ug-data\.mihoyo\.com/ads-track.*$ - reject
@@ -210,13 +193,13 @@
 ^https?:\/\/bbs-api\.miyoushe\.com/apihub/api/window/prepare.*$ - reject
 
 ## yunshanfu
-# cup.com.cn
+# cup.com.cn,
 ^https?:\/\/openysf\.cup\.com\.cn\/s\/open/js.*$ - reject
 ^https?:\/\/device\.cup\.com\.cn\/dcs_svc\/rest\/outer/devinfo.*$ - reject
 ^https?:\/\/antifraud\.cup\.com\.cn\/v[\d.]+/(profile|cloudconf).*$ - reject
 
 ## MeiTuan
-# *.meituan.net, *.meituan.com, *.dianping.com
+# *.meituan.net, *.meituan.com, *.dianping.com,
 ^https?:\/\/peisongapi\.meituan\.com\/client\/getInitiateImage - reject
 ^https?:\/\/img\.meituan\.net\/(adunion|display|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
 ^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
@@ -237,7 +220,7 @@
 ^https?:\/\/msp\.meituan\.com/fingerprint/v[\d.]+/notapp/bio/info/report.*$ - reject
 
 ## zhihu
-# api.zhihu.com, www.zhihu.com, zhuanlan.zhihu.com, static.zhihu.com, unpkg.zhimg.com
+# api.zhihu.com, www.zhihu.com, zhuanlan.zhihu.com, static.zhihu.com, unpkg.zhimg.com,
 ^https?:\/\/api\.zhihu\.com\/unlimited\/go\/my_card - reject
 ^https?:\/\/api\.zhihu\.com\/ab\/api\/v[\d.]+\/products\/zhihu\/platforms\/ios\/config.*$ - reject
 ^https?:\/\/api\.zhihu\.com\/message-push\/event.*$ - reject
@@ -260,7 +243,7 @@
 ^https?:\/\/unpkg\.zhimg\.com/@cfe/sentry-script@[\d.]+/dist/init.js$ - reject
 
 ## amap
-# *.amap.com
+# *.amap.com,
 ^https?:\/\/.*\.amap\.com\/ws\/asa\/ads_attribution.*$ - reject
 ^https?:\/\/dualstack-adiu\.amap\.com/ws/device.*$ - reject
 ^https?:\/\/adiu\.amap\.com/ws/device.*$ - reject
@@ -269,7 +252,7 @@
 ^https?:\/\/dualstack-arestapi\.amap\.com/v[\d.]+/iasdkauth.*$ - reject
 
 ## baidu
-# mime.baidu.com, appwk.baidu.com, pan.baidu.com
+# mime.baidu.com, appwk.baidu.com, pan.baidu.com,
 ^https?:\/\/mime\.baidu\.com\/v\d\/IosStart\/getStartInfo - reject
 ^https?:\/\/mime\.baidu\.com\/v\d\/activity\/advertisement - reject
 ^https?:\/\/appwk\.baidu\.com\/xpage\/interface\/wknaad - reject
@@ -278,58 +261,77 @@
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry - reject
 
 ## douban
-# api.douban.com
+# api.douban.com,
 ^https?:\/\/api\.douban\.com\/v[\d.]+\/app_ads\/splash$ - reject
 ^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.*$ - reject
 
 ## weibo
-# api.weibo.com, weibo.com
+# api.weibo.com, weibo.com,
 ^https?:\/\/api\.weibo\.com/oauth2/getaid.json.*$ - reject
 ^https?:\/\/weibo\.com/ajax/log.*$ - reject
 
 ## dewu
-# app.dewu.com
+# app.dewu.com,
 ^https?:\/\/app\.dewu\.com\/api\/v[\d.]+\/app\/advertisement\/.*$ - reject
 
-## dongfangcaifu
-^https?:\/\/emdcadvertise\.eastmoney\.com/infoService.*$ - reject
-
-## 12306
-# mobile.12306.cn, mum.hzchengdun.com, mum.hzchengdun.net, exservice.12306.cn
-^https?:\/\/mobile\.12306\.cn\/otsmobile\/app\/mas\/loggw\/logUpload\.do$ - reject
-^https?:\/\/mum\.hzchengdun\.com/repEd.json.*$ - reject
-^https?:\/\/mum\.hzchengdun\.net/repEd.json.*$ - reject
-^https?:\/\/exservice\.12306\.cn/excater/bonree/upload.*$ - reject
-
-## xiaohongshu
-# as.xiaohongshu.com
-^https?:\/\/as\.xiaohongshu\.com/api/v[\d.]+/d/upload.*$ - reject
-
-## jiansheyinhang
-# imageadv.ccb.com ｜ dvfp.ftss.ccb.com, adv.ccb.com
-^https?:\/\/imageadv\.ccb\.com/adpic/nctm/ad.*$ - reject
-^https?:\/\/dvfp.ftss.ccb.com/CCDSG/CCBQueryRoute.*$ - reject
-^https?:\/\/adv\.ccb\.com/advall.*$ - reject
-^https?:\/\/adv\.ccb\.com/ebda/ctm_adv.*$ - reject
+## 163
+# *.music.163.com,
+^https?:\/\/st\.music\.163\.com/device/signature/create/deviceid.js$ - reject
+^https?:\/\/music\.163\.com/weapi/middle/device-info*$ - reject
 
 ## 爱奇艺
-# intl-api.iq.com, pcw-api.iq.com, mesh.if.iqiyi.com, pcw-api.iqiyi.com
+# intl-api.iq.com, pcw-api.iq.com, mesh.if.iqiyi.com, pcw-api.iqiyi.com,
 ^https?:\/\/intl-api\.iq\.com/3f4/pcw-api.iq.com/ip.*$ - reject
 ^https?:\/\/pcw-api\.iq\.com/ip.*$ - reject
 ^https?:\/\/mesh\.if\.iqiyi\.com/portal/pcw/weather/data.*$ - reject
 ^https?:\/\/pcw-api\.iqiyi\.com/resource/resource/online.*$ - reject
 
 ## Youku
-# youku.com, ynuf.aliapp.org
+# youku.com, ynuf.aliapp.org,
 ^https?:\/\/youku\.com/log.*$ - reject
 ^https?:\/\/ynuf\.aliapp\.org/service/um.json.*$ - reject
 
+## CSDN
+# *.csdnimg.cn, *.csdn.net, csdnimg.cn,
+^https?:\/\/g\.csdnimg\.cn/common/(csdn-report|csdn-toolbar|csdn-login-box|csdn-notification|csdn-footer|user-ordertip).*$ - reject
+^https?:\/\/g\.csdnimg\.cn/(user-login|user-ordercart|user-accusation|copyright|baidu|collection-box|side-toolbar|extension-box|baidu-search|\?\?fixed-sidebar|\?\?sharewx|/user-medal|user-tooltip|order-payment|user-ordertip).*$ - reject
+^https?:\/\/g\.csdnimg\.cn/lib/(cboxEditor|qrcode|swiper|html2canvas).*$ - reject
+^https?:\/\/blog\.csdn\.net/static/js/waf_captcha.*$ - reject
+^https?:\/\/img-home\.csdnimg\.cn/data_json/toolbar/toolbar.*$ - reject
+^https?:\/\/csdnimg\.cn/release/blogv[\d.]+/dist/components/js/edit_copy.*$ - reject
+# ^https?:\/\/csdnimg\.cn/release/blogv[\d.]+/dist/pc/css/blog_code.*$ - reject
+^https?:\/\/statistic\.csdn\.net/(adblock|baidu_search_error).*$ - reject
+^https?:\/\/bizapi\.csdn\.net/cas/abTest.*$ - reject
+^https?:\/\/csdnimg\.cn/release/download/old_static.*$ - reject
+
+## dongfangcaifu
+# emdcadvertise.eastmoney.com,
+^https?:\/\/emdcadvertise\.eastmoney\.com/infoService.*$ - reject
+
+## 12306
+# mobile.12306.cn, mum.hzchengdun.com, mum.hzchengdun.net, exservice.12306.cn,
+^https?:\/\/mobile\.12306\.cn\/otsmobile\/app\/mas\/loggw\/logUpload\.do$ - reject
+^https?:\/\/mum\.hzchengdun\.com/repEd.json.*$ - reject
+^https?:\/\/mum\.hzchengdun\.net/repEd.json.*$ - reject
+^https?:\/\/exservice\.12306\.cn/excater/bonree/upload.*$ - reject
+
+## xiaohongshu
+# as.xiaohongshu.com,
+^https?:\/\/as\.xiaohongshu\.com/api/v[\d.]+/d/upload.*$ - reject
+
+## jiansheyinhang
+# imageadv.ccb.com, dvfp.ftss.ccb.com, adv.ccb.com,
+^https?:\/\/imageadv\.ccb\.com/adpic/nctm/ad.*$ - reject
+^https?:\/\/dvfp\.ftss\.ccb\.com/CCDSG/CCBQueryRoute.*$ - reject
+^https?:\/\/adv\.ccb\.com/advall.*$ - reject
+^https?:\/\/adv\.ccb\.com/ebda/ctm_adv.*$ - reject
+
 ## Google
-# play.google.com
+# play.google.com,
 ^https?:\/\/play\.google\.com/log.*$ - reject
 
 ## moomoo
-# dedog-server-sec.moomoo.com, sdauth.moomoo.com, api.moomoo.com
+# dedog-server-sec.moomoo.com, sdauth.moomoo.com, api.moomoo.com,
 ^https?:\/\/dedog-server-sec\.moomoo\.com/report.*$ - reject
 ^https?:\/\/sdauth\.moomoo\.com/report.*$ - reject
 ^https?:\/\/api\.moomoo\.com/v[\d.]+/ad/.*$ - reject
@@ -337,31 +339,26 @@
 ^https?:\/\/api\.moomoo\.com/ad.*$ - reject
 
 ## 个人所得税
-# m.etax.chinatax.gov.cn, gdm.etax.chinatax.gov.cn, emas.etax.chinatax.gov.cn
+# m.etax.chinatax.gov.cn, gdm.etax.chinatax.gov.cn, emas.etax.chinatax.gov.cn,
 ^https?:\/\/m\.etax\.chinatax\.gov\.cn(:\d+)/web/zrr/sjsmxx/query.*$ - reject
 ^https?:\/\/m\.etax\.chinatax\.gov\.cn(:\d+)/web/zrr/common/version/query.*$ - reject
 ^https?:\/\/gdm\.etax\.chinatax\.gov\.cn(:\d+)/log.*$ - reject
 ^https?:\/\/emas\.etax\.chinatax\.gov\.cn(:\d+)/api/v[\d.]+/agoo/report_token.*$ - reject
 
 ## 百胜中国
-# abplatform.yumchina.com
+# abplatform.yumchina.com,
 # https://bs2.yumchina.com/logan/2.0/upload
 # https://fp.hwwt8.com/fingerprint/v1/app-action
 # ^https?:\/\/aliorders\.kfc\.com\.cn/preorder-portal/api/v[\d.]+/prime/queryAvailablePrime.*$ - reject
 ^https?:\/\/abplatform\.yumchina\.com/abtestplatform/api/abtest/kfc/adRouter*$ - reject
 
-## 163
-# *.music.163.com
-^https?:\/\/st\.music\.163\.com/device/signature/create/deviceid.js$ - reject
-^https?:\/\/music\.163\.com/weapi/middle/device-info*$ - reject
-
 ## apkpure
-# a.cdnpure.com, cdnpure.com
+# a.cdnpure.com, cdnpure.com,
 ^https?:\/\/a\.cdnpure\.com/(analytics|dt_report|dt_sdk).*$ - reject
 ^https?:\/\/cdnpure\.com/static/js/ads.*$ - reject
 
 ## 招商银行
-# yl.zh.cmbchina.com, mobile.cmbchina.com, sodefaultwordapi.paas.cmbchina.com, pic1cdn.cmbchina.com, webappcfg.paas.cmbchina.com, mlife.cmbchina.com, intellicc.bas.cmbchina.com, mbmodule-mainopenapi.paas.cmbchina.com
+# yl.zh.cmbchina.com, mobile.cmbchina.com, sodefaultwordapi.paas.cmbchina.com, pic1cdn.cmbchina.com, webappcfg.paas.cmbchina.com, mlife.cmbchina.com, intellicc.bas.cmbchina.com, mbmodule-mainopenapi.paas.cmbchina.com,
 ^https?:\/\/yl\.zh\.cmbchina\.com/applog.*$ - reject
 ^https?:\/\/mobile\.cmbchina\.com/GExternal/log.*$ - reject
 ^https?:\/\/sodefaultwordapi\.paas\.cmbchina\.com/searchdefaultword$ - reject
@@ -373,18 +370,17 @@
 ^https?:\/\/mbmodule-mainopenapi\.paas\.cmbchina.com/mainpage/v[\d.]+/module/clue.*$ - reject
 
 ## OCBC
-# appd.ocbc.com
+# appd.ocbc.com,
 ^https?:\/\/appd\.ocbc\.com/eumcollector/mobileMetrics.*$ - reject
 
 ## hanglvzongheng
-# *.umetrip.com
+# *.umetrip.com,
 ^https?:\/\/(discardrp|startup)\.umetrip\.com\/gateway\/api\/umetrip\/native - reject-200
-^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$ - script-response-header https://gist.githubusercontent.com/TruElysian/56de38f4eb029baf4132a84e7c17340c/raw/hlzh.js
-;^https?:\/\/114\.115\.217\.129\/gateway\/api\/umetrip\/native$ - script-response-header https://gist.githubusercontent.com/TruElysian/56de38f4eb029baf4132a84e7c17340c/raw/hlzh.js
-
+^https?:\/\/.*umetrip\.com\.cn\/gateway\/api\/umetrip\/native$ - script-response-header https://gist.githubusercontent.com/ElysiaMae/56de38f4eb029baf4132a84e7c17340c/raw/hlzh.js
+;^https?:\/\/114\.115\.217\.129\/gateway\/api\/umetrip\/native$ - script-response-header https://gist.githubusercontent.com/ElysiaMae/56de38f4eb029baf4132a84e7c17340c/raw/hlzh.js
 
 ## other
-# scripts.mediavine.com, api.juejin.cn, w3-reporting.reddit.com, www.jianshu.com, a.magsrv.com, api.vvhan.com, icloudnative.io, htr4n1.laf.run, apapia-sqk.manmanbuy.com, mypikpak.com, res.smzdm.com, c-ztuni.tec73.com, www.oschina.net, lf3-cdn-tos.bytescm.com
+# scripts.mediavine.com, api.juejin.cn, w3-reporting.reddit.com, www.jianshu.com, a.magsrv.com, api.vvhan.com, icloudnative.io, htr4n1.laf.run, apapia-sqk.manmanbuy.com, mypikpak.com, res.smzdm.com, c-ztuni.tec73.com, www.oschina.net, lf3-cdn-tos.bytescm.com,
 ^https?:\/\/scripts\.mediavine\.com/flooring/countryLookup.*$ - reject
 ^https?:\/\/api\.juejin\.cn/list_api/v[\d.]+/activity_settings.*$ - reject
 ^https?:\/\/api\.juejin\.cn/growth_api/v[\d.]+/user_growth/add_point_report.*$ - reject
@@ -411,4 +407,4 @@
 
 
 [MITM]
-hostname = %APPEND% d.url.cn,dl.url.cn,*.dldir1.qq.com, h5.qzone.qq.com, i.gtimg.cn, mp.weixin.qq.com, badjs.weixinbridge.com, rmonitor.qq.com, livemsgconnect.taobao.com, live-spare.alicdn.com, alive-interact.alicdn.com, videotool.ossgw.alicdn.com, fe.m.taobao.com, loggw-ex.alipay.com, datagw-edge.alipay.com, loggw.alipay.com.cn, amdc-sibling.alipay.com.cn, amdc.alipay.com, mdn.alipayobjects.com, live-spare.alicdn.com, gw.alipayobjects.com, umdc.alibabachengdun.net, acs.m.taobao.com, impaas.alicdn.com, mum.alibabachengdun.net, log.mmstat.com, amdc.m.taobao.com, audid-api.taobao.com, h-adashx.ut.hzshudian.com, wgo.mmstat.com, market.m.taobao.com, guide-acs.m.taobao.com, entpsz.alipay.com, gm.mmstat.com, arms-retcode.aliyuncs.com, www.aliyundrive.com, ynuf.aliapp.org, api.alipan.com, member.aliyundrive.com, orange-dc.alibaba.com, mobilegw.alipay.com, vip.dingtalk.com, d.alicdn.com, api.m.jd.com, perf.m.jd.com, waapdg.jd.com, storage.360buyimg.com, jdpull.jd.com, aks.jdpay.com, ccflbs.m.jd.com, wlmonitor.m.jd.com, heracles.jd.com, api.bilibili.com, data.bilibili.com, skynet.bilivideo.com, app.bilibili.com, *.hdslb.com, api.live.bilibili.com, api.vc.bilibili.com, security.bilibili.com, space.bilibili.com, minor-api.mihoyo.com, bbs-api.miyoushe.com, ug-data.mihoyo.com, h5collector.mihoyo.com, public-data-api.mihoyo.com, apm-log-upload.mihoyo.com, abtest-api-data.mihoyo.com, sdk-common-api.mihoyo.com, sentry-inc.ssr.mihoyo.com, apm-api.mihoyo.com, api-mall.mihoyogift.com, cup.com.cn, *.meituan.net, *.meituan.com, *.dianping.com, api.zhihu.com, www.zhihu.com, zhuanlan.zhihu.com, static.zhihu.com, unpkg.zhimg.com, *.amap.com, mime.baidu.com, appwk.baidu.com, pan.baidu.com, api.douban.com, api.weibo.com, weibo.com, mobile.12306.cn, mum.hzchengdun.com, mum.hzchengdun.net, exservice.12306.cn, as.xiaohongshu.com, imageadv.ccb.com, dvfp.ftss.ccb.com, adv.ccb.com, intl-api.iq.com, pcw-api.iq.com, mesh.if.iqiyi.com, pcw-api.iqiyi.com, youku.com, play.google.com, dedog-server-sec.moomoo.com, sdauth.moomoo.com, api.moomoo.com, m.etax.chinatax.gov.cn, gdm.etax.chinatax.gov.cn, emas.etax.chinatax.gov.cn, abplatform.yumchina.com, *.music.163.com, a.cdnpure.com, cdnpure.com, yl.zh.cmbchina.com, mobile.cmbchina.com, sodefaultwordapi.paas.cmbchina.com, pic1cdn.cmbchina.com, webappcfg.paas.cmbchina.com, mlife.cmbchina.com, intellicc.bas.cmbchina.com, mbmodule-mainopenapi.paas.cmbchina.com, appd.ocbc.com, *.umetrip.com, scripts.mediavine.com, api.juejin.cn, w3-reporting.reddit.com, www.jianshu.com, a.magsrv.com, api.vvhan.com, icloudnative.io, htr4n1.laf.run, s.linear.app, apapia-sqk.manmanbuy.com, mypikpak.com, res.smzdm.com, c-ztuni.tec73.com, www.oschina.net, lf3-cdn-tos.bytescm.com
+hostname = %APPEND% d.url.cn, dl.url.cn, h5.qzone.qq.com, i.gtimg.cn, mp.weixin.qq.com, badjs.weixinbridge.com, rmonitor.qq.com, live-spare.alicdn.com, alive-interact.alicdn.com, livemsgconnect.taobao.com, videotool.ossgw.alicdn.com, fe.m.taobao.com, loggw-ex.alipay.com, datagw-edge.alipay.com, loggw.alipay.com.cn, amdc-sibling.alipay.com.cn, amdc.alipay.com, live-spare.alicdn.com, gw.alipayobjects.com, umdc.alibabachengdun.net, acs.m.taobao.com, impaas.alicdn.com, mum.alibabachengdun.net, log.mmstat.com, amdc.m.taobao.com, audid-api.taobao.com, h-adashx.ut.hzshudian.com, wgo.mmstat.com, market.m.taobao.com, guide-acs.m.taobao.com, entpsz.alipay.com, gm.mmstat.com, arms-retcode.aliyuncs.com, www.aliyundrive.com, ynuf.aliapp.org, api.alipan.com, member.aliyundrive.com, orange-dc.alibaba.com, mobilegw.alipay.com, vip.dingtalk.com, d.alicdn.com, api.m.jd.com, perf.m.jd.com, waapdg.jd.com, storage.360buyimg.com, jdpull.jd.com, aks.jdpay.com, ccflbs.m.jd.com, wlmonitor.m.jd.com, heracles.jd.com, api.bilibili.com, data.bilibili.com, skynet.bilivideo.com, app.bilibili.com, *.hdslb.com, api.live.bilibili.com, api.vc.bilibili.com, security.bilibili.com, space.bilibili.com, minor-api.mihoyo.com, bbs-api.miyoushe.com, ug-data.mihoyo.com, cnuspider.yuanshen.com, h5collector.mihoyo.com, public-data-api.mihoyo.com, apm-log-upload.mihoyo.com, abtest-api-data.mihoyo.com, sdk-common-api.mihoyo.com, sentry-inc.ssr.mihoyo.com, apm-api.mihoyo.com, api-mall.mihoyogift.com, cup.com.cn, *.meituan.net, *.meituan.com, *.dianping.com, api.zhihu.com, www.zhihu.com, zhuanlan.zhihu.com, static.zhihu.com, unpkg.zhimg.com, *.amap.com, mime.baidu.com, appwk.baidu.com, pan.baidu.com, api.douban.com, api.weibo.com, weibo.com, app.dewu.com, *.music.163.com, intl-api.iq.com, pcw-api.iq.com, mesh.if.iqiyi.com, pcw-api.iqiyi.com, youku.com, ynuf.aliapp.org, *.csdnimg.cn, *.csdn.net, csdnimg.cn, emdcadvertise.eastmoney.com, mobile.12306.cn, mum.hzchengdun.com, mum.hzchengdun.net, exservice.12306.cn, as.xiaohongshu.com, imageadv.ccb.com, dvfp.ftss.ccb.com, adv.ccb.com, play.google.com, dedog-server-sec.moomoo.com, sdauth.moomoo.com, api.moomoo.com, m.etax.chinatax.gov.cn, gdm.etax.chinatax.gov.cn, emas.etax.chinatax.gov.cn, abplatform.yumchina.com, a.cdnpure.com, cdnpure.com, yl.zh.cmbchina.com, mobile.cmbchina.com, sodefaultwordapi.paas.cmbchina.com, pic1cdn.cmbchina.com, webappcfg.paas.cmbchina.com, mlife.cmbchina.com, intellicc.bas.cmbchina.com, mbmodule-mainopenapi.paas.cmbchina.com, appd.ocbc.com, *.umetrip.com, scripts.mediavine.com, api.juejin.cn, w3-reporting.reddit.com, www.jianshu.com, a.magsrv.com, api.vvhan.com, icloudnative.io, htr4n1.laf.run, apapia-sqk.manmanbuy.com, mypikpak.com, res.smzdm.com, c-ztuni.tec73.com, www.oschina.net, lf3-cdn-tos.bytescm.com

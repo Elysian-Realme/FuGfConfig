@@ -1,7 +1,7 @@
 ! 本规则适用于 AdGuard
 ! update: 2024/03/01
 ! class 选择器 .
-! css 选择器 #
+! id 选择器 #
 
 ！ 全局
 ##.ads
@@ -29,9 +29,18 @@ live.bilibili.com##.flip-view
 ! csdn
 blog.csdn.net###asideNewNps
 blog.csdn.net###asideWriteGuide
+blog.csdn.net###asideProfile
+blog.csdn.net###remuneration
 blog.csdn.net###csdn-toolbar
 blog.csdn.net##.csdn-side-toolbar
+blog.csdn.net##.recommend-right
+blog.csdn.net##.recommend-nps-box
+blog.csdn.net##.recommend-box
+blog.csdn.net##.blog_container_aside
+blog.csdn.net##.passport-login-mark
 blog.csdn.net##.passport-login-tip-container
+blog.csdn.net##.passport-auto-tip-login-container
+blog.csdn.net##.passport-container
 blog.csdn.net##.passport-container-mini
 blog.csdn.net##.passport-login-container
 
@@ -74,6 +83,12 @@ www.freebuf.com##.aside-left
 www.freebuf.com##.module-middle
 www.freebuf.com##.floating-view
 
+! wiki.mbalib.com
+wiki.mbalib.com##.column-one
+wiki.mbalib.com##.immobilization-ad
+wiki.mbalib.com##.tool-bar
+wiki.mbalib.com##.ke-lay-in-wiki
+wiki.mbalib.com##.qrcode_wiki
 
 ! weixin
 mp.weixin.qq.com##.js_pc_qr_code
