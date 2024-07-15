@@ -3,7 +3,6 @@
 .auth0.com
 .openaiapi-site.azureedge.net
 chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
-.poe.com
 .poecdn.net
 .claude.ai
 .anthropic.com
@@ -14,3 +13,4 @@ chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .intercom.io
 .intercomcdn.com
 .poe.com
+.perplexity.ai

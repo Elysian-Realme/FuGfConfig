@@ -332,3 +332,5 @@ onedrive.live.com
 .archive.is
 .download-chromium.appspot.com
 .chromium.org
+.melpa.org
+.bitbucket.org

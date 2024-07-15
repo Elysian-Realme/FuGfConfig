@@ -25,3 +25,4 @@
 .bingapis.com
 .msftconnecttest.com
 .azurewebsites.net
+.microsofttranslator.com

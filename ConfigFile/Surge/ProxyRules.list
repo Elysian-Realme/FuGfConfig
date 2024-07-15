@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,archive.ph,extended-matching
 DOMAIN-SUFFIX,authy.com,extended-matching
 DOMAIN-SUFFIX,bbc.co.uk,extended-matching
 DOMAIN-SUFFIX,bbc.com,extended-matching
+DOMAIN-SUFFIX,bitbucket.org,extended-matching
 DOMAIN-SUFFIX,bitwarden.com,extended-matching
 DOMAIN-SUFFIX,bitwarden.net,extended-matching
 DOMAIN-SUFFIX,blender.org,extended-matching
@@ -104,6 +105,7 @@ DOMAIN-SUFFIX,mb3admin.com,extended-matching
 DOMAIN-SUFFIX,medium.com,extended-matching
 DOMAIN-SUFFIX,mega.co.nz,extended-matching
 DOMAIN-SUFFIX,mega.nz,extended-matching
+DOMAIN-SUFFIX,melpa.org,extended-matching
 DOMAIN-SUFFIX,meta.com,extended-matching
 DOMAIN-SUFFIX,minamigo.moe,extended-matching
 DOMAIN-SUFFIX,monitor.firefox.com,extended-matching

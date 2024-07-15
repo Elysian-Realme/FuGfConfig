@@ -496,6 +496,18 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 .ctv.appsflyer.com
 .dev.appsflyer.com
 
+## Atlassian
+.analytics.atlassian.com
+.xid.atlassian.com
+.xxid.atlassian.com
+.xxid.atl-paas.net
+.bidtellect.atlassian.net
+.cqlcorp.atlassian.net
+.web-security-reports.services.atlassian.com
+.cc-analytics--cdn.us-east-1.prod.public.atl-paas.net
+.wac-web.prod-east.frontend.public.atl-paas.net
+.atlassian-cookies--categories.us-east-1.prod.public.atl-paas.net
+
 ## baidu 百度
 .httpsdns.baidu.com
 .httpdns.baidu.com
@@ -1378,6 +1390,16 @@ vds.rtcp.icbc.com.cn
 image.mybank.icbc.com.cn
 iisp.mbs.boc.cn
 
+## Intercom
+.frontend-telemetry.intercom.io
+.api.intercom.io
+.api-iam.intercom.io
+.mobile-sdk-api.intercom.io
+.via.intercom.io
+.nexus-websocket-a.intercom.io
+.api-iam.intercom.io
+.api-visitor-analytics.intercom.com
+
 ## Iqiyi
 .t7z.cupid.iqiyi.com
 l.rcd.iqiyi.com
@@ -1660,6 +1682,15 @@ ulogs2.gifshow.com
 .iad.e.360.cn
 .ad.iot.360.cn
 
+## LaunchDarkly
+.events.launchdarkly.com
+.mobile.launchdarkly.com
+.events.launchdarkly.us
+.clientstream.launchdarkly.us
+.sdk.launchdarkly.us
+.clientsdk.launchdarkly.us
+.app.launchdarkly.com
+
 ## Manmanbuy 慢慢买
 applog.manmanbuy.com
 
@@ -1918,6 +1949,9 @@ office.microsoft.com.mcas-df.ms
 .h5collector.mihoyo.com
 .h5log-api-dualstack.mihoyo.com
 .zzz-log-upload.mihoyo.com
+.sdkstat-cn-ys.mhystatic.com
+.cn-yys-prod-logproxy.mhystatic.com
+*-logproxy.mhystatic.com
 
 ## MobTech 袤博
 .push.mob.com
@@ -5317,3 +5351,8 @@ dynatracegateway.ocbc.id
 .targeting.nzme.arcpublishing.com
 .targeting.tronc.arcpublishing.com
 .analytics.pgncs.notion.so
+.ct.sendgrid.net
+.xid.statuspage.io
+.analytics.wienerberger.al
+.ads1.medium.al
+.ads.gogel.al

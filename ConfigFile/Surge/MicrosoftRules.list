@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,live.com,extended-matching
 DOMAIN-SUFFIX,live.net,extended-matching
 DOMAIN-SUFFIX,microsoft.com,extended-matching
 DOMAIN-SUFFIX,microsoftonline.com,extended-matching
+DOMAIN-SUFFIX,microsofttranslator.com,extended-matching
 DOMAIN-SUFFIX,msauth.net,extended-matching
 DOMAIN-SUFFIX,msftauth.net,extended-matching
 DOMAIN-SUFFIX,msftconnecttest.com,extended-matching
