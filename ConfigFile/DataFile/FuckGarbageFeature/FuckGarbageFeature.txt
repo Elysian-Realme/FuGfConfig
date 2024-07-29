@@ -1,6 +1,10 @@
 # 本文件致力于屏蔽一些流氓软件中的垃圾功能
 # 注意可能您认为的不是垃圾的功能在我这儿是垃圾。使用前请注意
 
+## Font
+.fonts.gstatic.com
+.fonts.googleapis.com
+
 ## 未知来源
 112.224.162.141
 60.28.172.233
@@ -7657,7 +7661,6 @@ smallimg.bevol.com
 qosidc.gcloud.qq.com
 amdc-sibling.alipay.com.cn
 afs.ampaeservices.com
-api.geetest.com
 photogz.photo.store.qq.com
 sns-video-hw.xhscdn.com
 fe-video-qc.xhscdn.com
@@ -7673,9 +7676,6 @@ drink.lemonpiggy.com
 aim-abtesting-sdk.za.group
 xman-xflow-sdk.za.group
 appguard.za.group
-.api.geevisit.com
-.static.geevisit.com
-.gcaptcha4.geevisit.com
 report.futunn.com
 125.39.104.14
 vectorsdk.map.qq.com
@@ -7983,3 +7983,6 @@ www.pol23.buzz
 .statuspage.io
 .intercom.io
 .intercomcdn.com
+.fastly.net
+.mutinycdn.com
+.show.ctrmanager.com

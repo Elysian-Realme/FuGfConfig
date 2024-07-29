@@ -55,6 +55,7 @@
 .fig.io
 
 .anaconda.com
+.anaconda.org
 .jsdelivr.net
 .open-vsx.org
 .yarnpkg.com

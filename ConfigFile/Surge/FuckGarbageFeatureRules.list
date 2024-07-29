@@ -1357,8 +1357,6 @@ DOMAIN-SUFFIX,api.ent.mobileanjian.com,extended-matching
 DOMAIN-SUFFIX,api.fyber.com,extended-matching
 DOMAIN-SUFFIX,api.gameanalytics.com,extended-matching
 DOMAIN-SUFFIX,api.gameofwhales.com,extended-matching
-DOMAIN,api.geetest.com,extended-matching
-DOMAIN-SUFFIX,api.geevisit.com,extended-matching
 DOMAIN-SUFFIX,api.getdrip.com,extended-matching
 DOMAIN-SUFFIX,api.gif.duapps.com,extended-matching
 DOMAIN-SUFFIX,api.glance.inmobi.com,extended-matching
@@ -3512,6 +3510,7 @@ DOMAIN-SUFFIX,fastapi.net,extended-matching
 DOMAIN-SUFFIX,fastg8.pool.iponweb.net,extended-matching
 DOMAIN-SUFFIX,fastlane-adv.rubiconproject.com,extended-matching
 DOMAIN-SUFFIX,fastlane.rubiconproject.com,extended-matching
+DOMAIN-SUFFIX,fastly.net,extended-matching
 DOMAIN,fastonrt-stsdk.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,fc.itmedia.co.jp,extended-matching
 DOMAIN-SUFFIX,fc.yahoo.com,extended-matching
@@ -3555,6 +3554,8 @@ DOMAIN-SUFFIX,folder.adfuture.cn,extended-matching
 DOMAIN-SUFFIX,folder.adsunflower.com,extended-matching
 DOMAIN-SUFFIX,folder.advmob.cn,extended-matching
 DOMAIN-SUFFIX,fonts.ad.admitad.com,extended-matching
+DOMAIN-SUFFIX,fonts.googleapis.com,extended-matching
+DOMAIN-SUFFIX,fonts.gstatic.com,extended-matching
 DOMAIN-SUFFIX,footprintdns.com,extended-matching
 DOMAIN-SUFFIX,forbes.media.net,extended-matching
 DOMAIN-SUFFIX,forbes274355.s.moatpixel.com,extended-matching
@@ -3651,7 +3652,6 @@ DOMAIN-SUFFIX,gbc7.hk.as.criteo.com,extended-matching
 DOMAIN-SUFFIX,gbc8.da.us.criteo.com,extended-matching
 DOMAIN-SUFFIX,gbc8.hk.as.criteo.com,extended-matching
 DOMAIN-SUFFIX,gc.ds.duapps.com,extended-matching
-DOMAIN-SUFFIX,gcaptcha4.geevisit.com,extended-matching
 DOMAIN-SUFFIX,gce-or.bidswitch.net,extended-matching
 DOMAIN-SUFFIX,gce-sc.bidswitch.net,extended-matching
 DOMAIN-SUFFIX,gcheck.carthook.com,extended-matching
@@ -4920,6 +4920,7 @@ DOMAIN-SUFFIX,multi-cluster.directservices.it,extended-matching
 DOMAIN-SUFFIX,mum.alibabachengdun.com,extended-matching
 DOMAIN-SUFFIX,munchkin.marketo.net,extended-matching
 DOMAIN-SUFFIX,musculahq.appspot.com,extended-matching
+DOMAIN-SUFFIX,mutinycdn.com,extended-matching
 DOMAIN-SUFFIX,mv.outbrain.com,extended-matching
 DOMAIN-SUFFIX,mw-encyclopediabritannica.adsbynimbus.com,extended-matching
 DOMAIN-SUFFIX,mwzeom.zeotap.com,extended-matching
@@ -6233,6 +6234,7 @@ DOMAIN-SUFFIX,show-g.mediav.com,extended-matching
 DOMAIN-SUFFIX,show-m.mediav.com,extended-matching
 DOMAIN-SUFFIX,show.3.mediav.com,extended-matching
 DOMAIN,show.bilibili.com,extended-matching
+DOMAIN-SUFFIX,show.ctrmanager.com,extended-matching
 DOMAIN-SUFFIX,show.g.mediav.com,extended-matching
 DOMAIN-SUFFIX,showads-sg.pubmatic.com,extended-matching
 DOMAIN-SUFFIX,showads-sgc.pubmatic.com,extended-matching
@@ -6514,7 +6516,6 @@ DOMAIN-SUFFIX,static.ecorebates.com,extended-matching
 DOMAIN-SUFFIX,static.eu.criteo.net,extended-matching
 DOMAIN-SUFFIX,static.foresee.com,extended-matching
 DOMAIN-SUFFIX,static.gammaplatform.com,extended-matching
-DOMAIN-SUFFIX,static.geevisit.com,extended-matching
 DOMAIN-SUFFIX,static.getclicky.com,extended-matching
 DOMAIN-SUFFIX,static.googleadsserving.cn,extended-matching
 DOMAIN-SUFFIX,static.gridsumdissector.com,extended-matching

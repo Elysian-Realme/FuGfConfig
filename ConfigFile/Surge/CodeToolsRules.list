@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,anaconda.com,extended-matching
+DOMAIN-SUFFIX,anaconda.org,extended-matching
 DOMAIN-SUFFIX,android.com,extended-matching
 DOMAIN-SUFFIX,atom.io,extended-matching
 DOMAIN-SUFFIX,brew.sh,extended-matching

@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,chinaunicom.com,extended-matching
 DOMAIN-SUFFIX,chinaunicom.com.hk,extended-matching
 DOMAIN-SUFFIX,cloudfront.net,extended-matching
 DOMAIN-SUFFIX,cn,extended-matching
+DOMAIN-SUFFIX,cnblogs.com,extended-matching
 DOMAIN-SUFFIX,coolapk.com,extended-matching
 DOMAIN-SUFFIX,didialift.com,extended-matching
 DOMAIN-SUFFIX,didiglobal.com,extended-matching

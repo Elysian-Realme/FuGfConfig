@@ -11,6 +11,11 @@
 ##.ad-root
 ###live2d
 
+! google
+google.com##.gb_a
+google.com##.gb_dd
+google.com##.logo
+
 ！icons8
 icons8.com##.by-sell-ads-large
 

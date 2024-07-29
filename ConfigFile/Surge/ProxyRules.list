@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,discord.gg,extended-matching
 DOMAIN-SUFFIX,discord.media,extended-matching
 DOMAIN-SUFFIX,discordapp.com,extended-matching
 DOMAIN-SUFFIX,discordapp.net,extended-matching
+DOMAIN-SUFFIX,doomemacs.org,extended-matching
 DOMAIN-SUFFIX,download-chromium.appspot.com,extended-matching
 DOMAIN-SUFFIX,dropbox-dns.com,extended-matching
 DOMAIN-SUFFIX,dropbox.com,extended-matching
@@ -92,11 +93,13 @@ DOMAIN-SUFFIX,halfs.me,extended-matching
 DOMAIN-SUFFIX,hlj.fun,extended-matching
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
 DOMAIN-SUFFIX,instagram.com,extended-matching
+DOMAIN-SUFFIX,joyreactor.cc,extended-matching
 DOMAIN-SUFFIX,jquery.com,extended-matching
 DOMAIN-SUFFIX,kodi.tv,extended-matching
 DOMAIN-SUFFIX,last.fm,extended-matching
 DOMAIN-SUFFIX,lencr.org,extended-matching
 DOMAIN-SUFFIX,letsencrypt.org,extended-matching
+DOMAIN-SUFFIX,lmsys.org,extended-matching
 DOMAIN-SUFFIX,matrix.org,extended-matching
 DOMAIN-SUFFIX,matters.news,extended-matching
 DOMAIN-SUFFIX,matters.town,extended-matching
@@ -122,6 +125,7 @@ DOMAIN-SUFFIX,ollama.ai,extended-matching
 DOMAIN-SUFFIX,ollama.com,extended-matching
 DOMAIN-SUFFIX,omdbapi.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
+DOMAIN-SUFFIX,opensource.google,extended-matching
 DOMAIN-SUFFIX,openwrt.org,extended-matching
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,pixiv.cat,extended-matching
@@ -154,6 +158,7 @@ DOMAIN-SUFFIX,research.google,extended-matching
 DOMAIN-SUFFIX,resilio.com,extended-matching
 DOMAIN-SUFFIX,reuters.com,extended-matching
 DOMAIN-SUFFIX,rfi.fr,extended-matching
+DOMAIN-SUFFIX,sagernet.org,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
 DOMAIN-SUFFIX,sharepoint.com,extended-matching
 DOMAIN-SUFFIX,sm.ms,extended-matching
@@ -226,4 +231,6 @@ DOMAIN-SUFFIX,winudf.com,extended-matching
 DOMAIN-SUFFIX,woolyss.com,extended-matching
 DOMAIN-SUFFIX,x.com,extended-matching
 DOMAIN-SUFFIX,xiaomi.eu,extended-matching
+DOMAIN-SUFFIX,yandex.ru,extended-matching
+DOMAIN-SUFFIX,yastatic.net,extended-matching
 DOMAIN-SUFFIX,zed.dev,extended-matching

@@ -1180,6 +1180,9 @@ ep*.facebook.com
 .ep7.facebook.com
 .facebook.pr.co
 
+## Fastly
+# fastly-insights.b.pdatatest.fastly.net
+
 ## Firefoxchina
 .firefoxchina.cn
 
@@ -3212,6 +3215,20 @@ api.comm.miui.com
 .web-oao.ssp.yahoo.com
 .apple-finance.query.yahoo.com
 
+## Yandex
+.log.strm.yandex.ru
+.adsdk.yandex.ru
+.clck.yandex.ru
+.soft.export.yandex.ru
+.ysa-static.passport.yandex.ru
+.media-adv.market.yandex.ru
+.adfox.yandex.ru
+.mobpayment.yandex-net.ru
+.ap.yandex-net.ru
+.travel.yandex-net.ru
+.click.sender.yandex.ru
+.adfstat.yandex.ru
+
 ## 优酷 Youku
 atm.youku.com
 fvid.atm.youku.com
@@ -4066,6 +4083,8 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 .bootcss.com
 .staticfile.net
 .staticfile.org
+.51.la
+.acb.bet
 .unionadjs.com
 .xhsbpza.com
 .union.macoms.la
@@ -5356,3 +5375,7 @@ dynatracegateway.ocbc.id
 .analytics.wienerberger.al
 .ads1.medium.al
 .ads.gogel.al
+.client-registry.mutinycdn.com
+.client.mutinycdn.com
+.images.mutinycdn.com
+.user-data.mutinycdn.com

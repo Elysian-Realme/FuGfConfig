@@ -18,6 +18,7 @@ vscodium.now.sh
 
 ## 编辑器
 .zed.dev
+.doomemacs.org
 
 ## proton
 .proton.me
@@ -91,6 +92,10 @@ vscodium.now.sh
 ## duckduckgo
 .duckduckgo.com
 .duckduckco.com
+
+## Yandex
+.yandex.ru
+.yastatic.net
 
 ## lastfm
 .last.fm
@@ -334,3 +339,7 @@ onedrive.live.com
 .chromium.org
 .melpa.org
 .bitbucket.org
+.opensource.google
+.lmsys.org
+.sagernet.org
+.joyreactor.cc
