@@ -99,3 +99,5 @@
 .portswigger.net
 .svelte.dev
 .android.com
+.nodejs.org
+.schemastore.org

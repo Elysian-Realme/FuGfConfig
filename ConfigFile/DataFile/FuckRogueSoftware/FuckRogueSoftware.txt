@@ -16,6 +16,7 @@
 # https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Xtra/domains.txt
 
 ## Adjust
+*-events.adjust.com
 .app.adjust.com
 .s2s.adjust.com
 .app.adjust.net.in
@@ -26,8 +27,48 @@
 .replyapp.adjust.com
 .toreplyapp.adjust.com
 .llpolicyapp.adjust.com
+.try.adjust.com
+.pod7-poetry.adjust.com
+.spellsjewellery.adjust.com
+.swampy.adjust.com
+.sandfly.adjust.com
+.zzyzx.adjust.com
+.snantx.adjust.com
+.lax-zabbix.adjust.com
+.ams-zabbix.adjust.com
+.subscriptiondex.adjust.com
+.rusvax.adjust.com
+.adjust-local-settings.com
+.consent.adjust.world
+.analytics.adjust.world
+.app.adjust.world
+.view.adjust.asia
+.adjust.works
+.ttr.adjust-net.jp
+.aud.adjust-net.jp
+.adjust.net.in
+.ruapp.adjust.com
+.euapp.adjust.com
+.eduapp.adjust.com
+.itapp.adjust.com
+.atapp.adjust.com
+.chatapp.adjust.com
+.rsapp.adjust.com
+.esapp.adjust.com
+.trapp.adjust.com
+.grapp.adjust.com
+.arapp.adjust.com
+.appapp.adjust.com
+.npapp.adjust.com
+.jpapp.adjust.com
+.coapp.adjust.com
+.napp.adjust.com
+
 
 ## Akamai
+.analytics.edgekey.net
+.moatads.com.edgekey.net
+.adx-dre.op.dbankcloud.com.edgekey.net
 .ads.mediaforge.com.edgekey.net
 .snssdk.com.edgekey.net
 .isnssdk.com.edgekey.net
@@ -45,6 +86,11 @@
 .analytics.libertymutual.com.edgekey.net
 .metrics.hackerrank.com.edgekey.net
 .valueclick.com.edgekey.net
+.teads.tv.edgekey.net
+.brightline.tv.edgekey.net
+.everestjs.net.edgekey.net
+.owneriq.net.edgekey.net
+.marketo.net.edgekey.net
 
 ## Alibaba
 # 将阿里系 app 关闭网络权限且从移动网络切换到 Wi-Fi 时，有概率出现
@@ -326,6 +372,9 @@ laz-dorangesource.alicdn.com.w.cdngslb.com
 game.bilibili.com.w.cdngslb.com
 # 岳鹰全景监控
 .px.effirst.com
+.px.wpk.quark.cn
+.cdn-ads.oss-cn-shanghai.aliyuncs.com
+.adash-emas.cn-hangzhou.aliyuncs.com
 
 ## Amap 高德地图
 dualstack-logs.amap.com
@@ -352,9 +401,26 @@ dualstack-logs.amap.com
 .analyticsengine.s3.amazonaws.com
 .advice-ads.s3.amazonaws.com
 .advertising.amazon.de
+.adtago.s3.amazonaws.com
+.adtechvideo.s3.amazonaws.com
 .rcm-de.amazon.de
 .smetrics.flex.amazon.ca
+.smetrics.flex.amazon.co.uk
+.smetrics.flex.amazon.co.jp
 .smetrics.flex.amazon.com.mx
+.smetrics.flex.amazon.com.sg
+.smetrics.flex.amazon.com.au
+.mads-eu.amazon.com
+.devicemessaging.us-east-1.amazon.com
+.assoc-amazon.co.uk
+.us-west-2.compute.amazonaws.com
+.us-east-2.compute.amazonaws.com
+.ap-south-1.compute.amazonaws.com
+.eu-north-1.compute.amazonaws.com
+.us-west-2.elb.amazonaws.com
+.us-east-1.elb.amazonaws.com
+.eu-central-1.elb.amazonaws.com
+.ap-south-1.elb.amazonaws.com
 
 ## Apple
 .iadsdk.apple.com
@@ -370,8 +436,10 @@ dualstack-logs.amap.com
 .inapps.appflyer.com
 .conversions.appsflyer.com
 .skadsdk.appsflyer.com
-api2.appsflyer.com
+.api.appsflyer.com
+.api2.appsflyer.com
 .gedsdk.appsflyer.com
+.hq.appsflyer.com
 .cdn-settings.appsflyersdk.com
 .sdk.appsflyer.tk
 .appsflyer.com.akamaized.net
@@ -381,9 +449,9 @@ api2.appsflyer.com
 .launches.appsflyersdk.com
 .nerytu-launches.appsflyersdk.com
 .gcdsdk.appsflyersdk.com
-appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
-appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
-appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
+.appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com
+.appsflyer-web-1810875176.eu-west-1.elb.amazonaws.com
+.appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 .websdk-dev.appsflyer.com
 .ru.appsflyer.com
 .t.appsflyer.com
@@ -468,6 +536,7 @@ appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 .register.appsflyersdk.com
 .onelink.appsflyersdk.com
 *-api.appsflyersdk.com
+*-ars.appsflyersdk.com
 *-adrevenue.appsflyersdk.com
 *-dynamic-report-api.appsflyersdk.com
 *-skadsdk.appsflyersdk.com
@@ -1319,46 +1388,48 @@ crashlyticsreports-pa.googleapis.com
 .googleadapis.l.google.com
 
 ## Huawei
-servicesupport.hicloud.com
+.dbankcloud.cn
+.dbankcloud.com
+.servicesupport.hicloud.com
 datacollector-*.dt.hicloud.com
 .httpdns.c.cdnhwc2.com
-datacollector-dra.dt.dbankcloud.cn
-datacollector-dra.dt.hicloud.com
-datacollector-drcn.dt.dbankcloud.cn
-datacollector-drcn.dt.hicloud.com
-datacollector-dre.dt.dbankcloud.cn
-datacollector-dre.dt.hicloud.com
-datacollector-drru.dt.dbankcloud.ru
-datacollector-drru.dt.hicloud.com
-grs.dbankcloud.asia
-grs.dbankcloud.cn
-grs.dbankcloud.com
-grs.dbankcloud.eu
-grs.hicloud.com
-grs.platform.dbankcloud.ru
-metrics-dra.dt.dbankcloud.cn
-metrics-dra.dt.hicloud.com
-metrics-drcn.dt.hicloud.com
-metrics-dre.data.dbankcloud.cn
-metrics-dre.dt.dbankcloud.cn
+; datacollector-dra.dt.dbankcloud.cn
+.datacollector-dra.dt.hicloud.com
+; datacollector-drcn.dt.dbankcloud.cn
+.datacollector-drcn.dt.hicloud.com
+; datacollector-dre.dt.dbankcloud.cn
+.datacollector-dre.dt.hicloud.com
+.datacollector-drru.dt.dbankcloud.ru
+.datacollector-drru.dt.hicloud.com
+.grs.dbankcloud.asia
+; grs.dbankcloud.cn
+.grs.dbankcloud.com
+.grs.dbankcloud.eu
+.grs.hicloud.com
+.grs.platform.dbankcloud.ru
+; metrics-dra.dt.dbankcloud.cn
+.metrics-dra.dt.hicloud.com
+.metrics-drcn.dt.hicloud.com
+; metrics-dre.data.dbankcloud.cn
+; metrics-dre.dt.dbankcloud.cn
 metrics.data.hicloud.com
-metrics.dt.dbankcloud.cn
+; metrics.dt.dbankcloud.cn
 metrics.dt.hicloud.com
-metrics1-drcn.dt.dbankcloud.cn
-metrics1.data.dbankcloud.cn
-metrics1.data.hicloud.com
-metrics2.data.hicloud.com
-metrics3.data.hicloud.com
-metrics4.data.hicloud.com
+; metrics1-drcn.dt.dbankcloud.cn
+; metrics1.data.dbankcloud.cn
+.metrics1.data.hicloud.com
+.metrics2.data.hicloud.com
+.metrics3.data.hicloud.com
+.metrics4.data.hicloud.com
 .metrics5.data.hicloud.com
-metrics5.dt.dbankcloud.ru
-metrics6.dt.hicloud.com
-logservice-dra.platform.hicloud.com
-logservice-dre.platform.dbankcloud.cn
-logservice-dre.platform.hicloud.com
-logservice-drru.dt.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
+.metrics5.dt.dbankcloud.ru
+.metrics6.dt.hicloud.com
+.logservice-dra.platform.hicloud.com
+; logservice-dre.platform.dbankcloud.cn
+.logservice-dre.platform.hicloud.com
+.logservice-drru.dt.hicloud.com
+.logservice.hicloud.com
+.logservice1.hicloud.com
 .adx-dre.op.hicloud.com
 .events-dra.op.hicloud.com
 events-*.op.hicloud.com
@@ -1949,6 +2020,7 @@ office.microsoft.com.mcas-df.ms
 .hkrpg-log-upload.mihoyo.com
 .ys-log-upload.mihoyo.com
 .cnuspider.yuanshen.com
+.overseauspider.yuanshen.com
 .h5collector.mihoyo.com
 .h5log-api-dualstack.mihoyo.com
 .zzz-log-upload.mihoyo.com
@@ -2758,7 +2830,11 @@ v6.htdata.qq.com
 .keyrotate.qq.com
 .compliance.tdos.qq.com
 .appservice.qq.com
+.gdc.kg.qq.com
+.nearby.3g.qq.com
+.kde.qq.com
 .nt.qq.com.cn
+.localhost.weixin.qq.com
 
 ## Twitter
 .ads-twitter.com
@@ -2771,6 +2847,11 @@ v6.htdata.qq.com
 .ads-bidder-api.twitter.com
 .ads-twitter.com
 .static.ads-twitter.com
+.ads-api-sandbox.twitter.com
+.cards.twitter.com
+.p.twitter.com
+.urls.api.twitter.com
+.hack-twitter.com
 
 ## Umeng
 .errlog.umeng.com
@@ -2880,25 +2961,34 @@ v6.htdata.qq.com
 .zebra.umeng.com
 .music55.umeng.com
 .qxp1.umeng.com
-z*.cnzz.com
-s*.cnzz.com
-q*.cnzz.com
-.c.cnzz.com
-.z.cnzz.com
-.w.cnzz.com
-.pw.cnzz.com
-.gds.cnzz.com
-.jserr.cnzz.com
-.gxbr.cnzz.com
-.q.cnzz.com
-.vvip.cnzz.com
-.icon.cnzz.com
-.ei.cnzz.com
-.quanjing.cnzz.com
-.online.cnzz.com
-.pcookie.cnzz.com
-.timeserver.cnzz.net
-.pcookie.cnzz.net
+.gf.umenglog.com
+.dev.umeng.com
+.oslogs.umeng.com
+.cnlogs.umeng.com
+.os2logs.umeng.com
+.insp.umeng.com
+.resolve.umeng.com
+.cnzz.com
+.cnzz.net
+;z*.cnzz.com
+;s*.cnzz.com
+;q*.cnzz.com
+;.c.cnzz.com
+;.z.cnzz.com
+;.w.cnzz.com
+;.pw.cnzz.com
+;.gds.cnzz.com
+;.jserr.cnzz.com
+;.gxbr.cnzz.com
+;.q.cnzz.com
+;.vvip.cnzz.com
+;.icon.cnzz.com
+;.ei.cnzz.com
+;.quanjing.cnzz.com
+;.online.cnzz.com
+;.pcookie.cnzz.com
+;.timeserver.cnzz.net
+;.pcookie.cnzz.net
 
 ## Unity3d
 .iads.unity3d.com
@@ -2963,6 +3053,7 @@ az.appstore.vivo.com.cn
 .browserconf.vivo.com.cn
 .vcode-api.vivo.com.cn
 .adxlog-adnet.vivo.com.cn
+.news-abroad.vivo.com
 
 ## Xiaohongshu
 .t-ads.xiaohongshu.com
@@ -3375,6 +3466,8 @@ appcloud2.in.zhihu.com
 .log.cmpassport.com
 .log2.cmpassport.com
 .log1.cmpassport.com
+.config.cmpassport.com
+.log001.cmpassport.com
 
 
 ## 彩云
@@ -3418,7 +3511,9 @@ nissd1.10010.com
 ads.95516.com
 analytics.95516.com
 # 存疑
-tysdk.95516.com
+.tysdk.95516.com
+.ads.95516.com.wscdns.com
+.analytics.95516.com.wscdns.com
 
 ## 同花顺
 recommend.10jqka.com.cn
@@ -3805,6 +3900,7 @@ v3-default.365yg.com
 
 ## 12306
 .ad.12306.cn
+.ad.12306.cn.wscdns.com
 
 ## 数据收集，详见 https://tech.sina.com.cn/i/2019-03-25/doc-ihsxncvh5289363.shtml
 .zzhc.vnet.cn
@@ -3880,7 +3976,10 @@ zxid-m.mobileservice.cn
 .wifi-api1.adsplay.xyz
 .a1.adsplay.xyz
 .gw01.adsplay.xyz
-
+.log.adsplay.net
+.engineering.adsplay.net
+.d.adsplay.net
+.log2.adsplay.net
 
 ## mixpanel
 api-*.mixpanel.com
@@ -3891,6 +3990,7 @@ api-*.mixpanel.com
 .api-compatible.mixpanel.com
 .decide.mixpanel.com
 .switchboard.mixpanel.com
+.mixpanel.tigocloud.net
 
 ## umetrip
 analytics.umetrip.com
@@ -4616,8 +4716,22 @@ ad.cyapi.cn
 .log-live.direct.ly
 .log-marketing.jp
 .log-player.arte.tv
+*-va.bytegsdk.com
+*-sg.bytegsdk.com
 .log-sg.bytegsdk.com
+.log-va.bytegsdk.com
 .gpm-mon-sg.bytegsdk.com
+.gsdk-quic-gcp-sg.bytegsdk.com
+.gpsdk-sg.bytegsdk.com
+.gsdk-sg.bytegsdk.com
+.bsdk-sg.bytegsdk.com
+.bsdk19-sg.bytegsdk.com
+.gsdk-quic-gcp-va.bytegsdk.com
+.gpm-mon-va.bytegsdk.com
+.gpsdk-va.bytegsdk.com
+.gsdk-va.bytegsdk.com
+.gsdk19-va.bytegsdk.com
+.pay-ca.bytegsdk.com
 .log-stats.weathercn.com
 .log-va.tiktokv.com
 .log-vietnamplus-vn.cdn.ampproject.org
@@ -5379,3 +5493,26 @@ dynatracegateway.ocbc.id
 .client.mutinycdn.com
 .images.mutinycdn.com
 .user-data.mutinycdn.com
+.crash-reports.mozilla.com
+.distil.ninja
+*-zvc.mdchat.me
+*-zvc-te-vnso-ne-1.mdchat.me
+*-zvc-te-vnso-ne-2.mdchat.me
+*-zvc-te-vnso-pt-24.mdchat.me
+*-zvc-te-vnso-pt-25.mdchat.me
+*-zvc-te-vnso-pt-33.mdchat.me
+*-zvc-te-vnso-pt-34.mdchat.me
+*-zvc-te-vnso-pt-35.mdchat.me
+*-zvc-te-vnso-pt-42.mdchat.me
+*-zvc-te-vnso-pt-43.mdchat.me
+*-zvc-te-vnso-pt-45.mdchat.me
+.adoric-om.com
+; app.adoric-om.com
+; api.adoric-om.com
+; alpha.adoric-om.com
+.topprofitablecpm.com
+.profitablegatecpm.com
+.highrevenuecpm.com
+.highperformancecpm.com
+.highcpmrevenuenetwork.com
+.revenuenetworkcpm.com

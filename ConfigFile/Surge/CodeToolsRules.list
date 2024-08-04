@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,kali.cs.nycu.edu.tw,extended-matching
 DOMAIN-SUFFIX,kali.org,extended-matching
 DOMAIN-SUFFIX,maven.apache.org,extended-matching
 DOMAIN-SUFFIX,myoctocat.com,extended-matching
+DOMAIN-SUFFIX,nodejs.org,extended-matching
 DOMAIN-SUFFIX,npm.community,extended-matching
 DOMAIN-SUFFIX,npmjs.com,extended-matching
 DOMAIN-SUFFIX,npmjs.org,extended-matching
@@ -59,6 +60,7 @@ DOMAIN-SUFFIX,pythonDOMAINed.org,extended-matching
 DOMAIN-SUFFIX,rawgit.com,extended-matching
 DOMAIN-SUFFIX,rawgithub.com,extended-matching
 DOMAIN-SUFFIX,remix.run,extended-matching
+DOMAIN-SUFFIX,schemastore.org,extended-matching
 DOMAIN-SUFFIX,supabase.com,extended-matching
 DOMAIN-SUFFIX,svelte.dev,extended-matching
 DOMAIN-SUFFIX,tensorflow.org,extended-matching

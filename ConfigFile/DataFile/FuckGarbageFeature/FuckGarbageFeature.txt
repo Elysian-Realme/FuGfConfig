@@ -7914,8 +7914,6 @@ www.pol23.buzz
 .quark.cn
 .ugsdk.cn
 .snstack.cn
-.cnzz.com
-.cnzz.net
 .adswizz.com
 .go.wsockd.com
 .app.ss-tjd.com
@@ -7986,3 +7984,17 @@ www.pol23.buzz
 .fastly.net
 .mutinycdn.com
 .show.ctrmanager.com
+.tanx.com
+.spocs.getpocket.com
+.monetag.com
+.szilinklong.weixin.com
+.shortcloud.weixin.com
+.longcloud.weixin.com
+.serveteck.com
+.rudderstack.com
+.substack.com
+.illusionblack.com
+.wemo2.com
+.backblazeb2.com
+.coolappland1.com
+.createsend1.com
