@@ -1116,16 +1116,19 @@ douyincdn.com.c.cdnhwc3.com
 douyincdn.com.c.volcfcdndvs.com
 .log0-misc-alinc2-hl.amemv.com
 dm-*.toutiao.com
-s*-fe-scm.pglstatp-toutiao.com
-sf*-be-pack.pglstatp-toutiao.com
-sf*-fe-tos.pglstatp-toutiao.com
-v*-be-pack.pglstatp-toutiao.com
+; s*-fe-scm.pglstatp-toutiao.com
+; sf*-be-pack.pglstatp-toutiao.com
+; sf*-fe-tos.pglstatp-toutiao.com
+; v*-be-pack.pglstatp-toutiao.com
 .dm-hl.toutiao.com
 .ether-pack.pangolin-sdk-toutiao.com
 .dsp.toutiao.com
+.pglstatp-toutiao.com
 .pangolin-sdk-toutiao.com
+.pangolin-sdk-toutiao1.com
 .partner.toutiao.com
 .sm.toutiao.com
+.mon.toutiao.com
 .zhanzhang.toutiao.com
 .nativeapp.toutiao.com
 .adshare.toutiao.com
@@ -1171,6 +1174,36 @@ v*-be-pack.pglstatp-toutiao.com
 *-useast2a.tiktokcdn-eu.com
 *-sign.tiktokcdn-eu.com
 *-ie.tiktokcdn-eu.com
+.lf3-unity.bytetos.com
+.lf9-aweme-saveu.bytetos.com
+.lf26-aweme-saveu.bytetos.com
+.lf5-aweme-saveu.bytetos.com
+.lf3-aweme-saveu.bytetos.com
+.lf3-short.bytetos.com
+.lf9-infras.bytetos.com
+.lf6-infras.bytetos.com
+.lf26-infras.bytetos.com
+.lf3-infras.bytetos.com
+.lf3-csp.bytetos.com
+.lf9-creativelab-sign.bytetos.com
+.n98-lf-toutiao-saveu-ncdn.bytetos.com
+.n98-lf-aweme-lite-saveu-ncdn.bytetos.com
+.n98-lf-aweme-saveu-ncdn.bytetos.com
+.n98-lf-common-release-ncdn.bytetos.com
+.lf3-beecdn.bytetos.com
+.lf3-pendah.bytetos.com
+.lf6-awef.bytetos.com
+.lf26-common-release.bytetos.com
+.lf-douyin-search-fe.bytetos.com
+.lf9-sec.bytetos.com
+.lf3-sec.bytetos.com
+.lf-c-flwb.bytetos.com
+.lf9-pitaya.bytetos.com
+.lf6-pitaya.bytetos.com
+.lf26-pitaya.bytetos.com
+.lf3-pitaya.bytetos.com
+.lf3-ea.bytetos.com
+.sf19-scmcdn-va.ibytedtos.com
 
 ## CSDN
 .event.csdn.net
@@ -1202,6 +1235,7 @@ log.cmbchina.com
 ccclub.cmbchina.com
 yl.zh.cmbchina.com
 sodefaultwordapi.paas.cmbchina.com
+.bas.cmbchina.cn
 
 ## DNS 小厂
 .opendns.com
@@ -1354,15 +1388,22 @@ ssl-google-analytics.l.google.com
 .googlesyndication.com
 .pagead2.googlesyndication.com
 crashlyticsreports-pa.googleapis.com
-.adservice.google.com.uy
+.adservice.google.am
 .adservice.google.az
-.adservice.google.com.cy
-.adservice.google.co.zw
 .adservice.google.rw
 .adservice.google.mw
+.adservice.google.mv
+.adservice.google.gm
+.adservice.google.dm
+.adservice.google.cm
+.adservice.google.tl
 .adservice.google.com.kw
 .adservice.google.com.sv
-.adservice.google.mv
+.adservice.google.com.jm
+.adservice.google.com.uy
+.adservice.google.com.cy
+.adservice.google.com.om
+.adservice.google.co.zw
 .fcmatch.google.com
 .gg.google.com
 .optimize.google.com
@@ -1386,9 +1427,16 @@ crashlyticsreports-pa.googleapis.com
 .appspot-preview.l.google.com
 .static-doubleclick-net.l.google.com
 .googleadapis.l.google.com
+.ampcid.google.am
+.ampcid.google.gm
+.ampcid.google.im
+.ampcid.google.dm
+.ampcid.google.cm
+.ampcid.google.tl
 
 ## Huawei
 .dbankcloud.cn
+.dbankcloud.ru
 .dbankcloud.com
 .servicesupport.hicloud.com
 datacollector-*.dt.hicloud.com
@@ -1453,6 +1501,34 @@ events-*.op.hicloud.com
 .appgallery.cloud.huawei.com
 .store.hispace.hicloud.com
 fastappjump-drcn.hispace.hicloud.com
+.dt.hicloud.com
+.campaign-dra.jos.hicloud.com
+.awap3.jos.hicloud.com
+.dnkeeper.hicloud.com
+.adx-dra.op.hicloud.com
+.sdkserver-dra.op.hicloud.com
+.geo.hicloud.com
+.location.hicloud.com
+.atlas-emui-drcn.hicloud.com
+.geo-drru.platform.hicloud.com
+.geo-drcn.platform.hicloud.com
+.geo-dre.platform.hicloud.com
+.configserver-dra.platform.hicloud.com
+.geo-dra.platform.hicloud.com
+.userbehavior-reader-drcn.himovie.hicloud.com
+.campaigncs-dra.himovie.hicloud.com
+.campaign-himovie.hicloud.com
+.connect-dre.hispace.hicloud.com
+.wap3.hispace.hicloud.com
+.wap2.hispace.hicloud.com
+.campaign-dre.music.hicloud.com
+.campaign-music.hicloud.com
+.opsdata.hicloud.com
+.healthdata.hicloud.com
+.push9.hicloud.com
+.push6.hicloud.com
+.push5.hicloud.com
+.push1.hicloud.com
 
 ## Icbc
 devreaf.icbc.com.cn
@@ -1639,6 +1715,13 @@ fcapi-ipv6.jpush.cn
 .api.jpush.cn
 .fcapi.jpush.cn
 .bjim64.jpush.cn
+.status-ipv6.jpush.cn
+.stats-ipv6.jpush.cn
+.sis-ipv6.jpush.cn
+.tsis-ipv6.jpush.cn
+.user-ipv6.jpush.cn
+.bjuser-ipv6.jpush.cn
+.config-ipv6.jpush.cn
 .lcs.dev.surepush.cn
 .susapi.dev.surepush.cn
 .test.surepush.cn
@@ -1683,7 +1766,19 @@ fcapi-ipv6.jpush.cn
 ulogs2.gifshow.com
 .ad.partner.gifshow.com
 .log-sdk.gifshow.com
+.wlog.gifshow.com
+.isp-report.gifshow.com
+.multi-az-ulog.gifshow.com
 .gdfp.gifshow.com
+.kds-cny.kwd.inkuai.com
+.redirectinteractionact.kwd.inkuai.com
+.apidns-js.kwd.inkuai.com
+.oly-warmup.kwd.inkuai.com
+.redirectinteractionact-vod.kwd.inkuai.com
+.v4v6.kwd.inkuai.com
+.v6.inkuai.com
+*-report.gifshow.com
+*-upload-js.gifshow.com
 
 ## laji 2345
 .2345.com
@@ -1755,6 +1850,9 @@ ulogs2.gifshow.com
 .shake.360.cn
 .iad.e.360.cn
 .ad.iot.360.cn
+.inst.360safe.com
+.mob.s.360safe.com
+.dl.360safe.com
 
 ## LaunchDarkly
 .events.launchdarkly.com
@@ -1785,6 +1883,9 @@ lx0.meituan.com
 .babel-statistics-android.d.meituan.net
 postreport.meituan.com
 appsec-mobile.meituan.com
+.wreport.meituan.net
+.wreport1.meituan.net
+.dreport.meigtuan.net
 
 ## Mgtv
 .log.mgtv.com
@@ -1836,9 +1937,9 @@ c.*.msn.com
 .microsoft-us.evyy.net
 .microsoft-ware.com
 .microsoft.updatecatalogs.com
-schemas.microsoft.akadns.net
+.schemas.microsoft.akadns.net
 # Visual Studio App Center
-in.appcenter.ms
+.in.appcenter.ms
 # others
 settings-win.data.microsoft.com
 .vortex.data.microsoft.com
@@ -2002,6 +2103,14 @@ bn4sch101120814.wns.windows.com
 outlook.live.net.mcas-df.ms
 outlook.office.net.mcas-df.ms
 office.microsoft.com.mcas-df.ms
+.analytics-dev-lleap-events.servicebus.windows.net
+.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
+.prod-sb-appanalytics-us1.servicebus.windows.net
+.waws-prod-bn1-027.vip.azurewebsites.windows.net
+.palmendeals.blob.core.windows.net
+.securityzones.blob.core.windows.net
+.huntingservices.blob.core.windows.net
+.tenmaxsgads.blob.core.windows.net
 
 ## Mihoyo 米哈游
 .client-report.bh3.com
@@ -2011,22 +2120,24 @@ office.microsoft.com.mcas-df.ms
 .log-upload-os.hoyoverse.com
 .ad-log-upload-os.mihoyo.com
 .ad-log-upload-os.hoyoverse.com
-.uspider.yuanshen.com
-# firebaselogging-pa.mihoyo.com
-# firebaseremoteconfig.mihoyo.com
-# .exam-ios-jp.bh3.com
-.ad-log-upload.mihoyo.com
-.log-upload-eur.mihoyo.com
-.hkrpg-log-upload.mihoyo.com
-.ys-log-upload.mihoyo.com
-.cnuspider.yuanshen.com
-.overseauspider.yuanshen.com
 .h5collector.mihoyo.com
 .h5log-api-dualstack.mihoyo.com
-.zzz-log-upload.mihoyo.com
 .sdkstat-cn-ys.mhystatic.com
 .cn-yys-prod-logproxy.mhystatic.com
 *-logproxy.mhystatic.com
+.minor-api-os.hoyoverse.com
+.ad-log-upload.mihoyo.com
+.log-upload-eur.mihoyo.com
+.hkrpg-log-upload.mihoyo.com
+.hkrpg-log-upload-os.hoyoverse.com
+.ys-log-upload.mihoyo.com
+.ys-log-upload-os.hoyoverse.com
+.cnuspider.yuanshen.com
+.uspider.yuanshen.com
+.overseauspider.yuanshen.com
+.zzz-log-upload.mihoyo.com
+.apm-log-upload.mihoyo.com
+.apm-log-upload-os.hoyoverse.com
 
 ## MobTech 袤博
 .push.mob.com
@@ -2050,22 +2161,23 @@ api.applink.mob.com
 .sdk.guard.mob.com
 .api.exc.mob.com
 .m.data.mob.com
-.cors.hot-mob.com
-.wpr.hot-mob.com
-.monitor.hot-mob.com
-.dsp.hot-mob.com
-.wap.hot-mob.com
-.cdn.hot-mob.com
-.trk.hot-mob.com
-.network.hot-mob.com
-.track.hot-mob.com
-.webapi.hot-mob.com
-.adsite.hot-mob.com
-.code.hot-mob.com
-.ad.hot-mob.com
-.testad.hot-mob.com
 .api.adnet.mob.com
 .cca.mob.com
+.hot-mob.com
+; .cors.hot-mob.com
+; .wpr.hot-mob.com
+; .monitor.hot-mob.com
+; .dsp.hot-mob.com
+; .wap.hot-mob.com
+; .cdn.hot-mob.com
+; .trk.hot-mob.com
+; .network.hot-mob.com
+; .track.hot-mob.com
+; .webapi.hot-mob.com
+; .adsite.hot-mob.com
+; .code.hot-mob.com
+; .ad.hot-mob.com
+; .testad.hot-mob.com
 
 ## NetEase 网易
 g*.163.com
@@ -2074,6 +2186,7 @@ e-p*p.163.com
 .httpdns.n.netease.com
 .music.httpdns.c.163.com
 .lofter.httpdns.c.163.com
+.analytics.163.com
 .wanproxy-hz.127.net
 .e-p4p.163.com
 .nex.163.com
@@ -2081,6 +2194,7 @@ e-p*p.163.com
 .n.3g.163.com
 .adgeo.163.com
 .iad.g.163.com
+.ipservice.163.com
 .crashlytics.163.com
 .count.mail.163.com
 .r.mail.163.com
@@ -2094,6 +2208,8 @@ e-p*p.163.com
 .statis.push.netease.com
 .popme.163.com
 .bobo.163.com
+.crash.163.com
+.log.study.163.com
 .f1.p0y.cn
 .f2.p0y.cn
 .fa.163.com
@@ -2119,6 +2235,7 @@ iadmusicmatvideo.music.126.net
 admusicpic.music.126.net
 ## 网易七鱼
 .ap2.qiyukf.com
+.clientlog.music.163.com
 
 ## Nvidia
 .events.gfe.nvidia.com
@@ -2186,6 +2303,9 @@ com-cloud-0-eventsvip-svc-engine.14.0.oppo.cn
 ## Oracle
 tms.oracle.com
 cobrowse.oraclecloud.com
+.go-elqau.oracle.com
+.go.oracle.com
+.go-stage.oracle.com
 
 ## Pdd nmsl 拼多多
 cmtw.pinduoduo.com
@@ -2253,6 +2373,9 @@ log*.sina.cn
 .ad.sina.com.cn
 .logger.sina.cn
 .dns.weibo.cn
+.slog.sina.cn
+.ad.cj.sina.cn
+.adblock.sina.cn
 39.97.128.148/32
 39.97.130.51/32
 .promote.biz.weibo.cn
@@ -2285,10 +2408,12 @@ log*.sina.cn
 .d6.sina.com.cn
 .d4.sina.com.cn
 .d00.sina.com.cn
-sdkapp.mobile.sina.cn
-wbapp.mobile.sina.cn
-sdkclick.mobile.sina.cn
+.sdkapp.mobile.sina.cn
+.wbapp.mobile.sina.cn
+.sdkclick.mobile.sina.cn
+.wapwbclick.mobile.sina.cn
 u1.img.mobile.sina.cn
+.adimg.mobile.sina.cn
 .newspush.sinajs.cn
 .ad.weibo.com
 .hits.sinajs.cn
@@ -2852,6 +2977,8 @@ v6.htdata.qq.com
 .p.twitter.com
 .urls.api.twitter.com
 .hack-twitter.com
+.twitter-backend.grab-colab.com
+.twitter-badges.s3.amazonaws.com
 
 ## Umeng
 .errlog.umeng.com
@@ -2968,6 +3095,7 @@ v6.htdata.qq.com
 .os2logs.umeng.com
 .insp.umeng.com
 .resolve.umeng.com
+.deeplink.umeng.com
 .cnzz.com
 .cnzz.net
 ;z*.cnzz.com
@@ -3023,6 +3151,9 @@ v6.htdata.qq.com
 .analytics.uca.cloud.unity3d.com
 .api.uca.cloud.unity3d.com
 .config.uca.cloud.unity3d.com
+.ads.unitychina.cn
+.unityads.unitychina.cn
+.splash-ads.unitychina.cn
 
 ## Vivo
 avlstatic.vivo.com.cn
@@ -3303,10 +3434,18 @@ api.comm.miui.com
 .analytics.query.yahoo.com
 .ads.yahoo.com
 .advertising.yahoo.com
-.web-oao.ssp.yahoo.com
+.ssp.yahoo.com
+.csp.yahoo.com
+.ybp.yahoo.com
+.yap.yahoo.com
+.p3p.yahoo.com
 .apple-finance.query.yahoo.com
 
 ## Yandex
+.ads.yandex.com
+.clck.yandex.com
+.mc.yandex.com
+.appmetrica.yandex.com
 .log.strm.yandex.ru
 .adsdk.yandex.ru
 .clck.yandex.ru
@@ -3586,6 +3725,7 @@ preferences-mgr.truste.com
 .cdn.trackjs.com
 .my.trackjs.com
 .usage.trackjs.com
+.forwarder.trackjs.com
 
 ## 数美
 # https://help.ishumei.com
@@ -5516,3 +5656,5 @@ dynatracegateway.ocbc.id
 .highperformancecpm.com
 .highcpmrevenuenetwork.com
 .revenuenetworkcpm.com
+cdn.getkoala.com
+api.getkoala.com

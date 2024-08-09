@@ -179,3 +179,4 @@ test-ipv6.com
 .kugou.com
 .gecimi.com
 .cnblogs.com
+.sharpmobi.com

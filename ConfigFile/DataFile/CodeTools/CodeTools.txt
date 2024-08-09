@@ -101,3 +101,5 @@
 .android.com
 .nodejs.org
 .schemastore.org
+.stackoverflow.com
+.stackoverflow.co
