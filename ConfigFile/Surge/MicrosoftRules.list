@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,1drv.ms,extended-matching
 DOMAIN-SUFFIX,akamaized.net,extended-matching
 DOMAIN-SUFFIX,azurewebsites.net,extended-matching
 DOMAIN-SUFFIX,bing.com,extended-matching
+DOMAIN-SUFFIX,bing.net,extended-matching
 DOMAIN-SUFFIX,bingapis.com,extended-matching
 DOMAIN-SUFFIX,hotmail.com,extended-matching
 DOMAIN-SUFFIX,live.com,extended-matching

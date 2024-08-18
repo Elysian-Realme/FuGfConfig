@@ -17,6 +17,7 @@
 .sfx.ms
 .onenote.com
 .bing.com
+.bing.net
 .office.com
 .hotmail.com
 .microsoftonline.com

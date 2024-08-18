@@ -2966,7 +2966,9 @@ v6.htdata.qq.com
 .advertising.twitter.com
 .static.ads-twitter.com
 .syndication.twitter.com
+.ads.x.com
 .ads.twitter.com
+.analytics.x.com
 .analytics.twitter.com
 .ads-api.twitter.com
 .ads-bidder-api.twitter.com
@@ -2979,6 +2981,8 @@ v6.htdata.qq.com
 .hack-twitter.com
 .twitter-backend.grab-colab.com
 .twitter-badges.s3.amazonaws.com
+.ads-api.x.com
+.t.e.x.com
 
 ## Umeng
 .errlog.umeng.com
@@ -3119,6 +3123,8 @@ v6.htdata.qq.com
 ;.pcookie.cnzz.net
 
 ## Unity3d
+.analytics.unity3d.com
+.tracker.unity3d.com
 .iads.unity3d.com
 .unityads.unity3d.com
 .o-iab.mediation.unity3d.com
@@ -3185,6 +3191,9 @@ az.appstore.vivo.com.cn
 .vcode-api.vivo.com.cn
 .adxlog-adnet.vivo.com.cn
 .news-abroad.vivo.com
+.st-ads-jssdk.vivo.com.cn
+.excfgfile-vivofs-asia.vivo.com.cn
+.bhwkju.vivo.com
 
 ## Xiaohongshu
 .t-ads.xiaohongshu.com
@@ -3194,6 +3203,13 @@ az.appstore.vivo.com.cn
 
 ## Xiaomi
 ad.*.xiaomi.com
+tracking.*.miui.com
+report.*.miui.com
+.ad.eu.xiaomi.com
+.ad.rus.xiaomi.com
+.ad.india.xiaomi.com
+.tracking.eu.miui.com
+.report.sp.miui.com
 mistat.*.xiaomi.com
 mistat.intl.xiaomi.com
 .api.miwifi.com
@@ -3458,6 +3474,16 @@ api.comm.miui.com
 .travel.yandex-net.ru
 .click.sender.yandex.ru
 .adfstat.yandex.ru
+.jstracer.yandex.ru
+.push.yandex.ru
+.share.yandex.ru
+.share.yandex.net
+.analytics.mobile.yandex.net
+.banners.mobile.yandex.net
+mc.yandex.md
+mc.yandex.kz
+mc.yandex.by
+mc.yandex.ru
 
 ## 优酷 Youku
 atm.youku.com
@@ -3613,7 +3639,6 @@ appcloud2.in.zhihu.com
 .ad.caiyunapp.com
 .bcd.caiyunapp.com
 
-
 ## we-stats
 us.v2.we-stats.com
 eu.v2.we-stats.com
@@ -3638,6 +3663,11 @@ col.eum-appdynamics.com
 
 ## crashlytics
 .settings.crashlytics.com
+.reports.crashlytics.com
+.firebase-settings.crashlytics.com
+.api.crashlytics.com
+.e.crashlytics.com
+.update.crashlytics.com
 
 ## 联通
 opencloud.wostore.cn
@@ -5658,3 +5688,5 @@ dynatracegateway.ocbc.id
 .revenuenetworkcpm.com
 cdn.getkoala.com
 api.getkoala.com
+.gitcode.net
+.gitcode.csdn.net
