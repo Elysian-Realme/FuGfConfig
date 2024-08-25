@@ -88,6 +88,8 @@ DOMAIN-SUFFIX,gitea.com,extended-matching
 DOMAIN-SUFFIX,gitea.io,extended-matching
 DOMAIN-SUFFIX,gpgtools.org,extended-matching
 DOMAIN-SUFFIX,gravatar.com,extended-matching
+DOMAIN-SUFFIX,hackmd-prod-images.s3-ap-northeast-1.amazonaws.com,extended-matching
+DOMAIN-SUFFIX,hackmd.io,extended-matching
 DOMAIN-SUFFIX,half.plus,extended-matching
 DOMAIN-SUFFIX,halfs.me,extended-matching
 DOMAIN-SUFFIX,hlj.fun,extended-matching

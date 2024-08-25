@@ -7792,6 +7792,7 @@ download.csdn.net
 .getui.com
 .getui.net
 .gepush.com
+.collectui.com
 .shuzilm.cn
 .shuzilm.com
 .trackingio.com
@@ -8009,6 +8010,8 @@ www.pol23.buzz
 .wns.windows.com
 .jpush.cn
 .jpush.com
+.jpush.io
+.jiguang.cn
 .adpush.cn
 .mistrox.pl
 .neplisx.pl
@@ -8020,3 +8023,7 @@ www.pol23.buzz
 .voltss.pl
 .nicfus.pl
 .notvps.pl
+.cl2m.cn
+.cl2009.com
+.games.sina.com.cn
+.bkav.com

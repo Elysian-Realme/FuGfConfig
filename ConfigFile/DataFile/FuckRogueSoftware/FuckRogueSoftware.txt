@@ -1251,6 +1251,7 @@ sodefaultwordapi.paas.cmbchina.com
 .httpdns.huaweicloud.com
 .httpdns.gslb.yy.com
 .httpdns.y5en.com
+.okx-httpdns.com
 
 ## Douban 豆瓣
 .erebor.douban.com
@@ -1282,6 +1283,13 @@ ep*.facebook.com
 .ep2.facebook.com
 .ep7.facebook.com
 .facebook.pr.co
+.hack-facebook.com
+.piratercompte-facebook.com
+.logiciel-pour-pirater-un-compte-facebook.com
+.hacker-un-compte-facebook.com
+.pirate-motdepasse-facebook.com
+.mot-de-passe-facebook.com
+.ita-facebook.com
 
 ## Fastly
 # fastly-insights.b.pdatatest.fastly.net
@@ -1374,6 +1382,7 @@ dnms.getui.com
 .conf.getui.com
 .cname.getui.com
 .static.collectui.com
+.bz.getui.com
 
 ## Google
 .gvt2.com
@@ -1777,12 +1786,20 @@ ulogs2.gifshow.com
 .redirectinteractionact-vod.kwd.inkuai.com
 .v4v6.kwd.inkuai.com
 .v6.inkuai.com
+.ulogjs.gifshow.com
+.uploads1.gifshow.com
+.uploads2.gifshow.com
+.upload3.gifshow.com
+.livejs.gifshow.com
 *-report.gifshow.com
+*-upload-js.gifshow.com
+*-api-js.gifshow.com
 *-upload-js.gifshow.com
 
 ## laji 2345
 .2345.com
 .2345.cn
+.2345.cc
 
 ## laji 360
 .ad.360.cn
@@ -1864,7 +1881,7 @@ ulogs2.gifshow.com
 .app.launchdarkly.com
 
 ## Manmanbuy 慢慢买
-applog.manmanbuy.com
+.applog.manmanbuy.com
 
 ## 美团 Meituan
 .httpdns.meituan.com
@@ -1924,10 +1941,15 @@ c.*.msn.com
 .otf.msn.com
 .rads.msn.com
 .sam.msn.com
-.teams.events.data.microsoft.com
+.ads.microsoft.com
+.events.data.microsoft.com
+.analyticspixel.microsoft.com
+.adsdk.microsoft.com
+.logging.windows.microsoft.com
+; .teams.events.data.microsoft.com
 .adbroker.mp.dse.microsoft.com
 .advertising.microsoft.com
-.ic3.events.data.microsoft.com
+; .ic3.events.data.microsoft.com
 .microsoft-cnd.com
 .microsoft-de.evyy.net
 .microsoft-home-en.com
@@ -1971,9 +1993,9 @@ settings-win.data.microsoft.com
 .i1.services.social.microsoft.com
 .ieonline.microsoft.com
 .ieonlinews.microsoft.com
-.kmwatson.events.data.microsoft.com
-.kmwatsonc.events.data.microsoft.com
-.nw-umwatson.events.data.microsoft.com
+; .kmwatson.events.data.microsoft.com
+; .kmwatsonc.events.data.microsoft.com
+; .nw-umwatson.events.data.microsoft.com
 .rad.microsoft.com
 .redir.metaservices.microsoft.com
 .romeccs.microsoft.com
@@ -1986,8 +2008,8 @@ settings-win.data.microsoft.com
 .statsfe2.ws.microsoft.com
 .telemetry.urs.microsoft.com
 .teredo.ipv6.microsoft.com
-.umwatson.events.data.microsoft.com
-.umwatsonc.events.data.microsoft.com
+; .umwatson.events.data.microsoft.com
+; .umwatsonc.events.data.microsoft.com
 .vortex-sandbox.data.microsoft.com
 .vortex-win-sandbox.data.microsoft.com
 .vortex.data.glbdns2.microsoft.com
@@ -1998,7 +2020,7 @@ settings-win.data.microsoft.com
 .umwatsonc.telemetry.microsoft.us
 .choice.microsoft.com.nsatc.net
 .i1.services.social.microsoft.com.nsatc.net
-.browser.events.data.microsoft.com
+; .browser.events.data.microsoft.com
 .browser.events.data.msn.com
 c.live.com
 c.microsoft.com
@@ -2006,7 +2028,7 @@ c.msn.com
 .pipe.aria.microsoft.com
 .vortex.data.microsoft.com
 vortex.data.msn.com
-.self.events.data.microsoft.com
+; .self.events.data.microsoft.com
 .service.weather.microsoft.com
 .server6.pipe.aria.microsoft.com
 .server7.pipe.aria.microsoft.com
@@ -2114,14 +2136,21 @@ office.microsoft.com.mcas-df.ms
 
 ## Mihoyo 米哈游
 .client-report.bh3.com
+*-log-upload.mihoyo.com
+*-log-upload.mihoyo.com.w.kunluncan.com
+*-log-upload-os.mihoyo.com
+apm-log-upload-*.mihoyo.com
 .log-upload.mihoyo.com
 .log.upload.os.mihoyo.com
 .log-upload-os.mihoyo.com
 .log-upload-os.hoyoverse.com
+.d3kgz7jzre4vya.cloudfront.net
+.d1m52owuimzmrz.cloudfront.net
 .ad-log-upload-os.mihoyo.com
 .ad-log-upload-os.hoyoverse.com
 .h5collector.mihoyo.com
 .h5log-api-dualstack.mihoyo.com
+.h5log-api-dualstack.mihoyo.com.w.kunluncan.com
 .sdkstat-cn-ys.mhystatic.com
 .cn-yys-prod-logproxy.mhystatic.com
 *-logproxy.mhystatic.com
@@ -2131,13 +2160,19 @@ office.microsoft.com.mcas-df.ms
 .hkrpg-log-upload.mihoyo.com
 .hkrpg-log-upload-os.hoyoverse.com
 .ys-log-upload.mihoyo.com
+.ys-log-upload.mihoyo.com.w.kunluncan.com
 .ys-log-upload-os.hoyoverse.com
 .cnuspider.yuanshen.com
 .uspider.yuanshen.com
 .overseauspider.yuanshen.com
 .zzz-log-upload.mihoyo.com
 .apm-log-upload.mihoyo.com
+.apm-log-upload.mihoyo.com.w.kunluncan.com
+.apm-log-upload-v6.mihoyo.com
+.apm-log-upload-v6.mihoyo.com.w.kunluncan.com
 .apm-log-upload-os.hoyoverse.com
+.sdk-log-upload.mihoyo.com
+.sdk-log-upload.mihoyo.com.w.kunluncan.com
 
 ## MobTech 袤博
 .push.mob.com
@@ -2236,6 +2271,12 @@ admusicpic.music.126.net
 ## 网易七鱼
 .ap2.qiyukf.com
 .clientlog.music.163.com
+.fp-upload.dun.163.com
+.upload.easyread.163.com
+.sentry.music.163.com
+.clientlog3.music.163.com
+.mmonitor.cc.163.com
+.ulink.cc.163.com
 
 ## Nvidia
 .events.gfe.nvidia.com
@@ -2421,6 +2462,8 @@ u1.img.mobile.sina.cn
 .tjs.sjs.sinajs.cn
 .simg.sinajs.cn
 .log.mix.sina.com.cn
+.ping4.sina.cn
+.ping64.sina.cn
 
 ## Smzdm 什么值得买
 .sentry-monitor-new.zdmimg.com
@@ -5612,12 +5655,15 @@ dynatracegateway.ocbc.id
 .req1.appads.com
 .saturn1.appads.com
 .neptune1.appads.com
+.t.appads.in
+.us-tracker.appads.in
+.sg-tracker.appads.in
+.req.appads.in
 .test-sentry.chatglm.cn
 .analysis.chatglm.cn
 .sfile.chatglm.cn
 .ad.cdnjm.cn
 *-rtb1.rfihub.com
-.events.data.microsoft.com
 .analytics.intern.b1-systems.de
 .security.snyk.io
 .ip.ictapi.xyz
@@ -5690,3 +5736,11 @@ cdn.getkoala.com
 api.getkoala.com
 .gitcode.net
 .gitcode.csdn.net
+.sy.cl2m.cn
+.cn.rongnav.com
+.sg.rongnav.com
+.sg-b.rongnav.com
+.nlb-lnz2doj0ra6vlmexfu.cn-beijing.nlb.aliyuncs.com
+.analytics.bkav.com
+.report.bkav.com
+.whonaiwu.com

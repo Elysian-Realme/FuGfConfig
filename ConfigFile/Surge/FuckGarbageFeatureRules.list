@@ -2024,6 +2024,7 @@ DOMAIN-SUFFIX,bishengcompiler.cn,extended-matching
 DOMAIN-SUFFIX,bitmedianetwork.com,extended-matching
 DOMAIN-SUFFIX,bj.imp.voiceads.cn,extended-matching
 DOMAIN-SUFFIX,bk.r-ad.ne.jp,extended-matching
+DOMAIN-SUFFIX,bkav.com,extended-matching
 DOMAIN-SUFFIX,bkrtx.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,bkt.clouddn.com,extended-matching
 DOMAIN-SUFFIX,bktr2-06hdl.ads.tremorhub.com,extended-matching
@@ -2614,6 +2615,8 @@ DOMAIN-SUFFIX,ck.solocpm.com,extended-matching
 DOMAIN-SUFFIX,ckmap.mediav.com,extended-matching
 DOMAIN-SUFFIX,cks.connatix.com,extended-matching
 DOMAIN-SUFFIX,cl-gmtdmp.mookie1.com,extended-matching
+DOMAIN-SUFFIX,cl2009.com,extended-matching
+DOMAIN-SUFFIX,cl2m.cn,extended-matching
 DOMAIN-SUFFIX,clad.perfectcorp.com,extended-matching
 DOMAIN-SUFFIX,clck.lentainform.com,extended-matching
 DOMAIN-SUFFIX,clean.adups.com,extended-matching
@@ -2765,6 +2768,7 @@ DOMAIN-SUFFIX,collector.stats.socialquantum.ru,extended-matching
 DOMAIN-SUFFIX,collector.tealeaf.ibmcloud.com,extended-matching
 DOMAIN-SUFFIX,collector.xhamster.com,extended-matching
 DOMAIN-SUFFIX,collectoru.us.tvsquared.com,extended-matching
+DOMAIN-SUFFIX,collectui.com,extended-matching
 DOMAIN-SUFFIX,colossusssp.com,extended-matching
 DOMAIN-SUFFIX,com-fcagroup.netmng.com,extended-matching
 DOMAIN-SUFFIX,com-thebigwillow-prod1.collector.snplow.net,extended-matching
@@ -3623,6 +3627,7 @@ DOMAIN-SUFFIX,game.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,gameanalytics.com,extended-matching
 DOMAIN-SUFFIX,gamebooster.lionmobi.com,extended-matching
 DOMAIN-SUFFIX,gamecenter.qq.com,extended-matching
+DOMAIN-SUFFIX,games.sina.com.cn,extended-matching
 DOMAIN-SUFFIX,gammaplatform.com,extended-matching
 DOMAIN-SUFFIX,gannett.demdex.net,extended-matching
 DOMAIN-SUFFIX,ganon.yahoo.com,extended-matching
@@ -4330,6 +4335,7 @@ DOMAIN-SUFFIX,jampp.com,extended-matching
 DOMAIN-SUFFIX,jelly.mdhv.io,extended-matching
 DOMAIN-SUFFIX,jgl.microad.net,extended-matching
 DOMAIN,jiazhang.qq.com,extended-matching
+DOMAIN-SUFFIX,jiguang.cn,extended-matching
 DOMAIN-SUFFIX,jioads.akamaized.net,extended-matching
 DOMAIN-SUFFIX,jipsegoasho.com,extended-matching
 DOMAIN-SUFFIX,jnn-pa.googleapis.com,extended-matching
@@ -4344,6 +4350,7 @@ DOMAIN-SUFFIX,jp1-bid-ga.adsrvr.org,extended-matching
 DOMAIN-SUFFIX,jp1-bid.adsrvr.org,extended-matching
 DOMAIN-SUFFIX,jpush.cn,extended-matching
 DOMAIN-SUFFIX,jpush.com,extended-matching
+DOMAIN-SUFFIX,jpush.io,extended-matching
 DOMAIN-SUFFIX,js-agent.newrelic.com,extended-matching
 DOMAIN-SUFFIX,js-cdn.dynatrace.com,extended-matching
 DOMAIN-SUFFIX,js-sec.casalemedia.com.edgekey.net,extended-matching
