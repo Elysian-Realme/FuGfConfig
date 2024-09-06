@@ -7017,11 +7017,7 @@ codepush.appcenter.ms
 .apps.admob.com
 .media.admob.com
 .api.altamob.com
-.sms.mob.com
-.guard.mob.com
-.exc.mob.com
-.data.mob.com
-.hot-mob.com
+.mob.com
 .track.knlob.com
 .mobile.measurelib.com
 .tag-st.contextweb.com
@@ -7035,12 +7031,7 @@ codepush.appcenter.ms
 .media-active.contextweb.com
 .bid.contextweb.com
 .sjc-bid.contextweb.com
-.insight.ucweb.com
-.logserver.insight.ucweb.com
-.sdkupgrade.insight.ucweb.com
-.click.union.ucweb.com
-.gjtrack.ucweb.com
-.uc.ucweb.com
+.ucweb.com
 .bms.zeptolab.com
 .engageya.com
 .widget.engageya.com
@@ -7571,7 +7562,7 @@ codepush.appcenter.ms
 .ads.avct.cloud
 .sitegenesis.production.deckers.coremedia.cloud
 .adjust.world
-.app.adjust.world
+.adjust.cn
 .int.dewrain.world
 .exe.bid
 .content.ad
@@ -8027,3 +8018,5 @@ www.pol23.buzz
 .cl2009.com
 .games.sina.com.cn
 .bkav.com
+.ru
+.plausible.io

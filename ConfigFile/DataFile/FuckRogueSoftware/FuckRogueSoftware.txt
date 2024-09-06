@@ -20,7 +20,6 @@
 .app.adjust.com
 .s2s.adjust.com
 .app.adjust.net.in
-.view.adjust.com
 .app.us.adjust.com
 .gps.adjust.com
 .bizapp.adjust.com
@@ -42,7 +41,6 @@
 .consent.adjust.world
 .analytics.adjust.world
 .app.adjust.world
-.view.adjust.asia
 .adjust.works
 .ttr.adjust-net.jp
 .aud.adjust-net.jp
@@ -63,10 +61,33 @@
 .jpapp.adjust.com
 .coapp.adjust.com
 .napp.adjust.com
-
+.analytics.adjust.io
+.s2s.adjust.io
+.s2s.adjust.cn
+.app.adjust.io
+.app.adjust.cn
+.mobile.adjust.com
+.rdns.adjust.com
+.view.adjust.com
+.view.adjust.world
+.view.adjust.io
+.view.adjust.asia
+.ssrv.adjust.cn
+.consent.adjust.cn
+.analytics.adjust.cn
+.gdpr.adjust.cn
+.subscription.adjust.cn
+.dan.adjust.cn
+.office.adjust.cn
+.unbotify.adjust.cn
+.de.adjust.com
+.kube-stride.adjust.com
+.kpi-service.adjust.com
+.office.adjust.com
 
 ## Akamai
 .analytics.edgekey.net
+.adservrs.com.edgekey.net
 .moatads.com.edgekey.net
 .adx-dre.op.dbankcloud.com.edgekey.net
 .ads.mediaforge.com.edgekey.net
@@ -75,6 +96,10 @@
 .sgsnssdk.com.edgekey.net
 .ads.tiktok.com.edgekey.net
 .analytics.tiktok.com.edgekey.net
+.analytics.etoro.com.edgekey.net
+.advertising.amazon.com.edgekey.net
+.analytics.dealmoon.com.edgekey.net
+.analytics.fbgcdn.com.edgekey.net
 .analytics.gmc.com.edgekey.net
 .unityads.unity3d.com.edgekey.net
 .evidon.com.edgekey.net
@@ -97,6 +122,8 @@
 .httpdns.alicdn.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
+log*.mmstat.com
+log-v*.mmstat.com
 203.107.1.0/24
 jtrn.is.autonavi.com.gds.alibabadns.com
 log-v6.mmstat.com.gds.alibabadns.com
@@ -127,6 +154,14 @@ agoo-report.m.taobao.com
 .ac.mmstat.com
 .gxb.mmstat.com
 .yt1.mmstat.com
+.log7.mmstat.com
+.yt-v6.mmstat.com
+.wgo-v6.mmstat.com
+.gm-v6.mmstat.com
+.log-v6.mmstat.com
+.hd-v6.mmstat.com
+.log5.mmstat.com
+.log1.mmstat.com
 .gdsns1.mmstat.com
 .applog.uc.cn
 tui.taobao.com
@@ -215,10 +250,14 @@ m.intl.taobao.com
 yixiu-abtest.alicdn.com
 # IP 屏蔽
 39.107.142.158
-# 存疑
 .h-adashx.ut.taobao.com
 .h-adashx.ut.dingtalk.com
-; .audid-api.taobao.com # 审核完成可以放开
+.baichuan-sdk.taobao.com
+.nbsdk-baichuan.m.taobao.com
+.bcfeedback.taobao.com
+.audid-api.taobao.com
+.audid-api-sg.taobao.com
+.pcookie.taobao.com
 .optimus-ads.amap.com
 .nbsdk-baichuan.alicdn.com
 .nbsdk-baichuan.taobao.com
@@ -257,9 +296,10 @@ ssp.tanx.com
 ai.m.taobao.com
 ai.taobao.com
 temai.taobao.com
-adn.insight.ucweb.com
-adtrack.ucweb.com
-hk.napi.ucweb.com
+.adn.insight.ucweb.com
+.adtrack.ucweb.com
+.adtrack-intl.ucweb.com
+.napi.ucweb.com
 kwurl.ucweb.com
 puds.ucweb.com
 rescn.u3.ucweb.com
@@ -270,6 +310,10 @@ up1.tj.u2.ucweb.com
 up4.ucweb.com
 utp-dmp.ucweb.com
 vs2.gzcu.u3.ucweb.com
+.logssug.ucweb.com
+.gjapplog.ucweb.com
+.apissug-sf.ucweb.com
+.logssug-sf.ucweb.com
 api.mp.uc.cn
 puds.test.uae.uc.cn
 track.uc.cn
@@ -313,6 +357,7 @@ log.video.taobao.com
 .accscdn.m.taobao.com
 .adashx4sg.ut.taobao.com
 .adashx.ut.taobao.com
+.v6-adashx.ut.taobao.com
 .adash-c.m.taobao.com
 .acookie.taobao.com
 .h-adashx4bc.ut.taobao.com
@@ -382,6 +427,11 @@ dualstack-logs.amap.com
 .cgicol.amap.com
 .amap-aos-info-nogw.amap.com
 .adashx.ut.amap.com
+.v6-adashx.ut.amap.com
+.apiinit.amap.com
+.apsrgeo.amap.com
+.dualstack-cgicol.amap.com
+.page.amap.com
 
 ## Amazon
 .aan.amazon.com
@@ -564,6 +614,9 @@ dualstack-logs.amap.com
 .app.bidflyer.com
 .ctv.appsflyer.com
 .dev.appsflyer.com
+.fsdkim.appsflyer.com
+.security.appsflyer.com
+.priority.appsflyer.com
 
 ## Atlassian
 .analytics.atlassian.com
@@ -2135,6 +2188,7 @@ office.microsoft.com.mcas-df.ms
 .tenmaxsgads.blob.core.windows.net
 
 ## Mihoyo 米哈游
+.sentry.mihoyo.com
 .client-report.bh3.com
 *-log-upload.mihoyo.com
 *-log-upload.mihoyo.com.w.kunluncan.com
@@ -2175,6 +2229,7 @@ apm-log-upload-*.mihoyo.com
 .sdk-log-upload.mihoyo.com.w.kunluncan.com
 
 ## MobTech 袤博
+*-api-share.mob.com
 .push.mob.com
 api.applink.mob.com
 .share.mob.com
@@ -2199,6 +2254,32 @@ api.applink.mob.com
 .api.adnet.mob.com
 .cca.mob.com
 .hot-mob.com
+.data.mob.com
+.guard.mob.com
+.exc.mob.com
+.df-mic.mob.com
+.dfe-mic.mob.com
+.public-ct2.hz.gslb.mob.com
+.core.jh.dcp.gslb.mob.com
+.authsms.hk.gslb.mob.com
+.sdk.hk.gslb.mob.com
+.esp.jh.gslb.mob.com
+.sdk.jh.gslb.mob.com
+.core.jh.public.gslb.mob.com
+.dlb.mob.com
+api-share.mob.com
+v6-api-share.mob.com
+; .dcpgateway.dlb.mob.com
+; .common.dlb.mob.com
+; .growdtk.dlb.mob.com
+; .dcpdtk.dlb.mob.com
+; .link.dlb.mob.com
+; .dcpsj.dlb.mob.com
+; .auth.dlb.mob.com
+; .dcpguard.dlb.mob.com
+; .dcppz6.dlb.mob.com
+; .dcpgateway4.dlb.mob.com
+; .push4.dlb.mob.com
 ; .cors.hot-mob.com
 ; .wpr.hot-mob.com
 ; .monitor.hot-mob.com
@@ -2286,6 +2367,8 @@ admusicpic.music.126.net
 .smetrics.nvidia.com
 .click.nvgaming.nvidia.com
 .telemetry.gfe.nvidia.com
+.kratos-telemetry.nvidia.com
+.stt.nvidia.com
 
 ## Oppo
 .httpdns.push.oppomobile.com
@@ -2367,7 +2450,15 @@ th-a.pinduoduo.com
 .log.ergeduoduo.com
 .m.pinduoduo.net
 
+## Plausible
+.status.plausible.io
+.custom.plausible.io
+.journal.plausible.io
+.feedback.plausible.io
+.lb.plausible.io
+
 ## 数字联盟 Shuzilm
+.audd.shuzilm.cn
 .aads.shuzilm.cn
 .caid.shuzilm.cn
 .idaa.shuzilm.cn
@@ -2402,6 +2493,18 @@ th-a.pinduoduo.com
 .wdaa.shuzilm.cn
 .cbsipv4.shuzilm.cn
 .ddi2.shuzilm.cn
+.sg-ddi.shuzilm.cn
+.sg-dai.shuzilm.cn
+.sg-dna.shuzilm.cn
+.sg-daa.shuzilm.cn
+.s.shuzilm.cn
+.rs.shuzilm.cn
+.demo.shuzilm.cn
+.hbk.shuzilm.cn
+.j.shuzilm.cn
+.ddi.shuzilm.cn
+.base.shuzilm.cn
+.daa2.shuzilm.cn
 
 ## Sina
 d*.sina.com.cn
@@ -2410,6 +2513,7 @@ log*.sina.cn
 .log2.sina.cn
 .log.sina.cn
 .ads.sina.com
+.ads.sina.com.cn
 .adimages.sina.com.hk
 .ad.sina.com.cn
 .logger.sina.cn
@@ -2469,10 +2573,12 @@ u1.img.mobile.sina.cn
 .sentry-monitor-new.zdmimg.com
 .shence-import.smzdm.com
 .analytics-api.smzdm.com
+.analytics-api-01.smzdm.com
 .res-ga.smzdm.com
 .bc-ad-vod.zdmimg.com
 .s3.zdmimg.com
 .s2.zdmimg.com
+.eimg.smzdm.com
 
 ## Sohu
 .ads.sohu.com
@@ -2603,6 +2709,8 @@ aid.video.qq.com
 .pinghot.qq.com
 vhotlxp.video.qq.com
 .beacon.qq.com
+.beacon.cdn.qq.com
+.beaconcdn.qq.com
 omgmta.qq.com
 omgmta1.qq.com
 .pingma.qq.com
@@ -2858,7 +2966,6 @@ adnew.qq.com
 agent.sj.qq.com
 apikey.map.qq.com
 apponline.research.qq.com
-beaconcdn.qq.com
 bk.ps2.gamedl.qq.com
 cgi.pub.qq.com
 .clientreport.gfm.qq.com
@@ -3003,6 +3110,19 @@ v6.htdata.qq.com
 .kde.qq.com
 .nt.qq.com.cn
 .localhost.weixin.qq.com
+.advert-prod.hyrz.qq.com
+.rdelivery.qq.com
+.ping.map.qq.com
+.kuaibao.qq.com
+.pinglun.qq.com
+.report.trade.weixin.qq.com
+.report.weishi.qq.com
+.ipv6.kg.qq.com
+.report.upweb.qq.com
+.adsmind.ugdtimg.com.tcdn.qq.com
+.adsmind.gdtimg.com.tcdn.qq.com
+.tmeadbak.y.qq.com
+.sentry.qt.qq.com
 
 ## Twitter
 .ads-twitter.com
@@ -3026,6 +3146,8 @@ v6.htdata.qq.com
 .twitter-badges.s3.amazonaws.com
 .ads-api.x.com
 .t.e.x.com
+.crashlytics.twitter.com
+.scribe.twitter.com
 
 ## Umeng
 .errlog.umeng.com
@@ -3143,6 +3265,15 @@ v6.htdata.qq.com
 .insp.umeng.com
 .resolve.umeng.com
 .deeplink.umeng.com
+.shxy.umeng.com
+.pony.umeng.com
+.opay.umeng.com
+.play.umeng.com
+.youx.umeng.com
+.kbox.umeng.com
+.launchx.umeng.com
+.hwex.umeng.com
+.jddx.umeng.com
 .cnzz.com
 .cnzz.net
 ;z*.cnzz.com
@@ -3167,6 +3298,7 @@ v6.htdata.qq.com
 
 ## Unity3d
 .analytics.unity3d.com
+.analytics.cloud.unity3d.com
 .tracker.unity3d.com
 .iads.unity3d.com
 .unityads.unity3d.com
@@ -3203,6 +3335,12 @@ v6.htdata.qq.com
 .ads.unitychina.cn
 .unityads.unitychina.cn
 .splash-ads.unitychina.cn
+.mz.unity3d.com
+.isx.unity3d.com
+.plausible.it.unity3d.com
+.hwstats.unity3d.com
+.eloqua-trackings.unity3d.com
+.issuetracker.unity3d.com
 
 ## Vivo
 avlstatic.vivo.com.cn
@@ -3243,6 +3381,13 @@ az.appstore.vivo.com.cn
 .crash.xiaohongshu.com
 .spider-tracker.xiaohongshu.com
 .xhsci-hk-cos.xiaohongshu.net
+.s.xiaohongshu.com
+.splash-online-decision.xiaohongshu.com
+.vi.xiaohongshu.com
+.flash.xiaohongshu.com
+.store.xiaohongshu.com
+.referee.xiaohongshu.com
+.apppush-sh5.xiaohongshu.com
 
 ## Xiaomi
 ad.*.xiaomi.com
@@ -5703,6 +5848,9 @@ dynatracegateway.ocbc.id
 .ct.sendgrid.net
 .xid.statuspage.io
 .analytics.wienerberger.al
+.analytics.wienerberger.pl
+.analytics.wienerberger.fi
+.analytics.wienerberger.bg
 .ads1.medium.al
 .ads.gogel.al
 .client-registry.mutinycdn.com
@@ -5744,3 +5892,7 @@ api.getkoala.com
 .analytics.bkav.com
 .report.bkav.com
 .whonaiwu.com
+.nom.telemetrydeck.com
+.api.telemetrydeck.com
+.perf.hsforms.com
+.omni.commercial.pccw.com

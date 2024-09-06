@@ -13,3 +13,4 @@
 *://*.csdn.com/*
 *://*.douyin.com/*
 *://*.tiktok.com/*
+*://*.baike.com/*
