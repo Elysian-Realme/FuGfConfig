@@ -17,6 +17,8 @@
 
 ## Adjust
 *-events.adjust.com
+*-test.adjust.com
+*-backup.adjust.com
 .app.adjust.com
 .s2s.adjust.com
 .app.adjust.net.in
@@ -61,6 +63,39 @@
 .jpapp.adjust.com
 .coapp.adjust.com
 .napp.adjust.com
+.fapp.adjust.com
+.cfapp.adjust.com
+.bfapp.adjust.com
+.2fapp.adjust.com
+.252fapp.adjust.com
+.u002fapp.adjust.com
+.seapp.adjust.com
+.hereapp.adjust.com
+.peapp.adjust.com
+.meapp.adjust.com
+.keapp.adjust.com
+.ieapp.adjust.com
+.eeapp.adjust.com
+.deapp.adjust.com
+.beapp.adjust.com
+.aeapp.adjust.com
+.ltdapp.adjust.com
+.landapp.adjust.com
+.idapp.adjust.com
+.bdapp.adjust.com
+.bybapp.adjust.com
+.clubapp.adjust.com
+.aapp.adjust.com
+.zaapp.adjust.com
+.uaapp.adjust.com
+.saapp.adjust.com
+.maapp.adjust.com
+.asiaapp.adjust.com
+.caapp.adjust.com
+.69app.adjust.com
+.22app.adjust.com
+.1app.adjust.com
+.0app.adjust.com
 .analytics.adjust.io
 .s2s.adjust.io
 .s2s.adjust.cn
@@ -84,6 +119,56 @@
 .kube-stride.adjust.com
 .kpi-service.adjust.com
 .office.adjust.com
+.ssrv.adjust.io
+.redis.adjust.io
+.gdpr.adjust.io
+.pp.adjust.io
+.ap.adjust.io
+.subscription.adjust.io
+.staging.adjust.io
+.archive.adjust.io
+.frontend.adjust.io
+.backend.adjust.io
+.db.adjust.io
+.rsa.adjust.io
+.1view.adjust.com
+.ssrv.adjust.com
+.pembertonrv.adjust.com
+.nickersonrv.adjust.com
+.dev.adjust.com
+.eu.adjust.com
+.next.adjust.com
+.careers.adjust.com
+.mps.adjust.com
+.fls.adjust.com
+.js.adjust.com
+.iq.adjust.com
+.aq.adjust.com
+.p.adjust.com
+.wp.adjust.com
+.backup.adjust.com
+.ftp.adjust.com
+.corp.adjust.com
+.pp.adjust.com
+.ppp.adjust.com
+.netapp.adjust.com
+.frapp.adjust.com
+.educationapp.adjust.com
+.regionapp.adjust.com
+.inapp.adjust.com
+.designapp.adjust.com
+.comapp.adjust.com
+.plapp.adjust.com
+.clapp.adjust.com
+.digitalapp.adjust.com
+.fiapp.adjust.com
+.orgapp.adjust.com
+.trainingapp.adjust.com
+.ip.adjust.com
+.ship.adjust.com
+.dhcp.adjust.com
+.roadmap.adjust.com
+.web-sdk-demo.adjust.com
 
 ## Akamai
 .analytics.edgekey.net
@@ -101,6 +186,12 @@
 .analytics.dealmoon.com.edgekey.net
 .analytics.fbgcdn.com.edgekey.net
 .analytics.gmc.com.edgekey.net
+.analytics.chevrolet.com.edgekey.net
+.analytics.walkme.com.edgekey.net
+.analytics.cadillac.com.edgekey.net
+.analytics.nike.com.edgekey.net
+.grpc-analytics.nike.com.edgekey.net
+.ibeat-analytics.com.edgekey.net
 .unityads.unity3d.com.edgekey.net
 .evidon.com.edgekey.net
 .applovin.com.edgekey.net
@@ -116,22 +207,47 @@
 .everestjs.net.edgekey.net
 .owneriq.net.edgekey.net
 .marketo.net.edgekey.net
+.v6analytics.htmedia.in.edgekey.net
+.push.io.edgekey.net
+.sentry.com.edgekey.net
+.appsflyersdk.com.edgekey.net
+.analytics-log.withhive.com.edgekey.net
+.iadsdk.apple.com.edgekey.net
+.log.byteoversea.com.edgekey.net
+.aniview.com.edgekey.net
+; go.aniview.com.edgekey.net
+; wl.aniview.com.edgekey.net
+; data4.aniview.com.edgekey.net
+.smetrics.cdw.com.edgekey.net
+.smetrics.att.com.edgekey.net
+.adobetarget.com.edgekey.net
+.rubiconproject.com.edgekey.net
+.smetrics.redhat.com.edgekey.net
+.metrics.macys.com.edgekey.net
+.digital-analytics.amadeus.com.edgekey.net
+.convertexperiments.com.edgekey.net
+.addthis.com.edgekey.net
+.tracking.gs.com.edgekey.net
 
 ## Alibaba
 # 将阿里系 app 关闭网络权限且从移动网络切换到 Wi-Fi 时，有概率出现
 .httpdns.alicdn.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
+*-jmacs.m.taobao.com
+*-acs.m.taobao.com
 log*.mmstat.com
 log-v*.mmstat.com
 203.107.1.0/24
 jtrn.is.autonavi.com.gds.alibabadns.com
 log-v6.mmstat.com.gds.alibabadns.com
 .alipaylog.com
-loggw.alipay.com
-loggw-ex.alipay.com
-agoo-report.m.taobao.com
+.loggw.alipay.com
+.loggw-ex.alipay.com
+.agoo-report.m.taobao.com
 .h-adashx.ut.taobao.com
+.analytics.taobao.com
+.metrics.taobao.com
 .gm.mmstat.com
 .d-gm.mmstat.com
 .s-gm.mmstat.com
@@ -163,6 +279,14 @@ agoo-report.m.taobao.com
 .log5.mmstat.com
 .log1.mmstat.com
 .gdsns1.mmstat.com
+.hz.mmstat.com
+.cctv.mmstat.com
+.ru.mmstat.com
+.ju.mmstat.com
+.p3p.mmstat.com
+.lego.mmstat.com
+.de.mmstat.com
+.ae.mmstat.com
 .applog.uc.cn
 tui.taobao.com
 .fourier.taobao.com
@@ -241,11 +365,36 @@ tanxlog.istreamsche.com
 uuidapi.yunos.com
 osupdateservice.yunos.com
 tvupgrade.yunos.com
-tyh.taobao.com
-userimg.qunar.com
-w.m.taobao.com
-umengacs.m.taobao.com
-m.intl.taobao.com
+.tyh.taobao.com
+.userimg.qunar.com
+.w.m.taobao.com
+.umengacs.m.taobao.com
+.m.intl.taobao.com
+.acs.m.taobao.com
+.openjmacs.m.taobao.com
+.xjp-jmacs.m.taobao.com
+.gaode-jmacs.m.taobao.com
+.xjp-msgacs.m.taobao.com
+.gaode-acs.m.taobao.com
+.trade-acs.m.taobao.com
+.c-adash.m.taobao.com
+.huodong.m.taobao.com
+.amdc.m.taobao.com
+.detail.taobao.com
+.ald.taobao.com
+.metric.taobao.com
+.acs.wapa.taobao.com
+.click.tz.simba.taobao.com
+.mclick.simba.taobao.com
+.s8.taobao.com
+.amos1.taobao.com
+.metric.webv.taobao.com
+.ju.taobao.com
+.mpp.taobao.com
+.top.taobao.com
+.tbskip.taobao.com
+.wcp.taobao.com
+.eco.taobao.com
 # 一休数据平台
 yixiu-abtest.alicdn.com
 # IP 屏蔽
@@ -420,6 +569,16 @@ game.bilibili.com.w.cdngslb.com
 .px.wpk.quark.cn
 .cdn-ads.oss-cn-shanghai.aliyuncs.com
 .adash-emas.cn-hangzhou.aliyuncs.com
+.ossgw.alicdn.com
+.hudong.alicdn.com
+.log-global.aliyuncs.com
+.mqtt.aliyuncs.com
+.afpssp.alimama.com
+.ad.alimama.com
+.adsz.wagbridge.taobao.alimama.com
+.adsh.wagbridge.taobao.alimama.com
+.adsz.wagbridge.tmall.alimama.com
+.adsh.wagbridge.tmall.alimama.com
 
 ## Amap 高德地图
 dualstack-logs.amap.com
@@ -434,6 +593,8 @@ dualstack-logs.amap.com
 .page.amap.com
 
 ## Amazon
+*-analytics.amazon.com
+*-tracker.corp.amazon.com
 .aan.amazon.com
 .aax-us-east-retail-direct.amazon.com
 .advertising-api-eu.amazon.com
@@ -471,6 +632,13 @@ dualstack-logs.amap.com
 .us-east-1.elb.amazonaws.com
 .eu-central-1.elb.amazonaws.com
 .ap-south-1.elb.amazonaws.com
+.ads-setu-proxy.amazon.com
+.sentry.amazon.com
+.aviary.amazon.com
+.ads.amazon.com
+.mads.amazon.com
+.analytics.amazon.com
+.analytics.search.amazon.com
 
 ## Apple
 .iadsdk.apple.com
@@ -479,6 +647,8 @@ dualstack-logs.amap.com
 .advertising.apple.com
 .api-adservices.apple.com
 .securemetrics.apple.com
+.analytics.itunes.apple.com
+.tracker.apple.com
 
 ## AppsFlyer
 .launches.appsflyer.com
@@ -487,11 +657,17 @@ dualstack-logs.amap.com
 .conversions.appsflyer.com
 .skadsdk.appsflyer.com
 .api.appsflyer.com
+.api.appsflyersdk.com
 .api2.appsflyer.com
+.api2.appsflyersdk.com
 .gedsdk.appsflyer.com
 .hq.appsflyer.com
 .cdn-settings.appsflyersdk.com
+.cdn-testsettings.appsflyersdk.com
+.sdk-services.appsflyersdk.com
 .sdk.appsflyer.tk
+.ars.appsflyersdk.com
+.settings.appsflyersdk.com
 .appsflyer.com.akamaized.net
 .appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 .inapps.appsflyersdk.com
@@ -543,7 +719,9 @@ dualstack-logs.amap.com
 .websdk-stg.appsflyer.com
 .sfmcaf.appsflyer.com
 .adrevenue.appsflyer.com
+.adrevenue.appsflyersdk.com
 .validate.appsflyer.com
+.validate.appsflyersdk.com
 .content.experience.appsflyer.com
 .data.experience.appsflyer.com
 .fvalid.appsflyer.com
@@ -586,14 +764,15 @@ dualstack-logs.amap.com
 .register.appsflyersdk.com
 .onelink.appsflyersdk.com
 *-api.appsflyersdk.com
+*-app.appsflyersdk.com
 *-ars.appsflyersdk.com
+*-attr.appsflyersdk.com
 *-adrevenue.appsflyersdk.com
 *-dynamic-report-api.appsflyersdk.com
 *-skadsdk.appsflyersdk.com
 *-gcdsdk.appsflyersdk.com
 *-dlsdk.appsflyersdk.com
 *-onelink.appsflyersdk.com
-*-attr.appsflyersdk.com
 *-register.appsflyersdk.com
 *-launches.appsflyersdk.com
 *-cdn-settings.appsflyersdk.com
@@ -602,8 +781,10 @@ dualstack-logs.amap.com
 *-impression.appsflyersdk.com
 *-dynamic-config-api.appsflyersdk.com
 *-conversions.appsflyersdk.com
-.sdktest.appsflyer.com
 *-webhandler.appsflyer.com
+*-sdk-services.appsflyersdk.com
+*-validate.appsflyersdk.com
+.sdktest.appsflyer.com
 .it.appsflyer.com
 .careers.appsflyer.com
 .esplinks.appsflyer.com
@@ -617,6 +798,7 @@ dualstack-logs.amap.com
 .fsdkim.appsflyer.com
 .security.appsflyer.com
 .priority.appsflyer.com
+.events.appsflyersdk.com
 
 ## Atlassian
 .analytics.atlassian.com
@@ -883,16 +1065,40 @@ antivirus.baidu.com
 .report-uri.baidu.com
 .jzapi.baidu.com
 .cpu-openapi.baidu.com
-gz.baidubce.com
-verify.baidubce.com
-lss-user.baidubce.com
-bj.baidubce.com
-qifu-api.baidubce.com
-media.baidubce.com
-ns2.baidubce.com
-ns1.baidubce.com
-ubmcmm.baidustatic.com
-cpro2.baidustatic.com
+.sepro.baidu.com
+.tracking.baidu.com
+.tuiguang.baidu.com
+.gz.baidubce.com
+.verify.baidubce.com
+.lss-user.baidubce.com
+.bj.baidubce.com
+.qifu-api.baidubce.com
+.media.baidubce.com
+.ns2.baidubce.com
+.ns1.baidubce.com
+.ubmcmm.baidustatic.com
+.cpro2.baidustatic.com
+.mobojoy.baidu.com
+.mobopay.baidu.com
+.bz-ipdx.baidu.com
+.olimenew.baidu.com
+.ext.baidu.com
+.client.baidu.com
+.bdbus-turbonet.baidu.com
+.lbsonline.pushct.baidu.com
+.imgstat.baidu.com
+.leads.baidu.com
+.hector.baidu.com
+.br.baidu.com
+.androidapp.baidu.com
+.ulogimap.baidu.com
+.newclient.map.baidu.com
+.daup.map.baidu.com
+.loc.map.baidu.com
+.ofloc.map.baidu.com
+.itsdata.map.baidu.com
+.nj.t.bcsp2p.baidu.com
+.analytics.analyticsbaidu.com
 
 ## Bilibili 哔哩哔哩
 .httpdns.bilivideo.com
@@ -1014,53 +1220,75 @@ mbs.boc.cn
 .log-tb.isnssdk.com
 .log.isnssdk.com
 .tobapplog.tobsnssdk.com
-cdn.isnssdk.com
-api-spe.isnssdk.com
-api-spe-c.isnssdk.com
-ichannel-tb.isnssdk.com
-a16-tb.isnssdk.com
-a15-tb.isnssdk.com
-api-spe-b.isnssdk.com
-api-spe-a.isnssdk.com
-i1.isnssdk.com
-i0.isnssdk.com
-mon.sgsnssdk.com
-rtlog.sgsnssdk.com
-api-spe.sgsnssdk.com
-api-spe-c.sgsnssdk.com
-api-spe-b.sgsnssdk.com
-api-spe-a.sgsnssdk.com
-pangolin16.sgsnssdk.com
-i1.sgsnssdk.com
-mcs.itobsnssdk.com
-mcs.tobsnssdk.com
-bcy.snssdk.com
-f-cpay.snssdk.com
-tp-pay.snssdk.com
-vas-lf-x.snssdk.com
-eyeu.snssdk.com
-f-moneyloantest.snssdk.com
-rocket.snssdk.com
-act.snssdk.com
-cs.snssdk.com
-vcs.snssdk.com
-api-test-pcs.snssdk.com
-is-lq.snssdk.com
-i-lq.snssdk.com
-reading-lq.snssdk.com
-gecko-pangle-lq.snssdk.com
-bcy-promo.snssdk.com
-f-moneyloan.snssdk.com
-f-cashloan.snssdk.com
-novelfm.snssdk.com
-aweme-hl.snssdk.com
-gecko-pangle-hl.snssdk.com
-tobapplog.snssdk.com
-learning.snssdk.com
-gecko-pangle-lf.snssdk.com
-judge.snssdk.com
-xgfe.snssdk.com
-rc.snssdk.com
+.cdn.isnssdk.com
+.api-spe.isnssdk.com
+.api-spe-c.isnssdk.com
+.ichannel-tb.isnssdk.com
+.a16-tb.isnssdk.com
+.a15-tb.isnssdk.com
+.api-spe-b.isnssdk.com
+.api-spe-a.isnssdk.com
+.i1.isnssdk.com
+.i0.isnssdk.com
+.tnc16-my.isnssdk.com
+.survey.isnssdk.com
+.share-sg.isnssdk.com
+.rtlog.isnssdk.com
+.log-mva.isnssdk.com
+.f-p-va.isnssdk.com
+.share-va.isnssdk.com
+.f-p-useast2a.isnssdk.com
+.tnc31-normal-useast2a.isnssdk.com
+.hotapi-va-ueast2a-useast2a.isnssdk.com
+.tnc16-useast2a.isnssdk.com
+.tnc31-normal-useast1a.isnssdk.com
+.f-p-va19.isnssdk.com
+.imapi2.isnssdk.com
+.imapi-mu.isnssdk.com
+.imapi-va-oth.isnssdk.com
+.tnc31-normal-alisg.isnssdk.com
+.mon.sgsnssdk.com
+.rtlog.sgsnssdk.com
+.api-spe.sgsnssdk.com
+.api-spe-c.sgsnssdk.com
+.api-spe-b.sgsnssdk.com
+.api-spe-a.sgsnssdk.com
+.pangolin16.sgsnssdk.com
+.i1.sgsnssdk.com
+.mcs.itobsnssdk.com
+.mcs.tobsnssdk.com
+.zbcy.snssdk.com
+.f-cpay.snssdk.com
+.tp-pay.snssdk.com
+.vas-lf-x.snssdk.com
+.eyeu.snssdk.com
+.f-moneyloantest.snssdk.com
+.rocket.snssdk.com
+.act.snssdk.com
+.cs.snssdk.com
+.vcs.snssdk.com
+.api-test-pcs.snssdk.com
+.is-lq.snssdk.com
+.i-lq.snssdk.com
+.reading-lq.snssdk.com
+.gecko-pangle-lq.snssdk.com
+.bcy-promo.snssdk.com
+.f-moneyloan.snssdk.com
+.f-cashloan.snssdk.com
+.novelfm.snssdk.com
+.aweme-hl.snssdk.com
+.gecko-pangle-hl.snssdk.com
+.tobapplog.snssdk.com
+.learning.snssdk.com
+.gecko-pangle-lf.snssdk.com
+.judge.snssdk.com
+.xgfe.snssdk.com
+.rc.snssdk.com
+.log-lq.snssdk.com
+.os-mon.snssdk.com
+.pc-mon.snssdk.com
+.log-lf.snssdk.com
+.logtrace.snssdk.com
 # zijieapi
 *-normal.zijieapi.com
 *-normal-lf.zijieapi.com
@@ -1108,6 +1336,13 @@ neptune-platform.zijieapi.com
 .minigame5-normal.zijieapi.com
 .minigame3-normal.zijieapi.com
 .mssdk.zijieapi.com
+.saveu5-normal-lq.zijieapi.com
+.polaris3-normal-lq.zijieapi.com
+.os-mon.zijieapi.com
+.pc-mon.zijieapi.com
+.ads3-normal.zijieapi.com
+.log5-applog.zijieapi.com
+.polaris5-normal-lf.zijieapi.com
 .tosv.byted.org
 log*-normal-lq.toutiaoapi.com
 log*-normal-hl.toutiaoapi.com
@@ -1257,8 +1492,13 @@ dm-*.toutiao.com
 .lf3-pitaya.bytetos.com
 .lf3-ea.bytetos.com
 .sf19-scmcdn-va.ibytedtos.com
+.api-access.pangolin-sdk-toutiao.com.w.cdngslb.com
+.log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
+.api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
+.api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com
 
 ## CSDN
+.ev.csdn.net
 .event.csdn.net
 .eva2.csdn.net
 .mp-activity.csdn.net
@@ -1280,8 +1520,49 @@ dm-*.toutiao.com
 
 ## Cloudflare
 .cloudflareinsights.com
-tr.www.cloudflare.com
-csp-reporting.cloudflare.com
+.tr.www.cloudflare.com
+.csp-reporting.cloudflare.com
+.cdnjs.cloudflare.st
+.ad.gt.cdn.cloudflare.net
+; pixels.ad.gt.cdn.cloudflare.net
+; p.ad.gt.cdn.cloudflare.net
+; proton.ad.gt.cdn.cloudflare.net
+; hadron.ad.gt.cdn.cloudflare.net
+; seg.ad.gt.cdn.cloudflare.net
+; a.ad.gt.cdn.cloudflare.net
+.testingcf.jsdelivr.net.cdn.cloudflare.net
+.bam.nr-data.net.cdn.cloudflare.net
+.mobile-collector.eu01.nr-data.net.cdn.cloudflare.net
+.sentry.spribe.io.cdn.cloudflare.net
+.sentry.tapsvc.io.cdn.cloudflare.net
+.analytics.afirstsoft.cn.cdn.cloudflare.net
+.doubleverify.com.cdn.cloudflare.net
+.js-sec.indexww.com.cdn.cloudflare.net
+.tynt.com.cdn.cloudflare.net
+.f.convertkit.com.cdn.cloudflare.net
+.scout-cdn.salesloft.com.cdn.cloudflare.net
+.matomo.devexpress.com.cdn.cloudflare.net
+.mediaserver.gvcaffiliates.com.cdn.cloudflare.net
+.media6degrees.com.cdn.cloudflare.net
+.static.flat-ads.com.cdn.cloudflare.net
+.countly-api.mysugr.com.cdn.cloudflare.net
+.cdn.appsflyer.com.cdn.cloudflare.net
+.analytics.notify.elsevier.com.cdn.cloudflare.net
+.v21-feed-ad.ap4r.com.cdn.cloudflare.net
+.static.vidazoo.com.cdn.cloudflare.net
+.matomo.garmin.com.cdn.cloudflare.net
+.cstm-ads.nbcuni.com.cdn.cloudflare.net
+.crazyegg.com.cdn.cloudflare.net
+.attentivemobile.com.cdn.cloudflare.net
+.analytics.credible.com.cdn.cloudflare.net
+.sentry.indeed.com.cdn.cloudflare.net
+.sentry.tapsvc.com.cdn.cloudflare.net
+.newrelic.com.cdn.cloudflare.net
+.stat.made-in-china.com.cdn.cloudflare.net
+.as-sec.casalemedia.com.cdn.cloudflare.net
+.htlb.casalemedia.com.cdn.cloudflare.net
+.footprint.network.cdn.cloudflare.net
+.matomo.mgmt.sharks.cloud.cdn.cloudflare.net
 
 ## Cmbchina 招商银行
 log.cmbchina.com
@@ -1308,6 +1589,7 @@ sodefaultwordapi.paas.cmbchina.com
 
 ## Douban 豆瓣
 .erebor.douban.com
+.push.douban.com
 
 ## Facebook
 .graph.facebook.com
@@ -1343,6 +1625,9 @@ ep*.facebook.com
 .pirate-motdepasse-facebook.com
 .mot-de-passe-facebook.com
 .ita-facebook.com
+.ads.facebook.com
+.metric.internmc.facebook.com
+.metric.beta.facebook.com
 
 ## Fastly
 # fastly-insights.b.pdatatest.fastly.net
@@ -1611,6 +1896,8 @@ iisp.mbs.boc.cn
 .nexus-websocket-a.intercom.io
 .api-iam.intercom.io
 .api-visitor-analytics.intercom.com
+.analytics.mobile-messenger.intercom.com
+.api-visitor-analytics.mobile-messenger.intercom.com
 
 ## Iqiyi
 .t7z.cupid.iqiyi.com
@@ -1738,9 +2025,14 @@ jjnctjd.com
 .lbsgw.m.jd.com
 .blackhole-m.m.jd.com
 .httpfereport.jd.com
+.union.click.jd.com
+.dd-static.jd.com
+.chat1.jd.com
 
 ## Jpush 极光推送
 # .jpush.cn
+*-ipv6.jpush.cn
+*-stat.jpush.cn
 .ali-stats.jpush.cn
 .gd-stats.jpush.cn
 .stats.jpush.cn
@@ -1795,10 +2087,13 @@ fcapi-ipv6.jpush.cn
 .aurorapush.cn
 .aurorapush.com
 .pushcfg.com
-*-ipv6.jpush.cn
 .pushstyle.jpush.cn
 .apns-recv.jpush.cn
 .config.jpush-ipv6.cn
+.bj-api.srv.jpush.cn
+.web-stat.jpush.cn
+.p-fastdfs.jpush.cn
+.device.jpush.cn
 
 ## Kuaishou 快手 gifshow
 .kuaishou.httpdns.pro
@@ -1813,6 +2108,7 @@ fcapi-ipv6.jpush.cn
 .res-warmup-vod.kwd.inkuai.com
 .kkd.kwd.inkuai.com
 .hybrid.kwd.inkuai.com
+.yoda.kwd.inkuai.com
 .res-warmup-static.kwd.inkuai.com
 .ec.kwd.inkuai.com
 .kyoda.kwd.inkuai.com
@@ -1840,6 +2136,10 @@ ulogs2.gifshow.com
 .v4v6.kwd.inkuai.com
 .v6.inkuai.com
 .ulogjs.gifshow.com
+.zt.gifshow.com
+.push.gifshow.com
+.ulog.gifshow.com
+.ulog.v6.gifshow.com
 .uploads1.gifshow.com
 .uploads2.gifshow.com
 .upload3.gifshow.com
@@ -1932,6 +2232,7 @@ ulogs2.gifshow.com
 .sdk.launchdarkly.us
 .clientsdk.launchdarkly.us
 .app.launchdarkly.com
+.tracking.launchdarkly.com
 
 ## Manmanbuy 慢慢买
 .applog.manmanbuy.com
@@ -1970,6 +2271,17 @@ pcweb.v1.mgtv.com
 .ott-v0-al.data.mgtv.com
 .ott.v1.data.mgtv.com
 .crash.data.v2.mgtv.com
+.galaxy.bz.mgtv.com
+.vod-box.bz.mgtv.com
+.collect.bz.mgtv.com
+.credits.bz.mgtv.com
+.floor.bz.mgtv.com
+.layer.bz.mgtv.com
+.encounter.bz.mgtv.com
+.rprain.bz.mgtv.com
+.fantuan.bz.mgtv.com
+.disp.titan.mgtv.com
+.recom.api.mgtv.com
 
 ## 微软 Microsoft
 ## 主要来自 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt ，在此表示感谢
@@ -2191,6 +2503,7 @@ office.microsoft.com.mcas-df.ms
 .sentry.mihoyo.com
 .client-report.bh3.com
 *-log-upload.mihoyo.com
+*-log-upload-v6.mihoyo.com
 *-log-upload.mihoyo.com.w.kunluncan.com
 *-log-upload-os.mihoyo.com
 apm-log-upload-*.mihoyo.com
@@ -2198,6 +2511,7 @@ apm-log-upload-*.mihoyo.com
 .log.upload.os.mihoyo.com
 .log-upload-os.mihoyo.com
 .log-upload-os.hoyoverse.com
+.log-upload-v6.mihoyo.com
 .d3kgz7jzre4vya.cloudfront.net
 .d1m52owuimzmrz.cloudfront.net
 .ad-log-upload-os.mihoyo.com
@@ -2231,8 +2545,9 @@ apm-log-upload-*.mihoyo.com
 ## MobTech 袤博
 *-api-share.mob.com
 .push.mob.com
-api.applink.mob.com
+.api.applink.mob.com
 .share.mob.com
+.sdk.mob.com
 .devs.data.mob.com
 .api.fd.mob.com
 .c.data.mob.com
@@ -2300,9 +2615,11 @@ g*.163.com
 f*.p0y.cn
 e-p*p.163.com
 .httpdns.n.netease.com
+.httpdns-sdk.n.netease.com
 .music.httpdns.c.163.com
 .lofter.httpdns.c.163.com
 .analytics.163.com
+.httpdns.music.163.com
 .wanproxy-hz.127.net
 .e-p4p.163.com
 .nex.163.com
@@ -2372,6 +2689,7 @@ admusicpic.music.126.net
 
 ## Oppo
 .httpdns.push.oppomobile.com
+.httpdns.ocloud.oppomobile.com
 .dragate.dc.oppomobile.com
 adm.0.oppo.cn
 a45090.com.hw.1.oppo.cn
@@ -3760,6 +4078,15 @@ ad.api.mobile.youku.com
 guanggaoad.youku.com
 irs01.youku.com
 pcapp-data-collect.youku.com
+
+## zendesk
+.clarity.zendesk.com
+.sentry.zendesk.com
+.countly.zendesk.com
+.analytics.zendesk.com
+.slotmagie.zendesk.com
+.apac.zendesk.com
+.binomo2.zendesk.com
 
 ## ZhaPian 某诈骗 app 全屏蔽警告⚠
 fzapp.chanct.cn
@@ -5896,3 +6223,9 @@ api.getkoala.com
 .api.telemetrydeck.com
 .perf.hsforms.com
 .omni.commercial.pccw.com
+*-int.adsrvr.org
+*-test.adsrvr.org
+*-lst.adsrvr.org
+*-aerserv.adsrvr.org
+*-openx.adsrvr.org
+*-ext.adsrvr.org

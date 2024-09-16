@@ -104,3 +104,4 @@ mp.weixin.qq.com##.qr_code_pc
 tool.oschina.net##.ad-wrap
 juejin.cn##.wechat-ad
 www.jianshu.com##._3Pnjry
+tanstack.com##div > .sticky.max-h-screen.overflow-y-auto

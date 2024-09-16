@@ -180,3 +180,5 @@ test-ipv6.com
 .gecimi.com
 .cnblogs.com
 .sharpmobi.com
+.fit2cloud.com
+.cctv.com

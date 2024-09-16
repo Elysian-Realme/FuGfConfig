@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,biligame.net,extended-matching
 DOMAIN-SUFFIX,bilivideo.com,extended-matching
 DOMAIN-SUFFIX,byteimg.com,extended-matching
 DOMAIN-SUFFIX,bytescm.com,extended-matching
-DOMAIN,cctv.com,extended-matching
+DOMAIN-SUFFIX,cctv.com,extended-matching
 DOMAIN,cctvpic.com,extended-matching
 DOMAIN-SUFFIX,chinaunicom.com,extended-matching
 DOMAIN-SUFFIX,chinaunicom.com.hk,extended-matching
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,douyutv.com,extended-matching
 DOMAIN,duokan.com,extended-matching
 DOMAIN-SUFFIX,eccdnx.com,extended-matching
 DOMAIN-SUFFIX,edrawsoft.com,extended-matching
+DOMAIN-SUFFIX,fit2cloud.com,extended-matching
 DOMAIN-SUFFIX,gecimi.com,extended-matching
 DOMAIN-SUFFIX,hcaptcha.com,extended-matching
 DOMAIN-SUFFIX,hdslb.com,extended-matching

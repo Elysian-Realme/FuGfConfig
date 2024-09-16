@@ -2983,6 +2983,7 @@ codepush.appcenter.ms
 .geolocation.onetrust.com
 .s.tpctrust.com
 .adjust.com
+.adjust.io
 .content.maropost.com
 .cdn.maropost.com
 .api.maropost.com
@@ -8020,3 +8021,10 @@ www.pol23.buzz
 .bkav.com
 .ru
 .plausible.io
+.fundin.douban.com
+.at4.doubanio.com
+.ruanmei.com
+.adsrvr.org
+.openx.net
+.perimeterx.net
+.alimama.com

@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,hackmd-prod-images.s3-ap-northeast-1.amazonaws.com,extended-matchi
 DOMAIN-SUFFIX,hackmd.io,extended-matching
 DOMAIN-SUFFIX,half.plus,extended-matching
 DOMAIN-SUFFIX,halfs.me,extended-matching
+DOMAIN-SUFFIX,hk,extended-matching
 DOMAIN-SUFFIX,hlj.fun,extended-matching
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
 DOMAIN-SUFFIX,instagram.com,extended-matching
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,kodi.tv,extended-matching
 DOMAIN-SUFFIX,last.fm,extended-matching
 DOMAIN-SUFFIX,lencr.org,extended-matching
 DOMAIN-SUFFIX,letsencrypt.org,extended-matching
+DOMAIN-SUFFIX,lmarena.ai,extended-matching
 DOMAIN-SUFFIX,lmsys.org,extended-matching
 DOMAIN-SUFFIX,matrix.org,extended-matching
 DOMAIN-SUFFIX,matters.news,extended-matching
@@ -150,6 +152,7 @@ DOMAIN-SUFFIX,pureapk.com,extended-matching
 DOMAIN-SUFFIX,pwalist.app,extended-matching
 DOMAIN-SUFFIX,pximg.net,extended-matching
 DOMAIN-SUFFIX,quantumult.app,extended-matching
+DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,raycast.com,extended-matching
 DOMAIN-SUFFIX,redd.it,extended-matching
 DOMAIN-SUFFIX,reddit.com,extended-matching
@@ -162,6 +165,7 @@ DOMAIN-SUFFIX,reuters.com,extended-matching
 DOMAIN-SUFFIX,rfi.fr,extended-matching
 DOMAIN-SUFFIX,sagernet.org,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
+DOMAIN-SUFFIX,sg,extended-matching
 DOMAIN-SUFFIX,sharepoint.com,extended-matching
 DOMAIN-SUFFIX,sm.ms,extended-matching
 DOMAIN-SUFFIX,spacex.com,extended-matching

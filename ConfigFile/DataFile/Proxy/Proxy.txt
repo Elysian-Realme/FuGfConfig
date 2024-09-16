@@ -282,6 +282,7 @@ onedrive.live.com
 .polyfill.io
 .gpgtools.org
 .raycast.com
+raycast-store-extensions.s3-accelerate.amazonaws.com
 .jquery.com
 .adguard.com
 .typlod.io
@@ -345,3 +346,6 @@ onedrive.live.com
 .joyreactor.cc
 .hackmd.io
 .hackmd-prod-images.s3-ap-northeast-1.amazonaws.com
+.lmarena.ai
+.hk
+.sg
