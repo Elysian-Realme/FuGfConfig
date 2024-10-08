@@ -2054,7 +2054,6 @@ jjnctjd.com
 .report.jpush.cn
 .config.jpush.cn
 .config-junion.jpush.cn
-.update.sdk.jiguang.cn
 .im64.jpush.cn
 .bjuser.jpush.cn
 fcapi-ipv6.jpush.cn
@@ -2063,7 +2062,6 @@ fcapi-ipv6.jpush.cn
 .verification.jiguang.cn
 .ums.jiguang.cn
 .api-extra.hzjizhun.com
-.sdk.im.jiguang.cn
 .awake-stats.jpush.cn
 .im.jpush.cn
 .api.jpush.cn
@@ -2094,6 +2092,16 @@ fcapi-ipv6.jpush.cn
 .web-stat.jpush.cn
 .p-fastdfs.jpush.cn
 .device.jpush.cn
+.im.jiguang.cn
+.sdk.jiguang.cn
+.community.jiguang.cn
+.web-stat.jiguang.cn
+.ssp-sdk-status.jiguang.cn
+.ir.jiguang.cn
+.jverification.jiguang.cn
+.polar-sdk-api.jiguang.cn
+.ssp-sdk-api.jiguang.cn
+.smartop-sdkapi-ipv6.jiguang.cn
 
 ## Kuaishou 快手 gifshow
 .kuaishou.httpdns.pro
@@ -2257,6 +2265,7 @@ appsec-mobile.meituan.com
 .wreport.meituan.net
 .wreport1.meituan.net
 .dreport.meigtuan.net
+.pubmsg.meituan.com
 
 ## Mgtv
 .log.mgtv.com
@@ -2285,6 +2294,7 @@ pcweb.v1.mgtv.com
 
 ## 微软 Microsoft
 ## 主要来自 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt ，在此表示感谢
+*-bus-analytics-1-1.servicebus.windows.net
 .nexus.officeapps.live.com
 .nexusrules.officeapps.live.com
 .oca.telemetry.microsoft.us
@@ -2477,6 +2487,14 @@ bn4sch101120814.wns.windows.com
 .measure.office.net
 .ads.bing.com
 .adserver.bing.com
+.bat.bing.com
+.bat.bing.net
+.g.bing.com
+.commerce.bing.com
+.c.bing.com
+.raka.bing.com
+.a4.bing.com
+.telemetry.bing.net
 .nexxtv-events.servicebus.windows.net
 .wayfinderanalytics.servicebus.windows.net
 .analyticsehnwe.servicebus.windows.net
@@ -2541,9 +2559,13 @@ apm-log-upload-*.mihoyo.com
 .apm-log-upload-os.hoyoverse.com
 .sdk-log-upload.mihoyo.com
 .sdk-log-upload.mihoyo.com.w.kunluncan.com
+.devlog-upload-os.hoyoverse.com
+.sentry.eks.hoyoverse.com
+.sg-public-data-api.hoyoverse.com
 
 ## MobTech 袤博
-*-api-share.mob.com
+*-share.mob.com
+*-verify.mob.com
 .push.mob.com
 .api.applink.mob.com
 .share.mob.com
@@ -2557,6 +2579,7 @@ apm-log-upload-*.mihoyo.com
 .verify.mob.com
 .log.sms.mob.com
 .log-verify.mob.com
+.vp-log-verify.mob.com
 .mic.mob.com
 .df.mob.com
 .init.sms.mob.com
@@ -2582,8 +2605,13 @@ apm-log-upload-*.mihoyo.com
 .sdk.jh.gslb.mob.com
 .core.jh.public.gslb.mob.com
 .dlb.mob.com
-api-share.mob.com
-v6-api-share.mob.com
+.api-share.mob.com
+.v6-api-share.mob.com
+.as.aw.mt.mob.com
+.s-mic-oss.mob.com
+.sms.mob.com
+.bigapp.mob.com
+.c.aw.ak.mob.com
 ; .dcpgateway.dlb.mob.com
 ; .common.dlb.mob.com
 ; .growdtk.dlb.mob.com
@@ -2611,6 +2639,10 @@ v6-api-share.mob.com
 ; .testad.hot-mob.com
 
 ## NetEase 网易
+.ad.163.com
+.adimg.163.com
+.analytics.126.net
+.ip.ws.126.net
 g*.163.com
 f*.p0y.cn
 e-p*p.163.com
@@ -2650,7 +2682,13 @@ e-p*p.163.com
 .oimagea2.ydstatic.com
 .pagechoice.net
 .prom.gome.com.cn
+.ad-sdk-config.youdao.com
 .rlogs.youdao.com
+.conv.youdao.com
+.log-yex.youdao.com
+.log.yex.youdao.com
+.sdk-log.youdao.com
+.sdk-log-inter.youdao.com
 .static.flv.uuzuonline.com
 .wanproxy.127.net
 59.111.239.61/32
@@ -2675,6 +2713,45 @@ admusicpic.music.126.net
 .clientlog3.music.163.com
 .mmonitor.cc.163.com
 .ulink.cc.163.com
+.log.uu.163.com
+.ac.dun.163.com
+.apm.music.163.com
+.netapm.music.163.com
+.timejs.game.163.com
+.jxad.jx163.com
+.countly.unus.netease.com
+.pr.nss.netease.com
+.yt-adv.bn.netease.com
+.ad.bn.netease.com
+.sentry.n.netease.com
+.ar.hz.netease.com
+.sentry.netease.com
+.analytics.mpay.netease.com
+.sentry.lx.netease.com
+.advert.lx.netease.com
+.sentry2.lx.netease.com
+.vmonitor.ws.netease.com
+.mam.netease.com
+.nstool.netease.com
+.hubble.netease.com
+.da.netease.com
+.mam6.netease.com
+.countly.mail.ntes53.netease.com
+.countlyv6.mail.ntes53.netease.com
+.ad-tj.ntes53.netease.com
+
+## Netflix
+.ads.netflix.com
+.ads.test.netflix.com
+.beacon.netflix.com
+.beaconimages-prod.dradis.netflix.com
+.logs.netflix.com
+.nmtracking.netflix.com
+.beaconimages.test.netflix.net
+.metric.test.netflix.net
+.beaconimages.netflix.net
+.metrics.prod.netflix.net
+.metric.prod.netflix.net
 
 ## Nvidia
 .events.gfe.nvidia.com
@@ -2842,6 +2919,7 @@ log*.sina.cn
 39.97.128.148/32
 39.97.130.51/32
 .promote.biz.weibo.cn
+.ad.passport.weibo.cn
 .gw6.push.mcp.weibo.cn
 .gw5.push.mcp.weibo.cn
 .dp.im.weibo.cn
@@ -2886,6 +2964,8 @@ u1.img.mobile.sina.cn
 .log.mix.sina.com.cn
 .ping4.sina.cn
 .ping64.sina.cn
+.pfpip.sina.com
+.oascentral.sina.com
 
 ## Smzdm 什么值得买
 .sentry-monitor-new.zdmimg.com
@@ -3927,6 +4007,11 @@ api.comm.miui.com
 # qq扫描 bugly 阅读 快应用等api
 # 可能会影响部分功能
 .hub5pn.wap.sandai.net
+.hub5u.sandai.net
+.hubstat.sandai.net
+.cpm.cm.sandai.net
+.mcfg.sandai.net
+.hub5pnc.sandai.net
 .tpstelemetry.tencent.com
 .pssn.alicdn.com
 .statres.quickapp.cn
@@ -3949,11 +4034,26 @@ api.comm.miui.com
 .privacy.miui.com
 .sys.miui.com
 .game.browser.intl.miui.com
+.event.ksosoft.com
+.dw-collect.ksosoft.com
+.ad-stat.ksosoft.com
+.counter.ksosoft.com
+.hoplink.ksosoft.com
+.pixiu.shangshufang.ksosoft.com
+.ic.ksosoft.com
+.adx-static.ksosoft.com
+.haiwai-ic.ksosoft.com
 
 ## Yahoo
+.ad.yahoo.com
 .adserver.yahoo.com
 .analytics.yahoo.com
 .analytics.query.yahoo.com
+.analytics.bid.yahoo.com
+.analytics.mall.yahoo.com
+.analytics.buy.yahoo.com
+.analytics.ouryahoo.com
+.nalytics.buy.yahoo.com
 .ads.yahoo.com
 .advertising.yahoo.com
 .ssp.yahoo.com
@@ -3962,11 +4062,31 @@ api.comm.miui.com
 .yap.yahoo.com
 .p3p.yahoo.com
 .apple-finance.query.yahoo.com
+.ads.auctions.yahoo.com
+.ads.finance.yahoo.com
+.ads.fy.b.yahoo.com
+.ads.vip.sg3.yahoo.com
+.ads.vip.ir2.yahoo.com
+.ads.vip.tp2.yahoo.com
+.ads.gq1.yahoo.com
+.ads.corp.gq1.yahoo.com
+.ads.vip.corp.gq1.yahoo.com
+.ads.vip.gq1.yahoo.com
+.o2.ycpi.vip.gq1.yahoo.com
+.ads.bf1.yahoo.com
+.ads.corp.bf1.yahoo.com
+.ads.vip.corp.bf1.yahoo.com
+.ads.vip.bf1.yahoo.com
+.ads.ne1.yahoo.com
+.ads.vip.ne1.yahoo.com
+.ads.corp.yahoo.com
+.ads.vip.corp.yahoo.com
+.360.yahoo.com
+.onepush.query.yahoo.com
 
 ## Yandex
 .ads.yandex.com
 .clck.yandex.com
-.mc.yandex.com
 .appmetrica.yandex.com
 .log.strm.yandex.ru
 .adsdk.yandex.ru
@@ -3986,10 +4106,15 @@ api.comm.miui.com
 .share.yandex.net
 .analytics.mobile.yandex.net
 .banners.mobile.yandex.net
-mc.yandex.md
-mc.yandex.kz
-mc.yandex.by
-mc.yandex.ru
+.mc.yandex.com
+.mc.yandex.md
+.mc.yandex.kz
+.mc.yandex.by
+.mc.yandex.ru
+.analytics.yandex.kz
+.analytics.yandex.by
+.metric.yandex.by
+.metric.yandex.kz
 
 ## 优酷 Youku
 atm.youku.com
@@ -4113,10 +4238,10 @@ appcloud2.in.zhihu.com
 .zhstatic.zhihu.com
 .datahub.zhihu.com
 .appcloud2.zhihu.com
-
+.adstatic.zhihu.com
+.udd1i5.zhihu.com
 
 ## --------------
-
 
 ## 银河互联网电视
 .doh.ptqy.gitv.tv
@@ -5420,7 +5545,6 @@ ad.cyapi.cn
 .log-stats.weathercn.com
 .log-va.tiktokv.com
 .log-vietnamplus-vn.cdn.ampproject.org
-.log-yex.youdao.com
 .log.120ask.com
 .log.51cto.com
 .log.51wnl-cq.com
@@ -5637,7 +5761,6 @@ log*.optimizely.com
 .log.xoso.com.vn
 .log.yapaytech.com
 .log.ycapp.yiche.com
-.log.yex.youdao.com
 .log.yougameover.com
 .log.ys7.com
 .log.zamba.vn
@@ -5949,7 +6072,6 @@ helper.2bulu.com
 .log.lkjuio.com
 .log.gns.go.com
 .log.kzvepo.com
-.sdk-log-inter.youdao.com
 .store.log.ksyun.com
 .log.allapkdown.com
 .log.modapkdown.com
@@ -6229,3 +6351,9 @@ api.getkoala.com
 *-aerserv.adsrvr.org
 *-openx.adsrvr.org
 *-ext.adsrvr.org
+.geo.mattel163.com
+.ads-sdk.mattel163.com
+.push-sdk.mattel163.com
+.tc-log.mattel163.com
+.rocking-hollywood-news.com
+.gaming-trending-news.com
