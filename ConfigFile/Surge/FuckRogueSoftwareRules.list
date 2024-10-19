@@ -764,6 +764,7 @@ DOMAIN-SUFFIX,analytics.gmc.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.gnetworks.xyz,extended-matching
 DOMAIN-SUFFIX,analytics.gridea.dev,extended-matching
 DOMAIN-SUFFIX,analytics.hz.netease.com,extended-matching
+DOMAIN-SUFFIX,analytics.immersivetranslate.com,extended-matching
 DOMAIN-SUFFIX,analytics.insightly.services,extended-matching
 DOMAIN-SUFFIX,analytics.intern.b1-systems.de,extended-matching
 DOMAIN-SUFFIX,analytics.itunes.apple.com,extended-matching
@@ -772,6 +773,7 @@ DOMAIN-SUFFIX,analytics.libertymutual.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.live.com,extended-matching
 DOMAIN-SUFFIX,analytics.mall.yahoo.com,extended-matching
 DOMAIN-SUFFIX,analytics.map.qq.com,extended-matching
+DOMAIN-SUFFIX,analytics.matetranslate.com,extended-matching
 DOMAIN-SUFFIX,analytics.meituan.com,extended-matching
 DOMAIN-SUFFIX,analytics.meituan.net,extended-matching
 DOMAIN-SUFFIX,analytics.mercadolibre.com.uy,extended-matching
@@ -823,6 +825,7 @@ DOMAIN-SUFFIX,analytics.wienerberger.al,extended-matching
 DOMAIN-SUFFIX,analytics.wienerberger.bg,extended-matching
 DOMAIN-SUFFIX,analytics.wienerberger.fi,extended-matching
 DOMAIN-SUFFIX,analytics.wienerberger.pl,extended-matching
+DOMAIN-SUFFIX,analytics.wikimedia.org,extended-matching
 DOMAIN-SUFFIX,analytics.ws.126.net,extended-matching
 DOMAIN-SUFFIX,analytics.x.com,extended-matching
 DOMAIN-SUFFIX,analytics.xmslol.com,extended-matching
@@ -2065,6 +2068,7 @@ DOMAIN-SUFFIX,events.iap.unity3d.com,extended-matching
 DOMAIN-SUFFIX,events.isprog.com,extended-matching
 DOMAIN-SUFFIX,events.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,events.launchdarkly.us,extended-matching
+DOMAIN-SUFFIX,events.statsigapi.net,extended-matching
 DOMAIN-SUFFIX,everestjs.net.edgekey.net,extended-matching
 DOMAIN-SUFFIX,evidon.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,evilsbedont.de,extended-matching
@@ -2669,6 +2673,8 @@ DOMAIN-SUFFIX,insideruser.trafficmanager.net,extended-matching
 DOMAIN-SUFFIX,insitez.blob.core.windows.net,extended-matching
 DOMAIN-SUFFIX,insp.umeng.com,extended-matching
 DOMAIN-SUFFIX,inst.360safe.com,extended-matching
+DOMAIN-SUFFIX,intake-analytics.wikimedia.org,extended-matching
+DOMAIN-SUFFIX,intake-logging.wikimedia.org,extended-matching
 DOMAIN-SUFFIX,intelserviceupdate.com,extended-matching
 DOMAIN,intl.wapa.taobao.com,extended-matching
 DOMAIN,intl.waptest.taobao.com,extended-matching
@@ -4657,6 +4663,7 @@ DOMAIN-SUFFIX,sentry.n.netease.com,extended-matching
 DOMAIN-SUFFIX,sentry.netease.com,extended-matching
 DOMAIN,sentry.pay.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,sentry.qt.qq.com,extended-matching
+DOMAIN-SUFFIX,sentry.salesmartly.com,extended-matching
 DOMAIN-SUFFIX,sentry.spribe.io.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,sentry.tapsvc.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,sentry.tapsvc.io.cdn.cloudflare.net,extended-matching
@@ -4907,6 +4914,7 @@ DOMAIN-SUFFIX,stats.juicyads.com,extended-matching
 DOMAIN,stats.miui.com,extended-matching
 DOMAIN-SUFFIX,stats.rong-edge.com,extended-matching
 DOMAIN,stats.tudou.com,extended-matching
+DOMAIN-SUFFIX,stats.wikimedia.org,extended-matching
 DOMAIN-SUFFIX,statsfe1.ws.microsoft.com,extended-matching
 DOMAIN-SUFFIX,statsfe2.ws.microsoft.com,extended-matching
 DOMAIN-SUFFIX,statsonline.pushct.baidu.com,extended-matching

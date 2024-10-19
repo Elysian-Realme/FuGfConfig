@@ -5921,6 +5921,7 @@ security-web.cdn-go.cn = 0.0.0.0
 *.sentry.justwatch.com = 0.0.0.0
 sentry.manmanbuy.com = 0.0.0.0
 *.ser.adledge.com = 0.0.0.0
+*.serhiy.io = 0.0.0.0
 *.serpens.iad.appboy.com = 0.0.0.0
 *.serv-api.target2sell.com = 0.0.0.0
 *.serve-prod1204.uberads.com = 0.0.0.0

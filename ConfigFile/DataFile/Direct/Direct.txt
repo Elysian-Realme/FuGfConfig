@@ -183,3 +183,5 @@ test-ipv6.com
 .fit2cloud.com
 .cctv.com
 .ghpym.com
+.vmware.com
+.ntp.org

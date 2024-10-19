@@ -14,3 +14,9 @@
 *://*.douyin.com/*
 *://*.tiktok.com/*
 *://*.baike.com/*
+*://*.bytedance.com/*
+*://cloud.baidu.com/*
+*://cloud.tencent.com/*
+*://www.53ai.com/*
+*://qianfanmarket.baidu.com/*
+*://www.atyun.com/*

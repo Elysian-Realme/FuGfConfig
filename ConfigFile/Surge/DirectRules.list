@@ -93,6 +93,7 @@ DOMAIN,miwifi.com,extended-matching
 DOMAIN-SUFFIX,myqcloud.com,extended-matching
 DOMAIN-SUFFIX,netease.com,extended-matching
 DOMAIN-SUFFIX,npmmirror.com,extended-matching
+DOMAIN-SUFFIX,ntp.org,extended-matching
 DOMAIN-SUFFIX,paipai.com,extended-matching
 DOMAIN,pan.3636360.com,extended-matching
 DOMAIN-SUFFIX,playstation.com,extended-matching
@@ -125,6 +126,7 @@ DOMAIN-SUFFIX,udache.com,extended-matching
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,extended-matching
 DOMAIN,vip.com,extended-matching
 DOMAIN,vipstatic.com,extended-matching
+DOMAIN-SUFFIX,vmware.com,extended-matching
 DOMAIN-SUFFIX,weibo.com,extended-matching
 DOMAIN-SUFFIX,weibocdn.com,extended-matching
 DOMAIN-SUFFIX,weixin.com,extended-matching

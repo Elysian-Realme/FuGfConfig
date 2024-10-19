@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,bitwarden.com,extended-matching
 DOMAIN-SUFFIX,bitwarden.net,extended-matching
 DOMAIN-SUFFIX,blender.org,extended-matching
 DOMAIN-SUFFIX,booth.pm,extended-matching
+DOMAIN-SUFFIX,bsky.app,extended-matching
+DOMAIN-SUFFIX,bsky.network,extended-matching
+DOMAIN-SUFFIX,bsky.social,extended-matching
 DOMAIN-SUFFIX,calibre-ebook.com,extended-matching
 DOMAIN-SUFFIX,campaign-archive.com,extended-matching
 DOMAIN-SUFFIX,cdninstagram.com,extended-matching

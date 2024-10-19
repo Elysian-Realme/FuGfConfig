@@ -8132,3 +8132,4 @@ www.pol23.buzz
 pdns.dnspod.cn
 .dnslog.cn
 .game.weibo.cn
+.serhiy.io

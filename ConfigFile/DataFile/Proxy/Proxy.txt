@@ -59,6 +59,11 @@ vscodium.now.sh
 209.237.192.0/19
 69.195.160.0/19
 
+## Bluesky Social
+.bsky.app
+.bsky.social
+.bsky.network
+
 ## 密码管理器
 .bitwarden.com
 .bitwarden.net

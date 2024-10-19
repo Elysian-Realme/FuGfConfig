@@ -6357,3 +6357,11 @@ api.getkoala.com
 .tc-log.mattel163.com
 .rocking-hollywood-news.com
 .gaming-trending-news.com
+.stats.wikimedia.org
+.analytics.wikimedia.org
+.intake-analytics.wikimedia.org
+.intake-logging.wikimedia.org
+.analytics.immersivetranslate.com
+.analytics.matetranslate.com
+.sentry.salesmartly.com
+.events.statsigapi.net
