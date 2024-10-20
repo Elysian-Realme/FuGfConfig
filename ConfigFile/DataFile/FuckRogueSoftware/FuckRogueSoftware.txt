@@ -234,6 +234,7 @@
 .httpdns.alicdn.com
 .httpdns-api.aliyuncs.com
 .httpdns-sc.aliyuncs.com
+.loggw.alipaydns.com
 *-jmacs.m.taobao.com
 *-acs.m.taobao.com
 log*.mmstat.com
@@ -243,6 +244,7 @@ jtrn.is.autonavi.com.gds.alibabadns.com
 log-v6.mmstat.com.gds.alibabadns.com
 .alipaylog.com
 .loggw.alipay.com
+.loggw.alipay.com.cn
 .loggw-ex.alipay.com
 .agoo-report.m.taobao.com
 .h-adashx.ut.taobao.com
@@ -579,6 +581,8 @@ game.bilibili.com.w.cdngslb.com
 .adsh.wagbridge.taobao.alimama.com
 .adsz.wagbridge.tmall.alimama.com
 .adsh.wagbridge.tmall.alimama.com
+.openmonitor.alipay.com
+.openmonitor.alipay-eco.com
 
 ## Amap 高德地图
 dualstack-logs.amap.com
@@ -591,13 +595,18 @@ dualstack-logs.amap.com
 .apsrgeo.amap.com
 .dualstack-cgicol.amap.com
 .page.amap.com
+.optimus-ads.amap.com.w.alikunlun.com
 
 ## Amazon
 *-analytics.amazon.com
+*-metrics.amazon.com
 *-tracker.corp.amazon.com
 .aan.amazon.com
 .aax-us-east-retail-direct.amazon.com
+.advertising.amazon.com
 .advertising-api-eu.amazon.com
+.advertising-api-fe.amazon.com
+.advertising-eu.amazon.com
 .fls-na.amazon.com
 .rcm-images.amazon.com
 .rcm.amazon.com
@@ -639,6 +648,8 @@ dualstack-logs.amap.com
 .mads.amazon.com
 .analytics.amazon.com
 .analytics.search.amazon.com
+.ads-setu-proxy-eu.amazon.com
+.tracker.corp.amazon.com
 
 ## Apple
 .iadsdk.apple.com
@@ -717,6 +728,8 @@ dualstack-logs.amap.com
 .track.appsflyer.com
 .api.appsflyer.com
 .websdk-stg.appsflyer.com
+.customlinks-nginx-stg.appsflyer.com
+.customlinks-stg.appsflyer.com
 .sfmcaf.appsflyer.com
 .adrevenue.appsflyer.com
 .adrevenue.appsflyersdk.com
@@ -749,8 +762,6 @@ dualstack-logs.amap.com
 .dls2s.appsflyer.com
 .dynamic-report-api.appsflyer.com
 .dynamic-config-api.appsflyer.com
-.customlinks-nginx-stg.appsflyer.com
-.customlinks-stg.appsflyer.com
 .experience.appsflyer.com
 .biz.appsflyer.com
 .skadsdkless.appsflyersdk.com
@@ -763,6 +774,8 @@ dualstack-logs.amap.com
 .skadsdk.appsflyersdk.com
 .register.appsflyersdk.com
 .onelink.appsflyersdk.com
+*-stg.appsflyer.com
+*-prd.appsflyer.com
 *-api.appsflyersdk.com
 *-app.appsflyersdk.com
 *-ars.appsflyersdk.com
@@ -795,13 +808,40 @@ dualstack-logs.amap.com
 .app.bidflyer.com
 .ctv.appsflyer.com
 .dev.appsflyer.com
+.monitorsdk.appsflyersdk.com
+.track.appsflyersdk.com
+.pbaplayground.appsflyersdk.com
+.gcd.appsflyersdk.com
 .fsdkim.appsflyer.com
 .security.appsflyer.com
 .priority.appsflyer.com
 .events.appsflyersdk.com
+.msp.appsflyer.com
+.amp.appsflyer.com
+.dcp.appsflyer.com
+.viap.appsflyer.com
+.demo.appsflyer.com
+.afvpn.appsflyer.com
+.event.appsflyer.com
+.content.appsflyer.com
+.sandbox-events.appsflyer.com
+.sandbox-engagements.appsflyer.com
+.tencent.appsflyer.com
+.notifications.appsflyer.com
+.statuspage-notifications.appsflyer.com
+.gcd.appsflyer.com
+.skad.appsflyer.com
 
 ## Atlassian
+*-tracker.atlassian.net
+*-tracking.atlassian.net
+.tracking.atlassian.net
 .analytics.atlassian.com
+.analytics.status.atlassian.com
+.xp.atlassian.com
+.metric.atlassian.com
+.metrics.atlassian.net
+.tracker.atlassian.net
 .xid.atlassian.com
 .xxid.atlassian.com
 .xxid.atl-paas.net
