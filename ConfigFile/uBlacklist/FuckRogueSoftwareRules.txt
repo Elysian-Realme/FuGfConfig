@@ -12,6 +12,7 @@
 *://*.gitcode.com/*
 *://*.csdn.com/*
 *://*.douyin.com/*
+*://*.open-douyin.com/*
 *://*.tiktok.com/*
 *://*.baike.com/*
 *://*.bytedance.com/*

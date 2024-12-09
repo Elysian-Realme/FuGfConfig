@@ -8,83 +8,34 @@
 
 本项目对 Loon、QuantumultX、AdGuard Home、Surge 提供完全支持
 
-优先级：Loon = QuantumultX = AdGuard Home = Surge
+优先级：Loon = AdGuard Home = Surge > QuantumultX > Clash
 
 > 经过鄙人的重构，现在提供 Host, DomainSet, Loon, QuantumultX 的支持，各位可以按需引用
 
-> 被迫修改了一些规则的路径和名字，我尽量争取此类事件不再发生
-
-经过我个人的测试，FuckRogueSoftware 规则集误杀应该 ~~（大概 可能）~~ 没有那么严重了~~吧~~，计划在未来本项目全面向 FuckRogueSoftware 转移，淘汰掉 以前的 AdRules
-
-> 仅个人测试，请添加时准备好 direct 规则 (
-
-经过测试的软件：todo
-
-计划测试的软件：暂无
+> 被迫修改了一些规则的路径和名字，我尽量保证此类事件不再发生
 
 ## 使用方法
 
-### QuantumultX
-
-建议配合 ios_rule_script 项目中的 [QuantumultX 去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX/Advertising) 一起使用（已去重
-
-别配合使用了，我感觉误杀有点高（~~虽然好像 FuckRogueSoftware 规则集的误杀也不低~~
-
 优先级从高到低：
 
-```txt
+```ini
 FuckRogueSoftware
-
+ProxyRules
+...
+AppleNoChinaCDNRules
+AppleCDNRules
+AppleAPIRules
 AppleRules
-
-自定义的策略组，走代理的或者走不同代理路线的
-
-ChinaASN
+...
 DirectRules
-BasicRules
-```
-
-```
-# 隐私保护
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/FuckRogueSoftwareRules.conf, force-policy=FuckRogueSoftware, tag=FuckRogueSoftware, enabled=true
-
-# 去广告
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Advertising/Advertising.list, force-policy=Advertising, tag=CustomAd, enabled=true
-
-# Telegram 代理
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/TelegramRules.conf, force-policy=Telegram, tag=TelegramRules, enabled=true
-
-# Youtube
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/YouTubeRules.conf, force-policy=YouTube, tag=YouTubeRules, enabled=true
-
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/ChinaASN.conf, force-policy=direct, tag=ChinaASN, enabled=true
-
-# 自定义的直连
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/DirectRules.conf, force-policy=direct, tag=CustomDirect, enabled=true
+BaseRules
 ```
 
 ### Loon
 
 #### Loon 分流规则
 
-优先级从高到低：
-
-```
-FuckRogueSoftware
-ProxyRules
-TelegramRules
-AppleNoChinaCDNRules
-AppleRules
-AppleAPIRules
-AppleCDNRules
-GFWRules
-DirectRules
-BaseRules
-```
-
-若有精准去广告的需求，请~~在未来~~使用 FuckRogueSoftware，现在大概依然有误杀
-
-```
+```conf
 # 去广告
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/FuckRogueSoftwareRules.conf, policy=Advertising, tag=FuckRogueSoftware, enabled=true
 
@@ -111,11 +62,33 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 
 ```
 
+### Surge
+
+配置示例
+
+```ini
+# REJECT Rules
+RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckRogueSoftware/domain.list,REJECT,pre-matching
+RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckGarbageFeature/domain.list,REJECT,pre-matching
+
+# Apple Update Rules
+RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/Apple/update-domain.list,AppleUpdate
+
+# ...
+# Apple Rules
+RULE-SET,https://github.com/Elysian-Realme/FuGfConfig/raw/refs/heads/main/ConfigFile/Surge/Apple/no-cn-cdn-domain.list,AppleNoChinaCDN
+RULE-SET,https://github.com/Elysian-Realme/FuGfConfig/raw/refs/heads/main/ConfigFile/Surge/Apple/api-domain.list,AppleApi
+RULE-SET,https://github.com/Elysian-Realme/FuGfConfig/raw/refs/heads/main/ConfigFile/Surge/Apple/cdn-domain.list,AppleCDN
+RULE-SET,https://github.com/Elysian-Realme/FuGfConfig/raw/refs/heads/main/ConfigFile/Surge/Apple/domain.list,Apple
+# ...
+```
+
+
 ### 对于 FuckRogueSoftware 规则的说明
 
 此规则对某些国内软件强屏蔽，包括但不限于广告，跟踪，数据分析
 
-在 [FuckRogueSoftware.txt](https://github.com/Elysian-Realme/FuGfConfig/blob/main/ConfigFile/DataFile/FuckRogueSoftware/FuckRogueSoftware.txt) 中可以看到部分屏蔽说明
+在 [FuckRogueSoftware.txt](https://github.com/Elysian-Realme/FuGfConfig/blob/main/ConfigFile/DataFile/FuckRogueSoftware/domain.txt) 中可以看到部分屏蔽说明
 
 ```
 # qx
@@ -149,7 +122,7 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Quan
 
 ### 对于 Apple 分流规则
 
-请参考 [这篇文章](https://blog.royli.dev/2019/better-proxy-rules-for-apple-services)
+请参考 [blog.royli.dev/2019/better-proxy-rules-for-apple-services 这篇文章](https://blog.royli.dev/2019/better-proxy-rules-for-apple-services)
 
 对于本项目
 
@@ -197,20 +170,9 @@ AppleAPIRules 代理
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonPlugin/DNSMap.plugin, tag=DNS Map, enabled=true
 ```
 
-#### DNSMapAd
-
-对一些广告域名 DNS 解析重定向至 `127.0.0.1` 或 `0.0.0.0`
-
-有用没用的诸君自己看着用吧
-
-```
-# DNS 去广告映射
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonPlugin/DNSMapAd.plugin, tag=DNS Map Ad, enabled=true
-```
-
 #### 抖音屏蔽
 
-部分规则来自 <https://gist.github.com/JamesHopbourn/b5cf9219bdacfa8b6dbb3414276c149b>
+部分规则来自 [https://gist.github.com/JamesHopbourn/b5cf9219bdacfa8b6dbb3414276c149b](https://gist.github.com/JamesHopbourn/b5cf9219bdacfa8b6dbb3414276c149b)
 
 在此表示感谢
 
@@ -235,6 +197,10 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 ## 感谢
 
 本项目的数据大部分来自一下项目，在此对他们表示感谢（以下排名不分先后
+
+[SukkaW/Surge](https://github.com/SukkaW/Surge)
+
+[surge-list](https://github.com/geekdada/surge-list)
 
 [GetSomeFries](https://github.com/VirgilClyne/GetSomeFries)
 

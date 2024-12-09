@@ -151,6 +151,10 @@ vipstatic.com
 .hf-mirror.com
 .tuna.tsinghua.edu.cn
 
+## Code
+.maven.org
+.download.java.net
+
 ## 其他
 snapdrop.net
 test-ipv6.com
@@ -185,3 +189,4 @@ test-ipv6.com
 .ghpym.com
 .vmware.com
 .ntp.org
+.obsproject.com

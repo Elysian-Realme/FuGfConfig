@@ -16,3 +16,8 @@ node_modules
 *.swa
 *.swo
 *.orig
+
+**/.idea/
+**/Bank/
+**/bank/
+**/Cryptocurrency/

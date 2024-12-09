@@ -1,0 +1,68 @@
+# 下列规则来自 https://github.com/geekdada/surge-list/blob/master/surgio-snippet/apple.tpl
+# Apple 直连
+USER-AGENT,*com.apple.mobileme.fmip1
+# Weather
+USER-AGENT,*WeatherFoundation*
+weather-data.apple.com
+# Maps
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+# Settings
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+
+# Apple 其他直连
+# Store
+.store.apple.com
+# Spotlight
+api.smoot.apple.com
+api.smoot.apple.cn
+# Hotspot captive
+captive.apple.com
+# Apple Pay
+smp-device-content.apple.com
+USER-AGENT,passd*
+USER-AGENT,Wallet*
+# locationd
+gs-loc.apple.com
+gs-loc-cn.apple.com
+.ls.apple.com.akadns.net
+.ls.apple.com.edgesuite.net
+# Reserve
+reserve-prime.apple.com
+# Push
+*push-apple.com.akadns.net
+.push.apple.com.akadns.net
+.push.apple.com
+# GeoServices.framework
+.ls.apple.com
+# Asset Cache Locator Service
+.lcdn-locator.apple.com
+# Caching Server Registration
+lcdn-registration.apple.com
+suconfig.apple.com
+xp-cdn.apple.com
+# Translation
+# See https://github.com/ripperhe/Bob/issues/405
+sequoia.apple.com
+seed-sequoia.siri.apple.com
+# Settings
+sq-device.apple.com
+# iCloud 上传和下载
+.icloud-content.com
+.me.com
+.apple.com
+.icloud.com
+.apple-cloudkit.com
+# CN specific
+*-cn.apple.com
+.icloud.com.cn
+.apple.com.cn

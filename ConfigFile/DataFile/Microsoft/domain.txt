@@ -27,3 +27,4 @@
 .msftconnecttest.com
 .azurewebsites.net
 .microsofttranslator.com
+.microsoftpersonalcontent.com

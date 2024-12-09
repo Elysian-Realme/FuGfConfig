@@ -1,4 +1,92 @@
-# 此规则存放对代理 IP 频繁变化不敏感的需要走代理的服务
+## Github
+.atom.io
+.dependabot.com
+.ghcr.io
+.git.io
+.github-atom-io-herokuapp-com.freetls.fastly.net
+.github-avatars.oss-cn-hongkong.aliyuncs.com
+.github-cloud.s3.amazonaws.com
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.githubassets.com
+.githubhackathon.com
+.githubpreview.dev
+.githubstatus.com
+.githubuniverse.com
+.githubusercontent.com
+.myoctocat.com
+.npm.community
+.npmjs.com
+.npmjs.org
+.opensource.guide
+.rawgit.com
+.rawgithub.com
+.thegithubshop.com
+.gitbook.com
+.gitbook.io
+.gitbook.zendesk.com
+.exp-tas.com
+
+## Gitlab
+.gitlab-static.net
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitlab-assets.oss-cn-hongkong.aliyuncs.com
+.gitter-static.net
+.gitter.im
+
+## 代码工具
+.supabase.com
+.visualstudio.com
+.wakapi.dev
+.vscode-sync.trafficmanager.net
+.vscode-unpkg.net
+.vscode-cdn.net
+.vscodeexperiments.azureedge.net
+.vo.msecnd.net
+.vsassets.io
+.fig.io
+
+.anaconda.com
+.anaconda.org
+.jsdelivr.net
+.open-vsx.org
+.yarnpkg.com
+.npmjs.org
+
+.nuget.org
+.tensorflow.org
+.maven.apache.org
+.huggingface.co
+
+## Debian 仓库
+.debian.org
+
+## kali 仓库
+.kali.org
+.kali.cs.nycu.edu.tw
+
+## docker
+.docker.io
+.docker.com
+
+## brew
+.brew.sh
+
+## go
+.golang.org
+.goproxy.io
+.go.dev
+
+## python
+.pypi.org
+.pythonhosted.org
+.python.org
 
 ## vscode
 .vscode-unpkg.net
@@ -44,20 +132,12 @@ vscodium.now.sh
 .pixiv.co.jp
 .pixiv.org
 .booth.pm
-210.140.131.199
-210.140.139.131
 
 ## Twitter
 .twitter.com
 .twimg.com
 .t.co
 .x.com
-192.133.76.0/22
-199.59.148.0/22
-199.96.56.0/21
-202.160.128.0/22
-209.237.192.0/19
-69.195.160.0/19
 
 ## Bluesky Social
 .bsky.app
@@ -267,8 +347,6 @@ onedrive.live.com
 .ui.direct
 
 ## resilio
-54.192.18.123
-31.13.67.41
 .resilio.com
 
 ## news
@@ -283,6 +361,17 @@ onedrive.live.com
 .vchv.ltd
 
 ## 其他
+.orbstack.dev
+.remix.run
+.wireshark.org
+.portswigger.net
+.svelte.dev
+.android.com
+.nodejs.org
+.schemastore.org
+.stackoverflow.com
+.stackoverflow.co
+.arxiv.org
 .fontawesome.com
 .polyfill.io
 .gpgtools.org
@@ -309,7 +398,6 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .minamigo.moe
 .relingo.net
 .quantumult.app
-.arc.net
 .deepl.com
 .edu.tw
 .prodkeys.net
@@ -349,8 +437,7 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .lmsys.org
 .sagernet.org
 .joyreactor.cc
+.imgur.com
 .hackmd.io
 .hackmd-prod-images.s3-ap-northeast-1.amazonaws.com
 .lmarena.ai
-.hk
-.sg

@@ -239,7 +239,6 @@
 *-acs.m.taobao.com
 log*.mmstat.com
 log-v*.mmstat.com
-203.107.1.0/24
 jtrn.is.autonavi.com.gds.alibabadns.com
 log-v6.mmstat.com.gds.alibabadns.com
 .alipaylog.com
@@ -399,8 +398,6 @@ tvupgrade.yunos.com
 .eco.taobao.com
 # 一休数据平台
 yixiu-abtest.alicdn.com
-# IP 屏蔽
-39.107.142.158
 .h-adashx.ut.taobao.com
 .h-adashx.ut.dingtalk.com
 .baichuan-sdk.taobao.com
@@ -831,6 +828,16 @@ dualstack-logs.amap.com
 .statuspage-notifications.appsflyer.com
 .gcd.appsflyer.com
 .skad.appsflyer.com
+.report.voovmeeting.com
+.report.meeting.tencent.com
+.log.tpns.gz2.tencent.com
+.log.tpns.tencent.com
+.bugly.tencent.com
+.tpns.tencent.com
+.tpns.sgp.tencent.com
+.tpns.hk.tencent.com
+.tpns.sh.tencent.com
+.sensors.cloud.tencent.com
 
 ## Atlassian
 *-tracker.atlassian.net
@@ -856,7 +863,6 @@ dualstack-logs.amap.com
 .httpsdns.baidu.com
 .httpdns.baidu.com
 .httpdns.baidubce.com
-186.76.76.200/32
 .ad.baidu.com
 .hm.baidu.com
 .hmma.baidu.com
@@ -1975,14 +1981,7 @@ www.iqiyi.space
 .api.ts.feedback.qy.net
 .msg.qy.net
 .msgv6.qy.net
-203.107.63.154
-101.227.200.11
-101.227.200.28
-101.227.97.240
-;101.227.200.0/24
-101.227.200.11/32
-101.227.200.28/32
-101.227.97.240/32
+
 api.cupid.qiyi.com
 msg.video.qiyi.com
 msg2.video.qiyi.com
@@ -2056,8 +2055,7 @@ jjnctjd.com
 .c.fa.jd.com
 .dg.k.jd.com
 .mapi.m.jd.com
-103.224.222.208
-101.124.19.122
+
 ## 存疑
 .jpushsc.m.jd.com
 .jpushsc.m.jd.com.gslb.qianxun.com
@@ -2117,10 +2115,6 @@ fcapi-ipv6.jpush.cn
 .lcs.dev.surepush.cn
 .susapi.dev.surepush.cn
 .test.surepush.cn
-183.232.25.151
-121.36.6.165
-139.9.141.89
-114.132.165.205
 .japps.cn
 .aurorapush.cn
 .aurorapush.com
@@ -2731,10 +2725,7 @@ e-p*p.163.com
 .sdk-log-inter.youdao.com
 .static.flv.uuzuonline.com
 .wanproxy.127.net
-59.111.239.61/32
-59.111.239.62/32
-115.236.121.51
-115.236.121.195
+
 .yt-adp.ws.126.net
 .pg-ad-b2.ws.126.net
 .pg-ad-b1.ws.126.net
@@ -2956,8 +2947,7 @@ log*.sina.cn
 .slog.sina.cn
 .ad.cj.sina.cn
 .adblock.sina.cn
-39.97.128.148/32
-39.97.130.51/32
+
 .promote.biz.weibo.cn
 .ad.passport.weibo.cn
 .gw6.push.mcp.weibo.cn
@@ -3062,8 +3052,6 @@ count.vrs.sohu.com
 .qpb0.sohu.com
 
 ## Tencent
-119.29.29.98
-119.29.29.99
 # .gtimg.com
 .miav-cse.avlyun.com
 # qq
@@ -3127,13 +3115,7 @@ video.upqzfile.com
 # wechat 微信
 .dns.weixin.qq.com.cn
 .dns.weixin.qq.com
-42.81.232.18/32
-42.187.182.106/32
-42.187.182.123/32
-42.187.184.154/32
-123.151.54.50/32
-;2402:4e00:1900:1700:0:9554:1ad9:c3a/128
-;240e:928:1400:10::25/128
+
 androidrqd.iot.wechatpay.cn
 iosrqd.iot.wechatpay.cn
 .ad.weixin.qq.com
@@ -4220,20 +4202,7 @@ p2v.tudou.com
 ad.api.3g.tudou.com
 .ad.youku.com
 .cad.youku.com
-117.177.248.17/32
-117.177.248.41/32
-223.87.176.139/32
-223.87.176.176/32
-223.87.177.180/32
-223.87.177.182/32
-223.87.177.184/32
-223.87.177.43/32
-223.87.177.47/32
-223.87.177.80/32
-223.87.182.101/32
-223.87.182.102/32
-223.87.182.11/32
-223.87.182.52/32
+
 notify.youku.com
 m.yes.youku.com
 s.p.youku.com
@@ -4258,7 +4227,6 @@ fzapp.chanct.cn
 fzapp.gifzpt.cn
 fzapph5.gifzpt.cn
 .gjfzpt.cn
-157.148.47.204
 
 ## Zhihu 知乎
 .zhihu-web-analytics.zhihu.com
@@ -4267,9 +4235,7 @@ fzapph5.gifzpt.cn
 .sugar.zhihu.com
 .crash2.zhihu.com
 .log-sdk.ksapisrv.com
-118.89.204.198/23
-103.41.167.237
-;2402:4e00:1200:ed00:0:9089:6dac:96b6/40
+
 # 强制跳转 app 下载页面
 .oia.zhihu.com
 appcloud2.in.zhihu.com
@@ -4567,7 +4533,6 @@ ac*.*cloud.net.cn
 .h5.talkingdata.com
 .jic.talkingdata.com
 .sdk.talkingdata.com
-116.196.84.232
 
 ## 热云
 #.trackingio.com
@@ -5025,8 +4990,6 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 ## 恶意 IP 或域名
 # 存在延迟，失效等问题
 .tjzckjkj.cn
-164.155.255.240
-91.241.60.117
 .polyfill.io
 .googie-anaiytics.com
 .bootcdn.net
@@ -5475,8 +5438,7 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 .zymerget.win
 
 ## Others
-182.254.118.117
-182.254.118.119
+
 .online-metrix.net
 .go-mpulse.net
 .webpushr.com
@@ -5758,7 +5720,6 @@ log*.optimizely.com
 .log.tinnhanhchungkhoan.vn
 .log.tinxe.vn
 .log.toss.vn
-.log.tpns.tencent.com
 .log.trithuctructuyen.com.vn
 .log.trithuctructuyen.vn
 .log.ttbc-hcm.gov.vn
@@ -5950,8 +5911,6 @@ ad.gt.sigpolicy.qq.p1.lon.opendns.com
 ad.gt.sigpolicy.qq.p1.ash.opendns.com
 advertising.com.sigpolicy.qq.p1.ash.opendns.com
 ace-tag.advertising.com.sigpolicy.qq.p1.ash.opendns.com
-240.1.1.0/4
-203.107.1.1/24
 sal.gslb.topgslb.com
 analytics.126.net.w.cdngslb.com
 pushmiddle.bs2dl.yy.com.w.cdngslb.com
@@ -6072,7 +6031,6 @@ helper.2bulu.com
 .log-tagmanager.toast.com
 .ad-exchange.toast.com
 .log.x2convert.com
-.log.tpns.gz2.tencent.com
 .log.tresorit.com
 .log.api.drift.com
 .log.ohmynews.com
@@ -6405,3 +6363,5 @@ api.getkoala.com
 .analytics.matetranslate.com
 .sentry.salesmartly.com
 .events.statsigapi.net
+.m.xmeeting.com
+.metrics.brightcove.com

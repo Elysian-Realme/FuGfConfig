@@ -1,0 +1,7 @@
+.google.com
+.googleapis.com
+.gmail.com
+.gstatic.com
+.googledrive.com
+.googleusercontent.com
+.googletagmanager.com

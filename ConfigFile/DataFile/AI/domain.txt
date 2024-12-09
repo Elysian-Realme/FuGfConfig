@@ -6,11 +6,11 @@ chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .poecdn.net
 .claude.ai
 .anthropic.com
+.claudeusercontent.com
 .oaistatic.com
 .oaiusercontent.com
-24.199.123.28
-64.23.132.171
 .intercom.io
 .intercomcdn.com
 .poe.com
 .perplexity.ai
+.groq.com

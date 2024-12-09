@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,buy.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,aaplimg.com,extended-matching
 DOMAIN-SUFFIX,apple.co,extended-matching
 DOMAIN-SUFFIX,appleid.apple.com,extended-matching
+DOMAIN-SUFFIX,edge-itunes-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,ess.apple.com,extended-matching
 DOMAIN-SUFFIX,gateway.push.apple.com,extended-matching
 DOMAIN-SUFFIX,gateway.sandbox.push.apple.com,extended-matching
