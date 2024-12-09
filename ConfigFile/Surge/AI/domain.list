@@ -1,0 +1,16 @@
+DOMAIN,chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com,pre-matching
+DOMAIN-SUFFIX,anthropic.com,pre-matching
+DOMAIN-SUFFIX,auth0.com,pre-matching
+DOMAIN-SUFFIX,chatgpt.com,pre-matching
+DOMAIN-SUFFIX,claude.ai,pre-matching
+DOMAIN-SUFFIX,claudeusercontent.com,pre-matching
+DOMAIN-SUFFIX,groq.com,pre-matching
+DOMAIN-SUFFIX,intercom.io,pre-matching
+DOMAIN-SUFFIX,intercomcdn.com,pre-matching
+DOMAIN-SUFFIX,oaistatic.com,pre-matching
+DOMAIN-SUFFIX,oaiusercontent.com,pre-matching
+DOMAIN-SUFFIX,openai.com,pre-matching
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,pre-matching
+DOMAIN-SUFFIX,perplexity.ai,pre-matching
+DOMAIN-SUFFIX,poe.com,pre-matching
+DOMAIN-SUFFIX,poecdn.net,pre-matching

@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,gmail.com,pre-matching
+DOMAIN-SUFFIX,google.com,pre-matching
+DOMAIN-SUFFIX,googleapis.com,pre-matching
+DOMAIN-SUFFIX,googledrive.com,pre-matching
+DOMAIN-SUFFIX,googletagmanager.com,pre-matching
+DOMAIN-SUFFIX,googleusercontent.com,pre-matching
+DOMAIN-SUFFIX,gstatic.com,pre-matching

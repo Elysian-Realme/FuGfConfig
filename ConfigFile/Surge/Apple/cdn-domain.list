@@ -1,0 +1,17 @@
+DOMAIN,aod.itunes.apple.com,pre-matching
+DOMAIN,app-site-association.cdn-apple.com,pre-matching
+DOMAIN,appldnld.apple.com,pre-matching
+DOMAIN,apptrailers.itunes.apple.com,pre-matching
+DOMAIN,download.developer.apple.com,pre-matching
+DOMAIN,downloaddispatch.itunes.apple.com,pre-matching
+DOMAIN,iosapps.itunes.apple.com,pre-matching
+DOMAIN,mvod.itunes.apple.com,pre-matching
+DOMAIN,oscdn.apple.com,pre-matching
+DOMAIN,osxapps.itunes.apple.com,pre-matching
+DOMAIN,streamingaudio.itunes.apple.com,pre-matching
+DOMAIN,supportdownload.apple.com,pre-matching
+DOMAIN,swcdn.apple.com,pre-matching
+DOMAIN,updates-http.cdn-apple.com,pre-matching
+DOMAIN,updates.cdn-apple.com,pre-matching
+DOMAIN-SUFFIX,mzstatic.com,pre-matching
+USER-AGENT,com.apple.appstored*
