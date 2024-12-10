@@ -1,0 +1,17 @@
+DOMAIN,aod.itunes.apple.com
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,apptrailers.itunes.apple.com
+DOMAIN,download.developer.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,oscdn.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,supportdownload.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN-SUFFIX,mzstatic.com
+USER-AGENT,com.apple.appstored*
