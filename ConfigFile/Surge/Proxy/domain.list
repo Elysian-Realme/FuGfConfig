@@ -295,6 +295,7 @@ DOMAIN-SUFFIX,vuejs.org,extended-matching
 DOMAIN-SUFFIX,wakapi.dev,extended-matching
 DOMAIN-SUFFIX,wikimedia.org,extended-matching
 DOMAIN-SUFFIX,wikipedia.org,extended-matching
+DOMAIN-SUFFIX,winget.microsoft.com,extended-matching
 DOMAIN-SUFFIX,winudf.com,extended-matching
 DOMAIN-SUFFIX,wireshark.org,extended-matching
 DOMAIN-SUFFIX,woolyss.com,extended-matching

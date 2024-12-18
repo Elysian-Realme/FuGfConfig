@@ -595,6 +595,7 @@ DOMAIN-SUFFIX,acme.tango.me,extended-matching
 DOMAIN-SUFFIX,acs-mum.alibabachengdun.com,extended-matching
 DOMAIN-SUFFIX,activate.ensighten.com,extended-matching
 DOMAIN-SUFFIX,activemetering.com,extended-matching
+DOMAIN-SUFFIX,acxiom.com,extended-matching
 DOMAIN-SUFFIX,ad-cdn.technoratimedia.com,extended-matching
 DOMAIN-SUFFIX,ad-delivery.net,extended-matching
 DOMAIN-SUFFIX,ad-display.wikawika.xyz,extended-matching
@@ -3480,6 +3481,7 @@ DOMAIN-SUFFIX,fam-ad.com,extended-matching
 DOMAIN-SUFFIX,fandangollc.demdex.net,extended-matching
 DOMAIN-SUFFIX,fanserv.us-east-1.stinger-ad.bidr.io,extended-matching
 DOMAIN-SUFFIX,fanserv.us-west-2.stinger-ad.bidr.io,extended-matching
+DOMAIN-SUFFIX,farcaleniom.com,extended-matching
 DOMAIN-SUFFIX,fast.a.klaviyo.com,extended-matching
 DOMAIN-SUFFIX,fast.mtvn.demdex.net,extended-matching
 DOMAIN-SUFFIX,fastapi.net,extended-matching
@@ -3527,8 +3529,6 @@ DOMAIN-SUFFIX,folder.adfuture.cn,extended-matching
 DOMAIN-SUFFIX,folder.adsunflower.com,extended-matching
 DOMAIN-SUFFIX,folder.advmob.cn,extended-matching
 DOMAIN-SUFFIX,fonts.ad.admitad.com,extended-matching
-DOMAIN-SUFFIX,fonts.googleapis.com,extended-matching
-DOMAIN-SUFFIX,fonts.gstatic.com,extended-matching
 DOMAIN-SUFFIX,footprintdns.com,extended-matching
 DOMAIN-SUFFIX,forbes.media.net,extended-matching
 DOMAIN-SUFFIX,forbes274355.s.moatpixel.com,extended-matching
@@ -4609,6 +4609,7 @@ DOMAIN-SUFFIX,marketingassets.staples.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,marketingweek.imgix.net,extended-matching
 DOMAIN-SUFFIX,marketo.clearbit.com,extended-matching
 DOMAIN-SUFFIX,marketo.com.edgekey.net,extended-matching
+DOMAIN-SUFFIX,marketo.net,extended-matching
 DOMAIN-SUFFIX,marketo.net.edgekey.net,extended-matching
 DOMAIN-SUFFIX,marketplace-android-b235.hyprmx.com,extended-matching
 DOMAIN-SUFFIX,marmalade.adthrive.com,extended-matching
@@ -4869,7 +4870,6 @@ DOMAIN-SUFFIX,mug.da1.vip.prod.criteo.com,extended-matching
 DOMAIN-SUFFIX,mug.hk5.vip.prod.criteo.com,extended-matching
 DOMAIN-SUFFIX,multi-cluster.directservices.it,extended-matching
 DOMAIN-SUFFIX,mum.alibabachengdun.com,extended-matching
-DOMAIN-SUFFIX,munchkin.marketo.net,extended-matching
 DOMAIN-SUFFIX,musculahq.appspot.com,extended-matching
 DOMAIN-SUFFIX,mutinycdn.com,extended-matching
 DOMAIN-SUFFIX,mv.outbrain.com,extended-matching
@@ -6559,6 +6559,7 @@ DOMAIN-SUFFIX,storage.cloud.kargo.com,extended-matching
 DOMAIN-SUFFIX,storeen.ldmnq.com,extended-matching
 DOMAIN-SUFFIX,stra.hasmobi.net,extended-matching
 DOMAIN-SUFFIX,streamguys.deliveryengine.adswizz.com,extended-matching
+DOMAIN-SUFFIX,stretchoid.com,extended-matching
 DOMAIN-SUFFIX,strikeiron.com,extended-matching
 DOMAIN-SUFFIX,strip.chat,extended-matching
 DOMAIN-SUFFIX,stripchatgirls.com,extended-matching

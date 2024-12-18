@@ -441,3 +441,4 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .hackmd.io
 .hackmd-prod-images.s3-ap-northeast-1.amazonaws.com
 .lmarena.ai
+.winget.microsoft.com

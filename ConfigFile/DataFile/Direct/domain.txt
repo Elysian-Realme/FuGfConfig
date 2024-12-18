@@ -156,6 +156,8 @@ vipstatic.com
 .download.java.net
 
 ## 其他
+fonts.gstatic.com
+fonts.googleapis.com
 snapdrop.net
 test-ipv6.com
 .zhihu.com

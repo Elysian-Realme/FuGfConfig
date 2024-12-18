@@ -28,3 +28,4 @@
 .azurewebsites.net
 .microsofttranslator.com
 .microsoftpersonalcontent.com
+.azureedge.net

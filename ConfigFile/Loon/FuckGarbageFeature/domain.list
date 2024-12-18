@@ -595,6 +595,7 @@ DOMAIN-SUFFIX,acme.tango.me
 DOMAIN-SUFFIX,acs-mum.alibabachengdun.com
 DOMAIN-SUFFIX,activate.ensighten.com
 DOMAIN-SUFFIX,activemetering.com
+DOMAIN-SUFFIX,acxiom.com
 DOMAIN-SUFFIX,ad-cdn.technoratimedia.com
 DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,ad-display.wikawika.xyz
@@ -3480,6 +3481,7 @@ DOMAIN-SUFFIX,fam-ad.com
 DOMAIN-SUFFIX,fandangollc.demdex.net
 DOMAIN-SUFFIX,fanserv.us-east-1.stinger-ad.bidr.io
 DOMAIN-SUFFIX,fanserv.us-west-2.stinger-ad.bidr.io
+DOMAIN-SUFFIX,farcaleniom.com
 DOMAIN-SUFFIX,fast.a.klaviyo.com
 DOMAIN-SUFFIX,fast.mtvn.demdex.net
 DOMAIN-SUFFIX,fastapi.net
@@ -3527,8 +3529,6 @@ DOMAIN-SUFFIX,folder.adfuture.cn
 DOMAIN-SUFFIX,folder.adsunflower.com
 DOMAIN-SUFFIX,folder.advmob.cn
 DOMAIN-SUFFIX,fonts.ad.admitad.com
-DOMAIN-SUFFIX,fonts.googleapis.com
-DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,footprintdns.com
 DOMAIN-SUFFIX,forbes.media.net
 DOMAIN-SUFFIX,forbes274355.s.moatpixel.com
@@ -4609,6 +4609,7 @@ DOMAIN-SUFFIX,marketingassets.staples.com.edgekey.net
 DOMAIN-SUFFIX,marketingweek.imgix.net
 DOMAIN-SUFFIX,marketo.clearbit.com
 DOMAIN-SUFFIX,marketo.com.edgekey.net
+DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,marketo.net.edgekey.net
 DOMAIN-SUFFIX,marketplace-android-b235.hyprmx.com
 DOMAIN-SUFFIX,marmalade.adthrive.com
@@ -4869,7 +4870,6 @@ DOMAIN-SUFFIX,mug.da1.vip.prod.criteo.com
 DOMAIN-SUFFIX,mug.hk5.vip.prod.criteo.com
 DOMAIN-SUFFIX,multi-cluster.directservices.it
 DOMAIN-SUFFIX,mum.alibabachengdun.com
-DOMAIN-SUFFIX,munchkin.marketo.net
 DOMAIN-SUFFIX,musculahq.appspot.com
 DOMAIN-SUFFIX,mutinycdn.com
 DOMAIN-SUFFIX,mv.outbrain.com
@@ -6559,6 +6559,7 @@ DOMAIN-SUFFIX,storage.cloud.kargo.com
 DOMAIN-SUFFIX,storeen.ldmnq.com
 DOMAIN-SUFFIX,stra.hasmobi.net
 DOMAIN-SUFFIX,streamguys.deliveryengine.adswizz.com
+DOMAIN-SUFFIX,stretchoid.com
 DOMAIN-SUFFIX,strikeiron.com
 DOMAIN-SUFFIX,strip.chat
 DOMAIN-SUFFIX,stripchatgirls.com

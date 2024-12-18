@@ -5,6 +5,7 @@ DOMAIN,apptrailers.itunes.apple.com,extended-matching
 DOMAIN,download.developer.apple.com,extended-matching
 DOMAIN,downloaddispatch.itunes.apple.com,extended-matching
 DOMAIN,iosapps.itunes.apple.com,extended-matching
+DOMAIN,mesu.apple.com.w.cdngslb.com,extended-matching
 DOMAIN,mvod.itunes.apple.com,extended-matching
 DOMAIN,oscdn.apple.com,extended-matching
 DOMAIN,osxapps.itunes.apple.com,extended-matching

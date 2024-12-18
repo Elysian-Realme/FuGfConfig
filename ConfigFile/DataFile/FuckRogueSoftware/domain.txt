@@ -6365,3 +6365,5 @@ api.getkoala.com
 .events.statsigapi.net
 .m.xmeeting.com
 .metrics.brightcove.com
+.munchkin.marketo.net
+.app-sjl.marketo.com

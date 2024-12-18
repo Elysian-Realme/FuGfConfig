@@ -1747,6 +1747,7 @@ DOMAIN-SUFFIX,app-analytics-us.huami.com,extended-matching
 DOMAIN-SUFFIX,app-analytics.huami.com,extended-matching
 DOMAIN-SUFFIX,app-log.dewu.com,extended-matching
 DOMAIN-SUFFIX,app-log.immomo.com,extended-matching
+DOMAIN-SUFFIX,app-sjl.marketo.com,extended-matching
 DOMAIN-SUFFIX,app.adjust.cn,extended-matching
 DOMAIN-SUFFIX,app.adjust.com,extended-matching
 DOMAIN-SUFFIX,app.adjust.io,extended-matching
@@ -4078,6 +4079,7 @@ DOMAIN-SUFFIX,mtrace.play.cp81.ott.cibntv.net,extended-matching
 DOMAIN-SUFFIX,mtrace.qq.com,extended-matching
 DOMAIN-SUFFIX,mtrace.ysp.cctv.cn,extended-matching
 DOMAIN-SUFFIX,multi-az-ulog.gifshow.com,extended-matching
+DOMAIN-SUFFIX,munchkin.marketo.net,extended-matching
 DOMAIN-SUFFIX,music.httpdns.c.163.com,extended-matching
 DOMAIN-SUFFIX,music55.umeng.com,extended-matching
 DOMAIN-SUFFIX,mxcdn1.now.sh,extended-matching

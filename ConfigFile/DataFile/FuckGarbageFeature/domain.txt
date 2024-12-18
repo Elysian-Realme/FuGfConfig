@@ -1,10 +1,6 @@
 # 本文件致力于屏蔽一些流氓软件中的垃圾功能
 # 注意可能您认为的不是垃圾的功能在我这儿是垃圾。使用前请注意
 
-## Font
-.fonts.gstatic.com
-.fonts.googleapis.com
-
 ## b 站游戏屏蔽
 .biligame.com
 .biligame.net
@@ -1220,7 +1216,7 @@ codepush.appcenter.ms
 .roundrobin-log.agoop.net
 .a2dfp.net
 .b.ns1p.net
-.munchkin.marketo.net
+.marketo.net
 .analytics.anvato.net
 .rt.analytics.anvato.net
 .smaato.net
@@ -7844,3 +7840,6 @@ pdns.dnspod.cn
 .report.voovmeeting.com
 .intellij.net
 .gao.ee
+.stretchoid.com
+.acxiom.com
+.farcaleniom.com

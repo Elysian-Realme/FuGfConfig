@@ -26,3 +26,4 @@ streamingaudio.itunes.apple.com
 download.developer.apple.com
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
+mesu.apple.com.w.cdngslb.com
