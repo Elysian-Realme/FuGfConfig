@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
 DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,tv.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,AppleTV*

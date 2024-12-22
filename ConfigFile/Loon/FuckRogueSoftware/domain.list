@@ -1274,6 +1274,7 @@ DOMAIN-SUFFIX,ads.rttnews.com
 DOMAIN-SUFFIX,ads.sina.com
 DOMAIN-SUFFIX,ads.sina.com.cn
 DOMAIN-SUFFIX,ads.skillz.com
+DOMAIN-SUFFIX,ads.snapchat.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,ads.test.netflix.com
 DOMAIN-SUFFIX,ads.tiktok.com.edgekey.net
@@ -1309,6 +1310,7 @@ DOMAIN-SUFFIX,ads5-normal-lf.zijieapi.com.c.dsa.cdnbuild.net
 DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com
 DOMAIN-SUFFIX,ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 DOMAIN-SUFFIX,ads5-normal.zijieapi.com
+DOMAIN-SUFFIX,adsapi.snapchat.com
 DOMAIN-SUFFIX,adsapi.togothermany.cn
 DOMAIN-SUFFIX,adscfg.togothermany.cn
 DOMAIN-SUFFIX,adsclick.yx.js.cn
@@ -1672,6 +1674,7 @@ DOMAIN-SUFFIX,api.browsermine.com
 DOMAIN-SUFFIX,api.brs.intl.miui.com
 DOMAIN-SUFFIX,api.collect.data.intl.miui.com
 DOMAIN-SUFFIX,api.cortana.ai
+DOMAIN-SUFFIX,api.cr-relay.com
 DOMAIN-SUFFIX,api.crashlytics.com
 DOMAIN-SUFFIX,api.cupid.dns.iqiyi.com
 DOMAIN-SUFFIX,api.developer.xiaomi.com
@@ -1698,6 +1701,7 @@ DOMAIN-SUFFIX,api.newsfeed.intl.miui.com
 DOMAIN-SUFFIX,api.poll.video.qq.com
 DOMAIN-SUFFIX,api.pr.weixin.qq.com
 DOMAIN-SUFFIX,api.privacymanager.io
+DOMAIN-SUFFIX,api.sardine.ai
 DOMAIN-SUFFIX,api.sec.intl.miui.com
 DOMAIN-SUFFIX,api.sec.miui.com
 DOMAIN-SUFFIX,api.setting.intl.miui.com
@@ -2301,6 +2305,7 @@ DOMAIN-SUFFIX,cryptaloot.pro
 DOMAIN-SUFFIX,crypto-loot.com
 DOMAIN-SUFFIX,crypto-webminer.com
 DOMAIN-SUFFIX,crypto.csgocpu.com
+DOMAIN-SUFFIX,crypto.sardine.ai
 DOMAIN-SUFFIX,cryptoloot.pro
 DOMAIN-SUFFIX,cs-op.douyucdn.cn
 DOMAIN-SUFFIX,cs.snssdk.com
@@ -2327,6 +2332,7 @@ DOMAIN-SUFFIX,d.adsplay.xyz
 DOMAIN-SUFFIX,d.cpufan.club
 DOMAIN-SUFFIX,d.g.mi.com
 DOMAIN-SUFFIX,d.mob.com
+DOMAIN-SUFFIX,d.sardine.ai
 DOMAIN-SUFFIX,d.toutiao.com
 DOMAIN-SUFFIX,d0.sina.com.cn
 DOMAIN-SUFFIX,d00.sina.com.cn
@@ -2422,12 +2428,14 @@ DOMAIN-SUFFIX,dev.adjust.com
 DOMAIN-SUFFIX,dev.appsflyer.com
 DOMAIN-SUFFIX,dev.cryptobara.com
 DOMAIN-SUFFIX,dev.persona.ly
+DOMAIN-SUFFIX,dev.sardine.ai
 DOMAIN-SUFFIX,dev.taplytics.com
 DOMAIN-SUFFIX,dev.tg.wan.360.cn
 DOMAIN-SUFFIX,dev.umeng.com
 DOMAIN-SUFFIX,device-metrics-us-2.amazon.com
 DOMAIN-SUFFIX,device-metrics-us.amazon.com
 DOMAIN-SUFFIX,device.jpush.cn
+DOMAIN-SUFFIX,devicedns.sardine.ai
 DOMAIN-SUFFIX,devicemessaging.us-east-1.amazon.com
 DOMAIN-SUFFIX,devicemsf.3g.qq.com
 DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
@@ -2479,6 +2487,7 @@ DOMAIN-SUFFIX,dns.weibo.cn
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,dns.ximalaya.com
+DOMAIN-SUFFIX,docs.sardine.ai
 DOMAIN-SUFFIX,doh.ptqy.gitv.tv
 DOMAIN-SUFFIX,donttbeevils.de
 DOMAIN-SUFFIX,dorangesource.alicdn.com
@@ -2588,6 +2597,7 @@ DOMAIN-SUFFIX,eu-central-1.elb.amazonaws.com
 DOMAIN-SUFFIX,eu-north-1.compute.amazonaws.com
 DOMAIN-SUFFIX,eu.adjust.com
 DOMAIN-SUFFIX,eu.cfcdist.loan
+DOMAIN-SUFFIX,eu.sardine.ai
 DOMAIN-SUFFIX,euapp.adjust.com
 DOMAIN-SUFFIX,eucsoft.com
 DOMAIN-SUFFIX,eumlab.umeng.com
@@ -2823,6 +2833,7 @@ DOMAIN-SUFFIX,go.fastspot.io
 DOMAIN-SUFFIX,go.megabanners.cf
 DOMAIN-SUFFIX,go.mmstat.com
 DOMAIN-SUFFIX,go.oracle.com
+DOMAIN-SUFFIX,go.sardine.ai
 DOMAIN-SUFFIX,go.sohu.com
 DOMAIN-SUFFIX,go.xhamsterlive.com
 DOMAIN-SUFFIX,go.xlivesex.com
@@ -4275,6 +4286,7 @@ DOMAIN-SUFFIX,p-l.play.cp81.ott.cibntv.net
 DOMAIN-SUFFIX,p-us1.stripcdn.com
 DOMAIN-SUFFIX,p.adjust.com
 DOMAIN-SUFFIX,p.estream.to
+DOMAIN-SUFFIX,p.sardine.ai
 DOMAIN-SUFFIX,p.store.qq.com
 DOMAIN-SUFFIX,p.twitter.com
 DOMAIN-SUFFIX,p0.stripcdn.com
@@ -4688,6 +4700,7 @@ DOMAIN-SUFFIX,sanalytics.rundschau-online.de
 DOMAIN-SUFFIX,sandbox-engagements.appsflyer.com
 DOMAIN-SUFFIX,sandbox-events.appsflyer.com
 DOMAIN-SUFFIX,sandbox-zxid-api.mobileservice.cn
+DOMAIN-SUFFIX,sandbox.sardine.ai
 DOMAIN-SUFFIX,sandfly.adjust.com
 DOMAIN-SUFFIX,sass2.authcaptcha.com
 DOMAIN-SUFFIX,saturn.appads.com
@@ -5293,7 +5306,9 @@ DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,tpush.html5.qq.com
 DOMAIN-SUFFIX,tr.facebook.com
 DOMAIN-SUFFIX,tr.p.360.cn
+DOMAIN-SUFFIX,tr.snapchat.com
 DOMAIN-SUFFIX,tr.www.cloudflare.com
+DOMAIN-SUFFIX,tr6.snapchat.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,tracert.alipay.com
 DOMAIN-SUFFIX,track.adspruce.com
@@ -5323,6 +5338,7 @@ DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,trade-acs.m.taobao.com
 DOMAIN-SUFFIX,traffic.tc-clicks.com
 DOMAIN-SUFFIX,trainingapp.adjust.com
+DOMAIN-SUFFIX,trap.skype.com
 DOMAIN-SUFFIX,trapp.adjust.com
 DOMAIN-SUFFIX,travel.yandex-net.ru
 DOMAIN-SUFFIX,trk.superads.cn

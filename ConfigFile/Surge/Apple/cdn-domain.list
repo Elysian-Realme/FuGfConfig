@@ -14,5 +14,6 @@ DOMAIN,supportdownload.apple.com,extended-matching
 DOMAIN,swcdn.apple.com,extended-matching
 DOMAIN,updates-http.cdn-apple.com,extended-matching
 DOMAIN,updates.cdn-apple.com,extended-matching
+DOMAIN-SUFFIX,apple.com.w.alikunlun.com,extended-matching
 DOMAIN-SUFFIX,mzstatic.com,extended-matching
 USER-AGENT,com.apple.appstored*

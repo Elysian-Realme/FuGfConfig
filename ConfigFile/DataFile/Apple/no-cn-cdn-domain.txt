@@ -57,3 +57,4 @@ mask.icloud.com
 apple-relay.apple.com
 ## Other
 .apple-dns.net
+.safebrowsing.apple
