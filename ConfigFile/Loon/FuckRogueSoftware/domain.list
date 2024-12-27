@@ -1483,6 +1483,7 @@ DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,analytics.74.ru
 DOMAIN-SUFFIX,analytics.95516.com.wscdns.com
 DOMAIN-SUFFIX,analytics.adjust.cn
+DOMAIN-SUFFIX,analytics.adjust.com
 DOMAIN-SUFFIX,analytics.adjust.io
 DOMAIN-SUFFIX,analytics.adjust.world
 DOMAIN-SUFFIX,analytics.adtrue.com
@@ -1516,6 +1517,7 @@ DOMAIN-SUFFIX,analytics.fbgcdn.com.edgekey.net
 DOMAIN-SUFFIX,analytics.ff.avast.sec.miui.com
 DOMAIN-SUFFIX,analytics.flatart.agency
 DOMAIN-SUFFIX,analytics.fontanka.ru
+DOMAIN-SUFFIX,analytics.gentler.app
 DOMAIN-SUFFIX,analytics.gismart.xyz
 DOMAIN-SUFFIX,analytics.gmc.com.edgekey.net
 DOMAIN-SUFFIX,analytics.gnetworks.xyz
@@ -1526,6 +1528,7 @@ DOMAIN-SUFFIX,analytics.insightly.services
 DOMAIN-SUFFIX,analytics.intern.b1-systems.de
 DOMAIN-SUFFIX,analytics.itunes.apple.com
 DOMAIN-SUFFIX,analytics.jd-powered.net
+DOMAIN-SUFFIX,analytics.lachner.app
 DOMAIN-SUFFIX,analytics.libertymutual.com.edgekey.net
 DOMAIN-SUFFIX,analytics.live.com
 DOMAIN-SUFFIX,analytics.mall.yahoo.com
@@ -1680,9 +1683,11 @@ DOMAIN-SUFFIX,api.cupid.dns.iqiyi.com
 DOMAIN-SUFFIX,api.developer.xiaomi.com
 DOMAIN-SUFFIX,api.e.mi.com
 DOMAIN-SUFFIX,api.edgeoffer.microsoft.com
+DOMAIN-SUFFIX,api.eu.iterable.com
 DOMAIN-SUFFIX,api.exc.mob.com
 DOMAIN-SUFFIX,api.fc.mob.com
 DOMAIN-SUFFIX,api.fd.mob.com
+DOMAIN-SUFFIX,api.gentler.app
 DOMAIN-SUFFIX,api.getui.com
 DOMAIN-SUFFIX,api.hismarttv.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
@@ -1828,6 +1833,7 @@ DOMAIN-SUFFIX,ask.log.kuyun.com
 DOMAIN-SUFFIX,aspect-upush.umeng.com
 DOMAIN-SUFFIX,assets.adspruce.com
 DOMAIN-SUFFIX,assets.amung.us
+DOMAIN-SUFFIX,assets.pawwalls.com
 DOMAIN-SUFFIX,assistant.pandora.xiaomi.com
 DOMAIN-SUFFIX,assoc-amazon.co.uk
 DOMAIN-SUFFIX,assoc-amazon.com

@@ -2877,6 +2877,7 @@ DOMAIN-SUFFIX,coremetrics.carrier.com,extended-matching
 DOMAIN-SUFFIX,coremetrics.com,extended-matching
 DOMAIN-SUFFIX,cortex.vidora.com,extended-matching
 DOMAIN-SUFFIX,cosmos.marfeel.com,extended-matching
+DOMAIN-SUFFIX,cosouy.xyz,extended-matching
 DOMAIN-SUFFIX,cotads.adscale.de,extended-matching
 DOMAIN-SUFFIX,count-server.sharethis.com,extended-matching
 DOMAIN-SUFFIX,count.advanseads.com,extended-matching
@@ -3649,6 +3650,7 @@ DOMAIN-SUFFIX,gdpr.rw.yieldmo.com,extended-matching
 DOMAIN-SUFFIX,gem.gbc.criteo.com,extended-matching
 DOMAIN-SUFFIX,gemius.pl,extended-matching
 DOMAIN-SUFFIX,genieessp.com,extended-matching
+DOMAIN-SUFFIX,gentler.app,extended-matching
 DOMAIN-SUFFIX,geo-location.s-onetag.com,extended-matching
 DOMAIN-SUFFIX,geo-tracker.smadex.com,extended-matching
 DOMAIN-SUFFIX,geo.adobe.com,extended-matching
@@ -4288,6 +4290,7 @@ DOMAIN-SUFFIX,is-tracking-pixel-api-prod.appspot.com,extended-matching
 DOMAIN-SUFFIX,ispot.tv,extended-matching
 DOMAIN-SUFFIX,it-gmtdmp.mookie1.com,extended-matching
 DOMAIN-SUFFIX,italentclc.com,extended-matching
+DOMAIN-SUFFIX,iterable.com,extended-matching
 DOMAIN-SUFFIX,iteratehq.com,extended-matching
 DOMAIN-SUFFIX,itim.vn,extended-matching
 DOMAIN-SUFFIX,itm.ivitrack.com,extended-matching
@@ -4311,6 +4314,7 @@ DOMAIN-SUFFIX,jhpxlyd.cn,extended-matching
 DOMAIN-SUFFIX,jiguang.cn,extended-matching
 DOMAIN-SUFFIX,jioads.akamaized.net,extended-matching
 DOMAIN-SUFFIX,jipsegoasho.com,extended-matching
+DOMAIN-SUFFIX,jndxsuy.xyz,extended-matching
 DOMAIN-SUFFIX,jnn-pa.googleapis.com,extended-matching
 DOMAIN-SUFFIX,jogger.zdbb.net,extended-matching
 DOMAIN-SUFFIX,johnston.grapeshot.co.uk,extended-matching
@@ -4436,6 +4440,7 @@ DOMAIN-SUFFIX,l80ays.com,extended-matching
 DOMAIN-SUFFIX,labs-cdn.revcontent.com,extended-matching
 DOMAIN-SUFFIX,lacerta.iad-03.appboy.com,extended-matching
 DOMAIN-SUFFIX,lacerta.iad.appboy.com,extended-matching
+DOMAIN-SUFFIX,lachner.app,extended-matching
 DOMAIN-SUFFIX,largosoft.co.kr,extended-matching
 DOMAIN-SUFFIX,lasteventf.tubemogul.com,extended-matching
 DOMAIN-SUFFIX,latency.agoop.net,extended-matching
@@ -4882,6 +4887,7 @@ DOMAIN-SUFFIX,mtburn.com,extended-matching
 DOMAIN-SUFFIX,mtgglobals.com,extended-matching
 DOMAIN-SUFFIX,mtrcss.com,extended-matching
 DOMAIN-SUFFIX,mtrx.go.sonobi.com,extended-matching
+DOMAIN-SUFFIX,mtwmuy.xyz,extended-matching
 DOMAIN-SUFFIX,mug.criteo.com,extended-matching
 DOMAIN-SUFFIX,mug.da1.vip.prod.criteo.com,extended-matching
 DOMAIN-SUFFIX,mug.hk5.vip.prod.criteo.com,extended-matching
@@ -5217,6 +5223,7 @@ DOMAIN-SUFFIX,pasta.esapplocker.duapps.com,extended-matching
 DOMAIN-SUFFIX,pasta.esfile.duapps.com,extended-matching
 DOMAIN-SUFFIX,pasta.estrongspro.duapps.com,extended-matching
 DOMAIN-SUFFIX,pasta.sd.duapps.com,extended-matching
+DOMAIN-SUFFIX,pawwalls.com,extended-matching
 DOMAIN-SUFFIX,pay.qq.com,extended-matching
 DOMAIN-SUFFIX,payload.adadapted.com,extended-matching
 DOMAIN-SUFFIX,payment.yodo1api.com,extended-matching
@@ -6330,6 +6337,7 @@ DOMAIN-SUFFIX,sovrn.apxlv.com,extended-matching
 DOMAIN-SUFFIX,sp.advertising.com,extended-matching
 DOMAIN-SUFFIX,sp1cluster.cxense.com,extended-matching
 DOMAIN-SUFFIX,sparkle.locationlabs.com,extended-matching
+DOMAIN-SUFFIX,sparkloop.app,extended-matching
 DOMAIN-SUFFIX,sparkusdiscoverdcm781744349491.s.moatpixel.com,extended-matching
 DOMAIN-SUFFIX,specialdeals.g5e.com,extended-matching
 DOMAIN-SUFFIX,speedvr.cn,extended-matching
@@ -6361,6 +6369,7 @@ DOMAIN-SUFFIX,srv.dc-1.net,extended-matching
 DOMAIN-SUFFIX,srv.imonomy.com,extended-matching
 DOMAIN-SUFFIX,srv.pixel.parsely.com,extended-matching
 DOMAIN-SUFFIX,srv.stackadapt.com,extended-matching
+DOMAIN-SUFFIX,srxy.xyz,extended-matching
 DOMAIN-SUFFIX,ss.c.appier.net,extended-matching
 DOMAIN-SUFFIX,ss.yomedia.vn,extended-matching
 DOMAIN-SUFFIX,ssadscdn.cn,extended-matching
@@ -7241,6 +7250,7 @@ DOMAIN-SUFFIX,utctime.tiltingpoint.io,extended-matching
 DOMAIN-SUFFIX,uts.kingoapp.com,extended-matching
 DOMAIN-SUFFIX,uw.evm1.stackadapt.com,extended-matching
 DOMAIN-SUFFIX,uw.srv.stackadapt.com,extended-matching
+DOMAIN-SUFFIX,uyohyy.xyz,extended-matching
 DOMAIN-SUFFIX,v-ak.chartboost.com,extended-matching
 DOMAIN-SUFFIX,v.adsrvr.org,extended-matching
 DOMAIN-SUFFIX,v.cf.ssacdn.com,extended-matching

@@ -42,6 +42,9 @@
 .adjust-local-settings.com
 .consent.adjust.world
 .analytics.adjust.world
+.analytics.adjust.io
+.analytics.adjust.cn
+.analytics.adjust.com
 .app.adjust.world
 .adjust.works
 .ttr.adjust-net.jp
@@ -96,7 +99,6 @@
 .22app.adjust.com
 .1app.adjust.com
 .0app.adjust.com
-.analytics.adjust.io
 .s2s.adjust.io
 .s2s.adjust.cn
 .app.adjust.io
@@ -109,7 +111,6 @@
 .view.adjust.asia
 .ssrv.adjust.cn
 .consent.adjust.cn
-.analytics.adjust.cn
 .gdpr.adjust.cn
 .subscription.adjust.cn
 .dan.adjust.cn
@@ -6383,3 +6384,8 @@ api.getkoala.com
 .api.sardine.ai
 .d.sardine.ai
 .trap.skype.com
+.api.eu.iterable.com
+.api.gentler.app
+.analytics.gentler.app
+.analytics.lachner.app
+.assets.pawwalls.com

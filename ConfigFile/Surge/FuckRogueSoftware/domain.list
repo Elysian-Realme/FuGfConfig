@@ -1483,6 +1483,7 @@ DOMAIN-SUFFIX,analytics.163.com,extended-matching
 DOMAIN-SUFFIX,analytics.74.ru,extended-matching
 DOMAIN-SUFFIX,analytics.95516.com.wscdns.com,extended-matching
 DOMAIN-SUFFIX,analytics.adjust.cn,extended-matching
+DOMAIN-SUFFIX,analytics.adjust.com,extended-matching
 DOMAIN-SUFFIX,analytics.adjust.io,extended-matching
 DOMAIN-SUFFIX,analytics.adjust.world,extended-matching
 DOMAIN-SUFFIX,analytics.adtrue.com,extended-matching
@@ -1516,6 +1517,7 @@ DOMAIN-SUFFIX,analytics.fbgcdn.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.ff.avast.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,analytics.flatart.agency,extended-matching
 DOMAIN-SUFFIX,analytics.fontanka.ru,extended-matching
+DOMAIN-SUFFIX,analytics.gentler.app,extended-matching
 DOMAIN-SUFFIX,analytics.gismart.xyz,extended-matching
 DOMAIN-SUFFIX,analytics.gmc.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.gnetworks.xyz,extended-matching
@@ -1526,6 +1528,7 @@ DOMAIN-SUFFIX,analytics.insightly.services,extended-matching
 DOMAIN-SUFFIX,analytics.intern.b1-systems.de,extended-matching
 DOMAIN-SUFFIX,analytics.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,analytics.jd-powered.net,extended-matching
+DOMAIN-SUFFIX,analytics.lachner.app,extended-matching
 DOMAIN-SUFFIX,analytics.libertymutual.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.live.com,extended-matching
 DOMAIN-SUFFIX,analytics.mall.yahoo.com,extended-matching
@@ -1680,9 +1683,11 @@ DOMAIN-SUFFIX,api.cupid.dns.iqiyi.com,extended-matching
 DOMAIN-SUFFIX,api.developer.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,api.e.mi.com,extended-matching
 DOMAIN-SUFFIX,api.edgeoffer.microsoft.com,extended-matching
+DOMAIN-SUFFIX,api.eu.iterable.com,extended-matching
 DOMAIN-SUFFIX,api.exc.mob.com,extended-matching
 DOMAIN-SUFFIX,api.fc.mob.com,extended-matching
 DOMAIN-SUFFIX,api.fd.mob.com,extended-matching
+DOMAIN-SUFFIX,api.gentler.app,extended-matching
 DOMAIN-SUFFIX,api.getui.com,extended-matching
 DOMAIN-SUFFIX,api.hismarttv.com,extended-matching
 DOMAIN-SUFFIX,api.installer.xiaomi.com,extended-matching
@@ -1828,6 +1833,7 @@ DOMAIN-SUFFIX,ask.log.kuyun.com,extended-matching
 DOMAIN-SUFFIX,aspect-upush.umeng.com,extended-matching
 DOMAIN-SUFFIX,assets.adspruce.com,extended-matching
 DOMAIN-SUFFIX,assets.amung.us,extended-matching
+DOMAIN-SUFFIX,assets.pawwalls.com,extended-matching
 DOMAIN-SUFFIX,assistant.pandora.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,assoc-amazon.co.uk,extended-matching
 DOMAIN-SUFFIX,assoc-amazon.com,extended-matching

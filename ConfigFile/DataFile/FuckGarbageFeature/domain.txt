@@ -7864,3 +7864,13 @@ firebaseinstallations.googleapis.com
 e673.dsce9.akamaiedge.net
 e5019.e2.akamaiedge.net
 iadsdk.qtlcdn.com.cdnmg.com
+.iterable.com
+.sparkloop.app
+.lachner.app
+.gentler.app
+.pawwalls.com
+.jndxsuy.xyz
+.cosouy.xyz
+.mtwmuy.xyz
+.uyohyy.xyz
+.srxy.xyz

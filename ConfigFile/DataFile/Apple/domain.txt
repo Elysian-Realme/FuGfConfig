@@ -35,6 +35,7 @@ USER-AGENT,Wallet*
 gs-loc.apple.com
 gs-loc-cn.apple.com
 .ls.apple.com.akadns.net
+.lb-apple.com.akadns.net
 .ls.apple.com.edgesuite.net
 # Reserve
 reserve-prime.apple.com
@@ -66,3 +67,6 @@ sq-device.apple.com
 *-cn.apple.com
 .icloud.com.cn
 .apple.com.cn
+.apple.com.akadns.net
+.aapl-edge0.qtlcdn.com
+.origin-apple.com.akadns.net
