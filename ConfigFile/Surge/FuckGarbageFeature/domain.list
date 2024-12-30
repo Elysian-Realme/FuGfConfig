@@ -725,6 +725,7 @@ DOMAIN-SUFFIX,adjust.cn,extended-matching
 DOMAIN-SUFFIX,adjust.com,extended-matching
 DOMAIN-SUFFIX,adjust.com.itotolink.net,extended-matching
 DOMAIN-SUFFIX,adjust.io,extended-matching
+DOMAIN-SUFFIX,adjust.live,extended-matching
 DOMAIN-SUFFIX,adjust.net.in,extended-matching
 DOMAIN-SUFFIX,adjust.works,extended-matching
 DOMAIN-SUFFIX,adjust.world,extended-matching
@@ -2769,6 +2770,7 @@ DOMAIN-SUFFIX,com-upday-main.collector.snplow.net,extended-matching
 DOMAIN-SUFFIX,combine.asnapieu.com,extended-matching
 DOMAIN-SUFFIX,combine.urbanairship.com,extended-matching
 DOMAIN-SUFFIX,comezz.xyz,extended-matching
+DOMAIN-SUFFIX,comlaude-dns.com,extended-matching
 DOMAIN-SUFFIX,commerce.campaignmonitor.com,extended-matching
 DOMAIN-SUFFIX,common.duapps.com,extended-matching
 DOMAIN-SUFFIX,communicate.gimbal.com,extended-matching
@@ -3468,6 +3470,7 @@ DOMAIN-SUFFIX,exapi-us-west.rubiconproject.com,extended-matching
 DOMAIN-SUFFIX,exch.quantserve.com,extended-matching
 DOMAIN-SUFFIX,exe.bid,extended-matching
 DOMAIN-SUFFIX,execution-use.ci360.sas.com,extended-matching
+DOMAIN-SUFFIX,exelator.com,extended-matching
 DOMAIN-SUFFIX,exp.360in.com,extended-matching
 DOMAIN-SUFFIX,experience.tinypass.com,extended-matching
 DOMAIN-SUFFIX,experiment.appadhoc.com,extended-matching
@@ -3494,6 +3497,7 @@ DOMAIN-SUFFIX,farcaleniom.com,extended-matching
 DOMAIN-SUFFIX,fast.a.klaviyo.com,extended-matching
 DOMAIN-SUFFIX,fast.mtvn.demdex.net,extended-matching
 DOMAIN-SUFFIX,fastapi.net,extended-matching
+DOMAIN-SUFFIX,fastclick.net,extended-matching
 DOMAIN-SUFFIX,fastg8.pool.iponweb.net,extended-matching
 DOMAIN-SUFFIX,fastlane-adv.rubiconproject.com,extended-matching
 DOMAIN-SUFFIX,fastlane.rubiconproject.com,extended-matching
@@ -3817,6 +3821,7 @@ DOMAIN-SUFFIX,halo.ad.gt,extended-matching
 DOMAIN-SUFFIX,harmonyos.com,extended-matching
 DOMAIN-SUFFIX,harvest.gotrackier.com,extended-matching
 DOMAIN-SUFFIX,hasmobi.net,extended-matching
+DOMAIN-SUFFIX,hatchxr.com,extended-matching
 DOMAIN-SUFFIX,havasedge.com,extended-matching
 DOMAIN-SUFFIX,hb-t5u9.raps.ravm.tv,extended-matching
 DOMAIN-SUFFIX,hb.adscale.de,extended-matching
@@ -4269,6 +4274,7 @@ DOMAIN-SUFFIX,ip.taobao.com,extended-matching
 DOMAIN-SUFFIX,ip1.ads.stickyadstv.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,ip1.cdn.stickyadstv.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,ip2.ads.stickyadstv.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,ipbase.com,extended-matching
 DOMAIN-SUFFIX,ipds.adrta.com,extended-matching
 DOMAIN-SUFFIX,ipds.gateway.adrta.com,extended-matching
 DOMAIN-SUFFIX,ipinyou.com,extended-matching
@@ -4375,6 +4381,7 @@ DOMAIN-SUFFIX,jssdks.mparticle.com,extended-matching
 DOMAIN-SUFFIX,jubao.qq.com,extended-matching
 DOMAIN-SUFFIX,juiceadv.com,extended-matching
 DOMAIN-SUFFIX,juicyads.com,extended-matching
+DOMAIN-SUFFIX,justdone.ai,extended-matching
 DOMAIN-SUFFIX,juxiangwan.com,extended-matching
 DOMAIN-SUFFIX,jxqdl.cn,extended-matching
 DOMAIN-SUFFIX,jzwjq.ads.tremorhub.com,extended-matching
@@ -7148,6 +7155,7 @@ DOMAIN-SUFFIX,umrstfl.cn,extended-matching
 DOMAIN-SUFFIX,ums.acuityplatform.com,extended-matching
 DOMAIN-SUFFIX,ums.adtech.com,extended-matching
 DOMAIN-SUFFIX,undetectable.ai,extended-matching
+DOMAIN-SUFFIX,unet.quark.cn,extended-matching
 DOMAIN-SUFFIX,unid.go.com,extended-matching
 DOMAIN-SUFFIX,unified.adsafeprotected.com,extended-matching
 DOMAIN-SUFFIX,unifiedbidding.ad.smaato.net,extended-matching

@@ -648,6 +648,8 @@ dualstack-logs.amap.com
 .analytics.search.amazon.com
 .ads-setu-proxy-eu.amazon.com
 .tracker.corp.amazon.com
+.ws.amazon.com
+.ws.amazon.co.jp
 
 ## Apple
 .iadsdk.apple.com

@@ -2647,6 +2647,7 @@ codepush.appcenter.ms
 .s.tpctrust.com
 .adjust.com
 .adjust.io
+.adjust.live
 .content.maropost.com
 .cdn.maropost.com
 .api.maropost.com
@@ -3599,6 +3600,7 @@ codepush.appcenter.ms
 .prooffactor.com
 .api.prooffactor.com
 .adserver.adreactor.com
+.exelator.com
 .loadus.exelator.com
 .loadr.exelator.com
 .cdn.exelator.com
@@ -7814,7 +7816,7 @@ pdns.dnspod.cn
 .atlassian.net
 .atlassian.com
 .mercent.com
-
+.fastclick.net
 .quanfeng.net
 .dragonparking.com
 .browserscan.net
@@ -7874,3 +7876,9 @@ iadsdk.qtlcdn.com.cdnmg.com
 .mtwmuy.xyz
 .uyohyy.xyz
 .srxy.xyz
+.comlaude-dns.com
+.huaweicloud-dns.cn
+.unet.quark.cn
+.hatchxr.com
+.ipbase.com
+.justdone.ai

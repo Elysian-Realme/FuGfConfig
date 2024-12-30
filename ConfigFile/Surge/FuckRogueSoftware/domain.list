@@ -5655,6 +5655,8 @@ DOMAIN-SUFFIX,wpengine.taplytics.com,extended-matching
 DOMAIN-SUFFIX,wrating.com,extended-matching
 DOMAIN-SUFFIX,wreport.meituan.net,extended-matching
 DOMAIN-SUFFIX,wreport1.meituan.net,extended-matching
+DOMAIN-SUFFIX,ws.amazon.co.jp,extended-matching
+DOMAIN-SUFFIX,ws.amazon.com,extended-matching
 DOMAIN-SUFFIX,ws.mmstat.com,extended-matching
 DOMAIN-SUFFIX,ws.rong-edge.com,extended-matching
 DOMAIN-SUFFIX,ws.sj.qq.com,extended-matching
