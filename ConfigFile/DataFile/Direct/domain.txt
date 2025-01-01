@@ -192,3 +192,4 @@ test-ipv6.com
 .vmware.com
 .ntp.org
 .obsproject.com
+.deepseek.com

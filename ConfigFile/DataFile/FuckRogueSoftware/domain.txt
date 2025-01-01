@@ -2274,10 +2274,15 @@ ulogs2.gifshow.com
 .mobile.launchdarkly.com
 .events.launchdarkly.us
 .clientstream.launchdarkly.us
+.clientstream.launchdarkly.com
 .sdk.launchdarkly.us
 .clientsdk.launchdarkly.us
 .app.launchdarkly.com
 .tracking.launchdarkly.com
+.metric.launchdarkly.com
+.wp.launchdarkly.com
+.edge.launchdarkly.com
+.oid.launchdarkly.com
 
 ## Manmanbuy 慢慢买
 .applog.manmanbuy.com
@@ -6391,3 +6396,5 @@ api.getkoala.com
 .analytics.gentler.app
 .analytics.lachner.app
 .assets.pawwalls.com
+.ohttp-relay1.fastly-edge.com
+.fastly-edge.com.itotolink.net

@@ -2168,6 +2168,7 @@ DOMAIN-SUFFIX,clientlog3.music.163.com,extended-matching
 DOMAIN-SUFFIX,clientreport.gfm.qq.com,extended-matching
 DOMAIN-SUFFIX,clients.adspruce.com,extended-matching
 DOMAIN-SUFFIX,clientsdk.launchdarkly.us,extended-matching
+DOMAIN-SUFFIX,clientstream.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,clientstream.launchdarkly.us,extended-matching
 DOMAIN-SUFFIX,cloud-miner.de,extended-matching
 DOMAIN-SUFFIX,cloud-miner.eu,extended-matching
@@ -2553,6 +2554,7 @@ DOMAIN-SUFFIX,ecom.intl.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,ecom.snssdk.com,extended-matching
 DOMAIN-SUFFIX,ecomgxh.kuwo.cn,extended-matching
 DOMAIN-SUFFIX,ecommerce.iap.unity3d.com,extended-matching
+DOMAIN-SUFFIX,edge.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,edgesdk-data.uhabo.com,extended-matching
 DOMAIN-SUFFIX,eduad.baidu.com,extended-matching
 DOMAIN-SUFFIX,eduapp.adjust.com,extended-matching
@@ -2666,6 +2668,7 @@ DOMAIN-SUFFIX,fa.163.com,extended-matching
 DOMAIN-SUFFIX,facebook.pr.co,extended-matching
 DOMAIN-SUFFIX,fantuan.bz.mgtv.com,extended-matching
 DOMAIN-SUFFIX,fapp.adjust.com,extended-matching
+DOMAIN-SUFFIX,fastly-edge.com.itotolink.net,extended-matching
 DOMAIN-SUFFIX,fb.umeng.com,extended-matching
 DOMAIN-SUFFIX,fc3tn.baidu.com,extended-matching
 DOMAIN-SUFFIX,fc5tn.baidu.com,extended-matching
@@ -3901,6 +3904,7 @@ DOMAIN-SUFFIX,metok.sys.miui.com,extended-matching
 DOMAIN-SUFFIX,metric.atlassian.com,extended-matching
 DOMAIN-SUFFIX,metric.beta.facebook.com,extended-matching
 DOMAIN-SUFFIX,metric.internmc.facebook.com,extended-matching
+DOMAIN-SUFFIX,metric.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,metric.prod.netflix.net,extended-matching
 DOMAIN-SUFFIX,metric.taobao.com,extended-matching
 DOMAIN-SUFFIX,metric.test.netflix.net,extended-matching
@@ -4220,7 +4224,9 @@ DOMAIN-SUFFIX,offmsg.umeng.com,extended-matching
 DOMAIN-SUFFIX,offnavi.map.baidu.com,extended-matching
 DOMAIN-SUFFIX,ofloc.map.baidu.com,extended-matching
 DOMAIN-SUFFIX,ogrid.org,extended-matching
+DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com,extended-matching
 DOMAIN-SUFFIX,oia.zhihu.com,extended-matching
+DOMAIN-SUFFIX,oid.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,oimagea2.ydstatic.com,extended-matching
 DOMAIN-SUFFIX,oimsgad.qq.com,extended-matching
 DOMAIN-SUFFIX,okeyletsgo.ml,extended-matching
@@ -5650,6 +5656,7 @@ DOMAIN-SUFFIX,wordc.ga,extended-matching
 DOMAIN-SUFFIX,worldwide.sogou.com,extended-matching
 DOMAIN-SUFFIX,wp-monero-miner.de,extended-matching
 DOMAIN-SUFFIX,wp.adjust.com,extended-matching
+DOMAIN-SUFFIX,wp.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,wpcdn1.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,wpengine.taplytics.com,extended-matching
 DOMAIN-SUFFIX,wrating.com,extended-matching

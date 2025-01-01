@@ -2168,6 +2168,7 @@ DOMAIN-SUFFIX,clientlog3.music.163.com
 DOMAIN-SUFFIX,clientreport.gfm.qq.com
 DOMAIN-SUFFIX,clients.adspruce.com
 DOMAIN-SUFFIX,clientsdk.launchdarkly.us
+DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,clientstream.launchdarkly.us
 DOMAIN-SUFFIX,cloud-miner.de
 DOMAIN-SUFFIX,cloud-miner.eu
@@ -2553,6 +2554,7 @@ DOMAIN-SUFFIX,ecom.intl.xiaomi.com
 DOMAIN-SUFFIX,ecom.snssdk.com
 DOMAIN-SUFFIX,ecomgxh.kuwo.cn
 DOMAIN-SUFFIX,ecommerce.iap.unity3d.com
+DOMAIN-SUFFIX,edge.launchdarkly.com
 DOMAIN-SUFFIX,edgesdk-data.uhabo.com
 DOMAIN-SUFFIX,eduad.baidu.com
 DOMAIN-SUFFIX,eduapp.adjust.com
@@ -2666,6 +2668,7 @@ DOMAIN-SUFFIX,fa.163.com
 DOMAIN-SUFFIX,facebook.pr.co
 DOMAIN-SUFFIX,fantuan.bz.mgtv.com
 DOMAIN-SUFFIX,fapp.adjust.com
+DOMAIN-SUFFIX,fastly-edge.com.itotolink.net
 DOMAIN-SUFFIX,fb.umeng.com
 DOMAIN-SUFFIX,fc3tn.baidu.com
 DOMAIN-SUFFIX,fc5tn.baidu.com
@@ -3901,6 +3904,7 @@ DOMAIN-SUFFIX,metok.sys.miui.com
 DOMAIN-SUFFIX,metric.atlassian.com
 DOMAIN-SUFFIX,metric.beta.facebook.com
 DOMAIN-SUFFIX,metric.internmc.facebook.com
+DOMAIN-SUFFIX,metric.launchdarkly.com
 DOMAIN-SUFFIX,metric.prod.netflix.net
 DOMAIN-SUFFIX,metric.taobao.com
 DOMAIN-SUFFIX,metric.test.netflix.net
@@ -4220,7 +4224,9 @@ DOMAIN-SUFFIX,offmsg.umeng.com
 DOMAIN-SUFFIX,offnavi.map.baidu.com
 DOMAIN-SUFFIX,ofloc.map.baidu.com
 DOMAIN-SUFFIX,ogrid.org
+DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
 DOMAIN-SUFFIX,oia.zhihu.com
+DOMAIN-SUFFIX,oid.launchdarkly.com
 DOMAIN-SUFFIX,oimagea2.ydstatic.com
 DOMAIN-SUFFIX,oimsgad.qq.com
 DOMAIN-SUFFIX,okeyletsgo.ml
@@ -5650,6 +5656,7 @@ DOMAIN-SUFFIX,wordc.ga
 DOMAIN-SUFFIX,worldwide.sogou.com
 DOMAIN-SUFFIX,wp-monero-miner.de
 DOMAIN-SUFFIX,wp.adjust.com
+DOMAIN-SUFFIX,wp.launchdarkly.com
 DOMAIN-SUFFIX,wpcdn1.herokuapp.com
 DOMAIN-SUFFIX,wpengine.taplytics.com
 DOMAIN-SUFFIX,wrating.com

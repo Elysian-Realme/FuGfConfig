@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,anchor.fm,extended-matching
 DOMAIN-SUFFIX,android.com,extended-matching
 DOMAIN-SUFFIX,annas-archive.gs,extended-matching
 DOMAIN-SUFFIX,annas-archive.org,extended-matching
+DOMAIN-SUFFIX,api.revenuecat.com,extended-matching
 DOMAIN-SUFFIX,apkpure.com,extended-matching
 DOMAIN-SUFFIX,apkpure.net,extended-matching
 DOMAIN-SUFFIX,appsco.pe,extended-matching

@@ -2650,7 +2650,6 @@ DOMAIN-SUFFIX,clientmetrics.kik.com,extended-matching
 DOMAIN-SUFFIX,clients-api.pushengage.com,extended-matching
 DOMAIN-SUFFIX,clients1.google.com,extended-matching
 DOMAIN-SUFFIX,clientsdk.luminati.io,extended-matching
-DOMAIN-SUFFIX,clientstream.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,clipbongda.info,extended-matching
 DOMAIN-SUFFIX,clk.adgaterewards.com,extended-matching
 DOMAIN-SUFFIX,clk.solocpm.com,extended-matching
@@ -4452,6 +4451,7 @@ DOMAIN-SUFFIX,largosoft.co.kr,extended-matching
 DOMAIN-SUFFIX,lasteventf.tubemogul.com,extended-matching
 DOMAIN-SUFFIX,latency.agoop.net,extended-matching
 DOMAIN-SUFFIX,later-analytics-reports.s3-accelerate.amazonaws.com,extended-matching
+DOMAIN-SUFFIX,launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,lavanetwork.net,extended-matching
 DOMAIN-SUFFIX,lax-1-apex.go.sonobi.com,extended-matching
 DOMAIN-SUFFIX,lax-1-sync.go.sonobi.com,extended-matching
@@ -4818,7 +4818,6 @@ DOMAIN-SUFFIX,mobile.confsettings.com,extended-matching
 DOMAIN-SUFFIX,mobile.controller.duokanbox.com,extended-matching
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com,extended-matching
 DOMAIN-SUFFIX,mobile.ib.sin1.geoadnxs.com,extended-matching
-DOMAIN-SUFFIX,mobile.launchdarkly.com,extended-matching
 DOMAIN-SUFFIX,mobile.logs.roku.com,extended-matching
 DOMAIN-SUFFIX,mobile.measurelib.com,extended-matching
 DOMAIN-SUFFIX,mobile.mng-ads.com,extended-matching
@@ -5074,7 +5073,6 @@ DOMAIN-SUFFIX,offers.cdn.natpal.com,extended-matching
 DOMAIN-SUFFIX,offers.propellerads.com,extended-matching
 DOMAIN-SUFFIX,ogads-pa.googleapis.com,extended-matching
 DOMAIN-SUFFIX,ogznfgl.cn,extended-matching
-DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com,extended-matching
 DOMAIN-SUFFIX,olc.yodo1api.com,extended-matching
 DOMAIN-SUFFIX,omax.admarvel.com,extended-matching
 DOMAIN-SUFFIX,omni-sdk.mattel163.com,extended-matching

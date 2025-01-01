@@ -2650,7 +2650,6 @@ DOMAIN-SUFFIX,clientmetrics.kik.com
 DOMAIN-SUFFIX,clients-api.pushengage.com
 DOMAIN-SUFFIX,clients1.google.com
 DOMAIN-SUFFIX,clientsdk.luminati.io
-DOMAIN-SUFFIX,clientstream.launchdarkly.com
 DOMAIN-SUFFIX,clipbongda.info
 DOMAIN-SUFFIX,clk.adgaterewards.com
 DOMAIN-SUFFIX,clk.solocpm.com
@@ -4452,6 +4451,7 @@ DOMAIN-SUFFIX,largosoft.co.kr
 DOMAIN-SUFFIX,lasteventf.tubemogul.com
 DOMAIN-SUFFIX,latency.agoop.net
 DOMAIN-SUFFIX,later-analytics-reports.s3-accelerate.amazonaws.com
+DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lavanetwork.net
 DOMAIN-SUFFIX,lax-1-apex.go.sonobi.com
 DOMAIN-SUFFIX,lax-1-sync.go.sonobi.com
@@ -4818,7 +4818,6 @@ DOMAIN-SUFFIX,mobile.confsettings.com
 DOMAIN-SUFFIX,mobile.controller.duokanbox.com
 DOMAIN-SUFFIX,mobile.events.data.microsoft.com
 DOMAIN-SUFFIX,mobile.ib.sin1.geoadnxs.com
-DOMAIN-SUFFIX,mobile.launchdarkly.com
 DOMAIN-SUFFIX,mobile.logs.roku.com
 DOMAIN-SUFFIX,mobile.measurelib.com
 DOMAIN-SUFFIX,mobile.mng-ads.com
@@ -5074,7 +5073,6 @@ DOMAIN-SUFFIX,offers.cdn.natpal.com
 DOMAIN-SUFFIX,offers.propellerads.com
 DOMAIN-SUFFIX,ogads-pa.googleapis.com
 DOMAIN-SUFFIX,ogznfgl.cn
-DOMAIN-SUFFIX,ohttp-relay1.fastly-edge.com
 DOMAIN-SUFFIX,olc.yodo1api.com
 DOMAIN-SUFFIX,omax.admarvel.com
 DOMAIN-SUFFIX,omni-sdk.mattel163.com
