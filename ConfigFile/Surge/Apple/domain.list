@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,apple.com.cn,extended-matching
 DOMAIN-SUFFIX,icloud-content.com,extended-matching
 DOMAIN-SUFFIX,icloud.com,extended-matching
 DOMAIN-SUFFIX,icloud.com.cn,extended-matching
+DOMAIN-SUFFIX,idms-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,lb-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,lcdn-locator.apple.com,extended-matching
 DOMAIN-SUFFIX,ls.apple.com,extended-matching
