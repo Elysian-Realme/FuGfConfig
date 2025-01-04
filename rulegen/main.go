@@ -13,7 +13,7 @@ var (
 )
 
 func main() {
-	list := []string{"Surge", "Loon"}
+	list := []string{"Surge", "Loon", "sing-box"}
 	// 遍历目录下的文件
 	dir := "../ConfigFile/DataFile/"
 	err := filepath.Walk(dir, func(path string, info os.FileInfo, err error) error {
@@ -188,11 +188,13 @@ func gen(rules []Rule, platform string, policy string) ([]string, error) {
 	switch platform {
 	// case "AdGuardHome":
 	// 	g = &AdGuardHome{}
-	case "DomainSet":
-		g = &DomainSet{}
-	case "Surge":
-		g = &SurgeGen{}
+	// case "DomainSet":
+	// 	g = &DomainSet{}
 	case "Loon":
+		g = &Loon{}
+	case "sing-box":
+		g = &SingBox{}
+	case "Surge":
 		g = &SurgeGen{}
 	default:
 		return nil, errors.New("Gen 匹配 Case 出现漏网之🐟: " + platform)

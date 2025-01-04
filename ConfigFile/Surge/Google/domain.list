@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,gmail.com,extended-matching
 DOMAIN-SUFFIX,google.com,extended-matching
+DOMAIN-SUFFIX,google.com.sg,extended-matching
 DOMAIN-SUFFIX,googleapis.com,extended-matching
 DOMAIN-SUFFIX,googledrive.com,extended-matching
 DOMAIN-SUFFIX,googletagmanager.com,extended-matching
