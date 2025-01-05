@@ -197,7 +197,6 @@ DOMAIN,apikey.map.qq.com
 DOMAIN,app-measurement.com
 DOMAIN,app.miui.com
 DOMAIN,appcloud2.in.zhihu.com
-DOMAIN,apponline.research.qq.com
 DOMAIN,appsec-mobile.meituan.com
 DOMAIN,as.mgtv.com
 DOMAIN,at-img1.tdimg.com
@@ -685,7 +684,6 @@ DOMAIN,recommender-launcher.hismarttv.com
 DOMAIN,redirect.simba.taobao.com
 DOMAIN,report.idqqimg.com
 DOMAIN,report.imtt.qq.com
-DOMAIN,report.kg.qq.com
 DOMAIN,report.nfa.qq.com
 DOMAIN,report.qcloudcdn.qq.com
 DOMAIN,report.qqweb.qq.com
@@ -694,7 +692,6 @@ DOMAIN,report.tv.kohesport.qq.com
 DOMAIN,res.imtt.qq.com
 DOMAIN,res.sentcss.com
 DOMAIN,rescn.u3.ucweb.com
-DOMAIN,research.qq.com
 DOMAIN,resolver.msg.global.xiaomi.net
 DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,resource-cmp.hismarttv.com
@@ -4069,6 +4066,7 @@ DOMAIN-SUFFIX,mscbos.baidu.com
 DOMAIN-SUFFIX,msch.f.360.cn
 DOMAIN-SUFFIX,msdk.qq.com
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msfwifiv6.3g.qq.com
 DOMAIN-SUFFIX,msg-intl.qy.net
 DOMAIN-SUFFIX,msg.ptqy.gitv.tv
 DOMAIN-SUFFIX,msg.qy.net
@@ -4584,6 +4582,7 @@ DOMAIN-SUFFIX,report.binance.im
 DOMAIN-SUFFIX,report.bkav.com
 DOMAIN-SUFFIX,report.cms.qq.com
 DOMAIN-SUFFIX,report.jpush.cn
+DOMAIN-SUFFIX,report.kg.qq.com
 DOMAIN-SUFFIX,report.meeting.tencent.com
 DOMAIN-SUFFIX,report.meituan.com
 DOMAIN-SUFFIX,report.qq.com
@@ -4610,6 +4609,7 @@ DOMAIN-SUFFIX,res.mail.qq.com
 DOMAIN-SUFFIX,res.mgtv.com
 DOMAIN-SUFFIX,res.mi.baidu.com
 DOMAIN-SUFFIX,res.mmstat.com
+DOMAIN-SUFFIX,research.qq.com
 DOMAIN-SUFFIX,resolve.umeng.com
 DOMAIN-SUFFIX,responses.df.telemetry.microsoft.com
 DOMAIN-SUFFIX,restapi.getui.com
@@ -4622,6 +4622,7 @@ DOMAIN-SUFFIX,river.zhidao.baidu.com
 DOMAIN-SUFFIX,rj.baidu.com
 DOMAIN-SUFFIX,rlog.video.qq.com
 DOMAIN-SUFFIX,rlogs.youdao.com
+DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,rmpad.imtt.qq.com
 DOMAIN-SUFFIX,rmtp-b.rong-edge.com
 DOMAIN-SUFFIX,rmtp.rong-edge.com

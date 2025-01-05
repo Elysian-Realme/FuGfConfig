@@ -197,7 +197,6 @@ DOMAIN,apikey.map.qq.com,extended-matching
 DOMAIN,app-measurement.com,extended-matching
 DOMAIN,app.miui.com,extended-matching
 DOMAIN,appcloud2.in.zhihu.com,extended-matching
-DOMAIN,apponline.research.qq.com,extended-matching
 DOMAIN,appsec-mobile.meituan.com,extended-matching
 DOMAIN,as.mgtv.com,extended-matching
 DOMAIN,at-img1.tdimg.com,extended-matching
@@ -685,7 +684,6 @@ DOMAIN,recommender-launcher.hismarttv.com,extended-matching
 DOMAIN,redirect.simba.taobao.com,extended-matching
 DOMAIN,report.idqqimg.com,extended-matching
 DOMAIN,report.imtt.qq.com,extended-matching
-DOMAIN,report.kg.qq.com,extended-matching
 DOMAIN,report.nfa.qq.com,extended-matching
 DOMAIN,report.qcloudcdn.qq.com,extended-matching
 DOMAIN,report.qqweb.qq.com,extended-matching
@@ -694,7 +692,6 @@ DOMAIN,report.tv.kohesport.qq.com,extended-matching
 DOMAIN,res.imtt.qq.com,extended-matching
 DOMAIN,res.sentcss.com,extended-matching
 DOMAIN,rescn.u3.ucweb.com,extended-matching
-DOMAIN,research.qq.com,extended-matching
 DOMAIN,resolver.msg.global.xiaomi.net,extended-matching
 DOMAIN,resolver.msg.xiaomi.net,extended-matching
 DOMAIN,resource-cmp.hismarttv.com,extended-matching
@@ -4069,6 +4066,7 @@ DOMAIN-SUFFIX,mscbos.baidu.com,extended-matching
 DOMAIN-SUFFIX,msch.f.360.cn,extended-matching
 DOMAIN-SUFFIX,msdk.qq.com,extended-matching
 DOMAIN-SUFFIX,msedge.net,extended-matching
+DOMAIN-SUFFIX,msfwifiv6.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,msg-intl.qy.net,extended-matching
 DOMAIN-SUFFIX,msg.ptqy.gitv.tv,extended-matching
 DOMAIN-SUFFIX,msg.qy.net,extended-matching
@@ -4584,6 +4582,7 @@ DOMAIN-SUFFIX,report.binance.im,extended-matching
 DOMAIN-SUFFIX,report.bkav.com,extended-matching
 DOMAIN-SUFFIX,report.cms.qq.com,extended-matching
 DOMAIN-SUFFIX,report.jpush.cn,extended-matching
+DOMAIN-SUFFIX,report.kg.qq.com,extended-matching
 DOMAIN-SUFFIX,report.meeting.tencent.com,extended-matching
 DOMAIN-SUFFIX,report.meituan.com,extended-matching
 DOMAIN-SUFFIX,report.qq.com,extended-matching
@@ -4610,6 +4609,7 @@ DOMAIN-SUFFIX,res.mail.qq.com,extended-matching
 DOMAIN-SUFFIX,res.mgtv.com,extended-matching
 DOMAIN-SUFFIX,res.mi.baidu.com,extended-matching
 DOMAIN-SUFFIX,res.mmstat.com,extended-matching
+DOMAIN-SUFFIX,research.qq.com,extended-matching
 DOMAIN-SUFFIX,resolve.umeng.com,extended-matching
 DOMAIN-SUFFIX,responses.df.telemetry.microsoft.com,extended-matching
 DOMAIN-SUFFIX,restapi.getui.com,extended-matching
@@ -4622,6 +4622,7 @@ DOMAIN-SUFFIX,river.zhidao.baidu.com,extended-matching
 DOMAIN-SUFFIX,rj.baidu.com,extended-matching
 DOMAIN-SUFFIX,rlog.video.qq.com,extended-matching
 DOMAIN-SUFFIX,rlogs.youdao.com,extended-matching
+DOMAIN-SUFFIX,rmonitor.qq.com,extended-matching
 DOMAIN-SUFFIX,rmpad.imtt.qq.com,extended-matching
 DOMAIN-SUFFIX,rmtp-b.rong-edge.com,extended-matching
 DOMAIN-SUFFIX,rmtp.rong-edge.com,extended-matching

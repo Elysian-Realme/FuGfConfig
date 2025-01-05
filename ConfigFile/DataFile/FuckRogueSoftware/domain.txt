@@ -3393,7 +3393,7 @@ admonitor.qq.com
 adnew.qq.com
 agent.sj.qq.com
 apikey.map.qq.com
-apponline.research.qq.com
+# apponline.research.qq.com
 bk.ps2.gamedl.qq.com
 cgi.pub.qq.com
 .clientreport.gfm.qq.com
@@ -3477,8 +3477,8 @@ tmfmazutcpv4.m.qq.com
 tmfmazu4.m.qq.com
 p2pupdate.gamedl.qq.com
 ps2.gamedl.qq.com
-research.qq.com
-report.kg.qq.com
+.research.qq.com
+.report.kg.qq.com
 mayybstatnew.3g.qq.com
 zxcv.3g.qq.com
 mastat.3g.qq.com
@@ -3551,6 +3551,9 @@ v6.htdata.qq.com
 .adsmind.gdtimg.com.tcdn.qq.com
 .tmeadbak.y.qq.com
 .sentry.qt.qq.com
+.rmonitor.qq.com
+.msfwifiv6.3g.qq.com
+# .x.research.qq.com
 
 ## Twitter
 .ads-twitter.com

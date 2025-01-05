@@ -140,6 +140,8 @@ DOMAIN-SUFFIX,weibo.com,extended-matching
 DOMAIN-SUFFIX,weibocdn.com,extended-matching
 DOMAIN-SUFFIX,weixin.com,extended-matching
 DOMAIN-SUFFIX,weiyun.com,extended-matching
+DOMAIN-SUFFIX,xhscdn.com,extended-matching
+DOMAIN-SUFFIX,xiaohongshu.com,extended-matching
 DOMAIN-SUFFIX,ximalaya.com,extended-matching
 DOMAIN-SUFFIX,xmcdn.com,extended-matching
 DOMAIN-SUFFIX,ydstatic.com,extended-matching

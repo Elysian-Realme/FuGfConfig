@@ -49,7 +49,6 @@ pan.3636360.com
 .miaopai.com
 .jidian.im
 
-
 ## bilibili
 .bilibili.com
 .bilivideo.com
@@ -154,6 +153,10 @@ vipstatic.com
 ## Code
 .maven.org
 .download.java.net
+
+## Xiaohongshu
+.xiaohongshu.com
+.xhscdn.com
 
 ## 其他
 fonts.gstatic.com

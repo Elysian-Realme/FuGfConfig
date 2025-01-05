@@ -332,7 +332,7 @@
 ## xiaohongshu
 # as.xiaohongshu.com, edith.xiaohongshu.com, apm-fe.xiaohongshu.com,
 ^https?:\/\/as\.xiaohongshu\.com/api/v[\d.]+/d/upload.*$ reject
-^https?:\/\/as\.xiaohongshu\.com/api/sec/v[\d.]+/sbtsource.*$ reject
+^https?:\/\/as\.xiaohongshu\.com/api/sec/v[\d.]+/(sbtsource|scripting).*$ reject
 ^https?:\/\/edith\.xiaohongshu\.com/api/growth/share.*$ reject
 ^https?:\/\/apm-fe\.xiaohongshu\.com/api/data.*$ reject
 
