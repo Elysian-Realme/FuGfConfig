@@ -1540,6 +1540,7 @@ DOMAIN-SUFFIX,apitm.toolmatrix.plus,extended-matching
 DOMAIN-SUFFIX,apituner.ecbsn.com,extended-matching
 DOMAIN-SUFFIX,apiv2.moengage.com,extended-matching
 DOMAIN-SUFFIX,apiv2eu.moengage.com,extended-matching
+DOMAIN-SUFFIX,apm-fe.xiaohongshu.com,extended-matching
 DOMAIN-SUFFIX,apm.crittercism.com,extended-matching
 DOMAIN-SUFFIX,apn-winners-ap-southeast-1-rtb.adroll.com,extended-matching
 DOMAIN-SUFFIX,apn-winners-eu-west-1-rtb.adroll.com,extended-matching
@@ -5300,6 +5301,7 @@ DOMAIN-SUFFIX,philipslighting.d3.sc.omtrdc.net,extended-matching
 DOMAIN-SUFFIX,phluant.com,extended-matching
 DOMAIN-SUFFIX,phono.gotrackier.com,extended-matching
 DOMAIN-SUFFIX,phonograph2.voxmedia.com,extended-matching
+DOMAIN-SUFFIX,photo.store.qq.com,extended-matching
 DOMAIN-SUFFIX,photovideo.photo.qq.com,extended-matching
 DOMAIN-SUFFIX,phunware.com,extended-matching
 DOMAIN-SUFFIX,pi.ispot.tv,extended-matching
@@ -5570,6 +5572,7 @@ DOMAIN-SUFFIX,pubnative.net,extended-matching
 DOMAIN-SUFFIX,pubstatus.sinaapp.com,extended-matching
 DOMAIN-SUFFIX,pulse.inmobi.com,extended-matching
 DOMAIN-SUFFIX,pulse.svod.aetnd.com,extended-matching
+DOMAIN-SUFFIX,punch.p2p.qq.com,extended-matching
 DOMAIN-SUFFIX,purch-sync.go.sonobi.com,extended-matching
 DOMAIN-SUFFIX,push-api.topaz-analytics.com,extended-matching
 DOMAIN-SUFFIX,push-sdk.mattel163.com,extended-matching
@@ -5730,6 +5733,7 @@ DOMAIN-SUFFIX,req.startappservice.com,extended-matching
 DOMAIN-SUFFIX,res.media.net,extended-matching
 DOMAIN-SUFFIX,res.tu.qq.com,extended-matching
 DOMAIN-SUFFIX,res1.applovin.com,extended-matching
+DOMAIN-SUFFIX,research.gq.com,extended-matching
 DOMAIN-SUFFIX,researchnow.com,extended-matching
 DOMAIN-SUFFIX,resize.mantisadnetwork.com,extended-matching
 DOMAIN-SUFFIX,resizer.mantisadnetwork.com,extended-matching
@@ -6609,6 +6613,7 @@ DOMAIN-SUFFIX,storage.cloud.kargo.com,extended-matching
 DOMAIN-SUFFIX,storeen.ldmnq.com,extended-matching
 DOMAIN-SUFFIX,stra.hasmobi.net,extended-matching
 DOMAIN-SUFFIX,streamguys.deliveryengine.adswizz.com,extended-matching
+DOMAIN-SUFFIX,streaming.qq.com,extended-matching
 DOMAIN-SUFFIX,stretchoid.com,extended-matching
 DOMAIN-SUFFIX,strikeiron.com,extended-matching
 DOMAIN-SUFFIX,strip.chat,extended-matching
@@ -6908,6 +6913,7 @@ DOMAIN-SUFFIX,tidaltv.com,extended-matching
 DOMAIN-SUFFIX,tidaltv.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,tie.247-inc.net,extended-matching
 DOMAIN-SUFFIX,tileswan.cmcm.com,extended-matching
+DOMAIN-SUFFIX,time1.cloud.tencent.com,extended-matching
 DOMAIN-SUFFIX,timehop.adsbynimbus.com,extended-matching
 DOMAIN-SUFFIX,tingyun.com,extended-matching
 DOMAIN-SUFFIX,tj.ijinshan.com,extended-matching

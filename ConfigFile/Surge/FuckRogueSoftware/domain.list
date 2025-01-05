@@ -576,7 +576,6 @@ DOMAIN,mixer.cupid.iqiyi.com,extended-matching
 DOMAIN,mobile.eum-appdynamics.com,extended-matching
 DOMAIN,mobile.log.hunantv.com,extended-matching
 DOMAIN,mobileapm.icbc.com.cn,extended-matching
-DOMAIN,mobilelog.upqzfile.com,extended-matching
 DOMAIN,mobilemsg.youku.com,extended-matching
 DOMAIN,monitor.geetest.com,extended-matching
 DOMAIN,mp4.res.hunantv.com,extended-matching
@@ -618,7 +617,6 @@ DOMAIN,osupdate.aliyun.com,extended-matching
 DOMAIN,osupdateservice.yunos.com,extended-matching
 DOMAIN,ot7.wagbridge.advertisement.tanx.com,extended-matching
 DOMAIN,ota-tv.hismarttv.com,extended-matching
-DOMAIN,other.upqzfile.com,extended-matching
 DOMAIN,otk.pinduoduo.com,extended-matching
 DOMAIN,ott.video.qq.com,extended-matching
 DOMAIN,outlook.live.net.mcas-df.ms,extended-matching
@@ -893,7 +891,6 @@ DOMAIN,vds.rtcp.icbc.com.cn,extended-matching
 DOMAIN,vhotlxp.video.qq.com,extended-matching
 DOMAIN,vid.atm.youku.com,extended-matching
 DOMAIN,video.ktkjmp.com,extended-matching
-DOMAIN,video.upqzfile.com,extended-matching
 DOMAIN,videopush.baidu.com,extended-matching
 DOMAIN,viqiyi.admaster.com.cn,extended-matching
 DOMAIN,vivomaa.chinanetcenter.com,extended-matching
@@ -4015,6 +4012,7 @@ DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,extended-matching
 DOMAIN-SUFFIX,mobile.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,mobileads.google.com,extended-matching
 DOMAIN-SUFFIX,mobileads.msn.com,extended-matching
+DOMAIN-SUFFIX,mobilelog.upqzfile.com,extended-matching
 DOMAIN-SUFFIX,mobilem.360.cn,extended-matching
 DOMAIN-SUFFIX,moblink.mob.com,extended-matching
 DOMAIN-SUFFIX,mobojoy.baidu.com,extended-matching
@@ -4295,6 +4293,7 @@ DOMAIN-SUFFIX,ota.baidu.com,extended-matching
 DOMAIN-SUFFIX,ota.ptqy.gitv.tv,extended-matching
 DOMAIN-SUFFIX,otf.msn.com,extended-matching
 DOMAIN-SUFFIX,oth.eve.qq.com,extended-matching
+DOMAIN-SUFFIX,other.upqzfile.com,extended-matching
 DOMAIN-SUFFIX,ott-v0-al.data.mgtv.com,extended-matching
 DOMAIN-SUFFIX,ott.v1.data.mgtv.com,extended-matching
 DOMAIN-SUFFIX,ouplog.umeng.com,extended-matching
@@ -5553,6 +5552,7 @@ DOMAIN-SUFFIX,video.dispatch.tc.qq.com,extended-matching
 DOMAIN-SUFFIX,video.market.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,video.streaming.estream.to,extended-matching
 DOMAIN-SUFFIX,video.umeng.com,extended-matching
+DOMAIN-SUFFIX,video.upqzfile.com,extended-matching
 DOMAIN-SUFFIX,videoplayer2.xyz,extended-matching
 DOMAIN-SUFFIX,view.adjust.asia,extended-matching
 DOMAIN-SUFFIX,view.adjust.com,extended-matching

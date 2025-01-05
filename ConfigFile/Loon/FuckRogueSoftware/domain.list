@@ -576,7 +576,6 @@ DOMAIN,mixer.cupid.iqiyi.com
 DOMAIN,mobile.eum-appdynamics.com
 DOMAIN,mobile.log.hunantv.com
 DOMAIN,mobileapm.icbc.com.cn
-DOMAIN,mobilelog.upqzfile.com
 DOMAIN,mobilemsg.youku.com
 DOMAIN,monitor.geetest.com
 DOMAIN,mp4.res.hunantv.com
@@ -618,7 +617,6 @@ DOMAIN,osupdate.aliyun.com
 DOMAIN,osupdateservice.yunos.com
 DOMAIN,ot7.wagbridge.advertisement.tanx.com
 DOMAIN,ota-tv.hismarttv.com
-DOMAIN,other.upqzfile.com
 DOMAIN,otk.pinduoduo.com
 DOMAIN,ott.video.qq.com
 DOMAIN,outlook.live.net.mcas-df.ms
@@ -893,7 +891,6 @@ DOMAIN,vds.rtcp.icbc.com.cn
 DOMAIN,vhotlxp.video.qq.com
 DOMAIN,vid.atm.youku.com
 DOMAIN,video.ktkjmp.com
-DOMAIN,video.upqzfile.com
 DOMAIN,videopush.baidu.com
 DOMAIN,viqiyi.admaster.com.cn
 DOMAIN,vivomaa.chinanetcenter.com
@@ -4015,6 +4012,7 @@ DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com
 DOMAIN-SUFFIX,mobile.shuzilm.cn
 DOMAIN-SUFFIX,mobileads.google.com
 DOMAIN-SUFFIX,mobileads.msn.com
+DOMAIN-SUFFIX,mobilelog.upqzfile.com
 DOMAIN-SUFFIX,mobilem.360.cn
 DOMAIN-SUFFIX,moblink.mob.com
 DOMAIN-SUFFIX,mobojoy.baidu.com
@@ -4295,6 +4293,7 @@ DOMAIN-SUFFIX,ota.baidu.com
 DOMAIN-SUFFIX,ota.ptqy.gitv.tv
 DOMAIN-SUFFIX,otf.msn.com
 DOMAIN-SUFFIX,oth.eve.qq.com
+DOMAIN-SUFFIX,other.upqzfile.com
 DOMAIN-SUFFIX,ott-v0-al.data.mgtv.com
 DOMAIN-SUFFIX,ott.v1.data.mgtv.com
 DOMAIN-SUFFIX,ouplog.umeng.com
@@ -5553,6 +5552,7 @@ DOMAIN-SUFFIX,video.dispatch.tc.qq.com
 DOMAIN-SUFFIX,video.market.xiaomi.com
 DOMAIN-SUFFIX,video.streaming.estream.to
 DOMAIN-SUFFIX,video.umeng.com
+DOMAIN-SUFFIX,video.upqzfile.com
 DOMAIN-SUFFIX,videoplayer2.xyz
 DOMAIN-SUFFIX,view.adjust.asia
 DOMAIN-SUFFIX,view.adjust.com

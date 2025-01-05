@@ -3113,9 +3113,9 @@ api-report.q.qq.com
 cs.mbgame.gamesafe.qq.com
 intldlgs.qq.com
 .tdid.m.qq.com
-mobilelog.upqzfile.com
-other.upqzfile.com
-video.upqzfile.com
+.mobilelog.upqzfile.com
+.other.upqzfile.com
+.video.upqzfile.com
 # bugly
 .bugly.qq.com
 .bugly.qq.com.lan

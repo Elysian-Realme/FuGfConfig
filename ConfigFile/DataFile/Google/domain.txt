@@ -6,3 +6,4 @@
 .googleusercontent.com
 .googletagmanager.com
 .withgoogle.com
+.google.com.sg

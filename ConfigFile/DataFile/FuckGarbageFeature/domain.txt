@@ -27,7 +27,11 @@ hw-v2-web-player-tracker.biliapi.net
 ## qq
 # 头像图片地址，软件内没做缓存，不太需要
 ; .qh.qlogo.cn
-
+.punch.p2p.qq.com
+.streaming.qq.com
+.photo.store.qq.com
+.research.gq.com
+.time1.cloud.tencent.com
 # 云盘图片？
 tangram-1251316161.file.myqcloud.com
 
@@ -668,6 +672,7 @@ acs.m.taobao.com
 
 resolver.dingtalk.com
 .apppush.xiaohongshu.com
+.apm-fe.xiaohongshu.com
 
 ipv4.dewu.com
 
