@@ -170,6 +170,9 @@
 .dhcp.adjust.com
 .roadmap.adjust.com
 .web-sdk-demo.adjust.com
+.link-stripe.adjust.com
+.dictaphone.adjust.com
+.helcapucine.adjust.com
 
 ## Akamai
 .analytics.edgekey.net
@@ -2733,7 +2736,6 @@ e-p*p.163.com
 .sdk-log-inter.youdao.com
 .static.flv.uuzuonline.com
 .wanproxy.127.net
-
 .yt-adp.ws.126.net
 .pg-ad-b2.ws.126.net
 .pg-ad-b1.ws.126.net
@@ -2778,6 +2780,17 @@ admusicpic.music.126.net
 .countly.mail.ntes53.netease.com
 .countlyv6.mail.ntes53.netease.com
 .ad-tj.ntes53.netease.com
+ads.music.126.net
+android.push.126.net
+news.push.126.net
+stat.ws.126.net
+epay.nosdn.127.net
+yt-adp.nosdn.127.net
+caipiao.163.com
+baoxian.163.com
+channel.m.163.com
+countly.mail.163.com
+yaolu.mh.163.com
 
 ## Netflix
 .ads.netflix.com
@@ -6423,3 +6436,10 @@ api.getkoala.com
 .privacyportaluat.onetrust.com
 .privacyportal.onetrust.com
 .privacyportal-ca.onetrust.com
+.p.typekit.net
+.ping.typekit.net
+.stk.px-cloud.net
+.client.px-cloud.net
+.sentry.hcaptcha.com
+.a.hcaptcha.com
+.metrics.readme.io

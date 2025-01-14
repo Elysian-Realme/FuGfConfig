@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,coolapk.com,extended-matching
 DOMAIN-SUFFIX,deepseek.com,extended-matching
 DOMAIN-SUFFIX,didialift.com,extended-matching
 DOMAIN-SUFFIX,didiglobal.com,extended-matching
+DOMAIN-SUFFIX,dingtalk.com,extended-matching
 DOMAIN-SUFFIX,dnspod.com,extended-matching
 DOMAIN-SUFFIX,doh.pub,extended-matching
 DOMAIN-SUFFIX,douban.com,extended-matching
@@ -96,11 +97,13 @@ DOMAIN-SUFFIX,jianshu.io,extended-matching
 DOMAIN-SUFFIX,jidian.im,extended-matching
 DOMAIN-SUFFIX,juequling.com,extended-matching
 DOMAIN-SUFFIX,kugou.com,extended-matching
+DOMAIN-SUFFIX,linux.do,extended-matching
 DOMAIN-SUFFIX,liveperson.net,extended-matching
 DOMAIN-SUFFIX,lizhi.io,extended-matching
 DOMAIN-SUFFIX,lofter.com,extended-matching
 DOMAIN-SUFFIX,lpsnmedia.net,extended-matching
 DOMAIN-SUFFIX,maven.org,extended-matching
+DOMAIN-SUFFIX,mhystatic.com,extended-matching
 DOMAIN-SUFFIX,miaopai.com,extended-matching
 DOMAIN-SUFFIX,mihoyo.com,extended-matching
 DOMAIN-SUFFIX,myqcloud.com,extended-matching

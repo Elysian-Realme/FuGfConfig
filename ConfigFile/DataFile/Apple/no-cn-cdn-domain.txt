@@ -58,3 +58,4 @@ apple-relay.apple.com
 ## Other
 .apple-dns.net
 .safebrowsing.apple
+apple-relay.fastly-edge.com

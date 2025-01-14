@@ -1,4 +1,5 @@
 DOMAIN,apple-relay.apple.com,extended-matching
+DOMAIN,apple-relay.fastly-edge.com,extended-matching
 DOMAIN,apple.comscoreresearch.com,extended-matching
 DOMAIN,cdn.apple-cloudkit.com,extended-matching
 DOMAIN,cvws.icloud-content.com,extended-matching

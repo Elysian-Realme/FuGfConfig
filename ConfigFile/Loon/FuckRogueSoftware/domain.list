@@ -103,6 +103,7 @@ DOMAIN,adrdir.qq.com
 DOMAIN,ads-img-al.xhscdn.com.w.cdngslb.com
 DOMAIN,ads-video-al.xhscdn.com.w.cdngslb.com
 DOMAIN,ads.95516.com
+DOMAIN,ads.music.126.net
 DOMAIN,adscdn.baidu.cn
 DOMAIN,adscdn.baidu.com
 DOMAIN,adsclick.qq.com
@@ -145,6 +146,7 @@ DOMAIN,analy.qq.com
 DOMAIN,analytics.126.net.w.cdngslb.com
 DOMAIN,analytics.95516.com
 DOMAIN,analytics.umetrip.com
+DOMAIN,android.push.126.net
 DOMAIN,androidrqd.iot.wechatpay.cn
 DOMAIN,anony-auth.hismarttv.com
 DOMAIN,anquan.baidu.cn
@@ -216,6 +218,7 @@ DOMAIN,az.appstore.vivo.com.cn
 DOMAIN,b.netcheck.gallery.pandora.xiaomi.com
 DOMAIN,b.smartvideo.youku.com
 DOMAIN,b02.black.ndmdhs.com
+DOMAIN,baoxian.163.com
 DOMAIN,bas.hismarttv.com
 DOMAIN,bcdn-dbff2e04.we-stats.com
 DOMAIN,bcdn-god.we-stats.com
@@ -240,6 +243,7 @@ DOMAIN,c.microsoft.com
 DOMAIN,c.uaa.iqiyi.com
 DOMAIN,c.yes.youku.com
 DOMAIN,ca.ibs.lgappstv.com
+DOMAIN,caipiao.163.com
 DOMAIN,call.me.sel.sony.com
 DOMAIN,casestudy.html5.qq.com
 DOMAIN,cbu01.alicdn.com
@@ -262,6 +266,7 @@ DOMAIN,cdnimg.3g.qq.com
 DOMAIN,ceuswatcab01.blob.core.windows.net
 DOMAIN,cgi.pub.qq.com
 DOMAIN,cgi.qplus.com
+DOMAIN,channel.m.163.com
 DOMAIN,chat.global.xiaomi.net
 DOMAIN,choices-or.truste.com
 DOMAIN,choices.truste.com
@@ -306,6 +311,7 @@ DOMAIN,cors.sentcss.com
 DOMAIN,count.atm.youku.com
 DOMAIN,count.taobao.com
 DOMAIN,count.vrs.sohu.com
+DOMAIN,countly.mail.163.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,cross.report.tgp.qq.com
 DOMAIN,cs.mbgame.gamesafe.qq.com
@@ -361,6 +367,7 @@ DOMAIN,eaus2watcab01.blob.core.windows.net
 DOMAIN,ecpm.tanx.com
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,emoticon.sns.iqiyi.com
+DOMAIN,epay.nosdn.127.net
 DOMAIN,err.taobao.com
 DOMAIN,eu.v2.we-stats.com
 DOMAIN,evt-nlp.hismarttv.com
@@ -597,6 +604,7 @@ DOMAIN,na61-na62.wagbridge.advertisement.tanx.com
 DOMAIN,na61-na62.wagbridge.advertisement.tanx.com.gds.alibabadns.com
 DOMAIN,nav.browser.miui.com
 DOMAIN,neptune-platform.zijieapi.com
+DOMAIN,news.push.126.net
 DOMAIN,nfa.jd.com
 DOMAIN,nissd1.10010.com
 DOMAIN,nl.rcd.iqiyi.com
@@ -765,6 +773,7 @@ DOMAIN,stat.3g.music.qq.com
 DOMAIN,stat.music.qq.com
 DOMAIN,stat.pandora.xiaomi.com
 DOMAIN,stat.tudou.com
+DOMAIN,stat.ws.126.net
 DOMAIN,stat.youku.com
 DOMAIN,static.atm.youku.com
 DOMAIN,static.g.iqiyi.com
@@ -921,12 +930,14 @@ DOMAIN,xblgdvrassets3010.blob.core.windows.net
 DOMAIN,xifs.tanx.com
 DOMAIN,xlog.jd.com
 DOMAIN,y.da.hunantv.com
+DOMAIN,yaolu.mh.163.com
 DOMAIN,yiliao.hupan.com
 DOMAIN,yixiu-abtest.alicdn.com
 DOMAIN,yixiu-abtest.alicdn.com.w.cdngslb.com
 DOMAIN,yl.zh.cmbchina.com
 DOMAIN,youku-dtv.m.cn.miaozhen.com
 DOMAIN,youkuad.com
+DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yumenetworks.com
 DOMAIN,zconfig.alibabausercontent.com.w.cdngslb.com
 DOMAIN,zeus.ad.intl.xiaomi.com
@@ -1040,6 +1051,7 @@ DOMAIN-SUFFIX,a.ac.qq.com
 DOMAIN-SUFFIX,a.ads2.msads.net
 DOMAIN-SUFFIX,a.ads2.msn.com
 DOMAIN-SUFFIX,a.adsplay.xyz
+DOMAIN-SUFFIX,a.hcaptcha.com
 DOMAIN-SUFFIX,a.hl.mi.com
 DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,a.track.sohu.com
@@ -2159,6 +2171,7 @@ DOMAIN-SUFFIX,client-registry.mutinycdn.com
 DOMAIN-SUFFIX,client-report.bh3.com
 DOMAIN-SUFFIX,client.baidu.com
 DOMAIN-SUFFIX,client.mutinycdn.com
+DOMAIN-SUFFIX,client.px-cloud.net
 DOMAIN-SUFFIX,client.show.qq.com
 DOMAIN-SUFFIX,client_monitor.isnssdk.com
 DOMAIN-SUFFIX,clientlog.music.163.com
@@ -2457,6 +2470,7 @@ DOMAIN-SUFFIX,dgstatic.jd.com
 DOMAIN-SUFFIX,dhcp.adjust.com
 DOMAIN-SUFFIX,diagnostics.support.microsoft.com
 DOMAIN-SUFFIX,dibs-log.tumblr.com
+DOMAIN-SUFFIX,dictaphone.adjust.com
 DOMAIN-SUFFIX,digger.cryptobara.com
 DOMAIN-SUFFIX,digital-analytics.amadeus.com.edgekey.net
 DOMAIN-SUFFIX,digitalapp.adjust.com
@@ -2945,6 +2959,7 @@ DOMAIN-SUFFIX,hd2.3g.qq.com
 DOMAIN-SUFFIX,hdj.baidu.com
 DOMAIN-SUFFIX,healthdata.hicloud.com
 DOMAIN-SUFFIX,hector.baidu.com
+DOMAIN-SUFFIX,helcapucine.adjust.com
 DOMAIN-SUFFIX,help.appsflyer.com
 DOMAIN-SUFFIX,hemnes.win
 DOMAIN-SUFFIX,hereapp.adjust.com
@@ -3325,6 +3340,7 @@ DOMAIN-SUFFIX,libfre.obs.cn-east-3.myhuaweicloud.com
 DOMAIN-SUFFIX,life.html5.qq.com
 DOMAIN-SUFFIX,lightminer.co
 DOMAIN-SUFFIX,line1-log.biligame.net
+DOMAIN-SUFFIX,link-stripe.adjust.com
 DOMAIN-SUFFIX,linkeye.ximalaya.com
 DOMAIN-SUFFIX,linkhelp.clients.google.com
 DOMAIN-SUFFIX,litterpenguin.umeng.com
@@ -3926,6 +3942,7 @@ DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.macys.com.edgekey.net
 DOMAIN-SUFFIX,metrics.nvidia.com
 DOMAIN-SUFFIX,metrics.prod.netflix.net
+DOMAIN-SUFFIX,metrics.readme.io
 DOMAIN-SUFFIX,metrics.taobao.com
 DOMAIN-SUFFIX,metrics1.data.hicloud.com
 DOMAIN-SUFFIX,metrics2.data.hicloud.com
@@ -4309,6 +4326,7 @@ DOMAIN-SUFFIX,p.estream.to
 DOMAIN-SUFFIX,p.sardine.ai
 DOMAIN-SUFFIX,p.store.qq.com
 DOMAIN-SUFFIX,p.twitter.com
+DOMAIN-SUFFIX,p.typekit.net
 DOMAIN-SUFFIX,p0.stripcdn.com
 DOMAIN-SUFFIX,p1-dpa.byteimg.com
 DOMAIN-SUFFIX,p1-feedback.byteimg.com
@@ -4372,6 +4390,7 @@ DOMAIN-SUFFIX,pics.taobaocdn.com
 DOMAIN-SUFFIX,pimlog.baidu.com
 DOMAIN-SUFFIX,ping.map.qq.com
 DOMAIN-SUFFIX,ping.taplytics.com
+DOMAIN-SUFFIX,ping.typekit.net
 DOMAIN-SUFFIX,ping4.sina.cn
 DOMAIN-SUFFIX,ping64.sina.cn
 DOMAIN-SUFFIX,pingfore.qq.com
@@ -4901,6 +4920,7 @@ DOMAIN-SUFFIX,sentry.amazon.com
 DOMAIN-SUFFIX,sentry.com.edgekey.net
 DOMAIN-SUFFIX,sentry.csdn.net
 DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+DOMAIN-SUFFIX,sentry.hcaptcha.com
 DOMAIN-SUFFIX,sentry.indeed.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry.lx.netease.com
@@ -5119,6 +5139,7 @@ DOMAIN-SUFFIX,status.appsflyer.com
 DOMAIN-SUFFIX,status.plausible.io
 DOMAIN-SUFFIX,statuspage-notifications.appsflyer.com
 DOMAIN-SUFFIX,stdl.qq.com
+DOMAIN-SUFFIX,stk.px-cloud.net
 DOMAIN-SUFFIX,stnetsdk.appstore.vivo.com.cn
 DOMAIN-SUFFIX,stnetsdk.vivo.com.cn
 DOMAIN-SUFFIX,stone2.authcaptcha.com

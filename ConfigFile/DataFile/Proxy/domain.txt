@@ -67,6 +67,13 @@
 ## Debian 仓库
 .debian.org
 
+## Ubuntu
+.ubuntu.com
+.snapcraft.io
+.snapcraftcontent.com
+.launchpadcontent.net
+livepatch.canonical.com
+
 ## kali 仓库
 .kali.org
 .kali.cs.nycu.edu.tw
@@ -195,6 +202,8 @@ vscodium.now.sh
 ## 笔记软件
 # notion
 .notion.so
+.notion.com
+.notion.site
 http-inputs-notion.splunkcloud.com
 .obsidian.md
 

@@ -29,3 +29,4 @@
 .microsofttranslator.com
 .microsoftpersonalcontent.com
 .azureedge.net
+.microsoftapp.net

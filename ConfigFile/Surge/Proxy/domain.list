@@ -1,4 +1,5 @@
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
+DOMAIN,livepatch.canonical.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com,extended-matching
 DOMAIN,vscodium.now.sh,extended-matching
@@ -142,6 +143,7 @@ DOMAIN-SUFFIX,kali.cs.nycu.edu.tw,extended-matching
 DOMAIN-SUFFIX,kali.org,extended-matching
 DOMAIN-SUFFIX,kodi.tv,extended-matching
 DOMAIN-SUFFIX,last.fm,extended-matching
+DOMAIN-SUFFIX,launchpadcontent.net,extended-matching
 DOMAIN-SUFFIX,lencr.org,extended-matching
 DOMAIN-SUFFIX,letsencrypt.org,extended-matching
 DOMAIN-SUFFIX,lmarena.ai,extended-matching
@@ -163,6 +165,8 @@ DOMAIN-SUFFIX,moon.fm,extended-matching
 DOMAIN-SUFFIX,mvk.com,extended-matching
 DOMAIN-SUFFIX,myoctocat.com,extended-matching
 DOMAIN-SUFFIX,nodejs.org,extended-matching
+DOMAIN-SUFFIX,notion.com,extended-matching
+DOMAIN-SUFFIX,notion.site,extended-matching
 DOMAIN-SUFFIX,notion.so,extended-matching
 DOMAIN-SUFFIX,npm.community,extended-matching
 DOMAIN-SUFFIX,npmjs.com,extended-matching
@@ -225,6 +229,8 @@ DOMAIN-SUFFIX,schemastore.org,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
 DOMAIN-SUFFIX,sharepoint.com,extended-matching
 DOMAIN-SUFFIX,sm.ms,extended-matching
+DOMAIN-SUFFIX,snapcraft.io,extended-matching
+DOMAIN-SUFFIX,snapcraftcontent.com,extended-matching
 DOMAIN-SUFFIX,spacex.com,extended-matching
 DOMAIN-SUFFIX,stackoverflow.co,extended-matching
 DOMAIN-SUFFIX,stackoverflow.com,extended-matching
@@ -251,6 +257,7 @@ DOMAIN-SUFFIX,typlod.io,extended-matching
 DOMAIN-SUFFIX,typlog.com,extended-matching
 DOMAIN-SUFFIX,typlog.io,extended-matching
 DOMAIN-SUFFIX,ubnt.com,extended-matching
+DOMAIN-SUFFIX,ubuntu.com,extended-matching
 DOMAIN-SUFFIX,ui.com,extended-matching
 DOMAIN-SUFFIX,ui.direct,extended-matching
 DOMAIN-SUFFIX,unity.com,extended-matching

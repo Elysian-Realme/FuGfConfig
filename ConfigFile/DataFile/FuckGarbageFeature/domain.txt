@@ -169,7 +169,7 @@ w.meituan.net
 .gaea.meituan.com
 
 ## 网易
-.mail.163.com
+.ac.dun.163yun.com
 
 ## jd
 .h5speed.m.jd.com
@@ -7907,3 +7907,12 @@ iadsdk.qtlcdn.com.cdnmg.com
 .catchon.com
 .visualwebsiteoptimizer.com
 .k1-biligame.gslb.ksyuncdn.com
+.typekit.net
+.px-cloud.net
+.html-load.com
+.gtm-a2b2.com
+.salesforce-setup.com
+.tiktokw.eu
+.geonamebase.com
+.nip.io
+.hqmmw.com

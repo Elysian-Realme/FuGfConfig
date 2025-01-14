@@ -3,6 +3,7 @@
 
 ## mihoyo
 .mihoyo.com
+.mhystatic.com
 .bh3.com
 .yuanshen.com
 .juequling.com
@@ -115,6 +116,8 @@ vipstatic.com
 .didiglobal.com
 .udache.com
 
+.dingtalk.com
+
 ## Douyu 斗鱼
 .douyu.com
 .douyu.tv
@@ -196,3 +199,4 @@ test-ipv6.com
 .ntp.org
 .obsproject.com
 .deepseek.com
+.linux.do

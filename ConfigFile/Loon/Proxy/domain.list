@@ -1,4 +1,5 @@
 DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN,livepatch.canonical.com
 DOMAIN,onedrive.live.com
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com
 DOMAIN,vscodium.now.sh
@@ -142,6 +143,7 @@ DOMAIN-SUFFIX,kali.cs.nycu.edu.tw
 DOMAIN-SUFFIX,kali.org
 DOMAIN-SUFFIX,kodi.tv
 DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,launchpadcontent.net
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,lmarena.ai
@@ -163,6 +165,8 @@ DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
@@ -225,6 +229,8 @@ DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapcraftcontent.com
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.com
@@ -251,6 +257,7 @@ DOMAIN-SUFFIX,typlod.io
 DOMAIN-SUFFIX,typlog.com
 DOMAIN-SUFFIX,typlog.io
 DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,ui.direct
 DOMAIN-SUFFIX,unity.com
