@@ -555,15 +555,12 @@ DOMAIN,m.simaba.taobao.com,extended-matching
 DOMAIN,m.simba.taobao.com,extended-matching
 DOMAIN,m.yes.youku.com,extended-matching
 DOMAIN,mars.jd.com,extended-matching
-DOMAIN,mastat.3g.qq.com,extended-matching
 DOMAIN,master.etl.desktop.qq.com,extended-matching
 DOMAIN,masterconn11.qq.com,extended-matching
 DOMAIN,masterconn2.qq.com,extended-matching
 DOMAIN,match.p4p.1688.com,extended-matching
 DOMAIN,material.istreamsche.com,extended-matching
 DOMAIN,mauth.chinanetcenter.com,extended-matching
-DOMAIN,mayybstatnew.3g.qq.com,extended-matching
-DOMAIN,mazu-hk.3g.qq.com,extended-matching
 DOMAIN,mbs.boc.cn,extended-matching
 DOMAIN,mercury.jd.com,extended-matching
 DOMAIN,meta.pinduoduo.com,extended-matching
@@ -752,9 +749,7 @@ DOMAIN,smartclip.com,extended-matching
 DOMAIN,smartclip.net,extended-matching
 DOMAIN,smartshare.lgtvsdp.com,extended-matching
 DOMAIN,sngmta.qq.com,extended-matching
-DOMAIN,sns.qzone.qq.com,extended-matching
 DOMAIN,sodefaultwordapi.paas.cmbchina.com,extended-matching
-DOMAIN,softfile.3g.qq.com,extended-matching
 DOMAIN,sonybivstatic-a.akamaihd.net,extended-matching
 DOMAIN,soup.v.qq.com,extended-matching
 DOMAIN,spd.browser.miui.com,extended-matching
@@ -787,7 +782,6 @@ DOMAIN,store.iqiyi.com,extended-matching
 DOMAIN,store.tv.api.3g.youku.com,extended-matching
 DOMAIN,store.xl.api.3g.youku.com,extended-matching
 DOMAIN,strip.taobaocdn.com,extended-matching
-DOMAIN,stun.qqlive.qq.com,extended-matching
 DOMAIN,sy.cl2009.com,extended-matching
 DOMAIN,sys-launcher.hismarttv.com,extended-matching
 DOMAIN,sysdk.cl2009.com,extended-matching
@@ -941,7 +935,6 @@ DOMAIN,yt-adp.nosdn.127.net,extended-matching
 DOMAIN,yumenetworks.com,extended-matching
 DOMAIN,zconfig.alibabausercontent.com.w.cdngslb.com,extended-matching
 DOMAIN,zeus.ad.intl.xiaomi.com,extended-matching
-DOMAIN,zxcv.3g.qq.com,extended-matching
 DOMAIN,zxid-m.mobileservice.cn,extended-matching
 DOMAIN-KEYWORD,-acs.m.taobao.com,extended-matching
 DOMAIN-KEYWORD,-adrevenue.appsflyersdk.com,extended-matching
@@ -3873,6 +3866,7 @@ DOMAIN-SUFFIX,marketo.net.edgekey.net,extended-matching
 DOMAIN-SUFFIX,mas-log.paas.paytm.com,extended-matching
 DOMAIN-SUFFIX,masdk.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,masdkv6.3g.qq.com,extended-matching
+DOMAIN-SUFFIX,mastat.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,master.wap.dphub.sandai.net,extended-matching
 DOMAIN-SUFFIX,masterconn.qq.com,extended-matching
 DOMAIN-SUFFIX,matomo.devexpress.com.cdn.cloudflare.net,extended-matching
@@ -3880,6 +3874,8 @@ DOMAIN-SUFFIX,matomo.garmin.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,matomo.mgmt.sharks.cloud.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,matwbp.iask.sina.com.cn,extended-matching
 DOMAIN-SUFFIX,mayybstat.3g.qq.com,extended-matching
+DOMAIN-SUFFIX,mayybstatnew.3g.qq.com,extended-matching
+DOMAIN-SUFFIX,mazu-hk.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu.m.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu.sec.miui.com,extended-matching
@@ -4083,6 +4079,7 @@ DOMAIN-SUFFIX,mscbos.baidu.com,extended-matching
 DOMAIN-SUFFIX,msch.f.360.cn,extended-matching
 DOMAIN-SUFFIX,msdk.qq.com,extended-matching
 DOMAIN-SUFFIX,msedge.net,extended-matching
+DOMAIN-SUFFIX,msfhttp.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,msfwifiv6.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,msg-intl.qy.net,extended-matching
 DOMAIN-SUFFIX,msg.ptqy.gitv.tv,extended-matching
@@ -5034,6 +5031,7 @@ DOMAIN-SUFFIX,sms.mob.com,extended-matching
 DOMAIN-SUFFIX,snantx.adjust.com,extended-matching
 DOMAIN-SUFFIX,sngapm.qq.com,extended-matching
 DOMAIN-SUFFIX,snr.snssdk.com,extended-matching
+DOMAIN-SUFFIX,sns.qzone.qq.com,extended-matching
 DOMAIN-SUFFIX,snssdk.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,sobar.baidu.com,extended-matching
 DOMAIN-SUFFIX,sobartop.baidu.com,extended-matching
@@ -5044,6 +5042,7 @@ DOMAIN-SUFFIX,socketio.taplytics.com,extended-matching
 DOMAIN-SUFFIX,sofire.baidu.com,extended-matching
 DOMAIN-SUFFIX,soft.data.weather.360.cn,extended-matching
 DOMAIN-SUFFIX,soft.export.yandex.ru,extended-matching
+DOMAIN-SUFFIX,softfile.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,sonar.adswizz.com,extended-matching
 DOMAIN-SUFFIX,sony.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,sony1.adsplay.xyz,extended-matching
@@ -5163,6 +5162,7 @@ DOMAIN-SUFFIX,stun-6.chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,stun-7.chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,stun-8.chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,stun.chat.bilibili.com,extended-matching
+DOMAIN-SUFFIX,stun.qqlive.qq.com,extended-matching
 DOMAIN-SUFFIX,stun1.chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,stun2.chat.bilibili.com,extended-matching
 DOMAIN-SUFFIX,stun3.chat.bilibili.com,extended-matching
@@ -5841,6 +5841,7 @@ DOMAIN-SUFFIX,zt-sup.kwd.inkuai.com,extended-matching
 DOMAIN-SUFFIX,zt.gifshow.com,extended-matching
 DOMAIN-SUFFIX,zt.jd.com,extended-matching
 DOMAIN-SUFFIX,ztd.dds.microsoft.com,extended-matching
+DOMAIN-SUFFIX,zxcv.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,zxid-api.mobileservice.cn,extended-matching
 DOMAIN-SUFFIX,zymerget.win,extended-matching
 DOMAIN-SUFFIX,zyx.qq.com,extended-matching

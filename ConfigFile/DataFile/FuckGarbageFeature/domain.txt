@@ -7916,3 +7916,5 @@ iadsdk.qtlcdn.com.cdnmg.com
 .geonamebase.com
 .nip.io
 .hqmmw.com
+.hplp.live
+.aexjd.xyz

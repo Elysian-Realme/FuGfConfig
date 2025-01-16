@@ -555,15 +555,12 @@ DOMAIN,m.simaba.taobao.com
 DOMAIN,m.simba.taobao.com
 DOMAIN,m.yes.youku.com
 DOMAIN,mars.jd.com
-DOMAIN,mastat.3g.qq.com
 DOMAIN,master.etl.desktop.qq.com
 DOMAIN,masterconn11.qq.com
 DOMAIN,masterconn2.qq.com
 DOMAIN,match.p4p.1688.com
 DOMAIN,material.istreamsche.com
 DOMAIN,mauth.chinanetcenter.com
-DOMAIN,mayybstatnew.3g.qq.com
-DOMAIN,mazu-hk.3g.qq.com
 DOMAIN,mbs.boc.cn
 DOMAIN,mercury.jd.com
 DOMAIN,meta.pinduoduo.com
@@ -752,9 +749,7 @@ DOMAIN,smartclip.com
 DOMAIN,smartclip.net
 DOMAIN,smartshare.lgtvsdp.com
 DOMAIN,sngmta.qq.com
-DOMAIN,sns.qzone.qq.com
 DOMAIN,sodefaultwordapi.paas.cmbchina.com
-DOMAIN,softfile.3g.qq.com
 DOMAIN,sonybivstatic-a.akamaihd.net
 DOMAIN,soup.v.qq.com
 DOMAIN,spd.browser.miui.com
@@ -787,7 +782,6 @@ DOMAIN,store.iqiyi.com
 DOMAIN,store.tv.api.3g.youku.com
 DOMAIN,store.xl.api.3g.youku.com
 DOMAIN,strip.taobaocdn.com
-DOMAIN,stun.qqlive.qq.com
 DOMAIN,sy.cl2009.com
 DOMAIN,sys-launcher.hismarttv.com
 DOMAIN,sysdk.cl2009.com
@@ -941,7 +935,6 @@ DOMAIN,yt-adp.nosdn.127.net
 DOMAIN,yumenetworks.com
 DOMAIN,zconfig.alibabausercontent.com.w.cdngslb.com
 DOMAIN,zeus.ad.intl.xiaomi.com
-DOMAIN,zxcv.3g.qq.com
 DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-acs.m.taobao.com
 DOMAIN-KEYWORD,-adrevenue.appsflyersdk.com
@@ -3873,6 +3866,7 @@ DOMAIN-SUFFIX,marketo.net.edgekey.net
 DOMAIN-SUFFIX,mas-log.paas.paytm.com
 DOMAIN-SUFFIX,masdk.3g.qq.com
 DOMAIN-SUFFIX,masdkv6.3g.qq.com
+DOMAIN-SUFFIX,mastat.3g.qq.com
 DOMAIN-SUFFIX,master.wap.dphub.sandai.net
 DOMAIN-SUFFIX,masterconn.qq.com
 DOMAIN-SUFFIX,matomo.devexpress.com.cdn.cloudflare.net
@@ -3880,6 +3874,8 @@ DOMAIN-SUFFIX,matomo.garmin.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,matomo.mgmt.sharks.cloud.cdn.cloudflare.net
 DOMAIN-SUFFIX,matwbp.iask.sina.com.cn
 DOMAIN-SUFFIX,mayybstat.3g.qq.com
+DOMAIN-SUFFIX,mayybstatnew.3g.qq.com
+DOMAIN-SUFFIX,mazu-hk.3g.qq.com
 DOMAIN-SUFFIX,mazu.3g.qq.com
 DOMAIN-SUFFIX,mazu.m.qq.com
 DOMAIN-SUFFIX,mazu.sec.miui.com
@@ -4083,6 +4079,7 @@ DOMAIN-SUFFIX,mscbos.baidu.com
 DOMAIN-SUFFIX,msch.f.360.cn
 DOMAIN-SUFFIX,msdk.qq.com
 DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msfhttp.3g.qq.com
 DOMAIN-SUFFIX,msfwifiv6.3g.qq.com
 DOMAIN-SUFFIX,msg-intl.qy.net
 DOMAIN-SUFFIX,msg.ptqy.gitv.tv
@@ -5034,6 +5031,7 @@ DOMAIN-SUFFIX,sms.mob.com
 DOMAIN-SUFFIX,snantx.adjust.com
 DOMAIN-SUFFIX,sngapm.qq.com
 DOMAIN-SUFFIX,snr.snssdk.com
+DOMAIN-SUFFIX,sns.qzone.qq.com
 DOMAIN-SUFFIX,snssdk.com.edgekey.net
 DOMAIN-SUFFIX,sobar.baidu.com
 DOMAIN-SUFFIX,sobartop.baidu.com
@@ -5044,6 +5042,7 @@ DOMAIN-SUFFIX,socketio.taplytics.com
 DOMAIN-SUFFIX,sofire.baidu.com
 DOMAIN-SUFFIX,soft.data.weather.360.cn
 DOMAIN-SUFFIX,soft.export.yandex.ru
+DOMAIN-SUFFIX,softfile.3g.qq.com
 DOMAIN-SUFFIX,sonar.adswizz.com
 DOMAIN-SUFFIX,sony.adsplay.xyz
 DOMAIN-SUFFIX,sony1.adsplay.xyz
@@ -5163,6 +5162,7 @@ DOMAIN-SUFFIX,stun-6.chat.bilibili.com
 DOMAIN-SUFFIX,stun-7.chat.bilibili.com
 DOMAIN-SUFFIX,stun-8.chat.bilibili.com
 DOMAIN-SUFFIX,stun.chat.bilibili.com
+DOMAIN-SUFFIX,stun.qqlive.qq.com
 DOMAIN-SUFFIX,stun1.chat.bilibili.com
 DOMAIN-SUFFIX,stun2.chat.bilibili.com
 DOMAIN-SUFFIX,stun3.chat.bilibili.com
@@ -5841,6 +5841,7 @@ DOMAIN-SUFFIX,zt-sup.kwd.inkuai.com
 DOMAIN-SUFFIX,zt.gifshow.com
 DOMAIN-SUFFIX,zt.jd.com
 DOMAIN-SUFFIX,ztd.dds.microsoft.com
+DOMAIN-SUFFIX,zxcv.3g.qq.com
 DOMAIN-SUFFIX,zxid-api.mobileservice.cn
 DOMAIN-SUFFIX,zymerget.win
 DOMAIN-SUFFIX,zyx.qq.com

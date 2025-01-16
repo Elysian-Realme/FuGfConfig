@@ -194,7 +194,7 @@
 ^https?:\/\/sentry-inc\.ssr\.mihoyo\.com/api/11/envelope.*$ reject
 ^https?:\/\/apm-api\.mihoyo\.com/acc/apm/get.*$ reject
 ^https?:\/\/bbs-api\.miyoushe\.com/apihub/api/window/prepare.*$ reject
-# ^https?:\/\/webstatic\.mihoyo\.com/dora/biz/(mihoyo-h5log|mihoyo-analysis).*$ reject
+^https?:\/\/webstatic\.mihoyo\.com/dora/biz/(mihoyo-h5log|mihoyo-analysis).*$ reject
 
 ## yunshanfu
 # cup.com.cn,
