@@ -586,6 +586,7 @@ DOMAIN-SUFFIX,abcd.mdc.akamaized.net,extended-matching
 DOMAIN-SUFFIX,abcnews.tt.omtrdc.net,extended-matching
 DOMAIN-SUFFIX,abd.media.net,extended-matching
 DOMAIN-SUFFIX,abhouses.com,extended-matching
+DOMAIN-SUFFIX,ably.io,extended-matching
 DOMAIN-SUFFIX,abort-count.smbeat.jp,extended-matching
 DOMAIN-SUFFIX,abroad-ad.kingsoft-office-service.com,extended-matching
 DOMAIN-SUFFIX,abrtp1-cdn.marketo.com,extended-matching
@@ -1101,6 +1102,7 @@ DOMAIN-SUFFIX,aimatch.com,extended-matching
 DOMAIN-SUFFIX,aiqua-config.c.appier.net,extended-matching
 DOMAIN-SUFFIX,aiqua-sdk.c.appier.net,extended-matching
 DOMAIN-SUFFIX,aiqua-user.c.appier.net,extended-matching
+DOMAIN-SUFFIX,air-matters.com,extended-matching
 DOMAIN-SUFFIX,airdna.partnerlinks.io,extended-matching
 DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com,extended-matching
 DOMAIN-SUFFIX,airpush.com,extended-matching
@@ -1464,6 +1466,8 @@ DOMAIN-SUFFIX,api.reftagger.com,extended-matching
 DOMAIN-SUFFIX,api.rlcdn.com,extended-matching
 DOMAIN-SUFFIX,api.rqmob.com,extended-matching
 DOMAIN-SUFFIX,api.rudderlabs.com,extended-matching
+DOMAIN-SUFFIX,api.saasexch.co,extended-matching
+DOMAIN-SUFFIX,api.saasexch.com,extended-matching
 DOMAIN-SUFFIX,api.safedk.com,extended-matching
 DOMAIN-SUFFIX,api.sail-personalize.com,extended-matching
 DOMAIN-SUFFIX,api.sailthru.com,extended-matching
@@ -5442,6 +5446,7 @@ DOMAIN-SUFFIX,poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com,ext
 DOMAIN-SUFFIX,poplayer.template.alibaba.com,extended-matching
 DOMAIN-SUFFIX,post-log.pushwoosh.com,extended-matching
 DOMAIN-SUFFIX,post.iperceptions.com,extended-matching
+DOMAIN-SUFFIX,posthog.com,extended-matching
 DOMAIN-SUFFIX,postimp-ofw.fyber.com,extended-matching
 DOMAIN-SUFFIX,postitial.com,extended-matching
 DOMAIN-SUFFIX,powerad.ai,extended-matching
@@ -6872,6 +6877,7 @@ DOMAIN-SUFFIX,tdameritrade.demdex.net,extended-matching
 DOMAIN-SUFFIX,tdcv3.talkingdata.net,extended-matching
 DOMAIN-SUFFIX,tdhserg.cn,extended-matching
 DOMAIN-SUFFIX,tdsdk.cpatrk.net,extended-matching
+DOMAIN-SUFFIX,tdum.alibaba.com,extended-matching
 DOMAIN-SUFFIX,teads.tv.edgekey.net,extended-matching
 DOMAIN-SUFFIX,teads245638586802.s.moatpixel.com,extended-matching
 DOMAIN-SUFFIX,tealand.cmcm.com,extended-matching

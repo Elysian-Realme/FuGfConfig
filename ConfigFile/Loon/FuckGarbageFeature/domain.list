@@ -586,6 +586,7 @@ DOMAIN-SUFFIX,abcd.mdc.akamaized.net
 DOMAIN-SUFFIX,abcnews.tt.omtrdc.net
 DOMAIN-SUFFIX,abd.media.net
 DOMAIN-SUFFIX,abhouses.com
+DOMAIN-SUFFIX,ably.io
 DOMAIN-SUFFIX,abort-count.smbeat.jp
 DOMAIN-SUFFIX,abroad-ad.kingsoft-office-service.com
 DOMAIN-SUFFIX,abrtp1-cdn.marketo.com
@@ -1101,6 +1102,7 @@ DOMAIN-SUFFIX,aimatch.com
 DOMAIN-SUFFIX,aiqua-config.c.appier.net
 DOMAIN-SUFFIX,aiqua-sdk.c.appier.net
 DOMAIN-SUFFIX,aiqua-user.c.appier.net
+DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,airdna.partnerlinks.io
 DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com
 DOMAIN-SUFFIX,airpush.com
@@ -1464,6 +1466,8 @@ DOMAIN-SUFFIX,api.reftagger.com
 DOMAIN-SUFFIX,api.rlcdn.com
 DOMAIN-SUFFIX,api.rqmob.com
 DOMAIN-SUFFIX,api.rudderlabs.com
+DOMAIN-SUFFIX,api.saasexch.co
+DOMAIN-SUFFIX,api.saasexch.com
 DOMAIN-SUFFIX,api.safedk.com
 DOMAIN-SUFFIX,api.sail-personalize.com
 DOMAIN-SUFFIX,api.sailthru.com
@@ -5442,6 +5446,7 @@ DOMAIN-SUFFIX,poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
 DOMAIN-SUFFIX,poplayer.template.alibaba.com
 DOMAIN-SUFFIX,post-log.pushwoosh.com
 DOMAIN-SUFFIX,post.iperceptions.com
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,postimp-ofw.fyber.com
 DOMAIN-SUFFIX,postitial.com
 DOMAIN-SUFFIX,powerad.ai
@@ -6872,6 +6877,7 @@ DOMAIN-SUFFIX,tdameritrade.demdex.net
 DOMAIN-SUFFIX,tdcv3.talkingdata.net
 DOMAIN-SUFFIX,tdhserg.cn
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
+DOMAIN-SUFFIX,tdum.alibaba.com
 DOMAIN-SUFFIX,teads.tv.edgekey.net
 DOMAIN-SUFFIX,teads245638586802.s.moatpixel.com
 DOMAIN-SUFFIX,tealand.cmcm.com

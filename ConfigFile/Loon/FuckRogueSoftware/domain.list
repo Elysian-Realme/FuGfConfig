@@ -1759,6 +1759,7 @@ DOMAIN-SUFFIX,app-analytics.huami.com
 DOMAIN-SUFFIX,app-log.dewu.com
 DOMAIN-SUFFIX,app-log.immomo.com
 DOMAIN-SUFFIX,app-sjl.marketo.com
+DOMAIN-SUFFIX,app-static-prod.posthog.com
 DOMAIN-SUFFIX,app.adjust.cn
 DOMAIN-SUFFIX,app.adjust.com
 DOMAIN-SUFFIX,app.adjust.io
@@ -1769,6 +1770,7 @@ DOMAIN-SUFFIX,app.appsflyersdk.com
 DOMAIN-SUFFIX,app.bidflyer.com
 DOMAIN-SUFFIX,app.chat.xiaomi.net
 DOMAIN-SUFFIX,app.launchdarkly.com
+DOMAIN-SUFFIX,app.posthog.com
 DOMAIN-SUFFIX,app.singular.live
 DOMAIN-SUFFIX,app.umeng.com
 DOMAIN-SUFFIX,app.us.adjust.com
@@ -2375,6 +2377,7 @@ DOMAIN-SUFFIX,dark-utilities.pw
 DOMAIN-SUFFIX,dark-utilities.xyz
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,data-sdk-uuid-log.d.meituan.net
+DOMAIN-SUFFIX,data.air-matters.com
 DOMAIN-SUFFIX,data.corp.unity3d.com
 DOMAIN-SUFFIX,data.experience.appsflyer.com
 DOMAIN-SUFFIX,data.flurry.com
@@ -2613,6 +2616,7 @@ DOMAIN-SUFFIX,eu-central-1.elb.amazonaws.com
 DOMAIN-SUFFIX,eu-north-1.compute.amazonaws.com
 DOMAIN-SUFFIX,eu.adjust.com
 DOMAIN-SUFFIX,eu.cfcdist.loan
+DOMAIN-SUFFIX,eu.posthog.com
 DOMAIN-SUFFIX,eu.sardine.ai
 DOMAIN-SUFFIX,euapp.adjust.com
 DOMAIN-SUFFIX,euc1-turn.fpjs.io
@@ -3045,6 +3049,7 @@ DOMAIN-SUFFIX,i-lq.snssdk.com
 DOMAIN-SUFFIX,i-trip.getui.com
 DOMAIN-SUFFIX,i.isnssdk.com
 DOMAIN-SUFFIX,i.mail.qq.com
+DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,i.sgsnssdk.com
 DOMAIN-SUFFIX,i.singular.net
 DOMAIN-SUFFIX,i.snssdk.com
@@ -3152,6 +3157,7 @@ DOMAIN-SUFFIX,inst.360safe.com
 DOMAIN-SUFFIX,intake-analytics.wikimedia.org
 DOMAIN-SUFFIX,intake-logging.wikimedia.org
 DOMAIN-SUFFIX,intelserviceupdate.com
+DOMAIN-SUFFIX,internal-e.posthog.com
 DOMAIN-SUFFIX,invida.net.cn
 DOMAIN-SUFFIX,iot.qq.com
 DOMAIN-SUFFIX,ip.adjust.com
@@ -3937,6 +3943,7 @@ DOMAIN-SUFFIX,metrics.hackerrank.com.edgekey.net
 DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.macys.com.edgekey.net
 DOMAIN-SUFFIX,metrics.nvidia.com
+DOMAIN-SUFFIX,metrics.posthog.com
 DOMAIN-SUFFIX,metrics.prod.netflix.net
 DOMAIN-SUFFIX,metrics.readme.io
 DOMAIN-SUFFIX,metrics.taobao.com
@@ -4175,6 +4182,7 @@ DOMAIN-SUFFIX,newrelic.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,news-abroad.vivo.com
 DOMAIN-SUFFIX,news-l.play.ott.video.qq.com
 DOMAIN-SUFFIX,news-log.lsttnews.com
+DOMAIN-SUFFIX,newsletter.posthog.com
 DOMAIN-SUFFIX,newspush.sinajs.cn
 DOMAIN-SUFFIX,newvector.map.baidu.com
 DOMAIN-SUFFIX,nex.163.com
@@ -4480,6 +4488,7 @@ DOMAIN-SUFFIX,proxy-gbr-1.inf.nimiq.network
 DOMAIN-SUFFIX,proxy-mob-cld.alicdn.com
 DOMAIN-SUFFIX,proxy-pol-1.inf.nimiq.network
 DOMAIN-SUFFIX,proxy-pol-2.inf.nimiq.network
+DOMAIN-SUFFIX,proxy-us.posthog.com
 DOMAIN-SUFFIX,prt-stsdk.vivo.com.cn
 DOMAIN-SUFFIX,ps.dev.360.cn
 DOMAIN-SUFFIX,ps.map.baidu.com
@@ -4570,6 +4579,7 @@ DOMAIN-SUFFIX,rdns.adjust.com
 DOMAIN-SUFFIX,re.taobao.com
 DOMAIN-SUFFIX,reader.sh.vip.qq.com
 DOMAIN-SUFFIX,reading-lq.snssdk.com
+DOMAIN-SUFFIX,realtime.ably.io
 DOMAIN-SUFFIX,reauthenticator.com
 DOMAIN-SUFFIX,rec.g.163.com
 DOMAIN-SUFFIX,rec5.visualwebsiteoptimizer.com
@@ -4628,6 +4638,7 @@ DOMAIN-SUFFIX,res.mmstat.com
 DOMAIN-SUFFIX,research.qq.com
 DOMAIN-SUFFIX,resolve.umeng.com
 DOMAIN-SUFFIX,responses.df.telemetry.microsoft.com
+DOMAIN-SUFFIX,rest.ably.io
 DOMAIN-SUFFIX,restapi.getui.com
 DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,revenuenetworkcpm.com
@@ -5136,6 +5147,7 @@ DOMAIN-SUFFIX,statsonline.pushct.baidu.com
 DOMAIN-SUFFIX,status-ipv6.jpush.cn
 DOMAIN-SUFFIX,status.appsflyer.com
 DOMAIN-SUFFIX,status.plausible.io
+DOMAIN-SUFFIX,status.posthog.com
 DOMAIN-SUFFIX,statuspage-notifications.appsflyer.com
 DOMAIN-SUFFIX,stdl.qq.com
 DOMAIN-SUFFIX,stk.px-cloud.net
@@ -5502,6 +5514,7 @@ DOMAIN-SUFFIX,us-tracker.appads.in
 DOMAIN-SUFFIX,us-west-2.compute.amazonaws.com
 DOMAIN-SUFFIX,us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,us.cfcdist.loan
+DOMAIN-SUFFIX,us.posthog.com
 DOMAIN-SUFFIX,us01-cdn.mtgglobals.com
 DOMAIN-SUFFIX,us01.mtgglobals.com
 DOMAIN-SUFFIX,usage.trackjs.com

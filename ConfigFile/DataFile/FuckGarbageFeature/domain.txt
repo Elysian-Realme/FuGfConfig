@@ -7918,3 +7918,9 @@ iadsdk.qtlcdn.com.cdnmg.com
 .hqmmw.com
 .hplp.live
 .aexjd.xyz
+.api.saasexch.co
+.api.saasexch.com
+.ably.io
+.posthog.com
+.air-matters.com
+.tdum.alibaba.com

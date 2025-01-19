@@ -6444,3 +6444,16 @@ api.getkoala.com
 .sentry.hcaptcha.com
 .a.hcaptcha.com
 .metrics.readme.io
+.rest.ably.io
+.realtime.ably.io
+.i.posthog.com
+.eu.posthog.com
+.us.posthog.com
+.status.posthog.com
+.proxy-us.posthog.com
+.metrics.posthog.com
+.newsletter.posthog.com
+.app.posthog.com
+.internal-e.posthog.com
+.app-static-prod.posthog.com
+.data.air-matters.com

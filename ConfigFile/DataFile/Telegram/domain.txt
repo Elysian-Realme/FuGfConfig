@@ -19,3 +19,4 @@
 .tg.dev
 .tx.me
 .usercontent.dev
+.swiftgram.app
