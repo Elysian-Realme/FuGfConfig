@@ -937,6 +937,7 @@ DOMAIN,zconfig.alibabausercontent.com.w.cdngslb.com
 DOMAIN,zeus.ad.intl.xiaomi.com
 DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,-acs.m.taobao.com
+DOMAIN-KEYWORD,-ad.adukwai.com
 DOMAIN-KEYWORD,-adrevenue.appsflyersdk.com
 DOMAIN-KEYWORD,-ads.hara.vn
 DOMAIN-KEYWORD,-aerserv.adsrvr.org
@@ -966,6 +967,7 @@ DOMAIN-KEYWORD,-int.adsrvr.org
 DOMAIN-KEYWORD,-ios.mtgglobals.com
 DOMAIN-KEYWORD,-ipv6.jpush.cn
 DOMAIN-KEYWORD,-jmacs.m.taobao.com
+DOMAIN-KEYWORD,-jx.adukwai.com
 DOMAIN-KEYWORD,-launches.appsflyersdk.com
 DOMAIN-KEYWORD,-log-upload-os.mihoyo.com
 DOMAIN-KEYWORD,-log-upload-v6.mihoyo.com
@@ -1325,6 +1327,7 @@ DOMAIN-SUFFIX,adserver-a.juicyads.com
 DOMAIN-SUFFIX,adserver-api-dev.juicyads.com
 DOMAIN-SUFFIX,adserver-b.juicyads.com
 DOMAIN-SUFFIX,adserver.bing.com
+DOMAIN-SUFFIX,adserver.hahamobi.com
 DOMAIN-SUFFIX,adserver.juicyads.com
 DOMAIN-SUFFIX,adserver.yahoo.com
 DOMAIN-SUFFIX,adservice.chsmarttv.com
@@ -1369,6 +1372,7 @@ DOMAIN-SUFFIX,adtago.s3.amazonaws.com
 DOMAIN-SUFFIX,adtechvideo.s3.amazonaws.com
 DOMAIN-SUFFIX,adtrack-intl.ucweb.com
 DOMAIN-SUFFIX,adtrack.ucweb.com
+DOMAIN-SUFFIX,adtracker.medproad.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
@@ -1521,8 +1525,10 @@ DOMAIN-SUFFIX,analytics.gismart.xyz
 DOMAIN-SUFFIX,analytics.gmc.com.edgekey.net
 DOMAIN-SUFFIX,analytics.gnetworks.xyz
 DOMAIN-SUFFIX,analytics.gridea.dev
+DOMAIN-SUFFIX,analytics.hahamobi.com
 DOMAIN-SUFFIX,analytics.hz.netease.com
 DOMAIN-SUFFIX,analytics.immersivetranslate.com
+DOMAIN-SUFFIX,analytics.inbobi.com
 DOMAIN-SUFFIX,analytics.insightly.services
 DOMAIN-SUFFIX,analytics.intern.b1-systems.de
 DOMAIN-SUFFIX,analytics.itunes.apple.com
@@ -2377,7 +2383,6 @@ DOMAIN-SUFFIX,dark-utilities.pw
 DOMAIN-SUFFIX,dark-utilities.xyz
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,data-sdk-uuid-log.d.meituan.net
-DOMAIN-SUFFIX,data.air-matters.com
 DOMAIN-SUFFIX,data.corp.unity3d.com
 DOMAIN-SUFFIX,data.experience.appsflyer.com
 DOMAIN-SUFFIX,data.flurry.com
@@ -4167,6 +4172,7 @@ DOMAIN-SUFFIX,neptune2.appads.com
 DOMAIN-SUFFIX,neptune3.appads.com
 DOMAIN-SUFFIX,nerohut.com
 DOMAIN-SUFFIX,nerytu-launches.appsflyersdk.com
+DOMAIN-SUFFIX,net.hahamobi.com
 DOMAIN-SUFFIX,netapm.music.163.com
 DOMAIN-SUFFIX,netapp.adjust.com
 DOMAIN-SUFFIX,netp.umeng.com
@@ -4302,8 +4308,10 @@ DOMAIN-SUFFIX,optn.shuzilm.cn
 DOMAIN-SUFFIX,orbit.jd.com
 DOMAIN-SUFFIX,orgapp.adjust.com
 DOMAIN-SUFFIX,ort-stsdk.vivo.com.cn
+DOMAIN-SUFFIX,os-adtracking.medproad.com
 DOMAIN-SUFFIX,os-mon.snssdk.com
 DOMAIN-SUFFIX,os-mon.zijieapi.com
+DOMAIN-SUFFIX,os.medproad.com
 DOMAIN-SUFFIX,os2logs.umeng.com
 DOMAIN-SUFFIX,oslogs.umeng.com
 DOMAIN-SUFFIX,ossgw.alicdn.com
@@ -4431,6 +4439,7 @@ DOMAIN-SUFFIX,play.umeng.com
 DOMAIN-SUFFIX,play.video2.stream.vidzi.tv
 DOMAIN-SUFFIX,play.vidzi.tv
 DOMAIN-SUFFIX,playable-stats.mintegral.net
+DOMAIN-SUFFIX,player-telemetry.vimeo.com
 DOMAIN-SUFFIX,plbslog.umeng.com
 DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,plus.url.google.com
@@ -4538,6 +4547,7 @@ DOMAIN-SUFFIX,qappcenterv6.3g.qq.com
 DOMAIN-SUFFIX,qbreport.html5.qq.com
 DOMAIN-SUFFIX,qbwup.html5.qq.com
 DOMAIN-SUFFIX,qbwup.imtt.qq.com
+DOMAIN-SUFFIX,qcwx.medproad.com
 DOMAIN-SUFFIX,qianclick.baidu.com
 DOMAIN-SUFFIX,qifu-api.baidubce.com
 DOMAIN-SUFFIX,qpb.sohu.com
@@ -4941,6 +4951,7 @@ DOMAIN-SUFFIX,sentry.salesmartly.com
 DOMAIN-SUFFIX,sentry.spribe.io.cdn.cloudflare.net
 DOMAIN-SUFFIX,sentry.tapsvc.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,sentry.tapsvc.io.cdn.cloudflare.net
+DOMAIN-SUFFIX,sentry.tecobi.com
 DOMAIN-SUFFIX,sentry.tidio.co
 DOMAIN-SUFFIX,sentry.zendesk.com
 DOMAIN-SUFFIX,sentry2.lx.netease.com
@@ -5222,6 +5233,7 @@ DOMAIN-SUFFIX,t.appsflyersdk.com
 DOMAIN-SUFFIX,t.e.x.com
 DOMAIN-SUFFIX,t.singular.net
 DOMAIN-SUFFIX,t.sj.qq.com
+DOMAIN-SUFFIX,t.vimeo.com
 DOMAIN-SUFFIX,t.wg.360-api.cn
 DOMAIN-SUFFIX,t03-api.xlmc.xunlei.com
 DOMAIN-SUFFIX,t1.baidu.com
@@ -5381,6 +5393,7 @@ DOMAIN-SUFFIX,track.adspruce.com
 DOMAIN-SUFFIX,track.adtrue.com
 DOMAIN-SUFFIX,track.appsflyer.com
 DOMAIN-SUFFIX,track.appsflyersdk.com
+DOMAIN-SUFFIX,track.gourdmobi.com
 DOMAIN-SUFFIX,track.rundschau-online.de
 DOMAIN-SUFFIX,track.sohu.com
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com

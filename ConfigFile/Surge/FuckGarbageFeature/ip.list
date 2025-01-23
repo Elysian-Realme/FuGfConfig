@@ -140,6 +140,7 @@ IP-CIDR,124.160.194.11/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
 IP-CIDR,124.232.160.178/32,no-resolve
 IP-CIDR,124.236.16.201/32,no-resolve
+IP-CIDR,124.70.159.59/32,no-resolve
 IP-CIDR,125.36.181.240/32,no-resolve
 IP-CIDR,125.36.181.243/32,no-resolve
 IP-CIDR,125.39.104.14/32,no-resolve
