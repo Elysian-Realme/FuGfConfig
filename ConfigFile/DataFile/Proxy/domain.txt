@@ -113,6 +113,7 @@ vscodium.now.sh
 
 ## 编辑器
 .zed.dev
+zed-extensions.nyc3.digitaloceanspaces.com
 .doomemacs.org
 
 ## proton

@@ -14,6 +14,7 @@ DOMAIN,weather-analytics-events.apple.com,extended-matching
 DOMAIN,xp.apple.com,extended-matching
 DOMAIN-KEYWORD,buy.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,aaplimg.com,extended-matching
+DOMAIN-SUFFIX,apple-mapkit.com,extended-matching
 DOMAIN-SUFFIX,apple.co,extended-matching
 DOMAIN-SUFFIX,appleid.apple.com,extended-matching
 DOMAIN-SUFFIX,edge-itunes-apple.com.akadns.net,extended-matching

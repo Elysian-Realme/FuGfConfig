@@ -3,6 +3,7 @@ DOMAIN,livepatch.canonical.com
 DOMAIN,onedrive.live.com
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com
 DOMAIN,vscodium.now.sh
+DOMAIN,zed-extensions.nyc3.digitaloceanspaces.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adtidy.org

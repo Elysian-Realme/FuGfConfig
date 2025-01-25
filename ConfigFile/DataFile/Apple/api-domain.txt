@@ -41,3 +41,4 @@ configuration.apple.com
 .itunes.com
 .itunes.apple.com
 weather-analytics-events.apple.com
+.apple-mapkit.com

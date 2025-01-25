@@ -3,6 +3,7 @@ DOMAIN,livepatch.canonical.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com,extended-matching
 DOMAIN,vscodium.now.sh,extended-matching
+DOMAIN,zed-extensions.nyc3.digitaloceanspaces.com,extended-matching
 DOMAIN-SUFFIX,1password.com,extended-matching
 DOMAIN-SUFFIX,adguard.com,extended-matching
 DOMAIN-SUFFIX,adtidy.org,extended-matching
