@@ -129,6 +129,7 @@ DOMAIN,ju.taobao.com,extended-matching
 DOMAIN,kernelapi.vivo.com.cn,extended-matching
 DOMAIN,kf.qbrand.com,extended-matching
 DOMAIN,kf.qq.com,extended-matching
+DOMAIN,launchwxacode.wxqcloud.qq.com.cn,extended-matching
 DOMAIN,layout.meituan.net,extended-matching
 DOMAIN,lens.zhihu.com,extended-matching
 DOMAIN,lf1-cdn-tos.bytegoofy.com,extended-matching
@@ -2671,6 +2672,7 @@ DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com,extended-matching
 DOMAIN-SUFFIX,clientmetrics.kik.com,extended-matching
 DOMAIN-SUFFIX,clients-api.pushengage.com,extended-matching
 DOMAIN-SUFFIX,clients1.google.com,extended-matching
+DOMAIN-SUFFIX,clients4.google.com,extended-matching
 DOMAIN-SUFFIX,clientsdk.luminati.io,extended-matching
 DOMAIN-SUFFIX,clipbongda.info,extended-matching
 DOMAIN-SUFFIX,clk.adgaterewards.com,extended-matching

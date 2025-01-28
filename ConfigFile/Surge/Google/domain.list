@@ -6,4 +6,6 @@ DOMAIN-SUFFIX,googledrive.com,extended-matching
 DOMAIN-SUFFIX,googletagmanager.com,extended-matching
 DOMAIN-SUFFIX,googleusercontent.com,extended-matching
 DOMAIN-SUFFIX,gstatic.com,extended-matching
+DOMAIN-SUFFIX,search.app.goo.gl,extended-matching
+DOMAIN-SUFFIX,translate.goog,extended-matching
 DOMAIN-SUFFIX,withgoogle.com,extended-matching

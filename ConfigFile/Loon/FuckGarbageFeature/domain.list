@@ -129,6 +129,7 @@ DOMAIN,ju.taobao.com
 DOMAIN,kernelapi.vivo.com.cn
 DOMAIN,kf.qbrand.com
 DOMAIN,kf.qq.com
+DOMAIN,launchwxacode.wxqcloud.qq.com.cn
 DOMAIN,layout.meituan.net
 DOMAIN,lens.zhihu.com
 DOMAIN,lf1-cdn-tos.bytegoofy.com
@@ -2671,6 +2672,7 @@ DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,clientmetrics.kik.com
 DOMAIN-SUFFIX,clients-api.pushengage.com
 DOMAIN-SUFFIX,clients1.google.com
+DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,clientsdk.luminati.io
 DOMAIN-SUFFIX,clipbongda.info
 DOMAIN-SUFFIX,clk.adgaterewards.com

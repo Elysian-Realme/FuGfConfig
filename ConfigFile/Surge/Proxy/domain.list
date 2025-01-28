@@ -1,3 +1,4 @@
+DOMAIN,api.rc-backup.com,extended-matching
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
 DOMAIN,livepatch.canonical.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
@@ -15,7 +16,6 @@ DOMAIN-SUFFIX,anchor.fm,extended-matching
 DOMAIN-SUFFIX,android.com,extended-matching
 DOMAIN-SUFFIX,annas-archive.gs,extended-matching
 DOMAIN-SUFFIX,annas-archive.org,extended-matching
-DOMAIN-SUFFIX,api.revenuecat.com,extended-matching
 DOMAIN-SUFFIX,apkpure.com,extended-matching
 DOMAIN-SUFFIX,apkpure.net,extended-matching
 DOMAIN-SUFFIX,appsco.pe,extended-matching
@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,remix.run,extended-matching
 DOMAIN-SUFFIX,research.google,extended-matching
 DOMAIN-SUFFIX,resilio.com,extended-matching
 DOMAIN-SUFFIX,reuters.com,extended-matching
+DOMAIN-SUFFIX,revenuecat.com,extended-matching
 DOMAIN-SUFFIX,rfi.fr,extended-matching
 DOMAIN-SUFFIX,sagernet.org,extended-matching
 DOMAIN-SUFFIX,schemastore.org,extended-matching

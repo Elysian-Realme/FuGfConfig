@@ -7,3 +7,5 @@
 .googletagmanager.com
 .withgoogle.com
 .google.com.sg
+.translate.goog
+.search.app.goo.gl

@@ -1245,6 +1245,7 @@ DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,ads-union.jd.com
 DOMAIN-SUFFIX,ads.95516.com.wscdns.com
 DOMAIN-SUFFIX,ads.ad4game.com
+DOMAIN-SUFFIX,ads.adhacker.online
 DOMAIN-SUFFIX,ads.adthrive.com
 DOMAIN-SUFFIX,ads.amazon.com
 DOMAIN-SUFFIX,ads.auctions.yahoo.com
@@ -1576,6 +1577,7 @@ DOMAIN-SUFFIX,analytics.sports.ru
 DOMAIN-SUFFIX,analytics.staging.alloka.ru
 DOMAIN-SUFFIX,analytics.status.atlassian.com
 DOMAIN-SUFFIX,analytics.taobao.com
+DOMAIN-SUFFIX,analytics.tbs.tv
 DOMAIN-SUFFIX,analytics.techweb.com.cn
 DOMAIN-SUFFIX,analytics.tiktok.com.edgekey.net
 DOMAIN-SUFFIX,analytics.trafficfactory.biz
@@ -1700,6 +1702,7 @@ DOMAIN-SUFFIX,api.hismarttv.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
 DOMAIN-SUFFIX,api.intercom.io
 DOMAIN-SUFFIX,api.inwemo.com
+DOMAIN-SUFFIX,api.jm.taolop.com
 DOMAIN-SUFFIX,api.jpush.cn
 DOMAIN-SUFFIX,api.jr.mi.com
 DOMAIN-SUFFIX,api.juicyads.com
@@ -1865,6 +1868,7 @@ DOMAIN-SUFFIX,attentivemobile.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,attr.appsflyer.com
 DOMAIN-SUFFIX,attr.appsflyersdk.com
 DOMAIN-SUFFIX,aty.sohu.com
+DOMAIN-SUFFIX,au.adhacker.online
 DOMAIN-SUFFIX,au.umeng.co
 DOMAIN-SUFFIX,au.umeng.com
 DOMAIN-SUFFIX,aud.adjust-net.jp
@@ -2226,6 +2230,7 @@ DOMAIN-SUFFIX,coinnebula.com
 DOMAIN-SUFFIX,coinpirate.cf
 DOMAIN-SUFFIX,coinpot.co
 DOMAIN-SUFFIX,coinrail.io
+DOMAIN-SUFFIX,collect.adhacker.online
 DOMAIN-SUFFIX,collect.alipay.com
 DOMAIN-SUFFIX,collect.bz.mgtv.com
 DOMAIN-SUFFIX,collect.wsq.umeng.com
@@ -3135,6 +3140,7 @@ DOMAIN-SUFFIX,img.stripcdn.com
 DOMAIN-SUFFIX,img1.sj.qq.com
 DOMAIN-SUFFIX,imgstat.baidu.com
 DOMAIN-SUFFIX,imgx.kwd.inkuai.com
+DOMAIN-SUFFIX,imply.adhacker.online
 DOMAIN-SUFFIX,impression-east.chinaliftoff.io
 DOMAIN-SUFFIX,impression.appsflyer.com
 DOMAIN-SUFFIX,impression.appsflyersdk.com
@@ -3822,7 +3828,10 @@ DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.chelaile.net.cn
 DOMAIN-SUFFIX,logs.douguo.net
 DOMAIN-SUFFIX,logs.game.qq.com
+DOMAIN-SUFFIX,logs.hunliji.com
+DOMAIN-SUFFIX,logs.mobengine.xyz
 DOMAIN-SUFFIX,logs.netflix.com
+DOMAIN-SUFFIX,logs.ntvplus.tv
 DOMAIN-SUFFIX,logsdk.qq.com
 DOMAIN-SUFFIX,logserver.hicloud.com
 DOMAIN-SUFFIX,logservice-dra.platform.hicloud.com
@@ -4181,6 +4190,8 @@ DOMAIN-SUFFIX,new-aaid.umeng.com
 DOMAIN-SUFFIX,new-audid.umeng.com
 DOMAIN-SUFFIX,new-ccs.umeng.com
 DOMAIN-SUFFIX,new.minr.pw
+DOMAIN-SUFFIX,new253.com
+DOMAIN-SUFFIX,new669.com
 DOMAIN-SUFFIX,newclient.map.baidu.com
 DOMAIN-SUFFIX,newcrbpc.com
 DOMAIN-SUFFIX,newlog.reader.qq.com
@@ -4463,6 +4474,7 @@ DOMAIN-SUFFIX,pool.hws.ru
 DOMAIN-SUFFIX,popme.163.com
 DOMAIN-SUFFIX,pos.baidu.com
 DOMAIN-SUFFIX,pouya.blob.core.windows.net
+DOMAIN-SUFFIX,power.adhacker.online
 DOMAIN-SUFFIX,pp.adjust.com
 DOMAIN-SUFFIX,pp.adjust.io
 DOMAIN-SUFFIX,ppp.adjust.com

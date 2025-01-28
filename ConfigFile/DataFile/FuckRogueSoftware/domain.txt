@@ -5012,8 +5012,9 @@ api.cid.samba.tv
 preferences.cid.samba.tv
 bravia-cfgdst-ore-pro.bda.ndmdhs.com
 
-## 恶意 IP 或域名
+## 恶意域名
 # 存在延迟，失效等问题
+.api.jm.taolop.com
 .tjzckjkj.cn
 .polyfill.io
 .googie-anaiytics.com
@@ -6470,3 +6471,14 @@ api.getkoala.com
 .adserver.hahamobi.com
 .sentry.tecobi.com
 .analytics.inbobi.com
+.logs.hunliji.com
+.logs.mobengine.xyz
+.logs.ntvplus.tv
+.new253.com
+.new669.com
+.analytics.tbs.tv
+.imply.adhacker.online
+.au.adhacker.online
+.collect.adhacker.online
+.ads.adhacker.online
+.power.adhacker.online

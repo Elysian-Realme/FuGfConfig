@@ -200,3 +200,4 @@ test-ipv6.com
 .obsproject.com
 .deepseek.com
 .linux.do
+.air-matters.com

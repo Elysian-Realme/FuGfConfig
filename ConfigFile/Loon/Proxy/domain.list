@@ -1,3 +1,4 @@
+DOMAIN,api.rc-backup.com
 DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,livepatch.canonical.com
 DOMAIN,onedrive.live.com
@@ -15,7 +16,6 @@ DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,annas-archive.gs
 DOMAIN-SUFFIX,annas-archive.org
-DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,appsco.pe
@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,remix.run
 DOMAIN-SUFFIX,research.google
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,schemastore.org
