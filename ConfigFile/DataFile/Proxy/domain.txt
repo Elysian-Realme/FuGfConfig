@@ -454,3 +454,4 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .winget.microsoft.com
 .revenuecat.com
 api.rc-backup.com
+.grafana.com

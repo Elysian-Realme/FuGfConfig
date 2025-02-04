@@ -8013,3 +8013,4 @@ iadsdk.qtlcdn.com.cdnmg.com
 .appannie.com
 .clients4.google.com
 launchwxacode.wxqcloud.qq.com.cn
+.facebook.com

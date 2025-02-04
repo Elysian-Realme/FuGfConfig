@@ -2001,6 +2001,7 @@ DOMAIN-SUFFIX,bn2-ris-prod-atm.trafficmanager.net,extended-matching
 DOMAIN-SUFFIX,bobo.163.com,extended-matching
 DOMAIN-SUFFIX,bootcdn.net,extended-matching
 DOMAIN-SUFFIX,bootcss.com,extended-matching
+DOMAIN-SUFFIX,boyonnem.ddns.net,extended-matching
 DOMAIN-SUFFIX,br.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,br.baidu.com,extended-matching
 DOMAIN-SUFFIX,br.bmbs.baidu.com,extended-matching
@@ -4494,6 +4495,7 @@ DOMAIN-SUFFIX,privacyportal-ca.onetrust.com,extended-matching
 DOMAIN-SUFFIX,privacyportal.onetrust.com,extended-matching
 DOMAIN-SUFFIX,privacyportaluat.onetrust.com,extended-matching
 DOMAIN-SUFFIX,pro.baidu.com,extended-matching
+DOMAIN-SUFFIX,pro.csocools.com,extended-matching
 DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net,extended-matching
 DOMAIN-SUFFIX,profitablegatecpm.com,extended-matching
 DOMAIN-SUFFIX,prom.b.qq.com,extended-matching

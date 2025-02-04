@@ -28,3 +28,4 @@ downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
 mesu.apple.com.w.cdngslb.com
 .apple.com.w.alikunlun.com
+.apple.com.download.ks-cdn.com

@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,go.dev,extended-matching
 DOMAIN-SUFFIX,golang.org,extended-matching
 DOMAIN-SUFFIX,goproxy.io,extended-matching
 DOMAIN-SUFFIX,gpgtools.org,extended-matching
+DOMAIN-SUFFIX,grafana.com,extended-matching
 DOMAIN-SUFFIX,gravatar.com,extended-matching
 DOMAIN-SUFFIX,hackmd-prod-images.s3-ap-northeast-1.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,hackmd.io,extended-matching

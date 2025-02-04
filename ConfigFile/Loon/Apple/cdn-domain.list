@@ -14,6 +14,7 @@ DOMAIN,supportdownload.apple.com
 DOMAIN,swcdn.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates.cdn-apple.com
+DOMAIN-SUFFIX,apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,apple.com.w.alikunlun.com
 DOMAIN-SUFFIX,mzstatic.com
 USER-AGENT,com.apple.appstored*
