@@ -785,7 +785,6 @@ DOMAIN,strip.taobaocdn.com
 DOMAIN,sy.cl2009.com
 DOMAIN,sys-launcher.hismarttv.com
 DOMAIN,sysdk.cl2009.com
-DOMAIN,szlong.weixin.qq.com
 DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.rconfig.qq.com
 DOMAIN,tanxlog.istreamsche.com
@@ -948,6 +947,7 @@ DOMAIN-KEYWORD,-app.appsflyersdk.com
 DOMAIN-KEYWORD,-ars.appsflyersdk.com
 DOMAIN-KEYWORD,-attr.appsflyersdk.com
 DOMAIN-KEYWORD,-backup.adjust.com
+DOMAIN-KEYWORD,-behavior.apitd.net
 DOMAIN-KEYWORD,-bus-analytics-1-1.servicebus.windows.net
 DOMAIN-KEYWORD,-cdn-settings.appsflyersdk.com
 DOMAIN-KEYWORD,-conversions.appsflyersdk.com
@@ -957,6 +957,7 @@ DOMAIN-KEYWORD,-dynamic-report-api.appsflyersdk.com
 DOMAIN-KEYWORD,-events.adjust.com
 DOMAIN-KEYWORD,-ext.adsrvr.org
 DOMAIN-KEYWORD,-feedback.mtgglobals.com
+DOMAIN-KEYWORD,-fp.apitd.net
 DOMAIN-KEYWORD,-gcdsdk.appsflyersdk.com
 DOMAIN-KEYWORD,-hb.mtgglobals.com
 DOMAIN-KEYWORD,-https.mtgglobals.com
@@ -1065,6 +1066,9 @@ DOMAIN-SUFFIX,aan.amazon.com
 DOMAIN-SUFFIX,aapp.adjust.com
 DOMAIN-SUFFIX,aax-us-east-retail-direct.amazon.com
 DOMAIN-SUFFIX,abc.pema.cl
+DOMAIN-SUFFIX,ablink.kfc.com.au
+DOMAIN-SUFFIX,ablink.test.kfc.com.au
+DOMAIN-SUFFIX,ablinks.kfc.com.au
 DOMAIN-SUFFIX,abtest-ch.snssdk.com
 DOMAIN-SUFFIX,abtest-va-tiktok.byteoversea.com
 DOMAIN-SUFFIX,abtest.mistat.india.xiaomi.com
@@ -1374,6 +1378,7 @@ DOMAIN-SUFFIX,adtechvideo.s3.amazonaws.com
 DOMAIN-SUFFIX,adtrack-intl.ucweb.com
 DOMAIN-SUFFIX,adtrack.ucweb.com
 DOMAIN-SUFFIX,adtracker.medproad.com
+DOMAIN-SUFFIX,adttrackingprd.hwwt8.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adv.ccb.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
@@ -1471,6 +1476,7 @@ DOMAIN-SUFFIX,ampcid.google.tl
 DOMAIN-SUFFIX,ams-zabbix.adjust.com
 DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,analysis.chatglm.cn
+DOMAIN-SUFFIX,analytic.xingcloud.com
 DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,analytics-api-01.smzdm.com
 DOMAIN-SUFFIX,analytics-api.smzdm.com
@@ -1572,6 +1578,7 @@ DOMAIN-SUFFIX,analytics.services.jetbrains.com
 DOMAIN-SUFFIX,analytics.shift.agency
 DOMAIN-SUFFIX,analytics.sieuviet.services
 DOMAIN-SUFFIX,analytics.sixt.es
+DOMAIN-SUFFIX,analytics.smarketingcloud.com
 DOMAIN-SUFFIX,analytics.snssdk.com
 DOMAIN-SUFFIX,analytics.sports.ru
 DOMAIN-SUFFIX,analytics.staging.alloka.ru
@@ -1641,6 +1648,7 @@ DOMAIN-SUFFIX,api-audiostream-sh.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-xjp.fengkongcloud.com
 DOMAIN-SUFFIX,api-compatible.mixpanel.com
 DOMAIN-SUFFIX,api-devapp.getui.com
+DOMAIN-SUFFIX,api-device-eur.fengkongcloud.com
 DOMAIN-SUFFIX,api-eu.mixpanel.com
 DOMAIN-SUFFIX,api-extra.hzjizhun.com
 DOMAIN-SUFFIX,api-gi.getui.com
@@ -1876,6 +1884,7 @@ DOMAIN-SUFFIX,audd.shuzilm.cn
 DOMAIN-SUFFIX,audid-api-sg.taobao.com
 DOMAIN-SUFFIX,audid-api.taobao.com
 DOMAIN-SUFFIX,audid.umeng.com
+DOMAIN-SUFFIX,auni.telecome.cn
 DOMAIN-SUFFIX,aurorapush.cn
 DOMAIN-SUFFIX,aurorapush.com
 DOMAIN-SUFFIX,auth.be.sec.miui.com
@@ -2204,6 +2213,7 @@ DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,cmp-consent-tool.privacymanager.io
 DOMAIN-SUFFIX,cmp-vendors.privacymanager.io
+DOMAIN-SUFFIX,cn-fp.apitd.net
 DOMAIN-SUFFIX,cn-yys-prod-logproxy.mhystatic.com
 DOMAIN-SUFFIX,cn.app.chat.xiaomi.net
 DOMAIN-SUFFIX,cn.rongnav.com
@@ -2737,9 +2747,14 @@ DOMAIN-SUFFIX,fota5s.adups.cn
 DOMAIN-SUFFIX,fota5t.adups.cn
 DOMAIN-SUFFIX,fourier.taobao.com
 DOMAIN-SUFFIX,fp-bj.fengkongcloud.com
+DOMAIN-SUFFIX,fp-it-acc.fengkongcloud.com
 DOMAIN-SUFFIX,fp-it.fengkongcloud.com
+DOMAIN-SUFFIX,fp-it.portal101.cn
+DOMAIN-SUFFIX,fp-na-it-acc.fengkongcloud.com
 DOMAIN-SUFFIX,fp-na-proxy.fengkongcloud.com
 DOMAIN-SUFFIX,fp-proxy.fengkongcloud.com
+DOMAIN-SUFFIX,fp-sa-it-acc.fengkongcloud.com
+DOMAIN-SUFFIX,fp-sa-it.fengkongcloud.com
 DOMAIN-SUFFIX,fp-sa-proxy.fengkongcloud.com
 DOMAIN-SUFFIX,fp-upload.dun.163.com
 DOMAIN-SUFFIX,fp.fraudmetrix.cn
@@ -2854,6 +2869,7 @@ DOMAIN-SUFFIX,gj.mmstat.com
 DOMAIN-SUFFIX,gjapplog.uc.cn
 DOMAIN-SUFFIX,gjapplog.ucweb.com
 DOMAIN-SUFFIX,gjfzpt.cn
+DOMAIN-SUFFIX,global-auni.telecome.cn
 DOMAIN-SUFFIX,gm-v6.mmstat.com
 DOMAIN-SUFFIX,gm.mmstat.com
 DOMAIN-SUFFIX,gm.mob.com
@@ -3094,6 +3110,7 @@ DOMAIN-SUFFIX,ichannel-tb.isnssdk.com
 DOMAIN-SUFFIX,ichannel.isnssdk.com
 DOMAIN-SUFFIX,ichannel.snssdk.com
 DOMAIN-SUFFIX,icrash.qq.com
+DOMAIN-SUFFIX,id-fp.apitd.net
 DOMAIN-SUFFIX,id.adsplay.xyz
 DOMAIN-SUFFIX,idaa.shuzilm.cn
 DOMAIN-SUFFIX,idapp.adjust.com
@@ -3205,6 +3222,7 @@ DOMAIN-SUFFIX,itapp.adjust.com
 DOMAIN-SUFFIX,itsdata.map.baidu.com
 DOMAIN-SUFFIX,iu.snssdk.com
 DOMAIN-SUFFIX,iudd.shuzilm.cn
+DOMAIN-SUFFIX,iuni.telecome.cn
 DOMAIN-SUFFIX,iwanad.baidu.com
 DOMAIN-SUFFIX,ixav-cse.avlyun.com
 DOMAIN-SUFFIX,j.br.baidu.com
@@ -4318,6 +4336,8 @@ DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com.w.alikunlun.com
 DOMAIN-SUFFIX,optn.shuzilm.cn
 DOMAIN-SUFFIX,orbit.jd.com
+DOMAIN-SUFFIX,order.kfc.com.cn.c.vedcdnlb.com
+DOMAIN-SUFFIX,orders.kfc.com.cn.c.vedcdnlb.com
 DOMAIN-SUFFIX,orgapp.adjust.com
 DOMAIN-SUFFIX,ort-stsdk.vivo.com.cn
 DOMAIN-SUFFIX,os-adtracking.medproad.com
@@ -4394,6 +4414,7 @@ DOMAIN-SUFFIX,pc-mon.zijieapi.com
 DOMAIN-SUFFIX,pc.videoclick.baidu.com
 DOMAIN-SUFFIX,pcbrowser.dd.qq.com
 DOMAIN-SUFFIX,pcookie.taobao.com
+DOMAIN-SUFFIX,pcp-pic.hwwt8.com
 DOMAIN-SUFFIX,pdc.micloud.xiaomi.net
 DOMAIN-SUFFIX,pdns.nudt.edu.cn
 DOMAIN-SUFFIX,peapp.adjust.com
@@ -5146,6 +5167,7 @@ DOMAIN-SUFFIX,static.flat-ads.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,static.inkuai.com
 DOMAIN-SUFFIX,static.juicyads.com
+DOMAIN-SUFFIX,static.portal101.cn
 DOMAIN-SUFFIX,static.ptqy.gitv.tv
 DOMAIN-SUFFIX,static.sensorsdata.cn
 DOMAIN-SUFFIX,static.sparechange.io
@@ -5237,6 +5259,7 @@ DOMAIN-SUFFIX,synchrobox.adswizz.com
 DOMAIN-SUFFIX,syndication.twitter.com
 DOMAIN-SUFFIX,sys.miui.com
 DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,szlong.weixin.qq.com
 DOMAIN-SUFFIX,t-ads.xiaohongshu.com
 DOMAIN-SUFFIX,t-api.singular.net
 DOMAIN-SUFFIX,t-l.play.cp81.ott.cibntv.net
@@ -5424,10 +5447,12 @@ DOMAIN-SUFFIX,tracking.babytree.com
 DOMAIN-SUFFIX,tracking.baidu.com
 DOMAIN-SUFFIX,tracking.eu.miui.com
 DOMAIN-SUFFIX,tracking.gs.com.edgekey.net
+DOMAIN-SUFFIX,tracking.kfc.com.cn
 DOMAIN-SUFFIX,tracking.launchdarkly.com
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
 DOMAIN-SUFFIX,trade-acs.m.taobao.com
 DOMAIN-SUFFIX,traffic.tc-clicks.com
 DOMAIN-SUFFIX,trainingapp.adjust.com

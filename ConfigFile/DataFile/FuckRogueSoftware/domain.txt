@@ -3472,7 +3472,7 @@ p2p.qq.com
 ott.video.qq.com
 sdksp6.video.qq.com
 .masterconn.qq.com
-szlong.weixin.qq.com
+.szlong.weixin.qq.com
 .log1.wtlogin.qq.com
 report.qcloudcdn.qq.com
 qm.qq.com
@@ -4431,6 +4431,15 @@ preferences-mgr.truste.com
 ## 数美
 # https://help.ishumei.com
 fp-*it*.fengkongcloud.com
+.fp-sa-proxy.fengkongcloud.com
+.fp-na-proxy.fengkongcloud.com
+.api-device-eur.fengkongcloud.com
+.fp-sa-it.fengkongcloud.com
+.fp-it-acc.fengkongcloud.com
+.fp-sa-it-acc.fengkongcloud.com
+.fp-na-it-acc.fengkongcloud.com
+.fp-it.portal101.cn
+.static.portal101.cn
 # 风险ip识别
 .api-tianxiang-bj.fengkongcloud.com
 .api-tianxiang-xjp.fengkongcloud.com
@@ -4440,36 +4449,21 @@ fp-*it*.fengkongcloud.com
 .api-article-bj.fengkongcloud.com
 # 智能音频文件识别
 .api-audio-sh.fengkongcloud.com
-.api-audio-sh.fengkongcloud.com
 .api-audio-gg.fengkongcloud.com
 .api-audio-xjp.fengkongcloud.com
 # 智能音频流识别
 .api-audiostream-xjp.fengkongcloud.com
 .api-audiostream-gg.fengkongcloud.com
 .api-audiostream-sh.fengkongcloud.com
-# 数美-设备指纹
-.api-tianxiang-bj.fengkongcloud.com
-.api-tianxiang-xjp.fengkongcloud.com
-.api-tianxiang-eur.fengkongcloud.com
-.api-tianxiang-fjny.fengkongcloud.com
 # 设备指纹请求
-.fp-proxy.fengkongcloud.com
-.fp-sa-proxy.fengkongcloud.com
-.fp-na-proxy.fengkongcloud.com
 # 云配请求
 .fp-proxy.fengkongcloud.com
-.fp-sa-proxy.fengkongcloud.com
-.fp-na-proxy.fengkongcloud.com
 # 数据防盗爬
 .api-skynet-bj.fengkongcloud.com
 .api-skynet-fjny.fengkongcloud.com
 .api-skynet-xjp.fengkongcloud.com
 .api-skynet-eur.fengkongcloud.com
 # 营销风控
-.api-skynet-bj.fengkongcloud.com
-.api-skynet-fjny.fengkongcloud.com
-.api-skynet-xjp.fengkongcloud.com
-.api-skynet-eur.fengkongcloud.com
 .fp-it.fengkongcloud.com
 .tracker.fengkongcloud.com
 .fp-bj.fengkongcloud.com
@@ -4498,7 +4492,6 @@ ac*.*cloud.net.cn
 .nav.rong-edge.com
 .ws.rong-edge.com
 .stats.rong-edge.com
-
 
 ## juicyads
 .ads.juicyads.com
@@ -4683,7 +4676,6 @@ sdk-api-v1.singular.net
 .vulcan3.branch.io
 .www.branch.io
 
-
 ## adspruce
 .ani.adspruce.com
 .api3.adspruce.com
@@ -4729,14 +4721,11 @@ sdk-api-v1.singular.net
 v9-default.365yg.com
 v3-default.365yg.com
 
-
 ## 诸云纵横科技
 .log.collector.muchcloud.com
 
-
 ## 云壹互动
 .applogs.yunyihudong.com
-
 
 ## 12306
 .ad.12306.cn
@@ -4744,7 +4733,6 @@ v3-default.365yg.com
 
 ## 数据收集，详见 https://tech.sina.com.cn/i/2019-03-25/doc-ihsxncvh5289363.shtml
 .zzhc.vnet.cn
-
 
 ## 统一移动基础服务平台
 zxid-m.mobileservice.cn
@@ -4769,7 +4757,6 @@ zxid-m.mobileservice.cn
 
 ## 同盾科技
 .fp.fraudmetrix.cn
-
 
 ## 小满 商业化运营 SaaS 服务平台
 .saas.hixiaoman.com
@@ -6194,6 +6181,9 @@ res.sentcss.com
 api-fd.dutils.com
 st-sentinel.vivo.com.cn
 .fp.hwwt8.com
+.adttrackingprd.hwwt8.com
+.trackingprd.hwwt8.com
+.pcp-pic.hwwt8.com
 .pubsub02.oray.net
 .tracking.mcdonalds.com.cn
 .c.mcd.cn
@@ -6484,3 +6474,18 @@ api.getkoala.com
 .collect.adhacker.online
 .ads.adhacker.online
 .power.adhacker.online
+.analytic.xingcloud.com
+.analytics.smarketingcloud.com
+.orders.kfc.com.cn.c.vedcdnlb.com
+.order.kfc.com.cn.c.vedcdnlb.com
+.ablink.test.kfc.com.au
+.ablinks.kfc.com.au
+.ablink.kfc.com.au
+.tracking.kfc.com.cn
+*-fp.apitd.net
+*-behavior.apitd.net
+.id-fp.apitd.net
+.cn-fp.apitd.net
+.iuni.telecome.cn
+.auni.telecome.cn
+.global-auni.telecome.cn
