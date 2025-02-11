@@ -88,6 +88,7 @@ DOMAIN,dns.brand.qbrand.com
 DOMAIN,doapps.gmud.top
 DOMAIN,download.csdn.net
 DOMAIN,drink.lemonpiggy.com
+DOMAIN,dualstack-restios.amap.com
 DOMAIN,duga.zhihu.com
 DOMAIN,e5019.e2.akamaiedge.net
 DOMAIN,e673.dsce9.akamaiedge.net
@@ -256,6 +257,7 @@ DOMAIN,vipauth.hpplay.cn
 DOMAIN,vipimdns.hpplay.cn
 DOMAIN,vm.gtimg.cn
 DOMAIN,vmcs-lb.vivo.com.cn
+DOMAIN,vod-license-m.volccdn.com
 DOMAIN,volcengine.manmanbuy.com
 DOMAIN,vs.biz.weibo.com
 DOMAIN,w.meituan.net
@@ -1305,6 +1307,7 @@ DOMAIN-SUFFIX,ap.tnkfactory.com
 DOMAIN-SUFFIX,apac-sg-ad-track.aralego.com
 DOMAIN-SUFFIX,apac-tw-ad-track.aralego.com
 DOMAIN-SUFFIX,apc.socdm.com
+DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN-SUFFIX,apdc3n.adpushup.com
 DOMAIN-SUFFIX,apex.go.sonobi.com
 DOMAIN-SUFFIX,api-2-0.spot.im
@@ -2178,7 +2181,6 @@ DOMAIN-SUFFIX,campaign.ad-brix.com
 DOMAIN-SUFFIX,campaign.adobe.com
 DOMAIN-SUFFIX,canddi.com
 DOMAIN-SUFFIX,capi.connatix.com
-DOMAIN-SUFFIX,capi.lkcoffee.com
 DOMAIN-SUFFIX,caps-server.anzu.io
 DOMAIN-SUFFIX,captivate.ai
 DOMAIN-SUFFIX,carambo.la
@@ -2728,6 +2730,7 @@ DOMAIN-SUFFIX,cmp.geodns.tubemogul.com
 DOMAIN-SUFFIX,cmp.optad360.io
 DOMAIN-SUFFIX,cmp.quantcast.com
 DOMAIN-SUFFIX,cmp.uniconsent.com
+DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmplay.did.ijinshan.com
 DOMAIN-SUFFIX,cms-xch-chicago.33across.com
 DOMAIN-SUFFIX,cms.quantserve.com
@@ -3190,7 +3193,6 @@ DOMAIN-SUFFIX,dldir1.qq.com
 DOMAIN-SUFFIX,dljzcl.cn
 DOMAIN-SUFFIX,dlt-beacon.dynatrace-managed.com
 DOMAIN-SUFFIX,dlx.addthis.com
-DOMAIN-SUFFIX,dmonitor.lkcoffee.com
 DOMAIN-SUFFIX,dmp.adblade.com
 DOMAIN-SUFFIX,dmp.adform.net
 DOMAIN-SUFFIX,dmp.adotmob.com
@@ -3312,7 +3314,6 @@ DOMAIN-SUFFIX,ebz.io
 DOMAIN-SUFFIX,ec.adadapted.com
 DOMAIN-SUFFIX,ec.moengage.com
 DOMAIN-SUFFIX,ec.walkme.com
-DOMAIN-SUFFIX,ecapi.lkcoffee.com
 DOMAIN-SUFFIX,ecdn.analysis.fi
 DOMAIN-SUFFIX,ecdn.firstimpression.io
 DOMAIN-SUFFIX,ecloud.10086.cn
@@ -3654,6 +3655,7 @@ DOMAIN-SUFFIX,ga.xdrig.com
 DOMAIN-SUFFIX,gads.pubmatic.com
 DOMAIN-SUFFIX,gaea.meituan.com
 DOMAIN-SUFFIX,gag.admulti.com
+DOMAIN-SUFFIX,gala.convection.cn
 DOMAIN-SUFFIX,game.bilibili.com
 DOMAIN-SUFFIX,game.meituan.com
 DOMAIN-SUFFIX,game.weibo.cn
@@ -3666,6 +3668,7 @@ DOMAIN-SUFFIX,games.sina.com.cn
 DOMAIN-SUFFIX,gammaplatform.com
 DOMAIN-SUFFIX,gannett.demdex.net
 DOMAIN-SUFFIX,gao.ee
+DOMAIN-SUFFIX,gaoneng.bilibili.com
 DOMAIN-SUFFIX,gateway-2.restartad.com
 DOMAIN-SUFFIX,gateway.adrta.com
 DOMAIN-SUFFIX,gateway.answerscloud.com
@@ -3963,7 +3966,6 @@ DOMAIN-SUFFIX,hlog.hiido.com
 DOMAIN-SUFFIX,hltqsbl.cn
 DOMAIN-SUFFIX,hlx.meituan.com
 DOMAIN-SUFFIX,hmi-hershey.hrzn-nxt.com
-DOMAIN-SUFFIX,hmonitor.lkcoffee.com
 DOMAIN-SUFFIX,hn.inspectlet.com
 DOMAIN-SUFFIX,hntkgpd.cn
 DOMAIN-SUFFIX,hoadavouthob.com
@@ -6262,7 +6264,6 @@ DOMAIN-SUFFIX,sender.clevernt.com
 DOMAIN-SUFFIX,sensors.dewu.com
 DOMAIN-SUFFIX,sensors.yodo1api.com
 DOMAIN-SUFFIX,sentry.justwatch.com
-DOMAIN-SUFFIX,sentry.lkcoffee.com
 DOMAIN-SUFFIX,ser.adledge.com
 DOMAIN-SUFFIX,serhiy.io
 DOMAIN-SUFFIX,serpens.iad.appboy.com
@@ -6412,6 +6413,7 @@ DOMAIN-SUFFIX,slckg-lyoc5.ads.tremorhub.com
 DOMAIN-SUFFIX,slckg-nugvu.ads.tremorhub.com
 DOMAIN-SUFFIX,slckg-qrmhc.ads.tremorhub.com
 DOMAIN-SUFFIX,slicktext.com
+DOMAIN-SUFFIX,slog.cash
 DOMAIN-SUFFIX,sltbjrf.cn
 DOMAIN-SUFFIX,smaato-server.thinknearhub.com
 DOMAIN-SUFFIX,smaato.com
@@ -7296,6 +7298,7 @@ DOMAIN-SUFFIX,um3.eqads.com
 DOMAIN-SUFFIX,umbel.com
 DOMAIN-SUFFIX,umdc.aliapp.org
 DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umrstfl.cn
 DOMAIN-SUFFIX,ums.acuityplatform.com
 DOMAIN-SUFFIX,ums.adtech.com
@@ -7333,7 +7336,6 @@ DOMAIN-SUFFIX,upload.mobpowertech.com
 DOMAIN-SUFFIX,ups.demdex.net
 DOMAIN-SUFFIX,upsight-api.com
 DOMAIN-SUFFIX,upsnap.com
-DOMAIN-SUFFIX,upushshare.lkcoffee.com
 DOMAIN-SUFFIX,upyzqf.cn
 DOMAIN-SUFFIX,uqeuxpl.cn
 DOMAIN-SUFFIX,urueuah.cn

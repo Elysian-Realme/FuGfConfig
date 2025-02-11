@@ -427,7 +427,6 @@ DOMAIN,gfgk-ter-cn.hismarttv.com,extended-matching
 DOMAIN,gia.jd.com,extended-matching
 DOMAIN,gias.jd.com,extended-matching
 DOMAIN,gma.alicdn.com,extended-matching
-DOMAIN,grpc.biliapi.net,extended-matching
 DOMAIN,gtms01.alicdn.com,extended-matching
 DOMAIN,gtms02.alicdn.com,extended-matching
 DOMAIN,gtms03.alicdn.com,extended-matching
@@ -517,8 +516,6 @@ DOMAIN,lbs.map.qq.com,extended-matching
 DOMAIN,lgad.cjpowercast.com.edgesuite.net,extended-matching
 DOMAIN,live-ifs.tanx.com,extended-matching
 DOMAIN,livetv-layout-launcher.hismarttv.com,extended-matching
-DOMAIN,localDOMAIN.ptlogin2.qq.com,extended-matching
-DOMAIN,localDOMAIN.sec.qq.com,extended-matching
 DOMAIN,log-58144bf0.we-stats.com,extended-matching
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,extended-matching
 DOMAIN,log-api.pangolin-sdk-toutiao.com,extended-matching
@@ -712,7 +709,6 @@ DOMAIN,s3-fe-scm.pglstatp-toutiao.com,extended-matching
 DOMAIN,s3a.pstatp.com,extended-matching
 DOMAIN,sa.api.intl.miui.com,extended-matching
 DOMAIN,sa.api.miui.com,extended-matching
-DOMAIN,safebrowsing.urlsec.qq.com,extended-matching
 DOMAIN,sal.gslb.topgslb.com,extended-matching
 DOMAIN,saturn.jd.com,extended-matching
 DOMAIN,sdk-api-v1.singular.net,extended-matching
@@ -2518,6 +2514,7 @@ DOMAIN-SUFFIX,dm-hl.toutiao.com,extended-matching
 DOMAIN-SUFFIX,dm.isnssdk.com,extended-matching
 DOMAIN-SUFFIX,dm.jsyst.cn,extended-matching
 DOMAIN-SUFFIX,dm.taobaojuhuasuan.cn,extended-matching
+DOMAIN-SUFFIX,dmonitor.lkcoffee.com,extended-matching
 DOMAIN-SUFFIX,dnkeeper.hicloud.com,extended-matching
 DOMAIN-SUFFIX,dns.facebook.com,extended-matching
 DOMAIN-SUFFIX,dns.jd.com,extended-matching
@@ -2580,6 +2577,7 @@ DOMAIN-SUFFIX,easytomessage.com,extended-matching
 DOMAIN-SUFFIX,ec.atdmt.com,extended-matching
 DOMAIN-SUFFIX,ec.kwd.inkuai.com,extended-matching
 DOMAIN-SUFFIX,ec2eu.adswizz.com,extended-matching
+DOMAIN-SUFFIX,ecapi.lkcoffee.com,extended-matching
 DOMAIN-SUFFIX,eclick.baidu.com,extended-matching
 DOMAIN-SUFFIX,eco.taobao.com,extended-matching
 DOMAIN-SUFFIX,ecom.intl.xiaomi.com,extended-matching
@@ -3007,6 +3005,7 @@ DOMAIN-SUFFIX,hls-us2.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,hls.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,hm.baidu.com,extended-matching
 DOMAIN-SUFFIX,hmma.baidu.com,extended-matching
+DOMAIN-SUFFIX,hmonitor.lkcoffee.com,extended-matching
 DOMAIN-SUFFIX,hoplink.ksosoft.com,extended-matching
 DOMAIN-SUFFIX,hot-mob.com,extended-matching
 DOMAIN-SUFFIX,hot.browser.miui.com,extended-matching
@@ -4539,6 +4538,7 @@ DOMAIN-SUFFIX,ps.map.baidu.com,extended-matching
 DOMAIN-SUFFIX,pslog.umeng.com,extended-matching
 DOMAIN-SUFFIX,pss.alicdn.com,extended-matching
 DOMAIN-SUFFIX,pssn.alicdn.com,extended-matching
+DOMAIN-SUFFIX,ptlogin2.qq.com,extended-matching
 DOMAIN-SUFFIX,pub.se.360.cn,extended-matching
 DOMAIN-SUFFIX,public-ct2.hz.gslb.mob.com,extended-matching
 DOMAIN-SUFFIX,public.service.getui.com,extended-matching
@@ -4877,6 +4877,7 @@ DOMAIN-SUFFIX,sea.net.edu.cn,extended-matching
 DOMAIN-SUFFIX,sea2.authcaptcha.com,extended-matching
 DOMAIN-SUFFIX,seapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,sec.miui.com,extended-matching
+DOMAIN-SUFFIX,sec.qq.com,extended-matching
 DOMAIN-SUFFIX,sec.umeng.com,extended-matching
 DOMAIN-SUFFIX,sec.video.qq.com,extended-matching
 DOMAIN-SUFFIX,seccliprod.alipay.com,extended-matching
@@ -4976,6 +4977,7 @@ DOMAIN-SUFFIX,sentry.eks.hoyoverse.com,extended-matching
 DOMAIN-SUFFIX,sentry.hcaptcha.com,extended-matching
 DOMAIN-SUFFIX,sentry.indeed.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,sentry.io,extended-matching
+DOMAIN-SUFFIX,sentry.lkcoffee.com,extended-matching
 DOMAIN-SUFFIX,sentry.lx.netease.com,extended-matching
 DOMAIN-SUFFIX,sentry.mihoyo.com,extended-matching
 DOMAIN-SUFFIX,sentry.music.163.com,extended-matching
@@ -5557,6 +5559,7 @@ DOMAIN-SUFFIX,uploadlog.xlmc.sandai.net,extended-matching
 DOMAIN-SUFFIX,uploads1.gifshow.com,extended-matching
 DOMAIN-SUFFIX,uploads2.gifshow.com,extended-matching
 DOMAIN-SUFFIX,upoll.umengcloud.com,extended-matching
+DOMAIN-SUFFIX,upushshare.lkcoffee.com,extended-matching
 DOMAIN-SUFFIX,url1883.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,urls.api.twitter.com,extended-matching
 DOMAIN-SUFFIX,urlsec.qq.com,extended-matching

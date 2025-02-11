@@ -1164,7 +1164,7 @@ antivirus.baidu.com
 .v.smtcdns.net
 # 通过成熟的共享云计算技术，筹集用户闲置的带宽资源，为企业提供优质低成本的云计算服务
 .szbdyd.com
-grpc.biliapi.net
+# grpc.biliapi.net
 # 观看直播时 b 站拿用户的电脑去 p2p 上传，所谓的 webRtc
 .stun.chat.bilibili.com
 .stun-1.chat.bilibili.com
@@ -3504,12 +3504,11 @@ vweixinthumb.tc.qq.com
 isure.stream.qqmusic.qq.com
 stat.music.qq.com
 stat.3g.music.qq.com
-safebrowsing.urlsec.qq.com
-localDOMAIN.sec.qq.com
+.sec.qq.com
 wpa.qq.com
 report.nfa.qq.com
 masterconn2.qq.com
-localDOMAIN.ptlogin2.qq.com
+.ptlogin2.qq.com
 # .res.wx.qq.com
 masterconn11.qq.com
 report.*.qq.com
@@ -6489,3 +6488,8 @@ api.getkoala.com
 .iuni.telecome.cn
 .auni.telecome.cn
 .global-auni.telecome.cn
+.upushshare.lkcoffee.com
+.ecapi.lkcoffee.com
+.sentry.lkcoffee.com
+.hmonitor.lkcoffee.com
+.dmonitor.lkcoffee.com

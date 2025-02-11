@@ -427,7 +427,6 @@ DOMAIN,gfgk-ter-cn.hismarttv.com
 DOMAIN,gia.jd.com
 DOMAIN,gias.jd.com
 DOMAIN,gma.alicdn.com
-DOMAIN,grpc.biliapi.net
 DOMAIN,gtms01.alicdn.com
 DOMAIN,gtms02.alicdn.com
 DOMAIN,gtms03.alicdn.com
@@ -517,8 +516,6 @@ DOMAIN,lbs.map.qq.com
 DOMAIN,lgad.cjpowercast.com.edgesuite.net
 DOMAIN,live-ifs.tanx.com
 DOMAIN,livetv-layout-launcher.hismarttv.com
-DOMAIN,localDOMAIN.ptlogin2.qq.com
-DOMAIN,localDOMAIN.sec.qq.com
 DOMAIN,log-58144bf0.we-stats.com
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN,log-api.pangolin-sdk-toutiao.com
@@ -712,7 +709,6 @@ DOMAIN,s3-fe-scm.pglstatp-toutiao.com
 DOMAIN,s3a.pstatp.com
 DOMAIN,sa.api.intl.miui.com
 DOMAIN,sa.api.miui.com
-DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,sal.gslb.topgslb.com
 DOMAIN,saturn.jd.com
 DOMAIN,sdk-api-v1.singular.net
@@ -2518,6 +2514,7 @@ DOMAIN-SUFFIX,dm-hl.toutiao.com
 DOMAIN-SUFFIX,dm.isnssdk.com
 DOMAIN-SUFFIX,dm.jsyst.cn
 DOMAIN-SUFFIX,dm.taobaojuhuasuan.cn
+DOMAIN-SUFFIX,dmonitor.lkcoffee.com
 DOMAIN-SUFFIX,dnkeeper.hicloud.com
 DOMAIN-SUFFIX,dns.facebook.com
 DOMAIN-SUFFIX,dns.jd.com
@@ -2580,6 +2577,7 @@ DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,ec.atdmt.com
 DOMAIN-SUFFIX,ec.kwd.inkuai.com
 DOMAIN-SUFFIX,ec2eu.adswizz.com
+DOMAIN-SUFFIX,ecapi.lkcoffee.com
 DOMAIN-SUFFIX,eclick.baidu.com
 DOMAIN-SUFFIX,eco.taobao.com
 DOMAIN-SUFFIX,ecom.intl.xiaomi.com
@@ -3007,6 +3005,7 @@ DOMAIN-SUFFIX,hls-us2.stripcdn.com
 DOMAIN-SUFFIX,hls.stripcdn.com
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,hmma.baidu.com
+DOMAIN-SUFFIX,hmonitor.lkcoffee.com
 DOMAIN-SUFFIX,hoplink.ksosoft.com
 DOMAIN-SUFFIX,hot-mob.com
 DOMAIN-SUFFIX,hot.browser.miui.com
@@ -4539,6 +4538,7 @@ DOMAIN-SUFFIX,ps.map.baidu.com
 DOMAIN-SUFFIX,pslog.umeng.com
 DOMAIN-SUFFIX,pss.alicdn.com
 DOMAIN-SUFFIX,pssn.alicdn.com
+DOMAIN-SUFFIX,ptlogin2.qq.com
 DOMAIN-SUFFIX,pub.se.360.cn
 DOMAIN-SUFFIX,public-ct2.hz.gslb.mob.com
 DOMAIN-SUFFIX,public.service.getui.com
@@ -4877,6 +4877,7 @@ DOMAIN-SUFFIX,sea.net.edu.cn
 DOMAIN-SUFFIX,sea2.authcaptcha.com
 DOMAIN-SUFFIX,seapp.adjust.com
 DOMAIN-SUFFIX,sec.miui.com
+DOMAIN-SUFFIX,sec.qq.com
 DOMAIN-SUFFIX,sec.umeng.com
 DOMAIN-SUFFIX,sec.video.qq.com
 DOMAIN-SUFFIX,seccliprod.alipay.com
@@ -4976,6 +4977,7 @@ DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
 DOMAIN-SUFFIX,sentry.hcaptcha.com
 DOMAIN-SUFFIX,sentry.indeed.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry.lkcoffee.com
 DOMAIN-SUFFIX,sentry.lx.netease.com
 DOMAIN-SUFFIX,sentry.mihoyo.com
 DOMAIN-SUFFIX,sentry.music.163.com
@@ -5557,6 +5559,7 @@ DOMAIN-SUFFIX,uploadlog.xlmc.sandai.net
 DOMAIN-SUFFIX,uploads1.gifshow.com
 DOMAIN-SUFFIX,uploads2.gifshow.com
 DOMAIN-SUFFIX,upoll.umengcloud.com
+DOMAIN-SUFFIX,upushshare.lkcoffee.com
 DOMAIN-SUFFIX,url1883.appsflyer.com
 DOMAIN-SUFFIX,urls.api.twitter.com
 DOMAIN-SUFFIX,urlsec.qq.com

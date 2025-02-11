@@ -7628,6 +7628,7 @@ www.pol23.buzz
 .coolappland1.com
 .createsend1.com
 .umeng.com
+.umengcloud.com
 .ads-sdk.mattel163.com
 .omni-sdk.mattel163.com
 .push-sdk.mattel163.com
@@ -8036,9 +8037,10 @@ iadsdk.qtlcdn.com.cdnmg.com
 .apitd.net
 .telecome.cn
 .adcome.cn
-.upushshare.lkcoffee.com
-.ecapi.lkcoffee.com
-.sentry.lkcoffee.com
-.capi.lkcoffee.com
-.hmonitor.lkcoffee.com
-.dmonitor.lkcoffee.com
+.cmpassport.com
+vod-license-m.volccdn.com
+dualstack-restios.amap.com
+.slog.cash
+.gala.convection.cn
+.gaoneng.bilibili.com
+.apd-pcdnwxlogin.teg.tencent-cloud.net
