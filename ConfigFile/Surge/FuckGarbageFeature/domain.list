@@ -1142,6 +1142,7 @@ DOMAIN-SUFFIX,am15.net,extended-matching
 DOMAIN-SUFFIX,am5.vip.prod.criteo.com,extended-matching
 DOMAIN-SUFFIX,am5.vip.prod.criteo.net,extended-matching
 DOMAIN-SUFFIX,amazoncustomerservice.d2.sc.omtrdc.net,extended-matching
+DOMAIN-SUFFIX,amemv.com,extended-matching
 DOMAIN-SUFFIX,americanairlines.demdex.net,extended-matching
 DOMAIN-SUFFIX,americanmedia.blueconic.net,extended-matching
 DOMAIN-SUFFIX,amnyescsmgcagjj.com,extended-matching
@@ -3376,6 +3377,7 @@ DOMAIN-SUFFIX,engine.sponsorpay.com,extended-matching
 DOMAIN-SUFFIX,engine.spotscenered.info,extended-matching
 DOMAIN-SUFFIX,engine.widespace.com,extended-matching
 DOMAIN-SUFFIX,enhance-config.fgl.com,extended-matching
+DOMAIN-SUFFIX,enrichgw.10010.com,extended-matching
 DOMAIN-SUFFIX,ensighten.com,extended-matching
 DOMAIN-SUFFIX,ent.mobileanjian.com,extended-matching
 DOMAIN-SUFFIX,entitlements.jwplayer.com,extended-matching
@@ -5664,6 +5666,7 @@ DOMAIN-SUFFIX,pub2srv.com,extended-matching
 DOMAIN-SUFFIX,public-webservice.apdc1n.adpushup.com,extended-matching
 DOMAIN-SUFFIX,public-webservice.apdc3n.adpushup.com,extended-matching
 DOMAIN-SUFFIX,public-webservice.geo.adpushup.com,extended-matching
+DOMAIN-SUFFIX,publiclog.zhiyan.tencent-cloud.net,extended-matching
 DOMAIN-SUFFIX,publisher-config.unityads.unity3d.com,extended-matching
 DOMAIN-SUFFIX,publisher-east.mobileadtrading.com,extended-matching
 DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com,extended-matching
@@ -6848,6 +6851,7 @@ DOMAIN-SUFFIX,szmnl.cn,extended-matching
 DOMAIN-SUFFIX,szmnm.cn,extended-matching
 DOMAIN-SUFFIX,szmtd.cn,extended-matching
 DOMAIN-SUFFIX,szmyl.cn,extended-matching
+DOMAIN-SUFFIX,szreport.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,t.adcell.com,extended-matching
 DOMAIN-SUFFIX,t.ants.vn,extended-matching
 DOMAIN-SUFFIX,t.beanstalkdata.com,extended-matching
@@ -7280,6 +7284,7 @@ DOMAIN-SUFFIX,udykkl.cn,extended-matching
 DOMAIN-SUFFIX,ue.applovin.com,extended-matching
 DOMAIN-SUFFIX,ue.flipboard.com,extended-matching
 DOMAIN-SUFFIX,uefa.pushwoosh.com,extended-matching
+DOMAIN-SUFFIX,uem.migu.cn,extended-matching
 DOMAIN-SUFFIX,ufs.adkmob.com,extended-matching
 DOMAIN-SUFFIX,ufz.doesxyz.com,extended-matching
 DOMAIN-SUFFIX,ugcimg.cn,extended-matching

@@ -1133,6 +1133,7 @@ DOMAIN-SUFFIX,ad.india.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,ad.intl.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,ad.iot.360.cn,extended-matching
 DOMAIN-SUFFIX,ad.jiguang.cn,extended-matching
+DOMAIN-SUFFIX,ad.lofter.com,extended-matching
 DOMAIN-SUFFIX,ad.mail.sohu.com,extended-matching
 DOMAIN-SUFFIX,ad.pandora.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,ad.partner.gifshow.com,extended-matching
@@ -1752,6 +1753,7 @@ DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com,extended-matching
 DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com.w.kunluncan.com,extended-matching
 DOMAIN-SUFFIX,apm-log-upload.mihoyo.com,extended-matching
 DOMAIN-SUFFIX,apm-log-upload.mihoyo.com.w.kunluncan.com,extended-matching
+DOMAIN-SUFFIX,apm.app.coc.10086.cn,extended-matching
 DOMAIN-SUFFIX,apm.douyucdn.cn,extended-matching
 DOMAIN-SUFFIX,apm.music.163.com,extended-matching
 DOMAIN-SUFFIX,apm.umeng.com,extended-matching
@@ -3234,6 +3236,7 @@ DOMAIN-SUFFIX,jf.10010.com,extended-matching
 DOMAIN-SUFFIX,jiagu.360.cn,extended-matching
 DOMAIN-SUFFIX,jic.talkingdata.com,extended-matching
 DOMAIN-SUFFIX,jielou.net,extended-matching
+DOMAIN-SUFFIX,jiguang.coc.10086.cn,extended-matching
 DOMAIN-SUFFIX,jiguang.sptcc.com,extended-matching
 DOMAIN-SUFFIX,jingjia.qq.com,extended-matching
 DOMAIN-SUFFIX,jmt17.google.com,extended-matching

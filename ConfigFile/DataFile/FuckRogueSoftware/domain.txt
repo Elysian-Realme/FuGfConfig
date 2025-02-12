@@ -6493,3 +6493,6 @@ api.getkoala.com
 .sentry.lkcoffee.com
 .hmonitor.lkcoffee.com
 .dmonitor.lkcoffee.com
+.jiguang.coc.10086.cn
+.apm.app.coc.10086.cn
+.ad.lofter.com

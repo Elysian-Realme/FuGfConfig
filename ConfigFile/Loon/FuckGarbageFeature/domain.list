@@ -1142,6 +1142,7 @@ DOMAIN-SUFFIX,am15.net
 DOMAIN-SUFFIX,am5.vip.prod.criteo.com
 DOMAIN-SUFFIX,am5.vip.prod.criteo.net
 DOMAIN-SUFFIX,amazoncustomerservice.d2.sc.omtrdc.net
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,americanairlines.demdex.net
 DOMAIN-SUFFIX,americanmedia.blueconic.net
 DOMAIN-SUFFIX,amnyescsmgcagjj.com
@@ -3376,6 +3377,7 @@ DOMAIN-SUFFIX,engine.sponsorpay.com
 DOMAIN-SUFFIX,engine.spotscenered.info
 DOMAIN-SUFFIX,engine.widespace.com
 DOMAIN-SUFFIX,enhance-config.fgl.com
+DOMAIN-SUFFIX,enrichgw.10010.com
 DOMAIN-SUFFIX,ensighten.com
 DOMAIN-SUFFIX,ent.mobileanjian.com
 DOMAIN-SUFFIX,entitlements.jwplayer.com
@@ -5664,6 +5666,7 @@ DOMAIN-SUFFIX,pub2srv.com
 DOMAIN-SUFFIX,public-webservice.apdc1n.adpushup.com
 DOMAIN-SUFFIX,public-webservice.apdc3n.adpushup.com
 DOMAIN-SUFFIX,public-webservice.geo.adpushup.com
+DOMAIN-SUFFIX,publiclog.zhiyan.tencent-cloud.net
 DOMAIN-SUFFIX,publisher-config.unityads.unity3d.com
 DOMAIN-SUFFIX,publisher-east.mobileadtrading.com
 DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
@@ -6848,6 +6851,7 @@ DOMAIN-SUFFIX,szmnl.cn
 DOMAIN-SUFFIX,szmnm.cn
 DOMAIN-SUFFIX,szmtd.cn
 DOMAIN-SUFFIX,szmyl.cn
+DOMAIN-SUFFIX,szreport.weixin.qq.com
 DOMAIN-SUFFIX,t.adcell.com
 DOMAIN-SUFFIX,t.ants.vn
 DOMAIN-SUFFIX,t.beanstalkdata.com
@@ -7280,6 +7284,7 @@ DOMAIN-SUFFIX,udykkl.cn
 DOMAIN-SUFFIX,ue.applovin.com
 DOMAIN-SUFFIX,ue.flipboard.com
 DOMAIN-SUFFIX,uefa.pushwoosh.com
+DOMAIN-SUFFIX,uem.migu.cn
 DOMAIN-SUFFIX,ufs.adkmob.com
 DOMAIN-SUFFIX,ufz.doesxyz.com
 DOMAIN-SUFFIX,ugcimg.cn

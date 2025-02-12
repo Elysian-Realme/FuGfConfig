@@ -8044,3 +8044,8 @@ dualstack-restios.amap.com
 .gala.convection.cn
 .gaoneng.bilibili.com
 .apd-pcdnwxlogin.teg.tencent-cloud.net
+.uem.migu.cn
+.enrichgw.10010.com
+.szreport.weixin.qq.com
+.publiclog.zhiyan.tencent-cloud.net
+.amemv.com

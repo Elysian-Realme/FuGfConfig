@@ -1133,6 +1133,7 @@ DOMAIN-SUFFIX,ad.india.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.iot.360.cn
 DOMAIN-SUFFIX,ad.jiguang.cn
+DOMAIN-SUFFIX,ad.lofter.com
 DOMAIN-SUFFIX,ad.mail.sohu.com
 DOMAIN-SUFFIX,ad.pandora.xiaomi.com
 DOMAIN-SUFFIX,ad.partner.gifshow.com
@@ -1752,6 +1753,7 @@ DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com
 DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com.w.kunluncan.com
 DOMAIN-SUFFIX,apm-log-upload.mihoyo.com
 DOMAIN-SUFFIX,apm-log-upload.mihoyo.com.w.kunluncan.com
+DOMAIN-SUFFIX,apm.app.coc.10086.cn
 DOMAIN-SUFFIX,apm.douyucdn.cn
 DOMAIN-SUFFIX,apm.music.163.com
 DOMAIN-SUFFIX,apm.umeng.com
@@ -3234,6 +3236,7 @@ DOMAIN-SUFFIX,jf.10010.com
 DOMAIN-SUFFIX,jiagu.360.cn
 DOMAIN-SUFFIX,jic.talkingdata.com
 DOMAIN-SUFFIX,jielou.net
+DOMAIN-SUFFIX,jiguang.coc.10086.cn
 DOMAIN-SUFFIX,jiguang.sptcc.com
 DOMAIN-SUFFIX,jingjia.qq.com
 DOMAIN-SUFFIX,jmt17.google.com
