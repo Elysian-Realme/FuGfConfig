@@ -5020,6 +5020,7 @@ bravia-cfgdst-ore-pro.bda.ndmdhs.com
 
 ## 恶意域名
 # 存在延迟，失效等问题
+.da.testiu.com
 .pro.csocools.com
 .boyonnem.ddns.net
 .api.jm.taolop.com
