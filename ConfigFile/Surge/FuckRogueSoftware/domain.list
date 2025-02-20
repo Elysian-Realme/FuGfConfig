@@ -1757,6 +1757,7 @@ DOMAIN-SUFFIX,apm.app.coc.10086.cn,extended-matching
 DOMAIN-SUFFIX,apm.douyucdn.cn,extended-matching
 DOMAIN-SUFFIX,apm.music.163.com,extended-matching
 DOMAIN-SUFFIX,apm.umeng.com,extended-matching
+DOMAIN-SUFFIX,apm.volccdn.com,extended-matching
 DOMAIN-SUFFIX,apm.zhihu.com,extended-matching
 DOMAIN-SUFFIX,apmconfig.douyucdn.cn,extended-matching
 DOMAIN-SUFFIX,apmplus.volces.com,extended-matching
@@ -4263,7 +4264,6 @@ DOMAIN-SUFFIX,ns4.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,nsclick.baidu.com,extended-matching
 DOMAIN-SUFFIX,nsclickvideo.baidu.com,extended-matching
 DOMAIN-SUFFIX,nstool.netease.com,extended-matching
-DOMAIN-SUFFIX,nt.qq.com.cn,extended-matching
 DOMAIN-SUFFIX,ntb.lanjie100.com,extended-matching
 DOMAIN-SUFFIX,nvidia-graphics.top,extended-matching
 DOMAIN-SUFFIX,nvidiacenter.com,extended-matching
@@ -4416,7 +4416,6 @@ DOMAIN-SUFFIX,pc-mon.zijieapi.com,extended-matching
 DOMAIN-SUFFIX,pc.videoclick.baidu.com,extended-matching
 DOMAIN-SUFFIX,pcbrowser.dd.qq.com,extended-matching
 DOMAIN-SUFFIX,pcookie.taobao.com,extended-matching
-DOMAIN-SUFFIX,pcp-pic.hwwt8.com,extended-matching
 DOMAIN-SUFFIX,pdc.micloud.xiaomi.net,extended-matching
 DOMAIN-SUFFIX,pdns.nudt.edu.cn,extended-matching
 DOMAIN-SUFFIX,peapp.adjust.com,extended-matching
@@ -5661,6 +5660,9 @@ DOMAIN-SUFFIX,vmi503011.contaboserver.net,extended-matching
 DOMAIN-SUFFIX,vmindhls.tc.qq.com,extended-matching
 DOMAIN-SUFFIX,vmonitor.ws.netease.com,extended-matching
 DOMAIN-SUFFIX,vod-box.bz.mgtv.com,extended-matching
+DOMAIN-SUFFIX,vod-license-b.volccdn.com,extended-matching
+DOMAIN-SUFFIX,vod-license-m.volccdn.com,extended-matching
+DOMAIN-SUFFIX,vod-settings.volcvod.com,extended-matching
 DOMAIN-SUFFIX,vod.adspruce.com,extended-matching
 DOMAIN-SUFFIX,vod.volcengineapi.com,extended-matching
 DOMAIN-SUFFIX,volces.com.c.dsa.cdnbuild.net,extended-matching

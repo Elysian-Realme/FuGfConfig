@@ -130,7 +130,6 @@ DOMAIN,ju.taobao.com,extended-matching
 DOMAIN,kernelapi.vivo.com.cn,extended-matching
 DOMAIN,kf.qbrand.com,extended-matching
 DOMAIN,kf.qq.com,extended-matching
-DOMAIN,layout.meituan.net,extended-matching
 DOMAIN,lens.zhihu.com,extended-matching
 DOMAIN,lf1-cdn-tos.bytegoofy.com,extended-matching
 DOMAIN,lf3-config.bytetcc.com,extended-matching
@@ -1872,10 +1871,14 @@ DOMAIN-SUFFIX,aux-log1-sh.vertamedia.com,extended-matching
 DOMAIN-SUFFIX,aux-log2-sh.vertamedia.com,extended-matching
 DOMAIN-SUFFIX,aux.fqtag.com,extended-matching
 DOMAIN-SUFFIX,av1.xdrig.com,extended-matching
+DOMAIN-SUFFIX,avalonalbum.com,extended-matching
+DOMAIN-SUFFIX,avanser.com,extended-matching
 DOMAIN-SUFFIX,avazunativeads.com,extended-matching
 DOMAIN-SUFFIX,avd.innity.com,extended-matching
 DOMAIN-SUFFIX,avd.innity.net,extended-matching
+DOMAIN-SUFFIX,avectous.com,extended-matching
 DOMAIN-SUFFIX,aveipcheck.xyz,extended-matching
+DOMAIN-SUFFIX,avelumab.be,extended-matching
 DOMAIN-SUFFIX,avn.innity.com,extended-matching
 DOMAIN-SUFFIX,avocarrot.com,extended-matching
 DOMAIN-SUFFIX,avowtech.mobileadstrk.com,extended-matching
@@ -2604,6 +2607,7 @@ DOMAIN-SUFFIX,centralads.simpli.fi,extended-matching
 DOMAIN-SUFFIX,certify-amp.alexametrics.com,extended-matching
 DOMAIN-SUFFIX,certify-js.alexametrics.com,extended-matching
 DOMAIN-SUFFIX,certify.alexametrics.com,extended-matching
+DOMAIN-SUFFIX,ceye.io,extended-matching
 DOMAIN-SUFFIX,cf-ads.pinger.com,extended-matching
 DOMAIN-SUFFIX,cf-cdn.adventori.com,extended-matching
 DOMAIN-SUFFIX,cf-us-popular.dash.pv-cdn.net,extended-matching
@@ -3330,6 +3334,7 @@ DOMAIN-SUFFIX,edge.simplereach.com,extended-matching
 DOMAIN-SUFFIX,edge.uniconsent.com,extended-matching
 DOMAIN-SUFFIX,edge.yieldify.com,extended-matching
 DOMAIN-SUFFIX,edgegw.alipay.com,extended-matching
+DOMAIN-SUFFIX,edocs.ie,extended-matching
 DOMAIN-SUFFIX,efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com,extended-matching
 DOMAIN-SUFFIX,ei-event-collector.us-east-1.elasticbeanstalk.com,extended-matching
 DOMAIN-SUFFIX,ei.rlcdn.com,extended-matching
@@ -3591,6 +3596,7 @@ DOMAIN-SUFFIX,fls-na.amazon.com,extended-matching
 DOMAIN-SUFFIX,flurry.com,extended-matching
 DOMAIN-SUFFIX,fm.duokanbox.com,extended-matching
 DOMAIN-SUFFIX,fm.ipinyou.com,extended-matching
+DOMAIN-SUFFIX,fmc-ag.co,extended-matching
 DOMAIN-SUFFIX,fmpub.net,extended-matching
 DOMAIN-SUFFIX,fms.ipinyou.com,extended-matching
 DOMAIN-SUFFIX,folder.adfuture.cn,extended-matching
@@ -5148,6 +5154,7 @@ DOMAIN-SUFFIX,notification.webengage.com,extended-matching
 DOMAIN-SUFFIX,notifications-gke-sdk-bidding.fyber.com,extended-matching
 DOMAIN-SUFFIX,notify.bugsnag.appstore.a2z.com,extended-matching
 DOMAIN-SUFFIX,notify.mgid.com,extended-matching
+DOMAIN-SUFFIX,notix.io,extended-matching
 DOMAIN-SUFFIX,notvps.pl,extended-matching
 DOMAIN-SUFFIX,nova-collector-1192479543.us-east-1.elb.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,npgco.blueconic.net,extended-matching
@@ -5781,6 +5788,7 @@ DOMAIN-SUFFIX,r.turn.com,extended-matching
 DOMAIN-SUFFIX,r0.mradx.net,extended-matching
 DOMAIN-SUFFIX,r1.visualwebsiteoptimizer.com,extended-matching
 DOMAIN-SUFFIX,r2.visualwebsiteoptimizer.com,extended-matching
+DOMAIN-SUFFIX,r2b2.cz,extended-matching
 DOMAIN-SUFFIX,r3.visualwebsiteoptimizer.com,extended-matching
 DOMAIN-SUFFIX,r528e.cn,extended-matching
 DOMAIN-SUFFIX,r53.unrulymedia.com,extended-matching
@@ -6995,6 +7003,7 @@ DOMAIN-SUFFIX,tealeaf.ibmcloud.com,extended-matching
 DOMAIN-SUFFIX,tealium.cbsnews.com,extended-matching
 DOMAIN-SUFFIX,tealium.hs.llnwd.net,extended-matching
 DOMAIN-SUFFIX,tealiumiq.com,extended-matching
+DOMAIN-SUFFIX,tec73.com,extended-matching
 DOMAIN-SUFFIX,tehxzz.xyz,extended-matching
 DOMAIN-SUFFIX,telaria.adhaven.com,extended-matching
 DOMAIN-SUFFIX,telariaeventsbidder-east.extend.tv,extended-matching
@@ -7566,7 +7575,9 @@ DOMAIN-SUFFIX,vn-platform.bidgear.com,extended-matching
 DOMAIN-SUFFIX,vnet.cn,extended-matching
 DOMAIN-SUFFIX,vntsm.com,extended-matching
 DOMAIN-SUFFIX,vodafonetr.sc.omtrdc.net,extended-matching
+DOMAIN-SUFFIX,volccdn.com,extended-matching
 DOMAIN-SUFFIX,volces.com,extended-matching
+DOMAIN-SUFFIX,volcvod.com,extended-matching
 DOMAIN-SUFFIX,voltss.pl,extended-matching
 DOMAIN-SUFFIX,voredi.com,extended-matching
 DOMAIN-SUFFIX,vox.amp.permutive.com,extended-matching

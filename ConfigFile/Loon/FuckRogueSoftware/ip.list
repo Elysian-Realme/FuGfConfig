@@ -89,4 +89,5 @@ IP-CIDR,8.153.38.0/24,no-resolve
 IP-CIDR,8.153.38.134/32,no-resolve
 IP-CIDR,8.153.38.219/32,no-resolve
 IP-CIDR,8.210.88.0/24,no-resolve
+IP-CIDR,90.156.22.65/32,no-resolve
 IP-CIDR,91.241.60.117/32,no-resolve

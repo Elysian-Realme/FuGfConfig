@@ -1757,6 +1757,7 @@ DOMAIN-SUFFIX,apm.app.coc.10086.cn
 DOMAIN-SUFFIX,apm.douyucdn.cn
 DOMAIN-SUFFIX,apm.music.163.com
 DOMAIN-SUFFIX,apm.umeng.com
+DOMAIN-SUFFIX,apm.volccdn.com
 DOMAIN-SUFFIX,apm.zhihu.com
 DOMAIN-SUFFIX,apmconfig.douyucdn.cn
 DOMAIN-SUFFIX,apmplus.volces.com
@@ -4263,7 +4264,6 @@ DOMAIN-SUFFIX,ns4.stripcdn.com
 DOMAIN-SUFFIX,nsclick.baidu.com
 DOMAIN-SUFFIX,nsclickvideo.baidu.com
 DOMAIN-SUFFIX,nstool.netease.com
-DOMAIN-SUFFIX,nt.qq.com.cn
 DOMAIN-SUFFIX,ntb.lanjie100.com
 DOMAIN-SUFFIX,nvidia-graphics.top
 DOMAIN-SUFFIX,nvidiacenter.com
@@ -4416,7 +4416,6 @@ DOMAIN-SUFFIX,pc-mon.zijieapi.com
 DOMAIN-SUFFIX,pc.videoclick.baidu.com
 DOMAIN-SUFFIX,pcbrowser.dd.qq.com
 DOMAIN-SUFFIX,pcookie.taobao.com
-DOMAIN-SUFFIX,pcp-pic.hwwt8.com
 DOMAIN-SUFFIX,pdc.micloud.xiaomi.net
 DOMAIN-SUFFIX,pdns.nudt.edu.cn
 DOMAIN-SUFFIX,peapp.adjust.com
@@ -5661,6 +5660,9 @@ DOMAIN-SUFFIX,vmi503011.contaboserver.net
 DOMAIN-SUFFIX,vmindhls.tc.qq.com
 DOMAIN-SUFFIX,vmonitor.ws.netease.com
 DOMAIN-SUFFIX,vod-box.bz.mgtv.com
+DOMAIN-SUFFIX,vod-license-b.volccdn.com
+DOMAIN-SUFFIX,vod-license-m.volccdn.com
+DOMAIN-SUFFIX,vod-settings.volcvod.com
 DOMAIN-SUFFIX,vod.adspruce.com
 DOMAIN-SUFFIX,vod.volcengineapi.com
 DOMAIN-SUFFIX,volces.com.c.dsa.cdnbuild.net

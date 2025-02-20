@@ -7277,7 +7277,6 @@ tdsdk.xdrig.com
 t2.xiaohongshu.com
 magpie.xhscdn.com
 al-log.d.meituan.net
-layout.meituan.net
 
 .lkme.cc
 .ip.taobao.com
@@ -8049,3 +8048,16 @@ dualstack-restios.amap.com
 .szreport.weixin.qq.com
 .publiclog.zhiyan.tencent-cloud.net
 .amemv.com
+.tec73.com
+.fmc-ag.co
+.r2b2.cz
+.edocs.ie
+.ugsdk.cn
+.notix.io
+.avalonalbum.com
+.avanser.com
+.avectous.com
+.avelumab.be
+.ceye.io
+.volccdn.com
+.volcvod.com

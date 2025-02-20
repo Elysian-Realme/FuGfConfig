@@ -130,7 +130,6 @@ DOMAIN,ju.taobao.com
 DOMAIN,kernelapi.vivo.com.cn
 DOMAIN,kf.qbrand.com
 DOMAIN,kf.qq.com
-DOMAIN,layout.meituan.net
 DOMAIN,lens.zhihu.com
 DOMAIN,lf1-cdn-tos.bytegoofy.com
 DOMAIN,lf3-config.bytetcc.com
@@ -1872,10 +1871,14 @@ DOMAIN-SUFFIX,aux-log1-sh.vertamedia.com
 DOMAIN-SUFFIX,aux-log2-sh.vertamedia.com
 DOMAIN-SUFFIX,aux.fqtag.com
 DOMAIN-SUFFIX,av1.xdrig.com
+DOMAIN-SUFFIX,avalonalbum.com
+DOMAIN-SUFFIX,avanser.com
 DOMAIN-SUFFIX,avazunativeads.com
 DOMAIN-SUFFIX,avd.innity.com
 DOMAIN-SUFFIX,avd.innity.net
+DOMAIN-SUFFIX,avectous.com
 DOMAIN-SUFFIX,aveipcheck.xyz
+DOMAIN-SUFFIX,avelumab.be
 DOMAIN-SUFFIX,avn.innity.com
 DOMAIN-SUFFIX,avocarrot.com
 DOMAIN-SUFFIX,avowtech.mobileadstrk.com
@@ -2604,6 +2607,7 @@ DOMAIN-SUFFIX,centralads.simpli.fi
 DOMAIN-SUFFIX,certify-amp.alexametrics.com
 DOMAIN-SUFFIX,certify-js.alexametrics.com
 DOMAIN-SUFFIX,certify.alexametrics.com
+DOMAIN-SUFFIX,ceye.io
 DOMAIN-SUFFIX,cf-ads.pinger.com
 DOMAIN-SUFFIX,cf-cdn.adventori.com
 DOMAIN-SUFFIX,cf-us-popular.dash.pv-cdn.net
@@ -3330,6 +3334,7 @@ DOMAIN-SUFFIX,edge.simplereach.com
 DOMAIN-SUFFIX,edge.uniconsent.com
 DOMAIN-SUFFIX,edge.yieldify.com
 DOMAIN-SUFFIX,edgegw.alipay.com
+DOMAIN-SUFFIX,edocs.ie
 DOMAIN-SUFFIX,efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
 DOMAIN-SUFFIX,ei-event-collector.us-east-1.elasticbeanstalk.com
 DOMAIN-SUFFIX,ei.rlcdn.com
@@ -3591,6 +3596,7 @@ DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,fm.duokanbox.com
 DOMAIN-SUFFIX,fm.ipinyou.com
+DOMAIN-SUFFIX,fmc-ag.co
 DOMAIN-SUFFIX,fmpub.net
 DOMAIN-SUFFIX,fms.ipinyou.com
 DOMAIN-SUFFIX,folder.adfuture.cn
@@ -5148,6 +5154,7 @@ DOMAIN-SUFFIX,notification.webengage.com
 DOMAIN-SUFFIX,notifications-gke-sdk-bidding.fyber.com
 DOMAIN-SUFFIX,notify.bugsnag.appstore.a2z.com
 DOMAIN-SUFFIX,notify.mgid.com
+DOMAIN-SUFFIX,notix.io
 DOMAIN-SUFFIX,notvps.pl
 DOMAIN-SUFFIX,nova-collector-1192479543.us-east-1.elb.amazonaws.com
 DOMAIN-SUFFIX,npgco.blueconic.net
@@ -5781,6 +5788,7 @@ DOMAIN-SUFFIX,r.turn.com
 DOMAIN-SUFFIX,r0.mradx.net
 DOMAIN-SUFFIX,r1.visualwebsiteoptimizer.com
 DOMAIN-SUFFIX,r2.visualwebsiteoptimizer.com
+DOMAIN-SUFFIX,r2b2.cz
 DOMAIN-SUFFIX,r3.visualwebsiteoptimizer.com
 DOMAIN-SUFFIX,r528e.cn
 DOMAIN-SUFFIX,r53.unrulymedia.com
@@ -6995,6 +7003,7 @@ DOMAIN-SUFFIX,tealeaf.ibmcloud.com
 DOMAIN-SUFFIX,tealium.cbsnews.com
 DOMAIN-SUFFIX,tealium.hs.llnwd.net
 DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,tec73.com
 DOMAIN-SUFFIX,tehxzz.xyz
 DOMAIN-SUFFIX,telaria.adhaven.com
 DOMAIN-SUFFIX,telariaeventsbidder-east.extend.tv
@@ -7566,7 +7575,9 @@ DOMAIN-SUFFIX,vn-platform.bidgear.com
 DOMAIN-SUFFIX,vnet.cn
 DOMAIN-SUFFIX,vntsm.com
 DOMAIN-SUFFIX,vodafonetr.sc.omtrdc.net
+DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volcvod.com
 DOMAIN-SUFFIX,voltss.pl
 DOMAIN-SUFFIX,voredi.com
 DOMAIN-SUFFIX,vox.amp.permutive.com

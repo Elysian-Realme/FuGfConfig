@@ -1548,6 +1548,26 @@ dm-*.toutiao.com
 .log-api.pangolin-sdk-toutiao.com.w.cdngslb.com
 .api-access.pangolin-sdk-toutiao-b.com.w.cdngslb.com
 .api-access.pangolin-sdk-toutiao1.com.w.cdngslb.com
+*-va.bytegsdk.com
+*-sg.bytegsdk.com
+.log-sg.bytegsdk.com
+.log-va.bytegsdk.com
+.gpm-mon-sg.bytegsdk.com
+.gsdk-quic-gcp-sg.bytegsdk.com
+.gpsdk-sg.bytegsdk.com
+.gsdk-sg.bytegsdk.com
+.bsdk-sg.bytegsdk.com
+.bsdk19-sg.bytegsdk.com
+.gsdk-quic-gcp-va.bytegsdk.com
+.gpm-mon-va.bytegsdk.com
+.gpsdk-va.bytegsdk.com
+.gsdk-va.bytegsdk.com
+.gsdk19-va.bytegsdk.com
+.pay-ca.bytegsdk.com
+.vod-license-m.volccdn.com
+.vod-license-b.volccdn.com
+.apm.volccdn.com
+.vod-settings.volcvod.com
 
 ## CSDN
 .ev.csdn.net
@@ -3549,7 +3569,7 @@ v6.htdata.qq.com
 .gdc.kg.qq.com
 .nearby.3g.qq.com
 .kde.qq.com
-.nt.qq.com.cn
+#.nt.qq.com.cn
 .localhost.weixin.qq.com
 .advert-prod.hyrz.qq.com
 .rdelivery.qq.com
@@ -5542,22 +5562,6 @@ ad.cyapi.cn
 .log-live.direct.ly
 .log-marketing.jp
 .log-player.arte.tv
-*-va.bytegsdk.com
-*-sg.bytegsdk.com
-.log-sg.bytegsdk.com
-.log-va.bytegsdk.com
-.gpm-mon-sg.bytegsdk.com
-.gsdk-quic-gcp-sg.bytegsdk.com
-.gpsdk-sg.bytegsdk.com
-.gsdk-sg.bytegsdk.com
-.bsdk-sg.bytegsdk.com
-.bsdk19-sg.bytegsdk.com
-.gsdk-quic-gcp-va.bytegsdk.com
-.gpm-mon-va.bytegsdk.com
-.gpsdk-va.bytegsdk.com
-.gsdk-va.bytegsdk.com
-.gsdk19-va.bytegsdk.com
-.pay-ca.bytegsdk.com
 .log-stats.weathercn.com
 .log-va.tiktokv.com
 .log-vietnamplus-vn.cdn.ampproject.org
@@ -6182,7 +6186,6 @@ st-sentinel.vivo.com.cn
 .fp.hwwt8.com
 .adttrackingprd.hwwt8.com
 .trackingprd.hwwt8.com
-.pcp-pic.hwwt8.com
 .pubsub02.oray.net
 .tracking.mcdonalds.com.cn
 .c.mcd.cn
