@@ -369,6 +369,7 @@ DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,emoticon.sns.iqiyi.com
 DOMAIN,epay.nosdn.127.net
 DOMAIN,err.taobao.com
+DOMAIN,errortracking.deepl.com
 DOMAIN,eu.v2.we-stats.com
 DOMAIN,evt-nlp.hismarttv.com
 DOMAIN,ex.m.jd.com
@@ -702,6 +703,7 @@ DOMAIN,rj.m.taobao.co
 DOMAIN,rj.m.taobao.com
 DOMAIN,rplog.baidu.com
 DOMAIN,ru.ibs.lgappstv.com
+DOMAIN,s.deepl.com
 DOMAIN,s.p.youku.com
 DOMAIN,s.pcapps.qq.com
 DOMAIN,s.syzs.qq.com
@@ -1643,6 +1645,7 @@ DOMAIN-SUFFIX,api-audio-xjp.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-gg.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-sh.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-xjp.fengkongcloud.com
+DOMAIN-SUFFIX,api-c.soboten.com
 DOMAIN-SUFFIX,api-compatible.mixpanel.com
 DOMAIN-SUFFIX,api-devapp.getui.com
 DOMAIN-SUFFIX,api-device-eur.fengkongcloud.com
@@ -4482,6 +4485,7 @@ DOMAIN-SUFFIX,plusone.google.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,pms.mb.qq.com
 DOMAIN-SUFFIX,pnrt-stsdk.vivo.com.cn
+DOMAIN-SUFFIX,pnsfeedback.dingtalk.com
 DOMAIN-SUFFIX,pod7-poetry.adjust.com
 DOMAIN-SUFFIX,polar-sdk-api.jiguang.cn
 DOMAIN-SUFFIX,polaris.zijieapi.com
@@ -5090,6 +5094,7 @@ DOMAIN-SUFFIX,smetrics.redhat.com.edgekey.net
 DOMAIN-SUFFIX,smr.snssdk.com
 DOMAIN-SUFFIX,smr.snssdk.com.w.cdngslb.com
 DOMAIN-SUFFIX,sms.mob.com
+DOMAIN-SUFFIX,smzdm.soboten.com
 DOMAIN-SUFFIX,snantx.adjust.com
 DOMAIN-SUFFIX,sngapm.qq.com
 DOMAIN-SUFFIX,snr.snssdk.com

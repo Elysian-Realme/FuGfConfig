@@ -369,6 +369,7 @@ DOMAIN,ef-dongfeng.tanx.com,extended-matching
 DOMAIN,emoticon.sns.iqiyi.com,extended-matching
 DOMAIN,epay.nosdn.127.net,extended-matching
 DOMAIN,err.taobao.com,extended-matching
+DOMAIN,errortracking.deepl.com,extended-matching
 DOMAIN,eu.v2.we-stats.com,extended-matching
 DOMAIN,evt-nlp.hismarttv.com,extended-matching
 DOMAIN,ex.m.jd.com,extended-matching
@@ -702,6 +703,7 @@ DOMAIN,rj.m.taobao.co,extended-matching
 DOMAIN,rj.m.taobao.com,extended-matching
 DOMAIN,rplog.baidu.com,extended-matching
 DOMAIN,ru.ibs.lgappstv.com,extended-matching
+DOMAIN,s.deepl.com,extended-matching
 DOMAIN,s.p.youku.com,extended-matching
 DOMAIN,s.pcapps.qq.com,extended-matching
 DOMAIN,s.syzs.qq.com,extended-matching
@@ -1643,6 +1645,7 @@ DOMAIN-SUFFIX,api-audio-xjp.fengkongcloud.com,extended-matching
 DOMAIN-SUFFIX,api-audiostream-gg.fengkongcloud.com,extended-matching
 DOMAIN-SUFFIX,api-audiostream-sh.fengkongcloud.com,extended-matching
 DOMAIN-SUFFIX,api-audiostream-xjp.fengkongcloud.com,extended-matching
+DOMAIN-SUFFIX,api-c.soboten.com,extended-matching
 DOMAIN-SUFFIX,api-compatible.mixpanel.com,extended-matching
 DOMAIN-SUFFIX,api-devapp.getui.com,extended-matching
 DOMAIN-SUFFIX,api-device-eur.fengkongcloud.com,extended-matching
@@ -4482,6 +4485,7 @@ DOMAIN-SUFFIX,plusone.google.com,extended-matching
 DOMAIN-SUFFIX,pmir.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,pms.mb.qq.com,extended-matching
 DOMAIN-SUFFIX,pnrt-stsdk.vivo.com.cn,extended-matching
+DOMAIN-SUFFIX,pnsfeedback.dingtalk.com,extended-matching
 DOMAIN-SUFFIX,pod7-poetry.adjust.com,extended-matching
 DOMAIN-SUFFIX,polar-sdk-api.jiguang.cn,extended-matching
 DOMAIN-SUFFIX,polaris.zijieapi.com,extended-matching
@@ -5090,6 +5094,7 @@ DOMAIN-SUFFIX,smetrics.redhat.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,smr.snssdk.com,extended-matching
 DOMAIN-SUFFIX,smr.snssdk.com.w.cdngslb.com,extended-matching
 DOMAIN-SUFFIX,sms.mob.com,extended-matching
+DOMAIN-SUFFIX,smzdm.soboten.com,extended-matching
 DOMAIN-SUFFIX,snantx.adjust.com,extended-matching
 DOMAIN-SUFFIX,sngapm.qq.com,extended-matching
 DOMAIN-SUFFIX,snr.snssdk.com,extended-matching

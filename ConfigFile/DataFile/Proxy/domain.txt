@@ -455,3 +455,4 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .revenuecat.com
 api.rc-backup.com
 .grafana.com
+.raindrop.io

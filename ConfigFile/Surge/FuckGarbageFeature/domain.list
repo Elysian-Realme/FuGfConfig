@@ -103,7 +103,6 @@ DOMAIN,fe-video-qc.xhscdn.com,extended-matching
 DOMAIN,firebase-settings.crashlytics.com,extended-matching
 DOMAIN,firebaseinstallations.googleapis.com,extended-matching
 DOMAIN,fm.m.tencent.com,extended-matching
-DOMAIN,game.bilibili.com.w.cdngslb.com,extended-matching
 DOMAIN,gcort-stsak.vivo.com.cn,extended-matching
 DOMAIN,global.click.taobao.com,extended-matching
 DOMAIN,graph.qq.com,extended-matching
@@ -3551,6 +3550,7 @@ DOMAIN-SUFFIX,fdfc.io,extended-matching
 DOMAIN-SUFFIX,fdfe4ed62699.cdn4.forter.com,extended-matching
 DOMAIN-SUFFIX,fdswrgg.cn,extended-matching
 DOMAIN-SUFFIX,fdz.flashtalking.com,extended-matching
+DOMAIN-SUFFIX,featureassets.org,extended-matching
 DOMAIN-SUFFIX,featured.perfectionholic.com,extended-matching
 DOMAIN-SUFFIX,febweb002.com,extended-matching
 DOMAIN-SUFFIX,febweb002mail.com,extended-matching
@@ -3665,6 +3665,7 @@ DOMAIN-SUFFIX,gaea.meituan.com,extended-matching
 DOMAIN-SUFFIX,gag.admulti.com,extended-matching
 DOMAIN-SUFFIX,gala.convection.cn,extended-matching
 DOMAIN-SUFFIX,game.bilibili.com,extended-matching
+DOMAIN-SUFFIX,game.bilibili.com.w.cdngslb.com,extended-matching
 DOMAIN-SUFFIX,game.meituan.com,extended-matching
 DOMAIN-SUFFIX,game.weibo.cn,extended-matching
 DOMAIN-SUFFIX,game.weixin.qq.com,extended-matching
@@ -5634,6 +5635,7 @@ DOMAIN-SUFFIX,prod.leanplum.com,extended-matching
 DOMAIN-SUFFIX,prod.pr.analytics.console.aws.a2z.com,extended-matching
 DOMAIN-SUFFIX,prod.pw.analytics.console.aws.a2z.com,extended-matching
 DOMAIN-SUFFIX,prod.sift.co,extended-matching
+DOMAIN-SUFFIX,prodregistryv2.org,extended-matching
 DOMAIN-SUFFIX,production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com,extended-matching
 DOMAIN-SUFFIX,production.wootric.com,extended-matching
 DOMAIN-SUFFIX,production.wootric.com.herokudns.com,extended-matching

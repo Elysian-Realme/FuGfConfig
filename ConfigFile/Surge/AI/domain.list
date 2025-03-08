@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,oaistatic.com,extended-matching
 DOMAIN-SUFFIX,oaiusercontent.com,extended-matching
 DOMAIN-SUFFIX,openai.com,extended-matching
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,extended-matching
+DOMAIN-SUFFIX,openrouter.ai,extended-matching
 DOMAIN-SUFFIX,perplexity.ai,extended-matching
 DOMAIN-SUFFIX,poe.com,extended-matching
 DOMAIN-SUFFIX,poecdn.net,extended-matching
+DOMAIN-SUFFIX,together.xyz,extended-matching
+DOMAIN-SUFFIX,x.ai,extended-matching

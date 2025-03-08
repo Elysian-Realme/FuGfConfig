@@ -213,6 +213,7 @@ DOMAIN-SUFFIX,pypi.org,extended-matching
 DOMAIN-SUFFIX,python.org,extended-matching
 DOMAIN-SUFFIX,pythonDOMAINed.org,extended-matching
 DOMAIN-SUFFIX,quantumult.app,extended-matching
+DOMAIN-SUFFIX,raindrop.io,extended-matching
 DOMAIN-SUFFIX,rawgit.com,extended-matching
 DOMAIN-SUFFIX,rawgithub.com,extended-matching
 DOMAIN-SUFFIX,raycast.com,extended-matching

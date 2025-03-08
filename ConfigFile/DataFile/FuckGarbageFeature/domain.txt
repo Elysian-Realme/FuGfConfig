@@ -6,7 +6,7 @@
 .biligame.net
 .bigfunapp.cn
 .apigame.bilibili.com
-game.bilibili.com.w.cdngslb.com
+.game.bilibili.com.w.cdngslb.com
 .game.bilibili.com
 #.app.bilibili.com
 # 会员购屏蔽
@@ -8061,3 +8061,5 @@ dualstack-restios.amap.com
 .ceye.io
 .volccdn.com
 .volcvod.com
+.prodregistryv2.org
+.featureassets.org

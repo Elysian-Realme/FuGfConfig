@@ -14,3 +14,6 @@ chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .poe.com
 .perplexity.ai
 .groq.com
+.x.ai
+.openrouter.ai
+.together.xyz

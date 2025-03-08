@@ -103,7 +103,6 @@ DOMAIN,fe-video-qc.xhscdn.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,fm.m.tencent.com
-DOMAIN,game.bilibili.com.w.cdngslb.com
 DOMAIN,gcort-stsak.vivo.com.cn
 DOMAIN,global.click.taobao.com
 DOMAIN,graph.qq.com
@@ -3551,6 +3550,7 @@ DOMAIN-SUFFIX,fdfc.io
 DOMAIN-SUFFIX,fdfe4ed62699.cdn4.forter.com
 DOMAIN-SUFFIX,fdswrgg.cn
 DOMAIN-SUFFIX,fdz.flashtalking.com
+DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,featured.perfectionholic.com
 DOMAIN-SUFFIX,febweb002.com
 DOMAIN-SUFFIX,febweb002mail.com
@@ -3665,6 +3665,7 @@ DOMAIN-SUFFIX,gaea.meituan.com
 DOMAIN-SUFFIX,gag.admulti.com
 DOMAIN-SUFFIX,gala.convection.cn
 DOMAIN-SUFFIX,game.bilibili.com
+DOMAIN-SUFFIX,game.bilibili.com.w.cdngslb.com
 DOMAIN-SUFFIX,game.meituan.com
 DOMAIN-SUFFIX,game.weibo.cn
 DOMAIN-SUFFIX,game.weixin.qq.com
@@ -5634,6 +5635,7 @@ DOMAIN-SUFFIX,prod.leanplum.com
 DOMAIN-SUFFIX,prod.pr.analytics.console.aws.a2z.com
 DOMAIN-SUFFIX,prod.pw.analytics.console.aws.a2z.com
 DOMAIN-SUFFIX,prod.sift.co
+DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 DOMAIN-SUFFIX,production.wootric.com
 DOMAIN-SUFFIX,production.wootric.com.herokudns.com
