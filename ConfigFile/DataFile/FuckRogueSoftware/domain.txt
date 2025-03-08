@@ -1962,6 +1962,7 @@ iisp.mbs.boc.cn
 
 ## Intercom
 .frontend-telemetry.intercom.io
+.frontend-telemetry.eu.intercom.io
 .api.intercom.io
 .api-iam.intercom.io
 .mobile-sdk-api.intercom.io
@@ -1971,6 +1972,7 @@ iisp.mbs.boc.cn
 .api-visitor-analytics.intercom.com
 .analytics.mobile-messenger.intercom.com
 .api-visitor-analytics.mobile-messenger.intercom.com
+*-ios.mobile-sdk-api.intercom.io
 
 ## Iqiyi
 .t7z.cupid.iqiyi.com
@@ -2121,7 +2123,7 @@ jjnctjd.com
 .config-junion.jpush.cn
 .im64.jpush.cn
 .bjuser.jpush.cn
-fcapi-ipv6.jpush.cn
+.fcapi-ipv6.jpush.cn
 .jiguang.sptcc.com
 .verification.jpush.cn
 .verification.jiguang.cn
@@ -6494,6 +6496,7 @@ api.getkoala.com
 .auni.telecome.cn
 .global-auni.telecome.cn
 .upushshare.lkcoffee.com
+.capi.lkcoffee.com
 .ecapi.lkcoffee.com
 .sentry.lkcoffee.com
 .hmonitor.lkcoffee.com
@@ -6501,8 +6504,16 @@ api.getkoala.com
 .jiguang.coc.10086.cn
 .apm.app.coc.10086.cn
 .ad.lofter.com
-.api-visitor-analytics.intercom.com
 .smzdm.soboten.com
 .api-c.soboten.com
-s.deepl.com
-errortracking.deepl.com
+.s.deepl.com
+.errortracking.deepl.com
+.telemetry.tradingview.com
+.snowplow-pixel.tradingview.com
+.att.tracking.newtradingview.com
+.failover-telemetry-us.tradingview.com
+.failover-telemetry-eu.tradingview.com
+.failover-telemetry-as.tradingview.com
+.report.bntrace.com
+.jpush.bntrace.com
+.log.bntrace.com

@@ -24,6 +24,7 @@
 ^https?:\/\/mum\.alibabachengdun\.net/repEd.json.*$ reject
 ^https?:\/\/mum\.alibabachengdun\.net/sg/data.json.*$ reject
 ^https?:\/\/umdc\.alibabachengdun\.net\/sg\/.*\.json.*$ reject
+^https?:\/\/acs\.m\.taobao\.com/gw/mtop\.client\.mudp\.ios.*$ reject-200
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv\/$ reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.allresource$ reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.sys\.newdeviceid.*$ reject
@@ -58,6 +59,7 @@
 ^https?:\/\/dualstack-arestapi\.amap\.com/v[\d.]+/iasdkauth.*$ reject
 ^https?:\/\/m5\.amap\.com\/ws\/shield\/dsp\/app\/startup\/init\? reject-dict
 ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ reject
+^https?:\/\/m5-x\.amap\.com//ws/shield/amapstream/upload.*$ reject
 ^https?:\/\/awaken\.amap\.com/ws/h5_log.*$ reject-200
 ^https?:\/\/optimus-ads\.amap\.com/uploadimg/[a-zA-Z0-9]+.gif reject-200
 
@@ -307,6 +309,8 @@
 ^https?:\/\/apm-api\.mihoyo\.com/acc/apm/get.*$ reject-200
 ^https?:\/\/bbs-api\.miyoushe\.com/apihub/api/window/prepare.*$ reject-200
 # ^https?:\/\/webstatic\.mihoyo\.com/dora/biz/(mihoyo-h5log|mihoyo-analysis).*$ reject-200
+https?:\/\/webstatic\.mihoyo\.com/dora/biz/mihoyo-event-sentry-sdk.*$ reject-200
+https?:\/\/webstatic\.mihoyo\.com/dora/lib/sentry.*$ reject-200
 ^https?:\/\/upload-bbs\.mihoyo\.com\/upload\/202[2-9]{1}\/[0-9]{2}\/[0-9]{2}\/[a-z0-9]{32}_[a-z0-9]{19}\.(jpg|png)$ reject-200
 ^https?:\/\/abtest-api-data\.mihoyo\.com/data_abtest_api/config/experiment/list.*$ reject-200
 

@@ -369,7 +369,6 @@ DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,emoticon.sns.iqiyi.com
 DOMAIN,epay.nosdn.127.net
 DOMAIN,err.taobao.com
-DOMAIN,errortracking.deepl.com
 DOMAIN,eu.v2.we-stats.com
 DOMAIN,evt-nlp.hismarttv.com
 DOMAIN,ex.m.jd.com
@@ -392,7 +391,6 @@ DOMAIN,fakecell.sys.miui.com
 DOMAIN,fastappjump-drcn.hispace.hicloud.com
 DOMAIN,fav.simba.taobao.com
 DOMAIN,fbih5report.3g.qq.com
-DOMAIN,fcapi-ipv6.jpush.cn
 DOMAIN,feedback-api.aliyuncs.com
 DOMAIN,feedback.intl.miui.com
 DOMAIN,feedback.miui.com
@@ -703,7 +701,6 @@ DOMAIN,rj.m.taobao.co
 DOMAIN,rj.m.taobao.com
 DOMAIN,rplog.baidu.com
 DOMAIN,ru.ibs.lgappstv.com
-DOMAIN,s.deepl.com
 DOMAIN,s.p.youku.com
 DOMAIN,s.pcapps.qq.com
 DOMAIN,s.syzs.qq.com
@@ -963,6 +960,7 @@ DOMAIN-KEYWORD,-ie.tiktokcdn-eu.com
 DOMAIN-KEYWORD,-impression.appsflyersdk.com
 DOMAIN-KEYWORD,-inapps.appsflyersdk.com
 DOMAIN-KEYWORD,-int.adsrvr.org
+DOMAIN-KEYWORD,-ios.mobile-sdk-api.intercom.io
 DOMAIN-KEYWORD,-ios.mtgglobals.com
 DOMAIN-KEYWORD,-ipv6.jpush.cn
 DOMAIN-KEYWORD,-jmacs.m.taobao.com
@@ -1874,6 +1872,7 @@ DOMAIN-SUFFIX,atm.cp31.ott.cibntv.net
 DOMAIN-SUFFIX,atom-log.3.cn
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,ats-wrapper.privacymanager.io
+DOMAIN-SUFFIX,att.tracking.newtradingview.com
 DOMAIN-SUFFIX,attentivemobile.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,attr.appsflyer.com
 DOMAIN-SUFFIX,attr.appsflyersdk.com
@@ -2090,6 +2089,7 @@ DOMAIN-SUFFIX,campaign-himovie.hicloud.com
 DOMAIN-SUFFIX,campaign-music.hicloud.com
 DOMAIN-SUFFIX,campaigncs-dra.himovie.hicloud.com
 DOMAIN-SUFFIX,candid.zone
+DOMAIN-SUFFIX,capi.lkcoffee.com
 DOMAIN-SUFFIX,capi.voice.gcloud.qq.com
 DOMAIN-SUFFIX,capture.trackjs.com
 DOMAIN-SUFFIX,cards.twitter.com
@@ -2620,6 +2620,7 @@ DOMAIN-SUFFIX,errlog.umeng.com
 DOMAIN-SUFFIX,errlogos.umeng.com
 DOMAIN-SUFFIX,errnewlog.umeng.com
 DOMAIN-SUFFIX,errnewlogos.umeng.com
+DOMAIN-SUFFIX,errortracking.deepl.com
 DOMAIN-SUFFIX,ers.baidu.com
 DOMAIN-SUFFIX,esapp.adjust.com
 DOMAIN-SUFFIX,esp.jh.gslb.mob.com
@@ -2705,12 +2706,16 @@ DOMAIN-SUFFIX,f2.p0y.cn
 DOMAIN-SUFFIX,f394f9i-02w4kfd0-w9ke0gfnjw-0rfjnmg-0rf-0ef.obs.la-south-2.myhuaweicloud.com
 DOMAIN-SUFFIX,fa.163.com
 DOMAIN-SUFFIX,facebook.pr.co
+DOMAIN-SUFFIX,failover-telemetry-as.tradingview.com
+DOMAIN-SUFFIX,failover-telemetry-eu.tradingview.com
+DOMAIN-SUFFIX,failover-telemetry-us.tradingview.com
 DOMAIN-SUFFIX,fantuan.bz.mgtv.com
 DOMAIN-SUFFIX,fapp.adjust.com
 DOMAIN-SUFFIX,fastly-edge.com.itotolink.net
 DOMAIN-SUFFIX,fb.umeng.com
 DOMAIN-SUFFIX,fc3tn.baidu.com
 DOMAIN-SUFFIX,fc5tn.baidu.com
+DOMAIN-SUFFIX,fcapi-ipv6.jpush.cn
 DOMAIN-SUFFIX,fcapi.jpush.cn
 DOMAIN-SUFFIX,fclick.baidu.com
 DOMAIN-SUFFIX,fclog.baidu.com
@@ -2770,6 +2775,7 @@ DOMAIN-SUFFIX,fr.appsflyer.com
 DOMAIN-SUFFIX,fra-01.braze.eu
 DOMAIN-SUFFIX,fra-02.braze.eu
 DOMAIN-SUFFIX,frapp.adjust.com
+DOMAIN-SUFFIX,frontend-telemetry.eu.intercom.io
 DOMAIN-SUFFIX,frontend-telemetry.intercom.io
 DOMAIN-SUFFIX,frontend.adjust.io
 DOMAIN-SUFFIX,fs-conn-doctor.qq.com
@@ -3252,6 +3258,7 @@ DOMAIN-SUFFIX,journal.plausible.io
 DOMAIN-SUFFIX,jp.appsflyer.com
 DOMAIN-SUFFIX,jpapp.adjust.com
 DOMAIN-SUFFIX,jpush.binance.im
+DOMAIN-SUFFIX,jpush.bntrace.com
 DOMAIN-SUFFIX,jpush.html5.qq.com
 DOMAIN-SUFFIX,jpushjd.m.jd.com
 DOMAIN-SUFFIX,jpushsc.m.jd.com
@@ -3500,6 +3507,7 @@ DOMAIN-SUFFIX,log.beecost.vn
 DOMAIN-SUFFIX,log.bifrost.com
 DOMAIN-SUFFIX,log.bitauto.com
 DOMAIN-SUFFIX,log.bizlive.vn
+DOMAIN-SUFFIX,log.bntrace.com
 DOMAIN-SUFFIX,log.btopenworld.com
 DOMAIN-SUFFIX,log.byteoversea.com.edgekey.net
 DOMAIN-SUFFIX,log.ca.gov.vn
@@ -4658,6 +4666,7 @@ DOMAIN-SUFFIX,report.adsplay.xyz
 DOMAIN-SUFFIX,report.b.qq.com
 DOMAIN-SUFFIX,report.binance.im
 DOMAIN-SUFFIX,report.bkav.com
+DOMAIN-SUFFIX,report.bntrace.com
 DOMAIN-SUFFIX,report.cms.qq.com
 DOMAIN-SUFFIX,report.jpush.cn
 DOMAIN-SUFFIX,report.kg.qq.com
@@ -4769,6 +4778,7 @@ DOMAIN-SUFFIX,s-mic-oss.mob.com
 DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.adtrue.vn
 DOMAIN-SUFFIX,s.baidu.com
+DOMAIN-SUFFIX,s.deepl.com
 DOMAIN-SUFFIX,s.jpush.cn
 DOMAIN-SUFFIX,s.qhupdate.com
 DOMAIN-SUFFIX,s.shuzilm.cn
@@ -5097,6 +5107,7 @@ DOMAIN-SUFFIX,sms.mob.com
 DOMAIN-SUFFIX,smzdm.soboten.com
 DOMAIN-SUFFIX,snantx.adjust.com
 DOMAIN-SUFFIX,sngapm.qq.com
+DOMAIN-SUFFIX,snowplow-pixel.tradingview.com
 DOMAIN-SUFFIX,snr.snssdk.com
 DOMAIN-SUFFIX,sns.qzone.qq.com
 DOMAIN-SUFFIX,snssdk.com.edgekey.net
@@ -5338,6 +5349,7 @@ DOMAIN-SUFFIX,telemetry.gfe.nvidia.com
 DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,telemetry.nvidia.com
 DOMAIN-SUFFIX,telemetry.remoteapp.windowsazure.com
+DOMAIN-SUFFIX,telemetry.tradingview.com
 DOMAIN-SUFFIX,telemetry.urs.microsoft.com
 DOMAIN-SUFFIX,temai.snssdk.com
 DOMAIN-SUFFIX,tencent.appsflyer.com
