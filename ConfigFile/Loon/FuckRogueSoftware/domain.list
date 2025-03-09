@@ -89,7 +89,6 @@ DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adextensioncontrol.tudou.com
 DOMAIN,adfl.qq.com
 DOMAIN,adgame.waimai.meituan.com
-DOMAIN,adim.pinduoduo.com
 DOMAIN,adm.0.oppo.cn
 DOMAIN,adm.baidu.cn
 DOMAIN,adm.baidu.com
@@ -204,7 +203,6 @@ DOMAIN,as.mgtv.com
 DOMAIN,at-img1.tdimg.com
 DOMAIN,at-img2.tdimg.com
 DOMAIN,at-img3.tdimg.com
-DOMAIN,at.pinduoduo.com
 DOMAIN,atanx2.alicdn.com
 DOMAIN,atm.youku.com
 DOMAIN,audit.aaa.mgtv.com
@@ -284,7 +282,6 @@ DOMAIN,cmop.mgtv.com
 DOMAIN,cms.tanx.com
 DOMAIN,cmshow.gtimg.cn
 DOMAIN,cmshow.qq.com
-DOMAIN,cmtw.pinduoduo.com
 DOMAIN,cn.hz.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 DOMAIN,cn.zb.v4.wagbridge.ad.alibabacorp.com.gds.alibabadns.com
 DOMAIN,cobrowse.oraclecloud.com
@@ -540,8 +537,6 @@ DOMAIN,log1.mobylog.jp
 DOMAIN,log22.makeshop.co.kr
 DOMAIN,loggly.com
 DOMAIN,logonext.tv.kuyun.com
-DOMAIN,lp.pinduoduo.com
-DOMAIN,lpcdn.pinduoduo.com
 DOMAIN,lstat.youku.com
 DOMAIN,luban.m.qq.com
 DOMAIN,lx0.meituan.com
@@ -559,7 +554,6 @@ DOMAIN,material.istreamsche.com
 DOMAIN,mauth.chinanetcenter.com
 DOMAIN,mbs.boc.cn
 DOMAIN,mercury.jd.com
-DOMAIN,meta.pinduoduo.com
 DOMAIN,metrics.data.hicloud.com
 DOMAIN,metrics.dt.hicloud.com
 DOMAIN,mf.atm.youku.com
@@ -617,7 +611,6 @@ DOMAIN,osupdate.aliyun.com
 DOMAIN,osupdateservice.yunos.com
 DOMAIN,ot7.wagbridge.advertisement.tanx.com
 DOMAIN,ota-tv.hismarttv.com
-DOMAIN,otk.pinduoduo.com
 DOMAIN,ott.video.qq.com
 DOMAIN,outlook.live.net.mcas-df.ms
 DOMAIN,outlook.office.net.mcas-df.ms
@@ -654,7 +647,6 @@ DOMAIN,play-mam-v1-wsacc.hismarttv.com
 DOMAIN,play-mam-v1.hismarttv.com
 DOMAIN,player.log.hunantv.com
 DOMAIN,pmir.m.qq.com
-DOMAIN,pmmtk-a.pinduoduo.com
 DOMAIN,pmptrack-youku.gentags.net
 DOMAIN,pointsdk.vivo.com.cn
 DOMAIN,policy.cupid.iqiyi.com
@@ -780,25 +772,18 @@ DOMAIN,strip.taobaocdn.com
 DOMAIN,sy.cl2009.com
 DOMAIN,sys-launcher.hismarttv.com
 DOMAIN,sysdk.cl2009.com
-DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.rconfig.qq.com
 DOMAIN,tanxlog.istreamsche.com
 DOMAIN,tcss.qq.com
 DOMAIN,td.atm.youku.com
 DOMAIN,tejia.taobao.com
 DOMAIN,temai.taobao.com
-DOMAIN,th-a.pinduoduo.com
-DOMAIN,th.pinduoduo.com
-DOMAIN,titan-mt.pinduoduo.com
-DOMAIN,titan-ws.pinduoduo.com
-DOMAIN,titan.pinduoduo.com
 DOMAIN,tmfmazu-wangka.m.qq.com
 DOMAIN,tmfmazu.m.qq.com
 DOMAIN,tmfmazu4.m.qq.com
 DOMAIN,tmfmazuhttp-wangka.m.qq.com
 DOMAIN,tmfmazutcpv4.m.qq.com
 DOMAIN,tms.oracle.com
-DOMAIN,tne.pinduoduo.com
 DOMAIN,tongji.linezing.com
 DOMAIN,toruk.gds.tanx.com
 DOMAIN,tosv.boe.byted.org
@@ -1070,6 +1055,7 @@ DOMAIN-SUFFIX,abtest-va-tiktok.byteoversea.com
 DOMAIN-SUFFIX,abtest.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
 DOMAIN-SUFFIX,abtest.volceapplog.com
+DOMAIN-SUFFIX,abtk.pinduoduo.com
 DOMAIN-SUFFIX,ac.dun.163.com
 DOMAIN-SUFFIX,ac.mmstat.com
 DOMAIN-SUFFIX,ac1.cloud.net.cn
@@ -1201,6 +1187,7 @@ DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,adfstat.yandex.ru
 DOMAIN-SUFFIX,adgeo.163.com
+DOMAIN-SUFFIX,adim.pinduoduo.com
 DOMAIN-SUFFIX,adimages.sina.com.hk
 DOMAIN-SUFFIX,adimg.163.com
 DOMAIN-SUFFIX,adimg.mobile.sina.cn
@@ -1749,6 +1736,7 @@ DOMAIN-SUFFIX,apidns-js.kwd.inkuai.com
 DOMAIN-SUFFIX,apidns.kwd.inkuai.com
 DOMAIN-SUFFIX,apiinit.amap.com
 DOMAIN-SUFFIX,apissug-sf.ucweb.com
+DOMAIN-SUFFIX,apm-a.pinduoduo.com
 DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com
 DOMAIN-SUFFIX,apm-log-upload-v6.mihoyo.com.w.kunluncan.com
@@ -1757,6 +1745,7 @@ DOMAIN-SUFFIX,apm-log-upload.mihoyo.com.w.kunluncan.com
 DOMAIN-SUFFIX,apm.app.coc.10086.cn
 DOMAIN-SUFFIX,apm.douyucdn.cn
 DOMAIN-SUFFIX,apm.music.163.com
+DOMAIN-SUFFIX,apm.pinduoduo.com
 DOMAIN-SUFFIX,apm.umeng.com
 DOMAIN-SUFFIX,apm.volccdn.com
 DOMAIN-SUFFIX,apm.zhihu.com
@@ -1862,6 +1851,7 @@ DOMAIN-SUFFIX,assoc-amazon.com
 DOMAIN-SUFFIX,assp.sohu.com
 DOMAIN-SUFFIX,astyanax.io
 DOMAIN-SUFFIX,at.360.audion.fm
+DOMAIN-SUFFIX,at.pinduoduo.com
 DOMAIN-SUFFIX,at.umeng.com
 DOMAIN-SUFFIX,atanx.alicdn.com
 DOMAIN-SUFFIX,atapp.adjust.com
@@ -2018,6 +2008,7 @@ DOMAIN-SUFFIX,br.bmbs.baidu.com
 DOMAIN-SUFFIX,brance.play.cp81.ott.cibntv.net
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,brandadsstatic.vivo.com.cn
+DOMAIN-SUFFIX,brandvideo.biz.weibo.cn
 DOMAIN-SUFFIX,brightline.tv.edgekey.net
 DOMAIN-SUFFIX,brominer.com
 DOMAIN-SUFFIX,browser.events.data.msn.com
@@ -2215,6 +2206,7 @@ DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,cmp-consent-tool.privacymanager.io
 DOMAIN-SUFFIX,cmp-vendors.privacymanager.io
+DOMAIN-SUFFIX,cmtw.pinduoduo.com
 DOMAIN-SUFFIX,cn-fp.apitd.net
 DOMAIN-SUFFIX,cn-yys-prod-logproxy.mhystatic.com
 DOMAIN-SUFFIX,cn.app.chat.xiaomi.net
@@ -3254,6 +3246,7 @@ DOMAIN-SUFFIX,jmt17.google.com
 DOMAIN-SUFFIX,jobp.umeng.com
 DOMAIN-SUFFIX,jobpeter.umeng.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,jomoxc.com
 DOMAIN-SUFFIX,journal.plausible.io
 DOMAIN-SUFFIX,jp.appsflyer.com
 DOMAIN-SUFFIX,jpapp.adjust.com
@@ -3883,6 +3876,8 @@ DOMAIN-SUFFIX,logv2.ireader.com
 DOMAIN-SUFFIX,long.weixin.qq.com
 DOMAIN-SUFFIX,losital.ru
 DOMAIN-SUFFIX,lp.appsflyer.com
+DOMAIN-SUFFIX,lp.pinduoduo.com
+DOMAIN-SUFFIX,lpcdn.pinduoduo.com
 DOMAIN-SUFFIX,lss-user.baidubce.com
 DOMAIN-SUFFIX,ltdapp.adjust.com
 DOMAIN-SUFFIX,ltsdl.qq.com
@@ -3969,6 +3964,7 @@ DOMAIN-SUFFIX,mediation-tracking.prd.mz.internal.unity3d.com
 DOMAIN-SUFFIX,mediation.unity3d.com
 DOMAIN-SUFFIX,mepirtedic.com
 DOMAIN-SUFFIX,mercury-sdk.snssdk.com
+DOMAIN-SUFFIX,meta.pinduoduo.com
 DOMAIN-SUFFIX,metabase.taplytics.com
 DOMAIN-SUFFIX,metok.sys.miui.com
 DOMAIN-SUFFIX,metric.atlassian.com
@@ -4368,6 +4364,7 @@ DOMAIN-SUFFIX,ota.ptqy.gitv.tv
 DOMAIN-SUFFIX,otf.msn.com
 DOMAIN-SUFFIX,oth.eve.qq.com
 DOMAIN-SUFFIX,other.upqzfile.com
+DOMAIN-SUFFIX,otk.pinduoduo.com
 DOMAIN-SUFFIX,ott-v0-al.data.mgtv.com
 DOMAIN-SUFFIX,ott.v1.data.mgtv.com
 DOMAIN-SUFFIX,ouplog.umeng.com
@@ -4491,6 +4488,7 @@ DOMAIN-SUFFIX,plugin.mobopay.baidu.com
 DOMAIN-SUFFIX,plus.url.google.com
 DOMAIN-SUFFIX,plusone.google.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
+DOMAIN-SUFFIX,pmmtk-a.pinduoduo.com
 DOMAIN-SUFFIX,pms.mb.qq.com
 DOMAIN-SUFFIX,pnrt-stsdk.vivo.com.cn
 DOMAIN-SUFFIX,pnsfeedback.dingtalk.com
@@ -4636,6 +4634,7 @@ DOMAIN-SUFFIX,rcm.amazon.com
 DOMAIN-SUFFIX,rd.wan.360.cn
 DOMAIN-SUFFIX,rdelivery.qq.com
 DOMAIN-SUFFIX,rdns.adjust.com
+DOMAIN-SUFFIX,rdt.cfogc.com
 DOMAIN-SUFFIX,re.taobao.com
 DOMAIN-SUFFIX,reader.sh.vip.qq.com
 DOMAIN-SUFFIX,reading-lq.snssdk.com
@@ -4876,6 +4875,7 @@ DOMAIN-SUFFIX,sdk.ptqy.gitv.tv
 DOMAIN-SUFFIX,sdk.talkingdata.com
 DOMAIN-SUFFIX,sdk1xyajs.data.kuiniuca.com
 DOMAIN-SUFFIX,sdk2api.getui.com
+DOMAIN-SUFFIX,sdkaction.biz.weibo.cn
 DOMAIN-SUFFIX,sdkapi-smartop.jiguang.cn
 DOMAIN-SUFFIX,sdkapp.mobile.sina.cn
 DOMAIN-SUFFIX,sdkauth.hpplay.cn
@@ -4985,6 +4985,7 @@ DOMAIN-SUFFIX,seed.nimiq.jp
 DOMAIN-SUFFIX,seed.nimiqpool.com
 DOMAIN-SUFFIX,sehrivangazetesicom.teimg.com
 DOMAIN-SUFFIX,sensors.cloud.tencent.com
+DOMAIN-SUFFIX,sentry-inc.ssr.mihoyo.com
 DOMAIN-SUFFIX,sentry-monitor-new.zdmimg.com
 DOMAIN-SUFFIX,sentry-new.tidio.co
 DOMAIN-SUFFIX,sentry.amazon.com
@@ -5283,6 +5284,7 @@ DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,szlong.weixin.qq.com
 DOMAIN-SUFFIX,t-ads.xiaohongshu.com
 DOMAIN-SUFFIX,t-api.singular.net
+DOMAIN-SUFFIX,t-dsp.pinduoduo.com
 DOMAIN-SUFFIX,t-l.play.cp81.ott.cibntv.net
 DOMAIN-SUFFIX,t.360.audion.fm
 DOMAIN-SUFFIX,t.appads.in
@@ -5307,6 +5309,7 @@ DOMAIN-SUFFIX,t7.baidu.com
 DOMAIN-SUFFIX,t7z.cupid.iqiyi.com
 DOMAIN-SUFFIX,t8.baidu.com
 DOMAIN-SUFFIX,t9.baidu.com
+DOMAIN-SUFFIX,ta.pinduoduo.com
 DOMAIN-SUFFIX,ta.qq.com
 DOMAIN-SUFFIX,tab.volces.com
 DOMAIN-SUFFIX,taboola.com
@@ -5369,6 +5372,9 @@ DOMAIN-SUFFIX,textlink.simba.taobao.com
 DOMAIN-SUFFIX,tf.360.cn
 DOMAIN-SUFFIX,tgw-masdk.3g.qq.com
 DOMAIN-SUFFIX,tgw-sasdk.3g.qq.com
+DOMAIN-SUFFIX,th-a.pinduoduo.com
+DOMAIN-SUFFIX,th-b.pinduoduo.com
+DOMAIN-SUFFIX,th.pinduoduo.com
 DOMAIN-SUFFIX,thewhizmarketing.com
 DOMAIN-SUFFIX,thewhizproducts.com
 DOMAIN-SUFFIX,thewise.com
@@ -5378,7 +5384,10 @@ DOMAIN-SUFFIX,thirdrcp-hz.getui.com
 DOMAIN-SUFFIX,time.video.ptqy.gitv.tv
 DOMAIN-SUFFIX,timejs.game.163.com
 DOMAIN-SUFFIX,timon.zijieapi.com
+DOMAIN-SUFFIX,titan-mt.pinduoduo.com
+DOMAIN-SUFFIX,titan-ws.pinduoduo.com
 DOMAIN-SUFFIX,titan.babytree.com
+DOMAIN-SUFFIX,titan.pinduoduo.com
 DOMAIN-SUFFIX,titan01.babytree.com
 DOMAIN-SUFFIX,tj.b.qq.com
 DOMAIN-SUFFIX,tj.video.qq.com
@@ -5406,6 +5415,7 @@ DOMAIN-SUFFIX,tnc3-bjlgy.zijieapi.com
 DOMAIN-SUFFIX,tnc31-normal-alisg.isnssdk.com
 DOMAIN-SUFFIX,tnc31-normal-useast1a.isnssdk.com
 DOMAIN-SUFFIX,tnc31-normal-useast2a.isnssdk.com
+DOMAIN-SUFFIX,tne.pinduoduo.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
 DOMAIN-SUFFIX,tobapplog.snssdk.com
@@ -5441,6 +5451,7 @@ DOMAIN-SUFFIX,tpns.sh.tencent.com
 DOMAIN-SUFFIX,tpns.tencent.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,tpush.html5.qq.com
+DOMAIN-SUFFIX,tqt.weibo.cn
 DOMAIN-SUFFIX,tr.facebook.com
 DOMAIN-SUFFIX,tr.p.360.cn
 DOMAIN-SUFFIX,tr.snapchat.com
@@ -5749,6 +5760,7 @@ DOMAIN-SUFFIX,websdk.appsflyer.com
 DOMAIN-SUFFIX,websdk2.appsflyer.com
 DOMAIN-SUFFIX,webstat.kuwo.cn
 DOMAIN-SUFFIX,webxmr.com
+DOMAIN-SUFFIX,weibointl.api.weibo.cn
 DOMAIN-SUFFIX,weishi.baidu.com
 DOMAIN-SUFFIX,weiw.umeng.com
 DOMAIN-SUFFIX,weixin.renrenying.com

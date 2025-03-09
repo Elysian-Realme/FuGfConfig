@@ -241,6 +241,8 @@
 ^https?:\/\/ccflbs\.m\.jd\.com/lbsconfig.*$ reject
 ^https?:\/\/wlmonitor\.m\.jd\.com/login_report.*$ reject
 ^https?:\/\/heracles\.jd\.com/download/policy_eids.*$ reject
+^https?:\/\/www\.jd\.com/error.*$ reject
+
 
 ## kuaidi100 快递100
 # cdn.kuaidi100.com, p.kuaidi100.com,
@@ -259,6 +261,7 @@
 # images.pinduoduo.com, lofter.lf127.net,
 # ^https?:\/\/ad\.lofter.com\/v1\.1\/yitou\/madr reject-200
 ^https?:\/\/images\.pinduoduo\.com\/marketing\_api reject-200
+^https?:\/\/funimg-\d\.pddpic\.com/common/video-layer.$ reject-200
 ^https?:\/\/lofter\.lf127\.net\/ad\-material reject-200
 
 ## manmanbuy

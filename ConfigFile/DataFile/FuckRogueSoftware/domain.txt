@@ -1152,6 +1152,7 @@ antivirus.baidu.com
 .itsdata.map.baidu.com
 .nj.t.bcsp2p.baidu.com
 .analytics.analyticsbaidu.com
+.jomoxc.com
 
 ## Bilibili 哔哩哔哩
 .httpdns.bilivideo.com
@@ -2630,6 +2631,7 @@ apm-log-upload-*.mihoyo.com
 .devlog-upload-os.hoyoverse.com
 .sentry.eks.hoyoverse.com
 .sg-public-data-api.hoyoverse.com
+.sentry-inc.ssr.mihoyo.com
 
 ## MobTech 袤博
 *-share.mob.com
@@ -2902,21 +2904,26 @@ cobrowse.oraclecloud.com
 .go-stage.oracle.com
 
 ## Pdd nmsl 拼多多
-cmtw.pinduoduo.com
-titan-mt.pinduoduo.com
-at.pinduoduo.com
-titan-ws.pinduoduo.com
-t-dsp.pinduoduo.com
-lp.pinduoduo.com
-lpcdn.pinduoduo.com
-titan.pinduoduo.com
-adim.pinduoduo.com
-otk.pinduoduo.com
-th.pinduoduo.com
-tne.pinduoduo.com
-meta.pinduoduo.com
-pmmtk-a.pinduoduo.com
-th-a.pinduoduo.com
+.apm.pinduoduo.com
+.apm-a.pinduoduo.com
+.at.pinduoduo.com
+.cmtw.pinduoduo.com
+.titan.pinduoduo.com
+.titan-mt.pinduoduo.com
+.titan-ws.pinduoduo.com
+.t-dsp.pinduoduo.com
+.lp.pinduoduo.com
+.lpcdn.pinduoduo.com
+.adim.pinduoduo.com
+.otk.pinduoduo.com
+.abtk.pinduoduo.com
+.ta.pinduoduo.com
+.th.pinduoduo.com
+.tne.pinduoduo.com
+.meta.pinduoduo.com
+.pmmtk-a.pinduoduo.com
+.th-a.pinduoduo.com
+.th-b.pinduoduo.com
 .log.ergeduoduo.com
 .m.pinduoduo.net
 
@@ -2991,7 +2998,6 @@ log*.sina.cn
 .slog.sina.cn
 .ad.cj.sina.cn
 .adblock.sina.cn
-
 .promote.biz.weibo.cn
 .ad.passport.weibo.cn
 .gw6.push.mcp.weibo.cn
@@ -3040,6 +3046,10 @@ u1.img.mobile.sina.cn
 .ping64.sina.cn
 .pfpip.sina.com
 .oascentral.sina.com
+.tqt.weibo.cn
+.weibointl.api.weibo.cn
+.sdkaction.biz.weibo.cn
+.brandvideo.biz.weibo.cn
 
 ## Smzdm 什么值得买
 .sentry-monitor-new.zdmimg.com
@@ -6517,3 +6527,4 @@ api.getkoala.com
 .report.bntrace.com
 .jpush.bntrace.com
 .log.bntrace.com
+.rdt.cfogc.com

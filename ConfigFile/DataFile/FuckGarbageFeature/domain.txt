@@ -8082,3 +8082,6 @@ dualstack-restios.amap.com
 .sjs-ley.nl
 .sjs-mst.nl
 .sjs-rtm.nl
+.cfogc.com
+.file-link.pinduoduo.com
+.nexin.cn
