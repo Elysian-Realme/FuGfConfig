@@ -81,6 +81,7 @@ livepatch.canonical.com
 ## docker
 .docker.io
 .docker.com
+.dockerstatic.com
 
 ## brew
 .brew.sh
@@ -205,6 +206,7 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .notion.so
 .notion.com
 .notion.site
+.notionusercontent.com
 http-inputs-notion.splunkcloud.com
 .obsidian.md
 
@@ -371,6 +373,10 @@ onedrive.live.com
 .vchv.ltd
 
 ## 其他
+.iterm2.com
+.swiftpackageindex.com
+.echo.labstack.com
+.tradingview.com
 .orbstack.dev
 .remix.run
 .wireshark.org
@@ -456,3 +462,5 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 api.rc-backup.com
 .grafana.com
 .raindrop.io
+.ctftime.org
+.developer.mozilla.org

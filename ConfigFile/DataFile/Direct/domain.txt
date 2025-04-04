@@ -161,6 +161,9 @@ vipstatic.com
 .xiaohongshu.com
 .xhscdn.com
 
+## Development
+.sqlc.dev
+
 ## 其他
 fonts.gstatic.com
 fonts.googleapis.com
@@ -201,3 +204,4 @@ test-ipv6.com
 .deepseek.com
 .linux.do
 .air-matters.com
+.tover.xyz

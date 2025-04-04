@@ -131,11 +131,13 @@ DOMAIN-SUFFIX,sinaimg.com,extended-matching
 DOMAIN-SUFFIX,smms.app,extended-matching
 DOMAIN-SUFFIX,sony.com,extended-matching
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com,extended-matching
+DOMAIN-SUFFIX,sqlc.dev,extended-matching
 DOMAIN-SUFFIX,taobao.com,extended-matching
 DOMAIN-SUFFIX,taobaocdn.com,extended-matching
 DOMAIN-SUFFIX,tencent.com,extended-matching
 DOMAIN-SUFFIX,tmall.com,extended-matching
 DOMAIN-SUFFIX,tmall.hk,extended-matching
+DOMAIN-SUFFIX,tover.xyz,extended-matching
 DOMAIN-SUFFIX,tuna.tsinghua.edu.cn,extended-matching
 DOMAIN-SUFFIX,udache.com,extended-matching
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,extended-matching

@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,onenote.com,extended-matching
 DOMAIN-SUFFIX,outlook.com,extended-matching
 DOMAIN-SUFFIX,s-microsoft.com,extended-matching
 DOMAIN-SUFFIX,sfx.ms,extended-matching
+DOMAIN-SUFFIX,sharepointonline.com,extended-matching
 DOMAIN-SUFFIX,skype.com,extended-matching
 DOMAIN-SUFFIX,windows.com,extended-matching
 DOMAIN-SUFFIX,windows.net,extended-matching

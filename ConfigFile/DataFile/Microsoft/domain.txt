@@ -30,3 +30,4 @@
 .microsoftpersonalcontent.com
 .azureedge.net
 .microsoftapp.net
+.sharepointonline.com

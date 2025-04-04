@@ -43,12 +43,14 @@ DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cmx.im
 DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,ctftime.org
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,dcbadge.limes.pink
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,decohack.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
@@ -57,6 +59,7 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,doomemacs.org
 DOMAIN-SUFFIX,download-chromium.appspot.com
 DOMAIN-SUFFIX,dropbox-dns.com
@@ -76,6 +79,7 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,duckduckco.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,echo.labstack.com
 DOMAIN-SUFFIX,edu.tw
 DOMAIN-SUFFIX,eggnsemulator.com
 DOMAIN-SUFFIX,emby.media
@@ -138,6 +142,7 @@ DOMAIN-SUFFIX,hlj.fun
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,joyreactor.cc
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,jsdelivr.net
@@ -170,6 +175,7 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
@@ -244,6 +250,7 @@ DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,supabase.com
 DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,svelte.dev
+DOMAIN-SUFFIX,swiftpackageindex.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
@@ -253,6 +260,7 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tii.la
 DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
