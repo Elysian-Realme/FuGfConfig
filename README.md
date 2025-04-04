@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon
 ```ini
 # REJECT Rules
 RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckRogueSoftware/domain.list,REJECT,pre-matching
-RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckGarbageFeature/domain.list,REJECT,pre-matching
+# RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckGarbageFeature/domain.list,REJECT,pre-matching
 
 # Apple Update Rules
 RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/Apple/update-domain.list,AppleUpdate
@@ -95,7 +95,12 @@ RULE-SET,https://github.com/Elysian-Realme/FuGfConfig/raw/refs/heads/main/Config
 https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/QuantumultX/FuckRogueSoftwareRules.conf, force-policy=FuckRogueSoftware, tag=FuckRogueSoftware, enabled=true
 
 # loon
-https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/FuckRogueSoftwareRules.conf, policy=Advertising, tag=FuckRogueSoftware, enabled=true
+https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Loon/FuckRogueSoftware/domain.list, policy=FuckRogueSoftware, tag=FuckRogueSoftwareDomainRules, enabled=true
+https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Loon/FuckRogueSoftware/ip.list, policy=FuckRogueSoftware, tag=FuckRogueSoftwareIPRules, enabled=true
+
+# Surge
+RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckRogueSoftware/domain.list,REJECT,pre-matching
+RULE-SET,https://raw.githubusercontent.com/Elysian-Realme/FuGfConfig/refs/heads/main/ConfigFile/Surge/FuckRogueSoftware/ip.list,REJECT
 ```
 
 ### Apple 系统更新
