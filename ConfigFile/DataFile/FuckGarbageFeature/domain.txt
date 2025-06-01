@@ -8085,3 +8085,6 @@ dualstack-restios.amap.com
 .cfogc.com
 .file-link.pinduoduo.com
 .nexin.cn
+.dutils.com
+.dutils.com.bytexns.com
+.dutils.com.itotolink.net

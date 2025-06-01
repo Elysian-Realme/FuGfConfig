@@ -205,3 +205,4 @@ test-ipv6.com
 .linux.do
 .air-matters.com
 .tover.xyz
+.qtlcdn.com.cdnmg.com

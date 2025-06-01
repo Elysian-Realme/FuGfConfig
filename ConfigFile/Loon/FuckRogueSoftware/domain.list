@@ -156,7 +156,6 @@ DOMAIN,api-access.pangolin-sdk-toutiao.com
 DOMAIN,api-bos.hismarttv.com
 DOMAIN,api-cloudfalcon.hismarttv.com
 DOMAIN,api-dynDOMAIN.hismarttv.com
-DOMAIN,api-fd.dutils.com
 DOMAIN,api-gps-em.hismarttv.com
 DOMAIN,api-gps-na.hismarttv.com
 DOMAIN,api-gps.hismarttv.com
@@ -1050,6 +1049,7 @@ DOMAIN-SUFFIX,abc.pema.cl
 DOMAIN-SUFFIX,ablink.kfc.com.au
 DOMAIN-SUFFIX,ablink.test.kfc.com.au
 DOMAIN-SUFFIX,ablinks.kfc.com.au
+DOMAIN-SUFFIX,abroad-sdk-push.dutils.com
 DOMAIN-SUFFIX,abtest-ch.snssdk.com
 DOMAIN-SUFFIX,abtest-va-tiktok.byteoversea.com
 DOMAIN-SUFFIX,abtest.mistat.india.xiaomi.com
@@ -1460,6 +1460,9 @@ DOMAIN-SUFFIX,ampcid.google.tl
 DOMAIN-SUFFIX,ams-zabbix.adjust.com
 DOMAIN-SUFFIX,an.facebook.com
 DOMAIN-SUFFIX,analysis.chatglm.cn
+DOMAIN-SUFFIX,analytex-eu.userpilot.io
+DOMAIN-SUFFIX,analytex-us.userpilot.io
+DOMAIN-SUFFIX,analytex.userpilot.io
 DOMAIN-SUFFIX,analytic.xingcloud.com
 DOMAIN-SUFFIX,analytics-alv.google.com
 DOMAIN-SUFFIX,analytics-api-01.smzdm.com
@@ -1630,12 +1633,23 @@ DOMAIN-SUFFIX,api-audio-xjp.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-gg.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-sh.fengkongcloud.com
 DOMAIN-SUFFIX,api-audiostream-xjp.fengkongcloud.com
+DOMAIN-SUFFIX,api-c.dutils.com
 DOMAIN-SUFFIX,api-c.soboten.com
 DOMAIN-SUFFIX,api-compatible.mixpanel.com
+DOMAIN-SUFFIX,api-d.dutils.com
+DOMAIN-SUFFIX,api-d.hiaiabc.com
 DOMAIN-SUFFIX,api-devapp.getui.com
 DOMAIN-SUFFIX,api-device-eur.fengkongcloud.com
+DOMAIN-SUFFIX,api-devs.dutils.com
+DOMAIN-SUFFIX,api-df.dutils.com
+DOMAIN-SUFFIX,api-dll.dutils.com
+DOMAIN-SUFFIX,api-error.dutils.com
 DOMAIN-SUFFIX,api-eu.mixpanel.com
+DOMAIN-SUFFIX,api-exc.dutils.com
 DOMAIN-SUFFIX,api-extra.hzjizhun.com
+DOMAIN-SUFFIX,api-fc.dutils.com
+DOMAIN-SUFFIX,api-fd.dutils.com
+DOMAIN-SUFFIX,api-gd.dutils.com
 DOMAIN-SUFFIX,api-gi.getui.com
 DOMAIN-SUFFIX,api-iam.intercom.io
 DOMAIN-SUFFIX,api-ipv4.browser.miui.com
@@ -1662,6 +1676,7 @@ DOMAIN-SUFFIX,api-tianxiang-eur.fengkongcloud.com
 DOMAIN-SUFFIX,api-tianxiang-fjny.fengkongcloud.com
 DOMAIN-SUFFIX,api-tianxiang-xjp.fengkongcloud.com
 DOMAIN-SUFFIX,api-v2.tidio.co
+DOMAIN-SUFFIX,api-verify.dutils.com
 DOMAIN-SUFFIX,api-vidaaasst.hismarttv.com
 DOMAIN-SUFFIX,api-visitor-analytics.intercom.com
 DOMAIN-SUFFIX,api-visitor-analytics.mobile-messenger.intercom.com
@@ -2070,6 +2085,7 @@ DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,c.singular.net
 DOMAIN-SUFFIX,c3-cache.browser.miui.com
 DOMAIN-SUFFIX,caapp.adjust.com
+DOMAIN-SUFFIX,cache-verify.dutils.com
 DOMAIN-SUFFIX,cache.datamart.windows.com
 DOMAIN-SUFFIX,caclick.baidu.com
 DOMAIN-SUFFIX,cad.youku.com
@@ -2102,6 +2118,7 @@ DOMAIN-SUFFIX,ccs.umeng.com
 DOMAIN-SUFFIX,cctv.mmstat.com
 DOMAIN-SUFFIX,cdn-adn-https-new.mtgglobals.com
 DOMAIN-SUFFIX,cdn-ads.oss-cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,cdn-api-verify.dutils.com
 DOMAIN-SUFFIX,cdn-api-verify.mob.com
 DOMAIN-SUFFIX,cdn-assets.adspruce.com
 DOMAIN-SUFFIX,cdn-config.taplytics.com
@@ -2473,6 +2490,7 @@ DOMAIN-SUFFIX,devicemessaging.us-east-1.amazon.com
 DOMAIN-SUFFIX,devicemsf.3g.qq.com
 DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
 DOMAIN-SUFFIX,devpress-api.csdn.net
+DOMAIN-SUFFIX,devs-data.dutils.com
 DOMAIN-SUFFIX,devs.data.mob.com
 DOMAIN-SUFFIX,df-mic.mob.com
 DOMAIN-SUFFIX,df.mob.com
@@ -2782,6 +2800,7 @@ DOMAIN-SUFFIX,fvalid.appsflyer.com
 DOMAIN-SUFFIX,fvalid2.appsflyer.com
 DOMAIN-SUFFIX,fw.qq.com
 DOMAIN-SUFFIX,fzw.a.sohu.com
+DOMAIN-SUFFIX,g-adnet.dutils.com
 DOMAIN-SUFFIX,g-logsdk.snackvideo.com
 DOMAIN-SUFFIX,g-ulog.snackvideo.com
 DOMAIN-SUFFIX,g.163.com
@@ -3450,6 +3469,7 @@ DOMAIN-SUFFIX,log-v6.mmstat.com
 DOMAIN-SUFFIX,log-va-useast2a.tiktokv.com
 DOMAIN-SUFFIX,log-va.bytegsdk.com
 DOMAIN-SUFFIX,log-va.tiktokv.com
+DOMAIN-SUFFIX,log-verify.dutils.com
 DOMAIN-SUFFIX,log-verify.mob.com
 DOMAIN-SUFFIX,log-vietnamplus-vn.cdn.ampproject.org
 DOMAIN-SUFFIX,log-vip-ssl.xunlei.com
@@ -3882,6 +3902,7 @@ DOMAIN-SUFFIX,lss-user.baidubce.com
 DOMAIN-SUFFIX,ltdapp.adjust.com
 DOMAIN-SUFFIX,ltsdl.qq.com
 DOMAIN-SUFFIX,ludo.umeng.com
+DOMAIN-SUFFIX,m-adnet.dutils.com
 DOMAIN-SUFFIX,m.analytics.126.net
 DOMAIN-SUFFIX,m.appsflyer.com
 DOMAIN-SUFFIX,m.data.mob.com
@@ -4113,6 +4134,7 @@ DOMAIN-SUFFIX,mp.360.cn
 DOMAIN-SUFFIX,mp.huangye.miui.com
 DOMAIN-SUFFIX,mp.umeng.com
 DOMAIN-SUFFIX,mparticle.uc.cn
+DOMAIN-SUFFIX,mpl.dutils.com
 DOMAIN-SUFFIX,mpp.taobao.com
 DOMAIN-SUFFIX,mpro.baidu.com
 DOMAIN-SUFFIX,mps.adjust.com
@@ -4851,6 +4873,7 @@ DOMAIN-SUFFIX,sdk-log.appclicking.com
 DOMAIN-SUFFIX,sdk-log.youdao.com
 DOMAIN-SUFFIX,sdk-open-lbs.getui.com
 DOMAIN-SUFFIX,sdk-open-phone.getui.com
+DOMAIN-SUFFIX,sdk-push.dutils.com
 DOMAIN-SUFFIX,sdk-services.appsflyer.com
 DOMAIN-SUFFIX,sdk-services.appsflyersdk.com
 DOMAIN-SUFFIX,sdk.adsplay.xyz
@@ -5629,7 +5652,10 @@ DOMAIN-SUFFIX,v21-feed-ad.ap4r.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,v4v6.kwd.inkuai.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
+DOMAIN-SUFFIX,v6-api-c.dutils.com
+DOMAIN-SUFFIX,v6-api-d.dutils.com
 DOMAIN-SUFFIX,v6-api-share.mob.com
+DOMAIN-SUFFIX,v6-devs-data.dutils.com
 DOMAIN-SUFFIX,v6.inkuai.com
 DOMAIN-SUFFIX,v6analytics.htmedia.in.edgekey.net
 DOMAIN-SUFFIX,vali-g1.cp31.ott.cibntv.net

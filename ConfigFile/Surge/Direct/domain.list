@@ -121,6 +121,7 @@ DOMAIN-SUFFIX,qcloud.com,extended-matching
 DOMAIN-SUFFIX,qiyi.com,extended-matching
 DOMAIN-SUFFIX,qiyipic.com,extended-matching
 DOMAIN-SUFFIX,qq.com,extended-matching
+DOMAIN-SUFFIX,qtlcdn.com.cdnmg.com,extended-matching
 DOMAIN-SUFFIX,qy.net,extended-matching
 DOMAIN-SUFFIX,qzone.com,extended-matching
 DOMAIN-SUFFIX,qzoneapp.com,extended-matching

@@ -14,7 +14,14 @@ DOMAIN,supportdownload.apple.com
 DOMAIN,swcdn.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates.cdn-apple.com
+DOMAIN-SUFFIX,aapl-edge0.qtlcdn.com
+DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,apple.com.w.alikunlun.com
+DOMAIN-SUFFIX,apple.map.fastly.net
+DOMAIN-SUFFIX,idms-apple.com.akadns.net
+DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com
+DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com.cdnmg.com
 DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,origin-apple.com.akadns.net
 USER-AGENT,com.apple.appstored*

@@ -14,7 +14,14 @@ DOMAIN,supportdownload.apple.com,extended-matching
 DOMAIN,swcdn.apple.com,extended-matching
 DOMAIN,updates-http.cdn-apple.com,extended-matching
 DOMAIN,updates.cdn-apple.com,extended-matching
+DOMAIN-SUFFIX,aapl-edge0.qtlcdn.com,extended-matching
+DOMAIN-SUFFIX,apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,apple.com.download.ks-cdn.com,extended-matching
 DOMAIN-SUFFIX,apple.com.w.alikunlun.com,extended-matching
+DOMAIN-SUFFIX,apple.map.fastly.net,extended-matching
+DOMAIN-SUFFIX,idms-apple.com.akadns.net,extended-matching
+DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com,extended-matching
+DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com.cdnmg.com,extended-matching
 DOMAIN-SUFFIX,mzstatic.com,extended-matching
+DOMAIN-SUFFIX,origin-apple.com.akadns.net,extended-matching
 USER-AGENT,com.apple.appstored*

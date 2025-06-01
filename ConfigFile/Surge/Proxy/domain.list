@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,figma.com,extended-matching
 DOMAIN-SUFFIX,fireside.fm,extended-matching
 DOMAIN-SUFFIX,flickr.com,extended-matching
 DOMAIN-SUFFIX,fontawesome.com,extended-matching
+DOMAIN-SUFFIX,freedium.cfd,extended-matching
 DOMAIN-SUFFIX,gamer.com.tw,extended-matching
 DOMAIN-SUFFIX,getdropbox.com,extended-matching
 DOMAIN-SUFFIX,ghcr.io,extended-matching
@@ -227,6 +228,7 @@ DOMAIN-SUFFIX,redd.it,extended-matching
 DOMAIN-SUFFIX,reddit.com,extended-matching
 DOMAIN-SUFFIX,redditmedia.com,extended-matching
 DOMAIN-SUFFIX,redditstatic.com,extended-matching
+DOMAIN-SUFFIX,relay.firefox.com,extended-matching
 DOMAIN-SUFFIX,relingo.net,extended-matching
 DOMAIN-SUFFIX,remix.run,extended-matching
 DOMAIN-SUFFIX,research.google,extended-matching

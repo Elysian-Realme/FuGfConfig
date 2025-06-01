@@ -189,7 +189,7 @@
 ## deepseek
 # chat.deepseek.com, cdn.deepseek.com,
 ^https?:\/\/chat\.deepseek\.com/api/v[\d.]+/(check_client_update|ip_to_country_code).*$ reject
-^https?:\/\/cdn\.deepseek\.com/static/chat/fp-1.min.js.*$ reject
+#^https?:\/\/cdn\.deepseek\.com/static/chat/fp-1.min.js.*$ reject
 
 ## dewu
 # app.dewu.com,

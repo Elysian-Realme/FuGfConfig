@@ -3279,6 +3279,9 @@ DOMAIN-SUFFIX,dts.startappservice.com,extended-matching
 DOMAIN-SUFFIX,dtvc.adsafeprotected.com,extended-matching
 DOMAIN-SUFFIX,duapps.com,extended-matching
 DOMAIN-SUFFIX,duiba.com.cn,extended-matching
+DOMAIN-SUFFIX,dutils.com,extended-matching
+DOMAIN-SUFFIX,dutils.com.bytexns.com,extended-matching
+DOMAIN-SUFFIX,dutils.com.itotolink.net,extended-matching
 DOMAIN-SUFFIX,dvgtm.akadns.net,extended-matching
 DOMAIN-SUFFIX,dvrdydns.com,extended-matching
 DOMAIN-SUFFIX,dynamic-l1.anzuinfra.com,extended-matching

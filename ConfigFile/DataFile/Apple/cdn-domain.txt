@@ -29,3 +29,10 @@ app-site-association.cdn-apple.com
 mesu.apple.com.w.cdngslb.com
 .apple.com.w.alikunlun.com
 .apple.com.download.ks-cdn.com
+.apple.map.fastly.net
+.ioshost.qtlcdn.com
+.ioshost.qtlcdn.com.cdnmg.com
+.apple.com.akadns.net
+.aapl-edge0.qtlcdn.com
+.origin-apple.com.akadns.net
+.idms-apple.com.akadns.net

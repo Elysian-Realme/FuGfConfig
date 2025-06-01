@@ -67,7 +67,3 @@ sq-device.apple.com
 *-cn.apple.com
 .icloud.com.cn
 .apple.com.cn
-.apple.com.akadns.net
-.aapl-edge0.qtlcdn.com
-.origin-apple.com.akadns.net
-.idms-apple.com.akadns.net

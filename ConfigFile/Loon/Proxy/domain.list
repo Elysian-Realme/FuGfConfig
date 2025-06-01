@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,freedium.cfd
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,ghcr.io
@@ -227,6 +228,7 @@ DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,relingo.net
 DOMAIN-SUFFIX,remix.run
 DOMAIN-SUFFIX,research.google
