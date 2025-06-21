@@ -1,9 +1,11 @@
 DOMAIN,chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com

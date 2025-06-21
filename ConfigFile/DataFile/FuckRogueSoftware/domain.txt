@@ -250,7 +250,6 @@ log-v6.mmstat.com.gds.alibabadns.com
 .loggw.alipay.com.cn
 .loggw-ex.alipay.com
 .agoo-report.m.taobao.com
-.h-adashx.ut.taobao.com
 .analytics.taobao.com
 .metrics.taobao.com
 .gm.mmstat.com
@@ -264,7 +263,6 @@ log-v6.mmstat.com.gds.alibabadns.com
 .ws.mmstat.com
 .res.mmstat.com
 .gds.mmstat.com
-.wgo.mmstat.com
 .go.mmstat.com
 .gj.mmstat.com
 .sg.mmstat.com
@@ -730,7 +728,6 @@ dualstack-logs.amap.com
 .gcdsdk.appsflyer.com
 .websdk.appsflyer.com
 .track.appsflyer.com
-.api.appsflyer.com
 .websdk-stg.appsflyer.com
 .customlinks-nginx-stg.appsflyer.com
 .customlinks-stg.appsflyer.com
@@ -879,7 +876,6 @@ dualstack-logs.amap.com
 .mobads-logs.baidu.com
 .mobads.baidu.com
 .mtj.baidu.com
-.nsclick.baidu.com
 .zz.bdstatic.com
 .dup.baidustatic.com
 .cpro.baidustatic.com
@@ -1435,8 +1431,6 @@ mssdk-bu.bytedance.com
 .tobapplog.volceapplog.com
 .klink.volceapplog.com
 .mcs.volceapplog.com
-.toblog.volceapplog.com
-.abtest.volceapplog.com
 .sf6-be-pack.pglstatp-toutiao.com
 .pglstatp-toutiao.com
 .pangolin-sdk-toutiao-b.com
@@ -6555,3 +6549,4 @@ api.getkoala.com
 .g-adnet.dutils.com
 .m-adnet.dutils.com
 .api-d.hiaiabc.com
+.dapi.alistgo.com

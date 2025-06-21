@@ -64,6 +64,9 @@
 .maven.apache.org
 .huggingface.co
 
+.rust-lang.org
+.rustup.rs
+
 ## Debian 仓库
 .debian.org
 
@@ -72,7 +75,7 @@
 .snapcraft.io
 .snapcraftcontent.com
 .launchpadcontent.net
-livepatch.canonical.com
+.canonical.com
 
 ## kali 仓库
 .kali.org
@@ -88,6 +91,7 @@ livepatch.canonical.com
 
 ## go
 .golang.org
+.godoc.org
 .goproxy.io
 .go.dev
 
@@ -234,6 +238,7 @@ http-inputs-notion.splunkcloud.com
 
 ## google
 .research.google
+.blogger.com
 
 ## facebook
 .facebook.com
@@ -464,3 +469,6 @@ api.rc-backup.com
 .raindrop.io
 .ctftime.org
 .developer.mozilla.org
+.relay.firefox.com
+.freedium.cfd
+.ycombinator.com

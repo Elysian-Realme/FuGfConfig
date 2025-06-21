@@ -1,6 +1,5 @@
 DOMAIN,api.rc-backup.com,extended-matching
 DOMAIN,http-inputs-notion.splunkcloud.com,extended-matching
-DOMAIN,livepatch.canonical.com,extended-matching
 DOMAIN,onedrive.live.com,extended-matching
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com,extended-matching
 DOMAIN,vscodium.now.sh,extended-matching
@@ -31,6 +30,7 @@ DOMAIN-SUFFIX,bitbucket.org,extended-matching
 DOMAIN-SUFFIX,bitwarden.com,extended-matching
 DOMAIN-SUFFIX,bitwarden.net,extended-matching
 DOMAIN-SUFFIX,blender.org,extended-matching
+DOMAIN-SUFFIX,blogger.com,extended-matching
 DOMAIN-SUFFIX,booth.pm,extended-matching
 DOMAIN-SUFFIX,brew.sh,extended-matching
 DOMAIN-SUFFIX,bsky.app,extended-matching
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,bsky.network,extended-matching
 DOMAIN-SUFFIX,bsky.social,extended-matching
 DOMAIN-SUFFIX,calibre-ebook.com,extended-matching
 DOMAIN-SUFFIX,campaign-archive.com,extended-matching
+DOMAIN-SUFFIX,canonical.com,extended-matching
 DOMAIN-SUFFIX,cdninstagram.com,extended-matching
 DOMAIN-SUFFIX,cdnpure.com,extended-matching
 DOMAIN-SUFFIX,chromium.org,extended-matching
@@ -130,6 +131,7 @@ DOMAIN-SUFFIX,gitlab.net,extended-matching
 DOMAIN-SUFFIX,gitter-static.net,extended-matching
 DOMAIN-SUFFIX,gitter.im,extended-matching
 DOMAIN-SUFFIX,go.dev,extended-matching
+DOMAIN-SUFFIX,godoc.org,extended-matching
 DOMAIN-SUFFIX,golang.org,extended-matching
 DOMAIN-SUFFIX,goproxy.io,extended-matching
 DOMAIN-SUFFIX,gpgtools.org,extended-matching
@@ -236,6 +238,8 @@ DOMAIN-SUFFIX,resilio.com,extended-matching
 DOMAIN-SUFFIX,reuters.com,extended-matching
 DOMAIN-SUFFIX,revenuecat.com,extended-matching
 DOMAIN-SUFFIX,rfi.fr,extended-matching
+DOMAIN-SUFFIX,rust-lang.org,extended-matching
+DOMAIN-SUFFIX,rustup.rs,extended-matching
 DOMAIN-SUFFIX,sagernet.org,extended-matching
 DOMAIN-SUFFIX,schemastore.org,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
@@ -326,4 +330,5 @@ DOMAIN-SUFFIX,xiaomi.eu,extended-matching
 DOMAIN-SUFFIX,yandex.ru,extended-matching
 DOMAIN-SUFFIX,yarnpkg.com,extended-matching
 DOMAIN-SUFFIX,yastatic.net,extended-matching
+DOMAIN-SUFFIX,ycombinator.com,extended-matching
 DOMAIN-SUFFIX,zed.dev,extended-matching

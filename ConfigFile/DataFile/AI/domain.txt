@@ -2,7 +2,6 @@
 .chatgpt.com
 .auth0.com
 .openaiapi-site.azureedge.net
-chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .poecdn.net
 .claude.ai
 .anthropic.com
@@ -17,3 +16,6 @@ chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com
 .x.ai
 .openrouter.ai
 .together.xyz
+.githubcopilot.com
+generativelanguage.googleapis.com
+chatgpt-async-webps-prod-southeastasia-0.webpubsub.azure.com

@@ -1,0 +1,31 @@
+#
+# Apple Global CDN
+#
+# iOS App Store
+iosapps.itunes.apple.com
+# Mac App Store
+osxapps.itunes.apple.com
+oscdn.apple.com
+# Update
+supportdownload.apple.com
+# Update
+appldnld.apple.com
+# Update
+swcdn.apple.com
+apptrailers.itunes.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+# App Store & iTunes Images
+.mzstatic.com
+# Mac App Store
+PROCESS-NAME,storedownloadd
+# iOS App Store
+USER-AGENT,com.apple.appstored*
+# Apple Music Streaming
+aod.itunes.apple.com
+mvod.itunes.apple.com
+streamingaudio.itunes.apple.com
+# Other
+download.developer.apple.com
+downloaddispatch.itunes.apple.com
+app-site-association.cdn-apple.com

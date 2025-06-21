@@ -8088,3 +8088,5 @@ dualstack-restios.amap.com
 .dutils.com
 .dutils.com.bytexns.com
 .dutils.com.itotolink.net
+.hivenet.com.cn
+.tyc9421.cn

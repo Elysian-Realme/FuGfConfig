@@ -1,6 +1,5 @@
 DOMAIN,api.rc-backup.com
 DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN,livepatch.canonical.com
 DOMAIN,onedrive.live.com
 DOMAIN,raycast-store-extensions.s3-accelerate.amazonaws.com
 DOMAIN,vscodium.now.sh
@@ -31,6 +30,7 @@ DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,bitwarden.net
 DOMAIN-SUFFIX,blender.org
+DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,bsky.app
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,campaign-archive.com
+DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,chromium.org
@@ -130,6 +131,7 @@ DOMAIN-SUFFIX,gitlab.net
 DOMAIN-SUFFIX,gitter-static.net
 DOMAIN-SUFFIX,gitter.im
 DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,gpgtools.org
@@ -236,6 +238,8 @@ DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sectigo.com
@@ -326,4 +330,5 @@ DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,zed.dev
