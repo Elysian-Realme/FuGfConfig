@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,1drv.com,extended-matching
 DOMAIN-SUFFIX,1drv.ms,extended-matching
 DOMAIN-SUFFIX,akamaized.net,extended-matching
 DOMAIN-SUFFIX,azureedge.net,extended-matching
+DOMAIN-SUFFIX,azurefd.net,extended-matching
 DOMAIN-SUFFIX,azurewebsites.net,extended-matching
 DOMAIN-SUFFIX,bing.com,extended-matching
 DOMAIN-SUFFIX,bing.net,extended-matching

@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,apprcn.com,extended-matching
 DOMAIN-SUFFIX,b23.tv,extended-matching
 DOMAIN-SUFFIX,baidu.com,extended-matching
 DOMAIN-SUFFIX,bh3.com,extended-matching
+DOMAIN-SUFFIX,bhsr.com,extended-matching
 DOMAIN-SUFFIX,biliapi.com,extended-matching
 DOMAIN-SUFFIX,biliapi.net,extended-matching
 DOMAIN-SUFFIX,bilibili.com,extended-matching
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,cloudfront.net,extended-matching
 DOMAIN-SUFFIX,cn,extended-matching
 DOMAIN-SUFFIX,cnblogs.com,extended-matching
 DOMAIN-SUFFIX,coolapk.com,extended-matching
+DOMAIN-SUFFIX,csair.com,extended-matching
 DOMAIN-SUFFIX,deepseek.com,extended-matching
 DOMAIN-SUFFIX,didialift.com,extended-matching
 DOMAIN-SUFFIX,didiglobal.com,extended-matching
@@ -121,6 +123,7 @@ DOMAIN-SUFFIX,qcloud.com,extended-matching
 DOMAIN-SUFFIX,qiyi.com,extended-matching
 DOMAIN-SUFFIX,qiyipic.com,extended-matching
 DOMAIN-SUFFIX,qq.com,extended-matching
+DOMAIN-SUFFIX,qtlcdn.com,extended-matching
 DOMAIN-SUFFIX,qtlcdn.com.cdnmg.com,extended-matching
 DOMAIN-SUFFIX,qy.net,extended-matching
 DOMAIN-SUFFIX,qzone.com,extended-matching

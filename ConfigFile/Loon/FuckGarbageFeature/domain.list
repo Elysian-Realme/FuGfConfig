@@ -25,6 +25,7 @@ DOMAIN,ali-web-player-tracker.biliapi.net
 DOMAIN,alitui.weibo.com
 DOMAIN,amdc-sibling.alipay.com.cn
 DOMAIN,amdc.m.taobao.com
+DOMAIN,android.clients.google.com
 DOMAIN,apapia-search-weblogic.manmanbuy.com
 DOMAIN,api-cn.store.heytapmobi.com
 DOMAIN,api-mayi.django.t.taobao.com
@@ -64,6 +65,7 @@ DOMAIN,click.baijiayun.com
 DOMAIN,click.tz.simba.taobao.com
 DOMAIN,client-inf.dewu.com
 DOMAIN,clients3.google.com
+DOMAIN,clientservices.googleapis.com
 DOMAIN,cloud.cpatrk.net
 DOMAIN,codepush.appcenter.ms
 DOMAIN,collect.moomoo.com
@@ -242,6 +244,7 @@ DOMAIN,trackingprd.hwwt8.com
 DOMAIN,tsn.baidu.com
 DOMAIN,tucao.qq.com
 DOMAIN,unipay.sdk.android
+DOMAIN,update.googleapis.com
 DOMAIN,update.moomoo.com
 DOMAIN,updatecdnv6.meeting.qq.com
 DOMAIN,upl.baidu.com
@@ -358,6 +361,7 @@ DOMAIN,xman-xflow-sdk.za.group
 DOMAIN,y.gtimg.cn
 DOMAIN,youhui.95516.com
 DOMAIN,zeus.csslcloud.net
+DOMAIN-KEYWORD,-pa.clients6.google.com
 DOMAIN-SUFFIX,0351dvd.cn
 DOMAIN-SUFFIX,0ce3c-1fd43.api.pushwoosh.com
 DOMAIN-SUFFIX,0j775d.cn
@@ -556,7 +560,6 @@ DOMAIN-SUFFIX,a.tapinfluence.com
 DOMAIN-SUFFIX,a.teads.tv
 DOMAIN-SUFFIX,a.teads.tv.edgekey.net
 DOMAIN-SUFFIX,a.tribalfusion.com
-DOMAIN-SUFFIX,a.vertamedia.com
 DOMAIN-SUFFIX,a.vidora.com
 DOMAIN-SUFFIX,a.zdbb.net
 DOMAIN-SUFFIX,a1.adform.net
@@ -915,26 +918,13 @@ DOMAIN-SUFFIX,ads.yieldmo.com
 DOMAIN-SUFFIX,ads.youtube.com
 DOMAIN-SUFFIX,ads1-adnow.com
 DOMAIN-SUFFIX,ads1.lfengmobile.com
-DOMAIN-SUFFIX,ads12.vertamedia.com
-DOMAIN-SUFFIX,ads16.vertamedia.com
 DOMAIN-SUFFIX,ads2-adnow.com
 DOMAIN-SUFFIX,ads2.eqads.com
 DOMAIN-SUFFIX,ads2.servebom.com
-DOMAIN-SUFFIX,ads21.vertamedia.com
-DOMAIN-SUFFIX,ads22.vertamedia.com
-DOMAIN-SUFFIX,ads23.vertamedia.com
-DOMAIN-SUFFIX,ads24.vertamedia.com
-DOMAIN-SUFFIX,ads25.vertamedia.com
-DOMAIN-SUFFIX,ads27.vertamedia.com
 DOMAIN-SUFFIX,ads3-adnow.com
 DOMAIN-SUFFIX,ads3.eqads.com
 DOMAIN-SUFFIX,ads3.fingersoft.net
 DOMAIN-SUFFIX,ads30.adcolony.com
-DOMAIN-SUFFIX,ads31.vertamedia.com
-DOMAIN-SUFFIX,ads32.vertamedia.com
-DOMAIN-SUFFIX,ads33.vertamedia.com
-DOMAIN-SUFFIX,ads34.vertamedia.com
-DOMAIN-SUFFIX,ads36.vertamedia.com
 DOMAIN-SUFFIX,ads5-adnow.com
 DOMAIN-SUFFIX,ads5-noneu.truecaller.com
 DOMAIN-SUFFIX,adsafeprotected.com
@@ -1150,7 +1140,6 @@ DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,amp-error-reporting.appspot.com
 DOMAIN-SUFFIX,amp.admarvel.com
 DOMAIN-SUFFIX,amp.adpushup.com
-DOMAIN-SUFFIX,amp.casalemedia.com
 DOMAIN-SUFFIX,amp.permutive.com
 DOMAIN-SUFFIX,amp.rd.linksynergy.com
 DOMAIN-SUFFIX,amplify-com-mktg.imgix.net
@@ -1754,12 +1743,9 @@ DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,arm.c.appier.net
 DOMAIN-SUFFIX,arpxs.com
 DOMAIN-SUFFIX,as-eb2.3lift.com
-DOMAIN-SUFFIX,as-sec.casalemedia.com
-DOMAIN-SUFFIX,as-sec.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,as-tlx.3lift.com
 DOMAIN-SUFFIX,as-ttd.jivox.com
 DOMAIN-SUFFIX,as.adlooxtracking.com
-DOMAIN-SUFFIX,as.casalemedia.com
 DOMAIN-SUFFIX,as.chango.com
 DOMAIN-SUFFIX,as.criteo.com
 DOMAIN-SUFFIX,as.criteo.net
@@ -1866,8 +1852,6 @@ DOMAIN-SUFFIX,auth.follow-apps.com
 DOMAIN-SUFFIX,auth.split.io
 DOMAIN-SUFFIX,autoads.asia
 DOMAIN-SUFFIX,autocomplete.demandbase.com
-DOMAIN-SUFFIX,aux-log1-sh.vertamedia.com
-DOMAIN-SUFFIX,aux-log2-sh.vertamedia.com
 DOMAIN-SUFFIX,aux.fqtag.com
 DOMAIN-SUFFIX,av1.xdrig.com
 DOMAIN-SUFFIX,avalonalbum.com
@@ -2132,6 +2116,7 @@ DOMAIN-SUFFIX,bx.optimix.asia
 DOMAIN-SUFFIX,bx01.optimix.asia
 DOMAIN-SUFFIX,bypass.ad-stir.com
 DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,c-eus.w.inmobi.com
 DOMAIN-SUFFIX,c.4dex.io
 DOMAIN-SUFFIX,c.aaxads.com
@@ -2685,6 +2670,7 @@ DOMAIN-SUFFIX,clientmetrics-augmentum.kik.com
 DOMAIN-SUFFIX,clientmetrics.kik.com
 DOMAIN-SUFFIX,clients-api.pushengage.com
 DOMAIN-SUFFIX,clients1.google.com
+DOMAIN-SUFFIX,clients2.google.com
 DOMAIN-SUFFIX,clients4.google.com
 DOMAIN-SUFFIX,clientsdk.luminati.io
 DOMAIN-SUFFIX,clipbongda.info
@@ -3262,10 +3248,6 @@ DOMAIN-SUFFIX,dsp.youdao.com
 DOMAIN-SUFFIX,dsp3.adtelligent.com
 DOMAIN-SUFFIX,dspbeacons.error.ihasdsp.inmobi.com
 DOMAIN-SUFFIX,dspcluster.adfarm1.adition.com
-DOMAIN-SUFFIX,dsum-sec.casalemedia.com
-DOMAIN-SUFFIX,dsum-sec.casalemedia.com.edgekey.net
-DOMAIN-SUFFIX,dsum.casalemedia.com
-DOMAIN-SUFFIX,dsum.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,dt-secure.videohub.tv
 DOMAIN-SUFFIX,dt.adsafeprotected.com
 DOMAIN-SUFFIX,dtc-v6t.com
@@ -4012,8 +3994,6 @@ DOMAIN-SUFFIX,hrzn-nxt.com
 DOMAIN-SUFFIX,hs-analytics.net
 DOMAIN-SUFFIX,hsforms.com
 DOMAIN-SUFFIX,ht.adups.com
-DOMAIN-SUFFIX,htlb.casalemedia.com
-DOMAIN-SUFFIX,htlb.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,html-img.revcontent.com
 DOMAIN-SUFFIX,html-load.com
 DOMAIN-SUFFIX,html5.adsrvr.org
@@ -4425,6 +4405,7 @@ DOMAIN-SUFFIX,is-tracking-pixel-api-prod.appspot.com
 DOMAIN-SUFFIX,ispot.tv
 DOMAIN-SUFFIX,it-gmtdmp.mookie1.com
 DOMAIN-SUFFIX,italentclc.com
+DOMAIN-SUFFIX,itdog.cn
 DOMAIN-SUFFIX,iterable.com
 DOMAIN-SUFFIX,iteratehq.com
 DOMAIN-SUFFIX,itim.vn
@@ -4468,7 +4449,6 @@ DOMAIN-SUFFIX,jpush.com
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,js-cdn.dynatrace.com
-DOMAIN-SUFFIX,js-sec.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,js-sec.indexww.com
 DOMAIN-SUFFIX,js.ad-stir.com
 DOMAIN-SUFFIX,js.adscale.de
@@ -4978,7 +4958,6 @@ DOMAIN-SUFFIX,mobrand.net
 DOMAIN-SUFFIX,mobvista.com
 DOMAIN-SUFFIX,moengagewebsdk.imgix.net
 DOMAIN-SUFFIX,momentus.gotrackier.com
-DOMAIN-SUFFIX,mon-va.byteoversea.com
 DOMAIN-SUFFIX,mon-va.tiktokv.com
 DOMAIN-SUFFIX,mon.tiktokv.com
 DOMAIN-SUFFIX,monetag.com
@@ -5757,6 +5736,7 @@ DOMAIN-SUFFIX,q.myvisualiq.net
 DOMAIN-SUFFIX,q017o-d42by.ads.tremorhub.com
 DOMAIN-SUFFIX,q017o-jh7o1.ads.tremorhub.com
 DOMAIN-SUFFIX,q4mn.adj.st
+DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qc.smartadserver.com
 DOMAIN-SUFFIX,qccoccocmedia.vn
 DOMAIN-SUFFIX,qcx.quantserve.com
@@ -5796,8 +5776,6 @@ DOMAIN-SUFFIX,qzonestyle.gtimg.cn
 DOMAIN-SUFFIX,r-ad.ne.jp
 DOMAIN-SUFFIX,r.3gl.net
 DOMAIN-SUFFIX,r.adrta.com
-DOMAIN-SUFFIX,r.casalemedia.com
-DOMAIN-SUFFIX,r.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,r.clicktale.net
 DOMAIN-SUFFIX,r.popin.cc
 DOMAIN-SUFFIX,r.remarketingpixel.com
@@ -6062,7 +6040,6 @@ DOMAIN-SUFFIX,s.update.stickyadstv.com
 DOMAIN-SUFFIX,s.update.tas.yieldmo.com
 DOMAIN-SUFFIX,s.update.wo.gumgum.com
 DOMAIN-SUFFIX,s.update.wtag.adaptv.advertising.com
-DOMAIN-SUFFIX,s.vertamedia.com
 DOMAIN-SUFFIX,s.vi-serve.com
 DOMAIN-SUFFIX,s.webtrends.com
 DOMAIN-SUFFIX,s.yieldmo.com
@@ -6591,10 +6568,6 @@ DOMAIN-SUFFIX,sspi.adpopcorn.com
 DOMAIN-SUFFIX,ssptrk.adpopcorn.com
 DOMAIN-SUFFIX,sstats.adobe.com
 DOMAIN-SUFFIX,sstats.teenvogue.com
-DOMAIN-SUFFIX,ssum-sec.casalemedia.com
-DOMAIN-SUFFIX,ssum-sec.casalemedia.com.edgekey.net
-DOMAIN-SUFFIX,ssum.casalemedia.com
-DOMAIN-SUFFIX,ssum.casalemedia.com.edgekey.net
 DOMAIN-SUFFIX,ssxd.mediav.com
 DOMAIN-SUFFIX,st-a.anthill.vn
 DOMAIN-SUFFIX,st-au.ants.vn
@@ -6861,7 +6834,6 @@ DOMAIN-SUFFIX,sync.teads.tv.edgekey.net
 DOMAIN-SUFFIX,sync.technoratimedia.com
 DOMAIN-SUFFIX,sync.tidaltv.com.akadns.net
 DOMAIN-SUFFIX,sync.tubemogul.com
-DOMAIN-SUFFIX,sync.vertamedia.com
 DOMAIN-SUFFIX,sync.viewdeos.com
 DOMAIN-SUFFIX,sync.vmweb.net
 DOMAIN-SUFFIX,sync1.intentiq.com
@@ -7529,6 +7501,7 @@ DOMAIN-SUFFIX,verizon.adhaven.com
 DOMAIN-SUFFIX,verizon.demdex.net
 DOMAIN-SUFFIX,verizontelecom.tt.omtrdc.net
 DOMAIN-SUFFIX,verseosdk.com
+DOMAIN-SUFFIX,vertamedia.com
 DOMAIN-SUFFIX,vervemobile.com
 DOMAIN-SUFFIX,vet-us-east-1.track.smaato.net
 DOMAIN-SUFFIX,vg-aws-us-east-1a-hb.rayjump.com
@@ -7814,7 +7787,6 @@ DOMAIN-SUFFIX,wzrkt.com
 DOMAIN-SUFFIX,x.bidswitch.net
 DOMAIN-SUFFIX,x.disq.us
 DOMAIN-SUFFIX,x.dlx.addthis.com
-DOMAIN-SUFFIX,x.fidelity-media.com
 DOMAIN-SUFFIX,x.skimresources.com
 DOMAIN-SUFFIX,x2.mookie1.com
 DOMAIN-SUFFIX,xad.com

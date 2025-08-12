@@ -12,3 +12,6 @@
 .translate.goog
 .search.app.goo.gl
 .google.dev
+.googleblog.com
+.goo.gle
+.gvt1.com

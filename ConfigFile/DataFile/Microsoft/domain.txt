@@ -31,3 +31,4 @@
 .azureedge.net
 .microsoftapp.net
 .sharepointonline.com
+.azurefd.net

@@ -5,7 +5,7 @@ DOMAIN,apptrailers.itunes.apple.com,extended-matching
 DOMAIN,download.developer.apple.com,extended-matching
 DOMAIN,downloaddispatch.itunes.apple.com,extended-matching
 DOMAIN,iosapps.itunes.apple.com,extended-matching
-DOMAIN,mesu.apple.com.w.cdngslb.com,extended-matching
+DOMAIN,k128-mzstatic.gslb.ksyuncdn.com,extended-matching
 DOMAIN,mvod.itunes.apple.com,extended-matching
 DOMAIN,oscdn.apple.com,extended-matching
 DOMAIN,osxapps.itunes.apple.com,extended-matching
@@ -18,10 +18,12 @@ DOMAIN-SUFFIX,aapl-edge0.qtlcdn.com,extended-matching
 DOMAIN-SUFFIX,apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,apple.com.download.ks-cdn.com,extended-matching
 DOMAIN-SUFFIX,apple.com.w.alikunlun.com,extended-matching
+DOMAIN-SUFFIX,apple.com.w.cdngslb.com,extended-matching
 DOMAIN-SUFFIX,apple.map.fastly.net,extended-matching
 DOMAIN-SUFFIX,idms-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com,extended-matching
 DOMAIN-SUFFIX,iosDOMAIN.qtlcdn.com.cdnmg.com,extended-matching
+DOMAIN-SUFFIX,ls-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,mzstatic.com,extended-matching
 DOMAIN-SUFFIX,origin-apple.com.akadns.net,extended-matching
 USER-AGENT,com.apple.appstored*

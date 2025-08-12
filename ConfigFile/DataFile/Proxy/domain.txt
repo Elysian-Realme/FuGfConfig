@@ -472,3 +472,8 @@ api.rc-backup.com
 .relay.firefox.com
 .freedium.cfd
 .ycombinator.com
+.sigstore.dev
+.adguardprivate.com
+.adguardcdn.com
+.sourceforge.net
+.trancy.org

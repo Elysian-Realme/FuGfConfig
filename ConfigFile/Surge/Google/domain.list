@@ -1,14 +1,17 @@
 DOMAIN-SUFFIX,gmail.com,extended-matching
+DOMAIN-SUFFIX,goo.gle,extended-matching
 DOMAIN-SUFFIX,google.com,extended-matching
 DOMAIN-SUFFIX,google.com.hk,extended-matching
 DOMAIN-SUFFIX,google.com.jp,extended-matching
 DOMAIN-SUFFIX,google.com.sg,extended-matching
 DOMAIN-SUFFIX,google.dev,extended-matching
 DOMAIN-SUFFIX,googleapis.com,extended-matching
+DOMAIN-SUFFIX,googleblog.com,extended-matching
 DOMAIN-SUFFIX,googledrive.com,extended-matching
 DOMAIN-SUFFIX,googletagmanager.com,extended-matching
 DOMAIN-SUFFIX,googleusercontent.com,extended-matching
 DOMAIN-SUFFIX,gstatic.com,extended-matching
+DOMAIN-SUFFIX,gvt1.com,extended-matching
 DOMAIN-SUFFIX,search.app.goo.gl,extended-matching
 DOMAIN-SUFFIX,translate.goog,extended-matching
 DOMAIN-SUFFIX,withgoogle.com,extended-matching

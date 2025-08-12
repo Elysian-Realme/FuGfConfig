@@ -22,11 +22,12 @@ USER-AGENT,com.apple.appstored*
 aod.itunes.apple.com
 mvod.itunes.apple.com
 streamingaudio.itunes.apple.com
+k128-mzstatic.gslb.ksyuncdn.com
 # Other
 download.developer.apple.com
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
-mesu.apple.com.w.cdngslb.com
+.apple.com.w.cdngslb.com
 .apple.com.w.alikunlun.com
 .apple.com.download.ks-cdn.com
 .apple.map.fastly.net
@@ -36,3 +37,4 @@ mesu.apple.com.w.cdngslb.com
 .aapl-edge0.qtlcdn.com
 .origin-apple.com.akadns.net
 .idms-apple.com.akadns.net
+.ls-apple.com.akadns.net

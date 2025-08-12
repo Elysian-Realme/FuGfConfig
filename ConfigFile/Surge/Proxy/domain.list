@@ -6,6 +6,8 @@ DOMAIN,vscodium.now.sh,extended-matching
 DOMAIN,zed-extensions.nyc3.digitaloceanspaces.com,extended-matching
 DOMAIN-SUFFIX,1password.com,extended-matching
 DOMAIN-SUFFIX,adguard.com,extended-matching
+DOMAIN-SUFFIX,adguardcdn.com,extended-matching
+DOMAIN-SUFFIX,adguardprivate.com,extended-matching
 DOMAIN-SUFFIX,adtidy.org,extended-matching
 DOMAIN-SUFFIX,amazon.com,extended-matching
 DOMAIN-SUFFIX,amazontrust.com,extended-matching
@@ -244,9 +246,11 @@ DOMAIN-SUFFIX,sagernet.org,extended-matching
 DOMAIN-SUFFIX,schemastore.org,extended-matching
 DOMAIN-SUFFIX,sectigo.com,extended-matching
 DOMAIN-SUFFIX,sharepoint.com,extended-matching
+DOMAIN-SUFFIX,sigstore.dev,extended-matching
 DOMAIN-SUFFIX,sm.ms,extended-matching
 DOMAIN-SUFFIX,snapcraft.io,extended-matching
 DOMAIN-SUFFIX,snapcraftcontent.com,extended-matching
+DOMAIN-SUFFIX,sourceforge.net,extended-matching
 DOMAIN-SUFFIX,spacex.com,extended-matching
 DOMAIN-SUFFIX,stackoverflow.co,extended-matching
 DOMAIN-SUFFIX,stackoverflow.com,extended-matching
@@ -267,6 +271,7 @@ DOMAIN-SUFFIX,thetvdb.com,extended-matching
 DOMAIN-SUFFIX,tii.la,extended-matching
 DOMAIN-SUFFIX,torproject.org,extended-matching
 DOMAIN-SUFFIX,tradingview.com,extended-matching
+DOMAIN-SUFFIX,trancy.org,extended-matching
 DOMAIN-SUFFIX,twimg.com,extended-matching
 DOMAIN-SUFFIX,twitch.tv,extended-matching
 DOMAIN-SUFFIX,twitchcdn.net,extended-matching

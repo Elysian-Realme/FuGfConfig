@@ -1564,6 +1564,9 @@ dm-*.toutiao.com
 .vod-license-b.volccdn.com
 .apm.volccdn.com
 .vod-settings.volcvod.com
+.mon-va.byteoversea.com
+.gpm-mon-va.byteoversea.com
+.pc-mon-va.byteoversea.com
 
 ## CSDN
 .ev.csdn.net
@@ -6550,3 +6553,5 @@ api.getkoala.com
 .m-adnet.dutils.com
 .api-d.hiaiabc.com
 .dapi.alistgo.com
+.uplog.qbox.me
+.dn-growing.qbox.me

@@ -6,6 +6,8 @@ DOMAIN,vscodium.now.sh
 DOMAIN,zed-extensions.nyc3.digitaloceanspaces.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguardcdn.com
+DOMAIN-SUFFIX,adguardprivate.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazontrust.com
@@ -244,9 +246,11 @@ DOMAIN-SUFFIX,sagernet.org
 DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sigstore.dev
 DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,snapcraft.io
 DOMAIN-SUFFIX,snapcraftcontent.com
+DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.com
@@ -267,6 +271,7 @@ DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tii.la
 DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,trancy.org
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net

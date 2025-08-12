@@ -7,6 +7,7 @@
 .bh3.com
 .yuanshen.com
 .juequling.com
+.bhsr.com
 
 ## 人机验证
 .hcaptcha.com
@@ -206,3 +207,5 @@ test-ipv6.com
 .air-matters.com
 .tover.xyz
 .qtlcdn.com.cdnmg.com
+.csair.com
+.qtlcdn.com

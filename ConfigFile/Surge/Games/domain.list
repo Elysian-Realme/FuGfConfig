@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,steamserver.net,extended-matching
 DOMAIN-SUFFIX,steamstat.us,extended-matching
 DOMAIN-SUFFIX,steamstatic.com,extended-matching
 DOMAIN-SUFFIX,tnt-ea.com,extended-matching
+DOMAIN-SUFFIX,unrealengine.com,extended-matching
 DOMAIN-SUFFIX,wshtgame.com,extended-matching
 DOMAIN-SUFFIX,xbox.com,extended-matching
 DOMAIN-SUFFIX,xbox.org,extended-matching

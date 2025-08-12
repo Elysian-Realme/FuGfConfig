@@ -9,6 +9,7 @@
 ##.add-panel
 ##.Ad-root
 ##.ad-root
+##.dynamic-ad-container
 ###live2d
 
 ! google
@@ -48,6 +49,14 @@ blog.csdn.net##.passport-auto-tip-login-container
 blog.csdn.net##.passport-container
 blog.csdn.net##.passport-container-mini
 blog.csdn.net##.passport-login-container
+
+! douban
+||img1.doubanio.com^*/douban-ad-helper*
+||img1.doubanio.com^*/download_app_banner*
+||img1.doubanio.com^*Lmpz*
+
+! OpenAI
+*||chatgpt.com/ces/v1/i
 
 ! zhihu
 zhihu.com##.css-1wq6v87
@@ -105,3 +114,11 @@ tool.oschina.net##.ad-wrap
 juejin.cn##.wechat-ad
 www.jianshu.com##._3Pnjry
 tanstack.com##div > .sticky.max-h-screen.overflow-y-auto
+||dn-growing.qbox.me/vds.js
+||assets.cnblogs.com/images/ghs.png
+||accounts.google.com^$domain=linux.do
+||js.stripe.com^$domain=linux.do
+||challenges.cloudflare.com^$domain=linux.do
+||q.stripe.com^$domain=linux.do
+||res.wx.qq.com^$domain=sspai.com|www.cnblogs.com
+||g.alicdn.com^$domain=sspai.com

@@ -53,6 +53,7 @@ IP-CIDR,139.9.46.117/32,no-resolve
 IP-CIDR,140.205.143.0/24,no-resolve
 IP-CIDR,140.205.198.0/24,no-resolve
 IP-CIDR,153.3.240.59/32,no-resolve
+IP-CIDR,153.3.46.82/32,no-resolve
 IP-CIDR,157.148.47.204/32,no-resolve
 IP-CIDR,157.148.49.253/32,no-resolve
 IP-CIDR,157.148.62.239/32,no-resolve
