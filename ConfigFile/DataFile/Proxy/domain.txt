@@ -1,0 +1,472 @@
+## Github
+.dependabot.com
+.ghcr.io
+.git.io
+.github-atom-io-herokuapp-com.freetls.fastly.net
+.github-avatars.oss-cn-hongkong.aliyuncs.com
+.github-cloud.s3.amazonaws.com
+.github.blog
+.github.com
+.github.community
+.github.dev
+.github.io
+.githubapp.com
+.githubassets.com
+.githubhackathon.com
+.githubpreview.dev
+.githubstatus.com
+.githubuniverse.com
+.githubusercontent.com
+.myoctocat.com
+.npm.community
+.npmjs.com
+.npmjs.org
+.opensource.guide
+.rawgit.com
+.rawgithub.com
+.thegithubshop.com
+.gitbook.com
+.gitbook.io
+.gitbooks.io
+.gitbook.zendesk.com
+.exp-tas.com
+
+## Gitlab
+.gitlab-static.net
+.gitlab.com
+.gitlab.io
+.gitlab.net
+.gitlab-assets.oss-cn-hongkong.aliyuncs.com
+.gitter-static.net
+.gitter.im
+
+## 代码工具
+.supabase.com
+.visualstudio.com
+.wakapi.dev
+.vscode-sync.trafficmanager.net
+.vscode-unpkg.net
+.vscode-cdn.net
+.vscodeexperiments.azureedge.net
+.vo.msecnd.net
+.vsassets.io
+.fig.io
+
+.anaconda.com
+.anaconda.org
+.jsdelivr.net
+.open-vsx.org
+.yarnpkg.com
+.npmjs.org
+
+.nuget.org
+.tensorflow.org
+.maven.apache.org
+.huggingface.co
+
+.rust-lang.org
+.rustup.rs
+
+## Debian 仓库
+.debian.org
+
+## Ubuntu
+.ubuntu.com
+.snapcraft.io
+.snapcraftcontent.com
+.launchpadcontent.net
+.canonical.com
+
+## kali 仓库
+.kali.org
+
+## docker
+.docker.io
+.docker.com
+.dockerstatic.com
+
+## brew
+.brew.sh
+
+## go
+.golang.org
+.godoc.org
+.goproxy.io
+.go.dev
+
+## python
+.pypi.org
+.pythonhosted.org
+.python.org
+
+## vscode
+.vscode-unpkg.net
+.vscode-cdn.net
+.visualstudio.com
+.vscodeexperiments.azureedge.net
+.vo.msecnd.net
+.vsassets.io
+.vscode-webview.net
+
+## vscodium
+vscodium.now.sh
+.vscodium.com
+
+## code docs
+.vuejs.org
+
+## 编辑器
+.zed.dev
+zed-extensions.nyc3.digitaloceanspaces.com
+.doomemacs.org
+
+## proton
+.proton.me
+.pm.me
+.protonmail.ch
+.protonmail.com
+.protonstatus.com
+
+## blender
+.blender.org
+
+## 维基百科
+.wikipedia.org
+.wikimedia.org
+
+## Pixiv
+.pximg.net
+.fanbox.cc
+.pixiv.me
+.pixiv.net
+.pixiv.re
+.pixiv.cat
+.pixiv.co.jp
+.pixiv.org
+.booth.pm
+
+## Twitter
+.twitter.com
+.twimg.com
+.t.co
+.x.com
+
+## Bluesky Social
+.bsky.app
+.bsky.social
+.bsky.network
+
+## 密码管理器
+.bitwarden.com
+.bitwarden.net
+.1password.com
+
+## apksure
+.apkpure.com
+.apkpure.net
+.cdnpure.com
+.pureapk.com
+.winudf.com
+
+## dropbox
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropbox.zendesk.com
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+.paper-attachments.s3.amazonaws.com
+
+## duckduckgo
+.duckduckgo.com
+.duckduckco.com
+
+## Yandex
+.yandex.ru
+.yastatic.net
+
+## lastfm
+.last.fm
+
+## vercel
+.vercel.app
+
+## 长毛象
+.o3o.ca
+.cmx.im
+
+## 笔记软件
+# notion
+.notion.so
+.notion.com
+.notion.site
+.notionusercontent.com
+http-inputs-notion.splunkcloud.com
+.obsidian.md
+
+## vivaldi
+.vivaldi.com
+.vivaldi.net
+
+## matrix
+.matrix.org
+
+## vercel
+.vercel.com
+.vercel.sh
+
+## stripe
+.stripe.com
+.stripe.network
+
+## typlog
+.typlog.com
+.typlog.io
+
+## anchor
+.anchor.fm
+
+## facebook
+.facebook.com
+.facebook.net
+.fbcdn.net
+.meta.com
+.instagram.com
+.cdninstagram.com
+
+## onedrive 网页版
+onedrive.live.com
+
+## mega
+.mega.co.nz
+.mega.nz
+
+## discord
+.discord.com
+.discord.gg
+.discord.media
+.discordapp.com
+.discordapp.net
+.dcbadge.limes.pink
+
+## twitch
+.twitch.tv
+.twitchcdn.net
+# static-cdn.jtvnw.net
+# .ttvnw.net
+# poe.live-video.net
+
+## emby
+.emby.media
+.embydata.com
+
+.kodi.tv
+
+## 影音网站
+.adtidy.org
+.mb3admin.com
+.themoviedb.org
+.thetvdb.com
+.omdbapi.com
+.fanart.tv
+
+## gravatar
+.gravatar.com
+.vercel.com
+
+## matters
+.matters.news
+.mattersprotocol.io
+.matters.town
+
+## Figma
+.figma.com
+
+## vk
+.mvk.com
+.userapi.com
+.vk-cdn.me
+.vk-cdn.net
+.vk-portal.net
+.vk.cc
+.vk.com
+.vk.design
+.vk.link
+.vk.me
+.vkcache.com
+.vkgo.app
+.vklive.app
+.vkmessenger.app
+.vkmessenger.com
+.vkontakte.ru
+.vkuseraudio.com
+.vkuserlive.net
+.vkuservideo.com
+.vkuservideo.net
+
+## SSL 相关
+.lencr.org
+.letsencrypt.org
+.comodoca.com
+.sectigo.com
+.positivessl.com
+.digicert.com
+.ocsp.pki.goog
+
+## Gitea
+.gitea.io
+.gitea.com
+
+## 亚马逊
+.amazontrust.com
+.amazon.com
+
+## unity
+.unity3d.com
+.unity.com
+
+## reddit
+.reddit.com
+.redditstatic.com
+.redditmedia.com
+.redd.it
+
+## tailscale
+.tailscale.com
+.tailscale.io
+
+## f-droid
+.f-droid.org
+
+## proxmox
+.proxmox.com
+
+## 多邻国 duolingo
+.duolingo.com
+
+## ubnt
+.ui.com
+.ubnt.com
+
+## resilio
+.resilio.com
+
+## news
+.bbc.com
+.bbc.co.uk
+.reuters.com
+
+## 存疑
+.vscode-sync.trafficmanager.net
+.monitor.firefox.com
+.vortex.data.microsoft.com
+.vchv.ltd
+
+## 其他
+.iterm2.com
+.swiftpackageindex.com
+.echo.labstack.com
+.tradingview.com
+.orbstack.dev
+.remix.run
+.wireshark.org
+.portswigger.net
+.svelte.dev
+.android.com
+.nodejs.org
+.schemastore.org
+.stackoverflow.com
+.stackoverflow.co
+.arxiv.org
+.fontawesome.com
+.polyfill.io
+.gpgtools.org
+.raycast.com
+.raycast-releases.com
+raycast-store-extensions.s3-accelerate.amazonaws.com
+.jquery.com
+.adguard.com
+.typlod.io
+.fireside.fm
+.pwalist.app
+.moon.fm
+.half.plus
+.halfs.me
+.sm.ms
+.nsloon.com
+.v2ex.com
+.appsco.pe
+.decohack.com
+.campaign-archive.com
+.calibre-ebook.com
+.sharepoint.com
+.xiaomi.eu
+.gamer.com.tw
+.minamigo.moe
+.quantumult.app
+.deepl.com
+.edu.tw
+.prodkeys.net
+.eggnsemulator.com
+.tii.la
+.archive.org
+.annas-archive.org
+.annas-archive.gs
+.openwrt.org
+.sublimetext.com
+.rfi.fr
+.surge-activation.com
+.hlj.fun
+.authy.com
+.feedburner.com
+.torproject.org
+.archive.ph
+.medium.com
+.unlock-music.dev
+.ollama.com
+.ollama.ai
+.primevideo.com
+.woolyss.com
+.spacex.com
+.flickr.com
+.nssurge.com
+.nyaa.si
+.archive.is
+.download-chromium.appspot.com
+.chromium.org
+.melpa.org
+.bitbucket.org
+.opensource.google
+.lmsys.org
+.sagernet.org
+.joyreactor.cc
+.imgur.com
+.hackmd.io
+.hackmd-prod-images.s3-ap-northeast-1.amazonaws.com
+.lmarena.ai
+.winget.microsoft.com
+.revenuecat.com
+api.rc-backup.com
+.grafana.com
+.raindrop.io
+.ctftime.org
+.developer.mozilla.org
+.relay.firefox.com
+.freedium.cfd
+.ycombinator.com
+.sigstore.dev
+.adguardprivate.com
+.adguardcdn.com
+.sourceforge.net
+.trancy.org
+.linux.do

@@ -1,0 +1,217 @@
+## 全局
+.cn
+
+## mihoyo
+.mihoyo.com
+.mhystatic.com
+.bh3.com
+.yuanshen.com
+.juequling.com
+.bhsr.com
+
+## 人机验证
+.hcaptcha.com
+
+## alibaba
+.alidns.com
+.alibaba.com
+.aliyun.com
+.aliyuncdn.com
+.aliyundrive.com
+.aliyundrive.net
+.alicdn.com
+.taobao.com
+.taobaocdn.com
+.tmall.com
+.tmall.hk
+.alipay.com
+.alipayobjects.com
+.doh.pub
+.alipan.com
+.tbcache.com
+.tbcdn.cn
+
+## Tencent
+.tencent.com
+.weixin.com
+.qq.com
+.dnspod.com
+.qcloud.com
+.myqcloud.com
+.qzone.com
+.qzoneapp.com
+.smtcdns.com
+
+## 阿里云盘资源搜索
+alipanso.com
+alixiaozhan.net
+pan.3636360.com
+
+## weibo
+.weibo.com
+.weibocdn.com
+.sinaimg.com
+.miaopai.com
+.jidian.im
+
+## bilibili
+.bilibili.com
+.bilivideo.com
+.bilibili.tv
+.biliapi.net
+.biliapi.com
+.acgvideo.com
+.acg.tv
+.b23.tv
+.hdslb.com
+.upos-hz-mirrorakam.akamaized.net
+im9.com
+# smtcdns.net
+.biligame.com
+.biligame.net
+
+## CCTV
+cctv.com
+cctvpic.com
+livechina.com
+
+## mi
+duokan.com
+mi-img.com
+mi.com
+miui.com
+xiaomi.com
+xiaomi.net
+xiaomicp.com
+miwifi.com
+
+## JD
+.360buy.com
+.360buyimg.com
+.jcloudcs.com
+.jd.com
+.jd.hk
+.jdcloud.com
+.jdpay.com
+.paipai.com
+
+## Vip 唯品会
+appsimg.com
+appvipshop.com
+vip.com
+vipstatic.com
+
+## Ximalaya 喜马拉雅
+.ximalaya.com
+.xmcdn.com
+
+## Iqiyi
+.71.am
+.71edge.com
+.iqiyi.com
+.iqiyipic.com
+.ppsimg.com
+.qiyi.com
+.qiyipic.com
+.qy.net
+
+## DiDi
+.didialift.com
+.didiglobal.com
+.udache.com
+
+.dingtalk.com
+
+## Douyu 斗鱼
+.douyu.com
+.douyu.tv
+.douyuscdn.com
+.douyutv.com
+
+## NetEase
+.126.com
+.126.net
+.127.net
+.163.com
+.163yun.com
+.lofter.com
+.netease.com
+.ydstatic.com
+.youdao.com
+
+## Sony
+.playstation.com
+.playstation.net
+.playstationnetwork.com
+.sony.com
+.sonyentertainmentnetwork.com
+
+## ChinaUnicom
+.10010.com
+.10010.net
+.chinaunicom.com
+.chinaunicom.com.hk
+
+## 镜像站
+.npmmirror.com
+.hf-mirror.com
+.tuna.tsinghua.edu.cn
+
+## Code
+.maven.org
+.download.java.net
+
+## Xiaohongshu
+.xiaohongshu.com
+.xhscdn.com
+
+## Development
+.sqlc.dev
+
+## 其他
+fonts.gstatic.com
+fonts.googleapis.com
+snapdrop.net
+test-ipv6.com
+.zhihu.com
+.zhimg.com
+.douban.com
+.weiyun.com
+.edrawsoft.com
+.apprcn.com
+.jianshu.io
+.appinn.com
+.coolapk.com
+.smms.app
+.rustdesk.com
+.lizhi.io
+.cloudfront.net
+.liveperson.net
+.lpsnmedia.net
+.saxyit.com
+.eccdnx.com
+.123pan.com
+.139.com
+.baidu.com
+.bytescm.com
+.byteimg.com
+.kugou.com
+.gecimi.com
+.cnblogs.com
+.sharpmobi.com
+.fit2cloud.com
+.cctv.com
+.ghpym.com
+.vmware.com
+.ntp.org
+ntp.ubuntu.com
+.obsproject.com
+.deepseek.com
+.linux.do
+.air-matters.com
+.tover.xyz
+.qtlcdn.com.cdnmg.com
+.csair.com
+.qtlcdn.com
+.lmstudio.ai
+.relingo.net

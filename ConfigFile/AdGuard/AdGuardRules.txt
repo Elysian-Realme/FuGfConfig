@@ -1,0 +1,137 @@
+! 本规则适用于 AdGuard
+! update: 2024/03/01
+! class 选择器 .
+! id 选择器 #
+
+! 全局
+##.ads
+##.ads-ss
+##.add-panel
+##.Ad-root
+##.ad-root
+##.dynamic-ad-container
+###live2d
+
+! google
+google.com##.gb_a
+google.com##.gb_dd
+google.com##.logo
+
+! icons8
+icons8.com##.by-sell-ads-large
+
+! bilibili
+t.bilibili.com##.bili-dyn-ads
+t.bilibili.com##.bili-dyn-banner
+t.bilibili.com##.bili-dyn-version-control
+t.bilibili.com##.sticky
+t.bilibili.com##.bili-dyn-banner
+t.bilibili.com##.bg
+t.bilibili.com##.bgc
+bilibili.com##.ad-report
+bilibili.com##.ad-floor-exp
+bilibili.com##.header-channel
+bilibili.com##.carousel-transform
+bilibili.com##.desktop-download-tip
+bilibili.com##.download-client-trigger
+bilibili.com##.trial-feed-wrap
+bilibili.com###slide_ad
+bilibili.com##.slide-ad-exp
+bilibili.com###wxwork-share-pic
+bilibili.com##.video-page-game-card-small
+live.bilibili.com##.flip-view
+live.bilibili.com##..item-wrapper
+||api.bilibili.com/x/click-interface/web/heartbeat
+||api.bilibili.com/x/web-frontend/data/report
+||api.bilibili.com/x/web-frontend/data/collector
+||api.bilibili.com/x/internal/gaia-gateway
+||hdslb.com/bfs/polaris_web_conf/polaris/webcnf/event.cnf
+||hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/log-reporter.js
+||hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/event-tracker.js
+||hdslb.com/bfs/seed/blive/blfe-link-shortassets/dist/component.statistics/error-tracker.js
+||hdslb.com/bfs/seed/jinkela/short/user-fingerprint/bili-user-fingerprint.min.js
+||hdslb.com/bfs/seed/jinkela/short/minntaki-wasm-sdk/bili-sc-sdk.umd.js
+||hdslb.com/bfs/seed/jinkela/short/bmg/register/fallback.js
+||hdslb.com/bfs/cm/cm-sdk/*
+||hdslb.com/bfs/seed/log/*
+||hdslb.com/*user-fingerprint*$script
+||hdslb.com/bfs/seed/jinkela/kv-sdk/*
+||app.bilibili.com/x/topic/pub/rcmd/search
+||data.bilibili.com^
+||cm.bilibili.com^
+
+! douban
+||img1.doubanio.com^*/douban-ad-helper*
+||img1.doubanio.com^*/download_app_banner*
+||img1.doubanio.com^*Lmpz*
+
+! OpenAI
+*||chatgpt.com/ces/v1/i
+
+! zhihu
+zhihu.com##.css-1wq6v87
+zhihu.com##.css-1q7njkh
+zhihu.com##.Modal-wrapper
+zhihu.com##.Modal-enter-done
+zhihu.com##.LoadingBar
+zhuanlan.zhihu.com##.css-1wq6v87
+zhuanlan.zhihu.com##.css-nk32ej
+zhuanlan.zhihu.com##.Modal-wrapper
+zhuanlan.zhihu.com##.signFlowModal
+zhuanlan.zhihu.com##.js-clientConfig
+zhuanlan.zhihu.com##.js-initialData
+zhuanlan.zhihu.com##.css-8pdeid
+zhuanlan.zhihu.com##.Modal-backdrop
+||zhihu.com/api/v3/account/api/login/qrcode/*
+
+! smzdm
+post.smzdm.com##.side-stuff
+post.smzdm.com##.z-stuff-bar
+post.smzdm.com##.z-stuff-bar-footer
+
+! 51cto
+blog.51cto.com##.ac-box
+blog.51cto.com##.minmenu
+blog.51cto.com##.creative
+blog.51cto.com##.commonhide
+blog.51cto.com##.action-aside-left
+
+! apkpure.net
+apkpure.net##.ad-adsense
+apkpure.net##.ad-box
+apkpure.net##.debut-game
+apkpure.net##.share-fixed
+
+! freebuf.com
+www.freebuf.com##.aside-left
+www.freebuf.com##.module-middle
+www.freebuf.com##.floating-view
+
+! wiki.mbalib.com
+wiki.mbalib.com##.column-one
+wiki.mbalib.com##.immobilization-ad
+wiki.mbalib.com##.tool-bar
+wiki.mbalib.com##.ke-lay-in-wiki
+wiki.mbalib.com##.qrcode_wiki
+
+! weixin
+mp.weixin.qq.com##.js_pc_qr_code
+mp.weixin.qq.com##.qr_code_pc_inner
+mp.weixin.qq.com##.qr_code_pc
+
+! other
+tool.oschina.net##.ad-wrap
+juejin.cn##.wechat-ad
+www.jianshu.com##._3Pnjry
+tanstack.com##div > .sticky.max-h-screen.overflow-y-auto
+||cdn.dancf.com/fe-assets/cowtransfer-ad/js/wallpaper.js
+||cdn.dancf.com/fe-assets/20220419/cowtransfer-front/public/static/js/webfont.js
+||cowtransfer.com/api/generic/backgrounds
+||dn-growing.qbox.me/vds.js
+||assets.cnblogs.com/images/ghs.png
+||accounts.google.com^$domain=linux.do
+||js.stripe.com^$domain=linux.do
+||challenges.cloudflare.com^$domain=linux.do
+||q.stripe.com^$domain=linux.do
+||res.wx.qq.com^$domain=sspai.com|www.cnblogs.com
+||g.alicdn.com^$domain=sspai.com

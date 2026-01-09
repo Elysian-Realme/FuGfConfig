@@ -1,0 +1,3 @@
+.stripe.com
+.stripecdn.com
+.stripeassets.com

@@ -1,0 +1,80 @@
+## mihoyo 非国服
+.bbs-api-os.mihoyo.com
+.sentry.mihoyo.com
+.hoyolab.com
+.hoyoverse.com
+.sdk-os-static.mihoyo.com
+.hk4e-sdk-os.mihoyo.com
+.hk4e-api-os.mihoyo.com
+.minor-api-os.mihoyo.com
+.osasiadispatch.yuanshen.com
+.autopatchhk.yuanshen.com
+overseauspider.yuanshen.com
+# .account.hoyoverse.com
+# .webstatic-sea.mihoyo.com
+
+## Minecraft 我的世界 国际版
+.minecraft.net
+.minecraft.com
+.minecraft-services.net
+.minecraftshop.com
+.mojang.com
+
+.playfabapi.com
+.fandom.com
+
+## Xbox
+.xbox.com
+.xbox.org
+.xbox360.com
+.xboxone.com
+.xboxlive.com
+.xboxgamepass.com
+.xboxservices.com
+.xboxstudios.com
+.xboxgamestudios.com
+.msgamestudios.com
+.gamepass.com
+.playfabapi.com
+
+## apex
+.mgapex.com
+# 港区规则
+.iegcom.com
+.intlgame.com
+.apexmfps.com
+.singaporepaya.com
+
+## EA
+.ea.com
+.mirrorsedge.com
+.origin.com
+.tnt-ea.com
+
+## Epic
+.epicgames.com
+.unrealengine.com
+
+## steam
+.steamgames.com
+.steamcommunity.com
+.steamstat.us
+.steamstatic.com
+.steamcontent.com
+.steamserver.net
+.steampowered.com
+## gameloft
+.gameloft.com
+.wshtgame.com
+.steamstatic.com
+steammobile.akamaized.net
+steamcdn-a.akamaihd.net
+# 网宿(国际)
+steam.apac.qtlglb.com
+steam.eca.qtlglb.com
+steam.naeu.qtlglb.com
+steam.ru.qtlglb.com
+
+## Others
+.fandom.com
+.infinitode.prineside.com

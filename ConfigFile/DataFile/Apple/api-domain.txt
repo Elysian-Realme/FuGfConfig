@@ -1,0 +1,44 @@
+# 下列规则来自 https://github.com/geekdada/surge-list/blob/master/surgio-snippet/apple.tpl
+## 一些 com.apple.appstored* 会连接的 API（优先级高）
+guzzoni.apple.com
+apps.apple.com
+xp.apple.com
+bag.itunes.apple.com
+api-edge.apps.apple.com
+api.apps.apple.com
+play.itunes.apple.com
+se.itunes.apple.com
+se-edge.itunes.apple.com
+su.itunes.apple.com
+upp.itunes.apple.com
+beta.music.apple.com
+*buy.itunes.apple.com
+.itunes-apple.com.akadns.net
+.edge-itunes-apple.com.akadns.net
+# 验证服务器
+.service.gc.apple.com
+.setup.icloud.com
+.appleid.apple.com
+.gc.apple.com
+.gsa.apple.com
+# iMessage 和 Facetime 服务器
+.ess.apple.com
+# 推送服务器
+.gateway.sandbox.push.apple.com
+.gateway.push.apple.com
+# Mac OS 的 App Store 服务器
+.swscan.apple.com
+.swquery.apple.com
+
+# Apple Music
+.music.apple.com
+.sonos-music.apple.com
+# Configuration
+configuration.apple.com
+# Others
+.aaplimg.com
+.apple.co
+.itunes.com
+.itunes.apple.com
+weather-analytics-events.apple.com
+.apple-mapkit.com

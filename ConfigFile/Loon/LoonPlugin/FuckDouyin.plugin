@@ -1,0 +1,174 @@
+[Host]
+*.douyin.com = 127.0.0.1
+*.amemv.com = 127.0.0.1
+*.idouyinvod.com = 127.0.0.1
+*.douyinvod.com = 127.0.0.1
+*.snssdk.com = 127.0.0.1
+*.douyincdn.com = 127.0.0.1
+*.abtest-ch.snssdk.com = 127.0.0.1
+*.activity-aghbwh.awemeughun.com = 127.0.0.1
+*.api.amemv.com = 127.0.0.1
+*.api100-core-c333.amemv.com = 127.0.0.1
+*.api100-core-c333.amemv.com = 127.0.0.1
+*.api3-core-c-lf.amemv.com = 127.0.0.1
+*.api3-normal-c-lf.amemv.com = 127.0.0.1
+*.api5-core-c-lf.amemv.com = 127.0.0.1
+*.api5-normal-c-lf.amemv.com = 127.0.0.1
+*.aweme.snssdk.com = 127.0.0.1
+*.bsync3-normal-lf.zijieapi.com = 127.0.0.1
+*.dig.bdurl.net = 127.0.0.1
+*.dm.toutiao.com = 127.0.0.1
+*.effect.snssdk.com = 127.0.0.1
+*.frontier-aweme-lf-ipainner.amemv.com = 127.0.0.1
+*.frontier100-aweme-lf.amemv.com = 127.0.0.1
+*.hotsoon.snssdk.com = 127.0.0.1
+*.i.snssdk.com = 127.0.0.1
+*.is.snssdk.com = 127.0.0.1
+*.iu.snssdk.com = 127.0.0.1
+*.lf-cdn-tos.bytescm.com = 127.0.0.1
+*.lf.snssdk.com = 127.0.0.1
+*.lf1-cdn-tos.bytegoofy.com = 127.0.0.1
+*.lf3-cdn-tos.bytescm.com = 127.0.0.1
+*.lf3-short.bytegoofy.com = 127.0.0.1
+*.lf3-static.bytednsdoc.com = 127.0.0.1
+*.lf9-dy-cdn-tos.bytegecko.com = 127.0.0.1
+*.lf9-webcast-cdn-tos.bytegecko.com = 127.0.0.1
+*.log.snssdk.com = 127.0.0.1
+*.log3-misc-lf.amemv.com = 127.0.0.1
+*.log5-misc-lf.amemv.com = 127.0.0.1
+*.ma3-normal-lf.zijieapi.com = 127.0.0.1
+*.ma5-normal-lf.zijieapi.com = 127.0.0.1
+*.mon.snssdk.com = 127.0.0.1
+*.mon.toutiaocloud.com = 127.0.0.1
+*.mon.toutiaocloud.net = 127.0.0.1
+*.mon11-misc-lf.amemv.com = 127.0.0.1
+*.mssdk3-normal-lf.zijieapi.com = 127.0.0.1
+*.open.snssdk.com = 127.0.0.1
+*.p1.pstatp.com = 127.0.0.1
+*.p26-sign.douyinpic.com = 127.0.0.1
+*.p26.douyinpic.com = 127.0.0.1
+*.p29.douyinpic.com = 127.0.0.1
+*.p3-sign.douyinpic.com = 127.0.0.1
+*.p3.douyinpic.com = 127.0.0.1
+*.p3.pstatp.com = 127.0.0.1
+*.p5-ipv6.douyinpic.com = 127.0.0.1
+*.p6-sign.douyinpic.com = 127.0.0.1
+*.p6-webcast.douyinpic.com = 127.0.0.1
+*.p6.douyinpic.com = 127.0.0.1
+*.p9-sign.douyinpic.com = 127.0.0.1
+*.p9-webcast.douyinpic.com = 127.0.0.1
+*.p9.douyinpic.com = 127.0.0.1
+*.pitaya.bytedance.com = 127.0.0.1
+*.pull-f5.flive.douyincdn.com = 127.0.0.1
+*.pull-flv-f26.douyincdn.com = 127.0.0.1
+*.pull-flv-l26.douyincdn.com = 127.0.0.1
+*.pull-flv-l6.douyincdn.com = 127.0.0.1
+*.search100-search-quic-lf.amemv.com = 127.0.0.1
+*.search3-search-lf.amemv.com = 127.0.0.1
+*.search5-search-lf.amemv.com = 127.0.0.1
+*.security.snssdk.com = 127.0.0.1
+*.sf1-scmcdn-tos.pstatp.com = 127.0.0.1
+*.sf1-scmcdn2-tos.pstatp.com = 127.0.0.1
+*.tnc11-aliec2.bytedance.com = 127.0.0.1
+*.tnc11-alisc1.bytedance.com = 127.0.0.1
+*.tnc11-bjlgy.bytedance.com = 127.0.0.1
+*.tnc3-alisc1.bytedance.com = 127.0.0.1
+*.tp-pay.snssdk.com = 127.0.0.1
+*.v26-qos-hourly.douyinvod.com = 127.0.0.1
+*.v26.douyinvod.com = 127.0.0.1
+*.v5-qos-hourly.douyinvod.com = 127.0.0.1
+*.v9-qos-hourly.douyinvod.com = 127.0.0.1
+*.vcs.snssdk.com = 127.0.0.1
+*.webcast100-ws-c-lf.amemv.com = 127.0.0.1
+*.webcast3-core-c-lf.amemv.com = 127.0.0.1
+*.webcast3-normal-c-lf.amemv.com = 127.0.0.1
+*.webcast5-core-c-lf.amemv.com = 127.0.0.1
+*.webcast5-normal-c-lf.amemv.com = 127.0.0.1
+*.xlog.snssdk.com = 127.0.0.1
+[Rule]
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,abtest-ch.snssdk.com
+DOMAIN-SUFFIX,activity-aghbwh.awemeughun.com
+DOMAIN-SUFFIX,api.amemv.com
+DOMAIN-SUFFIX,api100-core-c333.amemv.com
+DOMAIN-SUFFIX,api100-core-c333.amemv.com
+DOMAIN-SUFFIX,api3-core-c-lf.amemv.com
+DOMAIN-SUFFIX,api3-normal-c-lf.amemv.com
+DOMAIN-SUFFIX,api5-core-c-lf.amemv.com
+DOMAIN-SUFFIX,api5-normal-c-lf.amemv.com
+DOMAIN-SUFFIX,aweme.snssdk.com
+DOMAIN-SUFFIX,bsync3-normal-lf.zijieapi.com
+DOMAIN-SUFFIX,dig.bdurl.net
+DOMAIN-SUFFIX,dm.toutiao.com
+DOMAIN-SUFFIX,effect.snssdk.com
+DOMAIN-SUFFIX,frontier-aweme-lf-ipainner.amemv.com
+DOMAIN-SUFFIX,frontier100-aweme-lf.amemv.com
+DOMAIN-SUFFIX,hotsoon.snssdk.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,is.snssdk.com
+DOMAIN-SUFFIX,iu.snssdk.com
+DOMAIN-SUFFIX,lf-cdn-tos.bytescm.com
+DOMAIN-SUFFIX,lf.snssdk.com
+DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
+DOMAIN-SUFFIX,lf3-cdn-tos.bytescm.com
+DOMAIN-SUFFIX,lf3-short.bytegoofy.com
+DOMAIN-SUFFIX,lf3-static.bytednsdoc.com
+DOMAIN-SUFFIX,lf9-dy-cdn-tos.bytegecko.com
+DOMAIN-SUFFIX,lf9-webcast-cdn-tos.bytegecko.com
+DOMAIN-SUFFIX,log.snssdk.com
+DOMAIN-SUFFIX,log3-misc-lf.amemv.com
+DOMAIN-SUFFIX,log5-misc-lf.amemv.com
+DOMAIN-SUFFIX,ma3-normal-lf.zijieapi.com
+DOMAIN-SUFFIX,ma5-normal-lf.zijieapi.com
+DOMAIN-SUFFIX,mon.snssdk.com
+DOMAIN-SUFFIX,mon.toutiaocloud.com
+DOMAIN-SUFFIX,mon.toutiaocloud.net
+DOMAIN-SUFFIX,mon11-misc-lf.amemv.com
+DOMAIN-SUFFIX,mssdk3-normal-lf.zijieapi.com
+DOMAIN-SUFFIX,open.snssdk.com
+DOMAIN-SUFFIX,p1.pstatp.com
+DOMAIN-SUFFIX,p26-sign.douyinpic.com
+DOMAIN-SUFFIX,p26.douyinpic.com
+DOMAIN-SUFFIX,p29.douyinpic.com
+DOMAIN-SUFFIX,p3-sign.douyinpic.com
+DOMAIN-SUFFIX,p3.douyinpic.com
+DOMAIN-SUFFIX,p3.pstatp.com
+DOMAIN-SUFFIX,p5-ipv6.douyinpic.com
+DOMAIN-SUFFIX,p6-sign.douyinpic.com
+DOMAIN-SUFFIX,p6-webcast.douyinpic.com
+DOMAIN-SUFFIX,p6.douyinpic.com
+DOMAIN-SUFFIX,p9-sign.douyinpic.com
+DOMAIN-SUFFIX,p9-webcast.douyinpic.com
+DOMAIN-SUFFIX,p9.douyinpic.com
+DOMAIN-SUFFIX,pitaya.bytedance.com
+DOMAIN-SUFFIX,pull-f5.flive.douyincdn.com
+DOMAIN-SUFFIX,pull-flv-f26.douyincdn.com
+DOMAIN-SUFFIX,pull-flv-l26.douyincdn.com
+DOMAIN-SUFFIX,pull-flv-l6.douyincdn.com
+DOMAIN-SUFFIX,search100-search-quic-lf.amemv.com
+DOMAIN-SUFFIX,search3-search-lf.amemv.com
+DOMAIN-SUFFIX,search5-search-lf.amemv.com
+DOMAIN-SUFFIX,security.snssdk.com
+DOMAIN-SUFFIX,sf1-scmcdn-tos.pstatp.com
+DOMAIN-SUFFIX,sf1-scmcdn2-tos.pstatp.com
+DOMAIN-SUFFIX,tnc11-aliec2.bytedance.com
+DOMAIN-SUFFIX,tnc11-alisc1.bytedance.com
+DOMAIN-SUFFIX,tnc11-bjlgy.bytedance.com
+DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
+DOMAIN-SUFFIX,tp-pay.snssdk.com
+DOMAIN-SUFFIX,v26-qos-hourly.douyinvod.com
+DOMAIN-SUFFIX,v26.douyinvod.com
+DOMAIN-SUFFIX,v5-qos-hourly.douyinvod.com
+DOMAIN-SUFFIX,v9-qos-hourly.douyinvod.com
+DOMAIN-SUFFIX,vcs.snssdk.com
+DOMAIN-SUFFIX,webcast100-ws-c-lf.amemv.com
+DOMAIN-SUFFIX,webcast3-core-c-lf.amemv.com
+DOMAIN-SUFFIX,webcast3-normal-c-lf.amemv.com
+DOMAIN-SUFFIX,webcast5-core-c-lf.amemv.com
+DOMAIN-SUFFIX,webcast5-normal-c-lf.amemv.com
+DOMAIN-SUFFIX,xlog.snssdk.com
