@@ -215,3 +215,4 @@ ntp.ubuntu.com
 .qtlcdn.com
 .lmstudio.ai
 .relingo.net
+ocsp.digicert.com

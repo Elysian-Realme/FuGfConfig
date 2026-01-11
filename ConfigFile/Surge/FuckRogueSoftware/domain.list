@@ -158,7 +158,8 @@ DOMAIN,api-access.pangolin-sdk-toutiao-b.com,extended-matching
 DOMAIN,api-access.pangolin-sdk-toutiao.com,extended-matching
 DOMAIN,api-bos.hismarttv.com,extended-matching
 DOMAIN,api-cloudfalcon.hismarttv.com,extended-matching
-DOMAIN,api-dynDOMAIN.hismarttv.com,extended-matching
+DOMAIN,api-dyndomain.hismarttv.com,extended-matching
+DOMAIN,api-fd.dutils.com,extended-matching
 DOMAIN,api-gps-em.hismarttv.com,extended-matching
 DOMAIN,api-gps-na.hismarttv.com,extended-matching
 DOMAIN,api-gps.hismarttv.com,extended-matching
@@ -240,6 +241,7 @@ DOMAIN,byteair-api-sg1.byteintlapi.com,extended-matching
 DOMAIN,c.isdspeed.qq.com,extended-matching
 DOMAIN,c.live.com,extended-matching
 DOMAIN,c.microsoft.com,extended-matching
+DOMAIN,c.msn.com,extended-matching
 DOMAIN,c.uaa.iqiyi.com,extended-matching
 DOMAIN,c.yes.youku.com,extended-matching
 DOMAIN,ca.ibs.lgappstv.com,extended-matching
@@ -334,8 +336,6 @@ DOMAIN,df.tanx.com,extended-matching
 DOMAIN,dig.bdurl.net,extended-matching
 DOMAIN,dispatcher.3g.qq.com,extended-matching
 DOMAIN,dl.g.youku.com,extended-matching
-DOMAIN,dl_dir.qq.com,extended-matching
-DOMAIN,dl_dir2.qq.com,extended-matching
 DOMAIN,dlied1.qq.com,extended-matching
 DOMAIN,dlied1.tcdn.qq.com,extended-matching
 DOMAIN,dlied6.qq.com,extended-matching
@@ -829,7 +829,6 @@ DOMAIN,upgrade-juui.hismarttv.com,extended-matching
 DOMAIN,upgrade-launcher.hismarttv.com,extended-matching
 DOMAIN,upgrade-update.hismarttv.com,extended-matching
 DOMAIN,upgrade.mishop.pandora.xiaomi.com,extended-matching
-DOMAIN,upload_data.qq.com,extended-matching
 DOMAIN,uplog.inews.qq.com,extended-matching
 DOMAIN,uranus.jd.com,extended-matching
 DOMAIN,urchin.lstat.youku.com,extended-matching
@@ -1041,12 +1040,10 @@ DOMAIN-SUFFIX,_im64._tcp.jpush.cn,extended-matching
 DOMAIN-SUFFIX,_psis._udp.jpush.cn,extended-matching
 DOMAIN-SUFFIX,a.ac.qq.com,extended-matching
 DOMAIN-SUFFIX,a.ads2.msads.net,extended-matching
-DOMAIN-SUFFIX,a.ads2.msn.com,extended-matching
 DOMAIN-SUFFIX,a.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,a.hcaptcha.com,extended-matching
 DOMAIN-SUFFIX,a.hl.mi.com,extended-matching
 DOMAIN-SUFFIX,a.market.xiaomi.com,extended-matching
-DOMAIN-SUFFIX,a.track.sohu.com,extended-matching
 DOMAIN-SUFFIX,a0.app.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,a1.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,a15-tb.isnssdk.com,extended-matching
@@ -1069,7 +1066,6 @@ DOMAIN-SUFFIX,abroad-sdk-push.dutils.com,extended-matching
 DOMAIN-SUFFIX,abtest-ch.snssdk.com,extended-matching
 DOMAIN-SUFFIX,abtest-va-tiktok.byteoversea.com,extended-matching
 DOMAIN-SUFFIX,abtest.mistat.india.xiaomi.com,extended-matching
-DOMAIN-SUFFIX,abtest.mistat.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,abtest.volceapplog.com,extended-matching
 DOMAIN-SUFFIX,abtk.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,ac.dun.163.com,extended-matching
@@ -1080,9 +1076,7 @@ DOMAIN-SUFFIX,ac3.msn.com,extended-matching
 DOMAIN-SUFFIX,academy.taplytics.com,extended-matching
 DOMAIN-SUFFIX,acb.bet,extended-matching
 DOMAIN-SUFFIX,acbp0020171456.page.tl,extended-matching
-DOMAIN-SUFFIX,access.toggle.qq.com,extended-matching
 DOMAIN-SUFFIX,account.marketing-google.com,extended-matching
-DOMAIN-SUFFIX,accounts.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,accscdn.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,accuradio.adswizz.com,extended-matching
 DOMAIN-SUFFIX,acfun-log-sdk.ksapisrv.com,extended-matching
@@ -1099,7 +1093,6 @@ DOMAIN-SUFFIX,activity.baidu.com,extended-matching
 DOMAIN-SUFFIX,activity.browser.intl.miui.com,extended-matching
 DOMAIN-SUFFIX,activity.windows.com,extended-matching
 DOMAIN-SUFFIX,ad-cdn.qingting.fm,extended-matching
-DOMAIN-SUFFIX,ad-emea.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,ad-exchange.toast.com,extended-matching
 DOMAIN-SUFFIX,ad-ggtg-kuaishou-api.37.com.cn,extended-matching
 DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com,extended-matching
@@ -1176,7 +1169,6 @@ DOMAIN-SUFFIX,adash.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashbc.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashbc.ut.taobao.com,extended-matching
 DOMAIN-SUFFIX,adashx.m.taobao.com,extended-matching
-DOMAIN-SUFFIX,adashx.m.taobao.com.gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.amap.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.dingtalk.com,extended-matching
 DOMAIN-SUFFIX,adashx.ut.hzshudian.com,extended-matching
@@ -1207,7 +1199,6 @@ DOMAIN-SUFFIX,adim.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,adimages.sina.com.hk,extended-matching
 DOMAIN-SUFFIX,adimg.163.com,extended-matching
 DOMAIN-SUFFIX,adimg.mobile.sina.cn,extended-matching
-DOMAIN-SUFFIX,adinfo.ra1.xlmc.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,adjust-local-settings.com,extended-matching
 DOMAIN-SUFFIX,adjust.net.in,extended-matching
 DOMAIN-SUFFIX,adjust.works,extended-matching
@@ -1238,7 +1229,6 @@ DOMAIN-SUFFIX,ads-exchange-sdk-diag.prd.mon.corp.unity3d.com,extended-matching
 DOMAIN-SUFFIX,ads-exchange-sdk-diag.stg.mon.corp.unity3d.com,extended-matching
 DOMAIN-SUFFIX,ads-exchange-shared.prd.mon.corp.unity3d.com,extended-matching
 DOMAIN-SUFFIX,ads-g.juicyads.com,extended-matching
-DOMAIN-SUFFIX,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com,extended-matching
 DOMAIN-SUFFIX,ads-marketing-vivofs.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com,extended-matching
 DOMAIN-SUFFIX,ads-sdk-gateway.prd.mz.internal.unity3d.com,extended-matching
@@ -1383,7 +1373,6 @@ DOMAIN-SUFFIX,adukwai.com,extended-matching
 DOMAIN-SUFFIX,adv.app.qq.com,extended-matching
 DOMAIN-SUFFIX,adv.ccb.com,extended-matching
 DOMAIN-SUFFIX,adv.sec.intl.miui.com,extended-matching
-DOMAIN-SUFFIX,adv.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,advert-prod.hyrz.qq.com,extended-matching
 DOMAIN-SUFFIX,advert.lx.netease.com,extended-matching
 DOMAIN-SUFFIX,advert.qq.com,extended-matching
@@ -1430,7 +1419,6 @@ DOMAIN-SUFFIX,agd2.p.360.cn,extended-matching
 DOMAIN-SUFFIX,agent-proxy.baidu.com,extended-matching
 DOMAIN-SUFFIX,agoo-report.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,agstat.html5.qq.com,extended-matching
-DOMAIN-SUFFIX,ai.login.umeng.com,extended-matching
 DOMAIN-SUFFIX,aic-report.volces.com,extended-matching
 DOMAIN-SUFFIX,aid.mobileservice.cn,extended-matching
 DOMAIN-SUFFIX,aidps.atdmt.com,extended-matching
@@ -1531,7 +1519,6 @@ DOMAIN-SUFFIX,analytics.emol.com,extended-matching
 DOMAIN-SUFFIX,analytics.etoro.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,analytics.facebook.com,extended-matching
 DOMAIN-SUFFIX,analytics.fbgcdn.com.edgekey.net,extended-matching
-DOMAIN-SUFFIX,analytics.ff.avast.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,analytics.flatart.agency,extended-matching
 DOMAIN-SUFFIX,analytics.fontanka.ru,extended-matching
 DOMAIN-SUFFIX,analytics.gentler.app,extended-matching
@@ -1705,12 +1692,9 @@ DOMAIN-SUFFIX,api.adnet.mob.com,extended-matching
 DOMAIN-SUFFIX,api.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,api.analytics.jpush.cn,extended-matching
 DOMAIN-SUFFIX,api.apflyer.com,extended-matching
-DOMAIN-SUFFIX,api.applink.mob.com,extended-matching
 DOMAIN-SUFFIX,api.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,api.appsflyersdk.com,extended-matching
-DOMAIN-SUFFIX,api.branch.io,extended-matching
 DOMAIN-SUFFIX,api.browser.miui.com,extended-matching
-DOMAIN-SUFFIX,api.browsermine.com,extended-matching
 DOMAIN-SUFFIX,api.brs.intl.miui.com,extended-matching
 DOMAIN-SUFFIX,api.cgatgpt.net,extended-matching
 DOMAIN-SUFFIX,api.collect.data.intl.miui.com,extended-matching
@@ -1722,7 +1706,6 @@ DOMAIN-SUFFIX,api.developer.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,api.e.mi.com,extended-matching
 DOMAIN-SUFFIX,api.edgeoffer.microsoft.com,extended-matching
 DOMAIN-SUFFIX,api.eu.iterable.com,extended-matching
-DOMAIN-SUFFIX,api.exc.mob.com,extended-matching
 DOMAIN-SUFFIX,api.fc.mob.com,extended-matching
 DOMAIN-SUFFIX,api.fd.mob.com,extended-matching
 DOMAIN-SUFFIX,api.fpjs.io,extended-matching
@@ -1737,18 +1720,15 @@ DOMAIN-SUFFIX,api.jpush.cn,extended-matching
 DOMAIN-SUFFIX,api.jr.mi.com,extended-matching
 DOMAIN-SUFFIX,api.juicyads.com,extended-matching
 DOMAIN-SUFFIX,api.k.sohu.com,extended-matching
-DOMAIN-SUFFIX,api.miner.beeppool.org,extended-matching
 DOMAIN-SUFFIX,api.miui.security.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,api.miwifi.com,extended-matching
 DOMAIN-SUFFIX,api.mixpanel.com,extended-matching
-DOMAIN-SUFFIX,api.mobojoy.baidu.com,extended-matching
 DOMAIN-SUFFIX,api.newsfeed.intl.miui.com,extended-matching
 DOMAIN-SUFFIX,api.poll.video.qq.com,extended-matching
 DOMAIN-SUFFIX,api.pr.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,api.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,api.sardine.ai,extended-matching
 DOMAIN-SUFFIX,api.sec.intl.miui.com,extended-matching
-DOMAIN-SUFFIX,api.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,api.setting.intl.miui.com,extended-matching
 DOMAIN-SUFFIX,api.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,api.sppopups.com,extended-matching
@@ -1766,7 +1746,6 @@ DOMAIN-SUFFIX,api16-log-gcp.pangle.io,extended-matching
 DOMAIN-SUFFIX,api16-log-sg.pangle.io,extended-matching
 DOMAIN-SUFFIX,api2.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,api2.appsflyersdk.com,extended-matching
-DOMAIN-SUFFIX,api2.branch.io,extended-matching
 DOMAIN-SUFFIX,api3.adspruce.com,extended-matching
 DOMAIN-SUFFIX,api4report.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,apidns-js.kwd.inkuai.com,extended-matching
@@ -1789,7 +1768,6 @@ DOMAIN-SUFFIX,apm.volccdn.com,extended-matching
 DOMAIN-SUFFIX,apm.zhihu.com,extended-matching
 DOMAIN-SUFFIX,apmconfig.douyucdn.cn,extended-matching
 DOMAIN-SUFFIX,apmplus.volces.com,extended-matching
-DOMAIN-SUFFIX,apmplus.volces.com.queniusz.com,extended-matching
 DOMAIN-SUFFIX,apns-recv.jpush.cn,extended-matching
 DOMAIN-SUFFIX,apoll.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,app-analytics-cn.huami.com,extended-matching
@@ -1807,7 +1785,6 @@ DOMAIN-SUFFIX,app-static-prod.posthog.com,extended-matching
 DOMAIN-SUFFIX,app.adjust.cn,extended-matching
 DOMAIN-SUFFIX,app.adjust.com,extended-matching
 DOMAIN-SUFFIX,app.adjust.io,extended-matching
-DOMAIN-SUFFIX,app.adjust.net.in,extended-matching
 DOMAIN-SUFFIX,app.adjust.world,extended-matching
 DOMAIN-SUFFIX,app.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,app.appsflyersdk.com,extended-matching
@@ -1854,7 +1831,7 @@ DOMAIN-SUFFIX,appsflyer-web-2-1926050047.eu-west-1.elb.amazonaws.com,extended-ma
 DOMAIN-SUFFIX,appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,appsflyer.com.akamaized.net,extended-matching
-DOMAIN-SUFFIX,appsflyersdk.com.DOMAIN.name,extended-matching
+DOMAIN-SUFFIX,appsflyersdk.com.domain.name,extended-matching
 DOMAIN-SUFFIX,appsflyersdk.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,appspot-preview.l.google.com,extended-matching
 DOMAIN-SUFFIX,appstore.browser.qq.com,extended-matching
@@ -1917,7 +1894,6 @@ DOMAIN-SUFFIX,audid.umeng.com,extended-matching
 DOMAIN-SUFFIX,auni.telecome.cn,extended-matching
 DOMAIN-SUFFIX,aurorapush.cn,extended-matching
 DOMAIN-SUFFIX,aurorapush.com,extended-matching
-DOMAIN-SUFFIX,auth.be.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,authbe.sec.intl.miui.com,extended-matching
 DOMAIN-SUFFIX,authedmine.com,extended-matching
 DOMAIN-SUFFIX,authedmine.eu,extended-matching
@@ -2003,7 +1979,6 @@ DOMAIN-SUFFIX,bestsrv.de,extended-matching
 DOMAIN-SUFFIX,bewaslac.com,extended-matching
 DOMAIN-SUFFIX,bfapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,bhwkju.vivo.com,extended-matching
-DOMAIN-SUFFIX,bi.cname.getui.com,extended-matching
 DOMAIN-SUFFIX,biberukalap.com,extended-matching
 DOMAIN-SUFFIX,bidtellect.atlassian.net,extended-matching
 DOMAIN-SUFFIX,bigapp.mob.com,extended-matching
@@ -2053,11 +2028,9 @@ DOMAIN-SUFFIX,brandadsstatic.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,brandvideo.biz.weibo.cn,extended-matching
 DOMAIN-SUFFIX,brightline.tv.edgekey.net,extended-matching
 DOMAIN-SUFFIX,brominer.com,extended-matching
-DOMAIN-SUFFIX,browser-http-intake.logs.datadoghq.com,extended-matching
 DOMAIN-SUFFIX,browser-intake-datadoghq.com,extended-matching
 DOMAIN-SUFFIX,browser-intake-us3-datadoghq.com,extended-matching
 DOMAIN-SUFFIX,browser.events.data.msn.com,extended-matching
-DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com,extended-matching
 DOMAIN-SUFFIX,browserconf.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,browserkernel.baidu.com,extended-matching
 DOMAIN-SUFFIX,browsermine.com,extended-matching
@@ -2105,7 +2078,6 @@ DOMAIN-SUFFIX,c.atdmt.com,extended-matching
 DOMAIN-SUFFIX,c.aw.ak.mob.com,extended-matching
 DOMAIN-SUFFIX,c.baidu.com,extended-matching
 DOMAIN-SUFFIX,c.bing.com,extended-matching
-DOMAIN-SUFFIX,c.data.mob.com,extended-matching
 DOMAIN-SUFFIX,c.fa.jd.com,extended-matching
 DOMAIN-SUFFIX,c.gj.qq.com,extended-matching
 DOMAIN-SUFFIX,c.mcd.cn,extended-matching
@@ -2141,7 +2113,6 @@ DOMAIN-SUFFIX,cbsipv4.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,cc-analytics--cdn.us-east-1.prod.public.atl-paas.net,extended-matching
 DOMAIN-SUFFIX,cc.map.qq.com,extended-matching
 DOMAIN-SUFFIX,cca.mob.com,extended-matching
-DOMAIN-SUFFIX,ccc.sys.miui.com,extended-matching
 DOMAIN-SUFFIX,ccpa-wrapper.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,ccpa.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,ccs.umeng.com,extended-matching
@@ -2169,18 +2140,15 @@ DOMAIN-SUFFIX,cdn.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,cdn.appsflyer.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,cdn.ark.qq.com,extended-matching
 DOMAIN-SUFFIX,cdn.atdmt.com,extended-matching
-DOMAIN-SUFFIX,cdn.branch.io,extended-matching
 DOMAIN-SUFFIX,cdn.braze.eu,extended-matching
 DOMAIN-SUFFIX,cdn.cloudcoins.co,extended-matching
 DOMAIN-SUFFIX,cdn.fds.api.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,cdn.isnssdk.com,extended-matching
 DOMAIN-SUFFIX,cdn.isprog.com,extended-matching
-DOMAIN-SUFFIX,cdn.minescripts.info,extended-matching
 DOMAIN-SUFFIX,cdn.singular.net,extended-matching
 DOMAIN-SUFFIX,cdn.spotxcdn.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,cdn.taplytics.com,extended-matching
 DOMAIN-SUFFIX,cdn.trackjs.com,extended-matching
-DOMAIN-SUFFIX,cdn.weathwe.hao.360.cn,extended-matching
 DOMAIN-SUFFIX,cdn1.pebx.pl,extended-matching
 DOMAIN-SUFFIX,cdn2.inner-active.mobi,extended-matching
 DOMAIN-SUFFIX,cdnappicons.appsflyer.com,extended-matching
@@ -2261,7 +2229,6 @@ DOMAIN-SUFFIX,cmp-vendors.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,cmtw.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,cn-fp.apitd.net,extended-matching
 DOMAIN-SUFFIX,cn-yys-prod-logproxy.mhystatic.com,extended-matching
-DOMAIN-SUFFIX,cn.app.chat.xiaomi.net,extended-matching
 DOMAIN-SUFFIX,cn.rongnav.com,extended-matching
 DOMAIN-SUFFIX,cnaac.getui.com,extended-matching
 DOMAIN-SUFFIX,cnadid.cn,extended-matching
@@ -2321,7 +2288,6 @@ DOMAIN-SUFFIX,connect.facebook.net,extended-matching
 DOMAIN-SUFFIX,consent.adjust.cn,extended-matching
 DOMAIN-SUFFIX,consent.adjust.world,extended-matching
 DOMAIN-SUFFIX,content.appsflyer.com,extended-matching
-DOMAIN-SUFFIX,content.experience.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,contribute.to-support.me,extended-matching
 DOMAIN-SUFFIX,contributor.google.com,extended-matching
 DOMAIN-SUFFIX,controller.india.xiaomi.com,extended-matching
@@ -2451,20 +2417,12 @@ DOMAIN-SUFFIX,dark-utilities.xyz,extended-matching
 DOMAIN-SUFFIX,data-optout-service.uca.cloud.unity3d.com,extended-matching
 DOMAIN-SUFFIX,data-sdk-uuid-log.d.meituan.net,extended-matching
 DOMAIN-SUFFIX,data.corp.unity3d.com,extended-matching
-DOMAIN-SUFFIX,data.experience.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,data.flurry.com,extended-matching
 DOMAIN-SUFFIX,data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,data.mistat.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,data.mob.com,extended-matching
 DOMAIN-SUFFIX,data.qq.com,extended-matching
-DOMAIN-SUFFIX,data.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,data.video.ptqy.gitv.tv,extended-matching
 DOMAIN-SUFFIX,data.video.qiyi.com,extended-matching
-DOMAIN-SUFFIX,datacollector-dra.dt.hicloud.com,extended-matching
-DOMAIN-SUFFIX,datacollector-drcn.dt.hicloud.com,extended-matching
-DOMAIN-SUFFIX,datacollector-dre.dt.hicloud.com,extended-matching
-DOMAIN-SUFFIX,datacollector-drru.dt.dbankcloud.ru,extended-matching
-DOMAIN-SUFFIX,datacollector-drru.dt.hicloud.com,extended-matching
 DOMAIN-SUFFIX,dataflow.biliapi.com,extended-matching
 DOMAIN-SUFFIX,datahub.zhihu.com,extended-matching
 DOMAIN-SUFFIX,datax.baidu.com,extended-matching
@@ -2532,7 +2490,6 @@ DOMAIN-SUFFIX,devicemsf.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com,extended-matching
 DOMAIN-SUFFIX,devpress-api.csdn.net,extended-matching
 DOMAIN-SUFFIX,devs-data.dutils.com,extended-matching
-DOMAIN-SUFFIX,devs.data.mob.com,extended-matching
 DOMAIN-SUFFIX,df-mic.mob.com,extended-matching
 DOMAIN-SUFFIX,df.mob.com,extended-matching
 DOMAIN-SUFFIX,dfe-mic.mob.com,extended-matching
@@ -2553,8 +2510,6 @@ DOMAIN-SUFFIX,distil.ninja,extended-matching
 DOMAIN-SUFFIX,dj1.baidu.com,extended-matching
 DOMAIN-SUFFIX,dl-vip.bav.baidu.com,extended-matching
 DOMAIN-SUFFIX,dl.360safe.com,extended-matching
-DOMAIN-SUFFIX,dl.browsermine.com,extended-matching
-DOMAIN-SUFFIX,dl.client.baidu.com,extended-matching
 DOMAIN-SUFFIX,dl.cm.ksmobile.com,extended-matching
 DOMAIN-SUFFIX,dl.ops.baidu.com,extended-matching
 DOMAIN-SUFFIX,dl.url.cn,extended-matching
@@ -2566,7 +2521,6 @@ DOMAIN-SUFFIX,dls2s.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,dlsdk.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,dlsdk.appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,dlsw.baidu.com,extended-matching
-DOMAIN-SUFFIX,dlsw.br.baidu.com,extended-matching
 DOMAIN-SUFFIX,dlswbr.baidu.com,extended-matching
 DOMAIN-SUFFIX,dm-hl.toutiao.com,extended-matching
 DOMAIN-SUFFIX,dm.isnssdk.com,extended-matching
@@ -2684,7 +2638,6 @@ DOMAIN-SUFFIX,etg.qq.com,extended-matching
 DOMAIN-SUFFIX,eth-pocket.com,extended-matching
 DOMAIN-SUFFIX,eth-pocket.de,extended-matching
 DOMAIN-SUFFIX,eth-pocket.eu,extended-matching
-DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com,extended-matching
 DOMAIN-SUFFIX,ethereum-cashcard.com,extended-matching
 DOMAIN-SUFFIX,ethereum-cashcard.de,extended-matching
 DOMAIN-SUFFIX,ethereum-cashcard.eu,extended-matching
@@ -2712,7 +2665,6 @@ DOMAIN-SUFFIX,event.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,event.csdn.net,extended-matching
 DOMAIN-SUFFIX,event.inner-active.mobi,extended-matching
 DOMAIN-SUFFIX,event.ksosoft.com,extended-matching
-DOMAIN-SUFFIX,event.toggle.qq.com,extended-matching
 DOMAIN-SUFFIX,events-dra.op.hicloud.com,extended-matching
 DOMAIN-SUFFIX,events.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,events.appsflyersdk.com,extended-matching
@@ -2786,7 +2738,6 @@ DOMAIN-SUFFIX,feedback-dre.platform.hicloud.com,extended-matching
 DOMAIN-SUFFIX,feedback.coloros.com,extended-matching
 DOMAIN-SUFFIX,feedback.plausible.io,extended-matching
 DOMAIN-SUFFIX,fexclick.baidu.com,extended-matching
-DOMAIN-SUFFIX,ff.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net,extended-matching
 DOMAIN-SUFFIX,fiapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,finplus-open.umeng.com,extended-matching
@@ -2794,7 +2745,6 @@ DOMAIN-SUFFIX,firebase-settings.crashlytics.com,extended-matching
 DOMAIN-SUFFIX,firefoxchina.cn,extended-matching
 DOMAIN-SUFFIX,fix.hpplay.cn,extended-matching
 DOMAIN-SUFFIX,flare-analytics.com,extended-matching
-DOMAIN-SUFFIX,flash.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,flash.xiaohongshu.com,extended-matching
 DOMAIN-SUFFIX,flex.msn.com,extended-matching
 DOMAIN-SUFFIX,flighty.win,extended-matching
@@ -2803,7 +2753,6 @@ DOMAIN-SUFFIX,flightzy.win,extended-matching
 DOMAIN-SUFFIX,floor.bz.mgtv.com,extended-matching
 DOMAIN-SUFFIX,fls-na.amazon.com,extended-matching
 DOMAIN-SUFFIX,fls.adjust.com,extended-matching
-DOMAIN-SUFFIX,fls.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,fm.qzone.qq.com,extended-matching
 DOMAIN-SUFFIX,fodder.qq.com,extended-matching
 DOMAIN-SUFFIX,fodder.tc.qq.com,extended-matching
@@ -2856,14 +2805,12 @@ DOMAIN-SUFFIX,g.163.com,extended-matching
 DOMAIN-SUFFIX,g.baidu.com,extended-matching
 DOMAIN-SUFFIX,g.bing.com,extended-matching
 DOMAIN-SUFFIX,g.click.taobao.com,extended-matching
-DOMAIN-SUFFIX,g.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,g.doubleclick.net.1.o1f49mh68j4i.1.prx.useast.v1api.securly.com,extended-matching
 DOMAIN-SUFFIX,g.doubleclick.net.all.gdbjgqwvhfugcxre.q.pac.deledao.com,extended-matching
 DOMAIN-SUFFIX,g.doubleclick.net.itotolink.net,extended-matching
 DOMAIN-SUFFIX,g.msn.com,extended-matching
 DOMAIN-SUFFIX,g01.a.alicdn.com,extended-matching
 DOMAIN-SUFFIX,g1.163.com,extended-matching
-DOMAIN-SUFFIX,g1.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,g1thub.com,extended-matching
 DOMAIN-SUFFIX,galaxy.bz.mgtv.com,extended-matching
 DOMAIN-SUFFIX,game.browser.intl.miui.com,extended-matching
@@ -2890,7 +2837,6 @@ DOMAIN-SUFFIX,gdpr-web-logs-prod.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,gdpr-wrapper.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,gdpr.adjust.cn,extended-matching
 DOMAIN-SUFFIX,gdpr.adjust.io,extended-matching
-DOMAIN-SUFFIX,gdpr.branch.io,extended-matching
 DOMAIN-SUFFIX,gdpr.privacymanager.io,extended-matching
 DOMAIN-SUFFIX,gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,gds.mmstat.com,extended-matching
@@ -2950,7 +2896,6 @@ DOMAIN-SUFFIX,go-stage.oracle.com,extended-matching
 DOMAIN-SUFFIX,go-to-zlibrary.com,extended-matching
 DOMAIN-SUFFIX,go.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,go.bestmobiworld.com,extended-matching
-DOMAIN-SUFFIX,go.branch.io,extended-matching
 DOMAIN-SUFFIX,go.fastspot.io,extended-matching
 DOMAIN-SUFFIX,go.megabanners.cf,extended-matching
 DOMAIN-SUFFIX,go.mmstat.com,extended-matching
@@ -2982,14 +2927,11 @@ DOMAIN-SUFFIX,graphs.amung.us,extended-matching
 DOMAIN-SUFFIX,grapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,gridiogrid.com,extended-matching
 DOMAIN-SUFFIX,groupclient.qq.com,extended-matching
-DOMAIN-SUFFIX,growth.branch.io,extended-matching
 DOMAIN-SUFFIX,growthpic.weishi.qq.com,extended-matching
 DOMAIN-SUFFIX,grpc-analytics.nike.com.edgekey.net,extended-matching
 DOMAIN-SUFFIX,grs.dbankcloud.asia,extended-matching
-DOMAIN-SUFFIX,grs.dbankcloud.com,extended-matching
 DOMAIN-SUFFIX,grs.dbankcloud.eu,extended-matching
 DOMAIN-SUFFIX,grs.hicloud.com,extended-matching
-DOMAIN-SUFFIX,grs.platform.dbankcloud.ru,extended-matching
 DOMAIN-SUFFIX,gs.getui.com,extended-matching
 DOMAIN-SUFFIX,gsdk-quic-gcp-sg.bytegsdk.com,extended-matching
 DOMAIN-SUFFIX,gsdk-quic-gcp-va.bytegsdk.com,extended-matching
@@ -3009,7 +2951,6 @@ DOMAIN-SUFFIX,guanjia.qq.com,extended-matching
 DOMAIN-SUFFIX,guard.mob.com,extended-matching
 DOMAIN-SUFFIX,guid-xldw-ssl.n0808.com,extended-matching
 DOMAIN-SUFFIX,gvt2.com,extended-matching
-DOMAIN-SUFFIX,gw.mediation.unity3d.com,extended-matching
 DOMAIN-SUFFIX,gw01.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn,extended-matching
 DOMAIN-SUFFIX,gw6.push.mcp.weibo.cn,extended-matching
@@ -3042,7 +2983,6 @@ DOMAIN-SUFFIX,haohuo.snssdk.com,extended-matching
 DOMAIN-SUFFIX,happ.umeng.com,extended-matching
 DOMAIN-SUFFIX,hashing.win,extended-matching
 DOMAIN-SUFFIX,hbd.url.cn,extended-matching
-DOMAIN-SUFFIX,hbevents.mz.unity3d.com,extended-matching
 DOMAIN-SUFFIX,hbk.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,hc.baidu.com,extended-matching
 DOMAIN-SUFFIX,hd-v6.mmstat.com,extended-matching
@@ -3127,10 +3067,8 @@ DOMAIN-SUFFIX,hubble.netease.com,extended-matching
 DOMAIN-SUFFIX,hubstat.sandai.net,extended-matching
 DOMAIN-SUFFIX,hudong.alicdn.com,extended-matching
 DOMAIN-SUFFIX,hui.sohu.com,extended-matching
-DOMAIN-SUFFIX,huid.ad.360.cn,extended-matching
 DOMAIN-SUFFIX,huntingservices.blob.core.windows.net,extended-matching
 DOMAIN-SUFFIX,huodong.m.taobao.com,extended-matching
-DOMAIN-SUFFIX,huodong.mobilem.360.cn,extended-matching
 DOMAIN-SUFFIX,hw.log.functionads.com,extended-matching
 DOMAIN-SUFFIX,hwex.umeng.com,extended-matching
 DOMAIN-SUFFIX,hwstats.unity3d.com,extended-matching
@@ -3166,7 +3104,6 @@ DOMAIN-SUFFIX,iad-06.braze.com,extended-matching
 DOMAIN-SUFFIX,iad-07.braze.com,extended-matching
 DOMAIN-SUFFIX,iad-08.braze.com,extended-matching
 DOMAIN-SUFFIX,iad.e.360.cn,extended-matching
-DOMAIN-SUFFIX,iad.g.163.com,extended-matching
 DOMAIN-SUFFIX,iads.unity3d.com,extended-matching
 DOMAIN-SUFFIX,iadsdk.apple.com,extended-matching
 DOMAIN-SUFFIX,iadsdk.apple.com.edgekey.net,extended-matching
@@ -3223,7 +3160,6 @@ DOMAIN-SUFFIX,img-eu.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,img-x.jd.com,extended-matching
 DOMAIN-SUFFIX,img.im.alicdn.com,extended-matching
 DOMAIN-SUFFIX,img.phone.baidu.com,extended-matching
-DOMAIN-SUFFIX,img.ssl.msdk.qq.com,extended-matching
 DOMAIN-SUFFIX,img.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,img1.sj.qq.com,extended-matching
 DOMAIN-SUFFIX,imgstat.baidu.com,extended-matching
@@ -3244,11 +3180,9 @@ DOMAIN-SUFFIX,info.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,info.adspruce.com,extended-matching
 DOMAIN-SUFFIX,info.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,info.taplytics.com,extended-matching
-DOMAIN-SUFFIX,ingest.sentry.io,extended-matching
 DOMAIN-SUFFIX,ingress.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,ininmacerad.pro,extended-matching
 DOMAIN-SUFFIX,init.isprog.com,extended-matching
-DOMAIN-SUFFIX,init.sms.mob.com,extended-matching
 DOMAIN-SUFFIX,insideruser.trafficmanager.net,extended-matching
 DOMAIN-SUFFIX,insitez.blob.core.windows.net,extended-matching
 DOMAIN-SUFFIX,insp.umeng.com,extended-matching
@@ -3294,7 +3228,6 @@ DOMAIN-SUFFIX,iudd.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,iuni.telecome.cn,extended-matching
 DOMAIN-SUFFIX,iwanad.baidu.com,extended-matching
 DOMAIN-SUFFIX,ixav-cse.avlyun.com,extended-matching
-DOMAIN-SUFFIX,j.br.baidu.com,extended-matching
 DOMAIN-SUFFIX,j.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,japps.cn,extended-matching
 DOMAIN-SUFFIX,jcollection.shuqireader.com,extended-matching
@@ -3329,7 +3262,6 @@ DOMAIN-SUFFIX,jrclick.jd.com,extended-matching
 DOMAIN-SUFFIX,js-sec.indexww.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,js.adjust.com,extended-matching
 DOMAIN-SUFFIX,js.juicyads.com,extended-matching
-DOMAIN-SUFFIX,js.mobojoy.baidu.com,extended-matching
 DOMAIN-SUFFIX,js.nahnoji.cz,extended-matching
 DOMAIN-SUFFIX,js.taplytics.com,extended-matching
 DOMAIN-SUFFIX,jsapi.html5.qq.com,extended-matching
@@ -3343,7 +3275,6 @@ DOMAIN-SUFFIX,ju.mmstat.com,extended-matching
 DOMAIN-SUFFIX,ju.taobao.com,extended-matching
 DOMAIN-SUFFIX,judge.snssdk.com,extended-matching
 DOMAIN-SUFFIX,jupiter.appads.com,extended-matching
-DOMAIN-SUFFIX,jupiter.sys.miui.com,extended-matching
 DOMAIN-SUFFIX,jupiter1.appads.com,extended-matching
 DOMAIN-SUFFIX,jupiter2.appads.com,extended-matching
 DOMAIN-SUFFIX,jupiter3.appads.com,extended-matching
@@ -3381,11 +3312,10 @@ DOMAIN-SUFFIX,kunpeng.csdn.net,extended-matching
 DOMAIN-SUFFIX,kunyu.csdn.net,extended-matching
 DOMAIN-SUFFIX,kxid.cn,extended-matching
 DOMAIN-SUFFIX,kyoda.kwd.inkuai.com,extended-matching
-DOMAIN-SUFFIX,l.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,l.qq.com,extended-matching
 DOMAIN-SUFFIX,labs.taplytics.com,extended-matching
 DOMAIN-SUFFIX,landapp.adjust.com,extended-matching
-DOMAIN-SUFFIX,laserveradeDOMAINa.com,extended-matching
+DOMAIN-SUFFIX,laserveradedomaina.com,extended-matching
 DOMAIN-SUFFIX,laun.umeng.com,extended-matching
 DOMAIN-SUFFIX,launcher.baidu.com,extended-matching
 DOMAIN-SUFFIX,launches.appsflyer.com,extended-matching
@@ -3448,7 +3378,6 @@ DOMAIN-SUFFIX,linkeye.ximalaya.com,extended-matching
 DOMAIN-SUFFIX,linkhelp.clients.google.com,extended-matching
 DOMAIN-SUFFIX,litterpenguin.umeng.com,extended-matching
 DOMAIN-SUFFIX,live-log.immomo.com,extended-matching
-DOMAIN-SUFFIX,live.rads.msn.com,extended-matching
 DOMAIN-SUFFIX,livechat.umeng.com,extended-matching
 DOMAIN-SUFFIX,livejs.gifshow.com,extended-matching
 DOMAIN-SUFFIX,livep.l.cp81.ott.cibntv.net,extended-matching
@@ -3462,7 +3391,7 @@ DOMAIN-SUFFIX,lnk0.com,extended-matching
 DOMAIN-SUFFIX,lnk8.cn,extended-matching
 DOMAIN-SUFFIX,lobster.adswizz.com,extended-matching
 DOMAIN-SUFFIX,loc.map.baidu.com,extended-matching
-DOMAIN-SUFFIX,localDOMAIN.weixin.qq.com,extended-matching
+DOMAIN-SUFFIX,localdomain.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,location.hicloud.com,extended-matching
 DOMAIN-SUFFIX,location.ximalaya.com,extended-matching
 DOMAIN-SUFFIX,lofter.httpdns.c.163.com,extended-matching
@@ -3477,7 +3406,6 @@ DOMAIN-SUFFIX,log-collector.shopee.com.my,extended-matching
 DOMAIN-SUFFIX,log-collector.shopee.tw,extended-matching
 DOMAIN-SUFFIX,log-collector.shopee.vn,extended-matching
 DOMAIN-SUFFIX,log-collector.svctr.zynga.com,extended-matching
-DOMAIN-SUFFIX,log-collectors-73517960.us-east-1.elb.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,log-dmp.suishenyun.cn,extended-matching
 DOMAIN-SUFFIX,log-eap-in.coloros.com,extended-matching
 DOMAIN-SUFFIX,log-eap-sg.coloros.com,extended-matching
@@ -3738,7 +3666,6 @@ DOMAIN-SUFFIX,log.shufoo.net,extended-matching
 DOMAIN-SUFFIX,log.sina.cn,extended-matching
 DOMAIN-SUFFIX,log.slb.avlyun.com,extended-matching
 DOMAIN-SUFFIX,log.smoney.vn,extended-matching
-DOMAIN-SUFFIX,log.sms.mob.com,extended-matching
 DOMAIN-SUFFIX,log.snapdeal.com,extended-matching
 DOMAIN-SUFFIX,log.snow.me,extended-matching
 DOMAIN-SUFFIX,log.snssdk.com,extended-matching
@@ -3774,7 +3701,6 @@ DOMAIN-SUFFIX,log.tinxe.vn,extended-matching
 DOMAIN-SUFFIX,log.tmtreader.com,extended-matching
 DOMAIN-SUFFIX,log.toss.vn,extended-matching
 DOMAIN-SUFFIX,log.tpns.gz2.tencent.com,extended-matching
-DOMAIN-SUFFIX,log.tpns.tencent.com,extended-matching
 DOMAIN-SUFFIX,log.tresorit.com,extended-matching
 DOMAIN-SUFFIX,log.trithuctructuyen.com.vn,extended-matching
 DOMAIN-SUFFIX,log.trithuctructuyen.vn,extended-matching
@@ -3785,7 +3711,6 @@ DOMAIN-SUFFIX,log.tv360.vn,extended-matching
 DOMAIN-SUFFIX,log.tving.com,extended-matching
 DOMAIN-SUFFIX,log.ulivetv.net,extended-matching
 DOMAIN-SUFFIX,log.umsns.com,extended-matching
-DOMAIN-SUFFIX,log.umtrack.com,extended-matching
 DOMAIN-SUFFIX,log.upload.os.mihoyo.com,extended-matching
 DOMAIN-SUFFIX,log.us.mybogames.com,extended-matching
 DOMAIN-SUFFIX,log.user-api.com,extended-matching
@@ -3934,7 +3859,6 @@ DOMAIN-SUFFIX,logsdk.qq.com,extended-matching
 DOMAIN-SUFFIX,logserver.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logservice-dra.platform.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logservice-dre.platform.hicloud.com,extended-matching
-DOMAIN-SUFFIX,logservice-drru.dt.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logservice.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logservice1.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logssug-sf.ucweb.com,extended-matching
@@ -3942,7 +3866,6 @@ DOMAIN-SUFFIX,logssug.ucweb.com,extended-matching
 DOMAIN-SUFFIX,logtrace.snssdk.com,extended-matching
 DOMAIN-SUFFIX,logtransform.hicloud.com,extended-matching
 DOMAIN-SUFFIX,logu.hpplay.cn,extended-matching
-DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,logv2.ireader.com,extended-matching
 DOMAIN-SUFFIX,long.weixin.qq.com,extended-matching
 DOMAIN-SUFFIX,losital.ru,extended-matching
@@ -3954,10 +3877,7 @@ DOMAIN-SUFFIX,ltdapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,ltsdl.qq.com,extended-matching
 DOMAIN-SUFFIX,ludo.umeng.com,extended-matching
 DOMAIN-SUFFIX,m-adnet.dutils.com,extended-matching
-DOMAIN-SUFFIX,m.analytics.126.net,extended-matching
 DOMAIN-SUFFIX,m.appsflyer.com,extended-matching
-DOMAIN-SUFFIX,m.data.mob.com,extended-matching
-DOMAIN-SUFFIX,m.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,m.intl.taobao.com,extended-matching
 DOMAIN-SUFFIX,m.pinduoduo.net,extended-matching
 DOMAIN-SUFFIX,m.umeng.com,extended-matching
@@ -4000,12 +3920,10 @@ DOMAIN-SUFFIX,mayybstatnew.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu-hk.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,mazu.m.qq.com,extended-matching
-DOMAIN-SUFFIX,mazu.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,mb.hd.sohu.com.cn,extended-matching
 DOMAIN-SUFFIX,mbdlog.iqiyi.com,extended-matching
 DOMAIN-SUFFIX,mbrowser.news.haosou.com,extended-matching
 DOMAIN-SUFFIX,mbrowser.news.so.com,extended-matching
-DOMAIN-SUFFIX,mbs.hao.360.cn,extended-matching
 DOMAIN-SUFFIX,mc.yandex.by,extended-matching
 DOMAIN-SUFFIX,mc.yandex.com,extended-matching
 DOMAIN-SUFFIX,mc.yandex.kz,extended-matching
@@ -4039,7 +3957,6 @@ DOMAIN-SUFFIX,mepirtedic.com,extended-matching
 DOMAIN-SUFFIX,mercury-sdk.snssdk.com,extended-matching
 DOMAIN-SUFFIX,meta.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,metabase.taplytics.com,extended-matching
-DOMAIN-SUFFIX,metok.sys.miui.com,extended-matching
 DOMAIN-SUFFIX,metric.atlassian.com,extended-matching
 DOMAIN-SUFFIX,metric.beta.facebook.com,extended-matching
 DOMAIN-SUFFIX,metric.internmc.facebook.com,extended-matching
@@ -4052,8 +3969,6 @@ DOMAIN-SUFFIX,metric.webv.taobao.com,extended-matching
 DOMAIN-SUFFIX,metric.yandex.by,extended-matching
 DOMAIN-SUFFIX,metric.yandex.kz,extended-matching
 DOMAIN-SUFFIX,metrics-collector.tidio.co,extended-matching
-DOMAIN-SUFFIX,metrics-dra.dt.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics-drcn.dt.hicloud.com,extended-matching
 DOMAIN-SUFFIX,metrics.apple.com,extended-matching
 DOMAIN-SUFFIX,metrics.atlassian.net,extended-matching
 DOMAIN-SUFFIX,metrics.brightcove.com,extended-matching
@@ -4066,13 +3981,6 @@ DOMAIN-SUFFIX,metrics.posthog.com,extended-matching
 DOMAIN-SUFFIX,metrics.prod.netflix.net,extended-matching
 DOMAIN-SUFFIX,metrics.readme.io,extended-matching
 DOMAIN-SUFFIX,metrics.taobao.com,extended-matching
-DOMAIN-SUFFIX,metrics1.data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics2.data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics3.data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics4.data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics5.data.hicloud.com,extended-matching
-DOMAIN-SUFFIX,metrics5.dt.dbankcloud.ru,extended-matching
-DOMAIN-SUFFIX,metrics6.dt.hicloud.com,extended-matching
 DOMAIN-SUFFIX,mfm.video.qq.com,extended-matching
 DOMAIN-SUFFIX,mi-de-ner-nis3.info,extended-matching
 DOMAIN-SUFFIX,miao.baidu.com,extended-matching
@@ -4144,7 +4052,6 @@ DOMAIN-SUFFIX,mobile-sdk-api.intercom.io,extended-matching
 DOMAIN-SUFFIX,mobile.adjust.com,extended-matching
 DOMAIN-SUFFIX,mobile.juicyads.com,extended-matching
 DOMAIN-SUFFIX,mobile.launchdarkly.com,extended-matching
-DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,extended-matching
 DOMAIN-SUFFIX,mobile.shuzilm.cn,extended-matching
 DOMAIN-SUFFIX,mobileads.google.com,extended-matching
 DOMAIN-SUFFIX,mobileads.msn.com,extended-matching
@@ -4178,7 +4085,6 @@ DOMAIN-SUFFIX,money-maker-default.info,extended-matching
 DOMAIN-SUFFIX,monitor-stsdk.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,monitor.music.qq.com,extended-matching
 DOMAIN-SUFFIX,monitor.qq.com,extended-matching
-DOMAIN-SUFFIX,monitor.uu.qq.com,extended-matching
 DOMAIN-SUFFIX,monitorsdk.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,monitorsdk.appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,mos.appsflyer.com,extended-matching
@@ -4228,7 +4134,6 @@ DOMAIN-SUFFIX,mssdk-sg.tiktokv.com,extended-matching
 DOMAIN-SUFFIX,mssdk.bytedance.com,extended-matching
 DOMAIN-SUFFIX,mssdk.snssdk.com,extended-matching
 DOMAIN-SUFFIX,mssdk.volces.com,extended-matching
-DOMAIN-SUFFIX,mssdk.volces.com.queniusz.com,extended-matching
 DOMAIN-SUFFIX,mssdk.zijieapi.com,extended-matching
 DOMAIN-SUFFIX,mssdk16-normal-alisg.tiktokv.com,extended-matching
 DOMAIN-SUFFIX,mssdk16-normal-useast1a.tiktokv.com,extended-matching
@@ -4256,7 +4161,7 @@ DOMAIN-SUFFIX,music.httpdns.c.163.com,extended-matching
 DOMAIN-SUFFIX,music55.umeng.com,extended-matching
 DOMAIN-SUFFIX,mxcdn1.now.sh,extended-matching
 DOMAIN-SUFFIX,mxcdn2.now.sh,extended-matching
-DOMAIN-SUFFIX,my.DOMAIN,extended-matching
+DOMAIN-SUFFIX,my.domain,extended-matching
 DOMAIN-SUFFIX,my.trackjs.com,extended-matching
 DOMAIN-SUFFIX,myzhongguojie.cn,extended-matching
 DOMAIN-SUFFIX,mz.unity3d.com,extended-matching
@@ -4298,7 +4203,6 @@ DOMAIN-SUFFIX,netpop.umeng.com,extended-matching
 DOMAIN-SUFFIX,new-aaid.umeng.com,extended-matching
 DOMAIN-SUFFIX,new-audid.umeng.com,extended-matching
 DOMAIN-SUFFIX,new-ccs.umeng.com,extended-matching
-DOMAIN-SUFFIX,new.minr.pw,extended-matching
 DOMAIN-SUFFIX,new253.com,extended-matching
 DOMAIN-SUFFIX,new669.com,extended-matching
 DOMAIN-SUFFIX,newclient.map.baidu.com,extended-matching
@@ -4357,8 +4261,6 @@ DOMAIN-SUFFIX,nvidiacenter.com,extended-matching
 DOMAIN-SUFFIX,nvmos.nvidia.com,extended-matching
 DOMAIN-SUFFIX,nzrestapi.getui.com,extended-matching
 DOMAIN-SUFFIX,o-fdl.zztfly.com,extended-matching
-DOMAIN-SUFFIX,o-iab.mediation.unity3d.com,extended-matching
-DOMAIN-SUFFIX,o-sdk.mediation.unity3d.com,extended-matching
 DOMAIN-SUFFIX,o2.ycpi.vip.gq1.yahoo.com,extended-matching
 DOMAIN-SUFFIX,o2o.api.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,oalipay-dl-django.alicdn.com,extended-matching
@@ -4409,7 +4311,6 @@ DOMAIN-SUFFIX,open.snssdk.com,extended-matching
 DOMAIN-SUFFIX,open.snssdk.com.bytedns.net,extended-matching
 DOMAIN-SUFFIX,openapi-smsp.getui.com,extended-matching
 DOMAIN-SUFFIX,openapi.vip.ptqy.gitv.tv,extended-matching
-DOMAIN-SUFFIX,openbox.mobilem.360.cn,extended-matching
 DOMAIN-SUFFIX,opendns.com,extended-matching
 DOMAIN-SUFFIX,openjmacs.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,openmonitor.alipay-eco.com,extended-matching
@@ -4476,7 +4377,6 @@ DOMAIN-SUFFIX,p4p.sina.com.cn,extended-matching
 DOMAIN-SUFFIX,p6-ad-sign.byteimg.com,extended-matching
 DOMAIN-SUFFIX,p9-ad-sign.byteimg.com,extended-matching
 DOMAIN-SUFFIX,page.amap.com,extended-matching
-DOMAIN-SUFFIX,pagead2.googlesyndication.com,extended-matching
 DOMAIN-SUFFIX,pagechoice.net,extended-matching
 DOMAIN-SUFFIX,paimgcdn-feed.baidu.com,extended-matching
 DOMAIN-SUFFIX,palmendeals.blob.core.windows.net,extended-matching
@@ -4549,14 +4449,11 @@ DOMAIN-SUFFIX,platform.facebook.com,extended-matching
 DOMAIN-SUFFIX,plausible.it.unity3d.com,extended-matching
 DOMAIN-SUFFIX,play.estream.to,extended-matching
 DOMAIN-SUFFIX,play.estream.xyz,extended-matching
-DOMAIN-SUFFIX,play.gramombird.com,extended-matching
 DOMAIN-SUFFIX,play.istlandoll.com,extended-matching
 DOMAIN-SUFFIX,play.mine.gay-hotvideo.net,extended-matching
 DOMAIN-SUFFIX,play.nexioniect.com,extended-matching
 DOMAIN-SUFFIX,play.on.animeteatr.ru,extended-matching
 DOMAIN-SUFFIX,play.pampopholf.com,extended-matching
-DOMAIN-SUFFIX,play.play.estream.to,extended-matching
-DOMAIN-SUFFIX,play.play.estream.xyz,extended-matching
 DOMAIN-SUFFIX,play.tercabilis.info,extended-matching
 DOMAIN-SUFFIX,play.umeng.com,extended-matching
 DOMAIN-SUFFIX,play.video2.stream.vidzi.tv,extended-matching
@@ -4564,7 +4461,6 @@ DOMAIN-SUFFIX,play.vidzi.tv,extended-matching
 DOMAIN-SUFFIX,playable-stats.mintegral.net,extended-matching
 DOMAIN-SUFFIX,player-telemetry.vimeo.com,extended-matching
 DOMAIN-SUFFIX,plbslog.umeng.com,extended-matching
-DOMAIN-SUFFIX,plugin.mobopay.baidu.com,extended-matching
 DOMAIN-SUFFIX,plus.url.google.com,extended-matching
 DOMAIN-SUFFIX,plusone.google.com,extended-matching
 DOMAIN-SUFFIX,pmir.3g.qq.com,extended-matching
@@ -4632,7 +4528,6 @@ DOMAIN-SUFFIX,pslog.umeng.com,extended-matching
 DOMAIN-SUFFIX,pss.alicdn.com,extended-matching
 DOMAIN-SUFFIX,pssn.alicdn.com,extended-matching
 DOMAIN-SUFFIX,ptlogin2.qq.com,extended-matching
-DOMAIN-SUFFIX,pub.se.360.cn,extended-matching
 DOMAIN-SUFFIX,public-ct2.hz.gslb.mob.com,extended-matching
 DOMAIN-SUFFIX,public.service.getui.com,extended-matching
 DOMAIN-SUFFIX,publish-pic-cpu.baidu.com,extended-matching
@@ -4723,7 +4618,6 @@ DOMAIN-SUFFIX,reader.sh.vip.qq.com,extended-matching
 DOMAIN-SUFFIX,reading-lq.snssdk.com,extended-matching
 DOMAIN-SUFFIX,realtime.ably.io,extended-matching
 DOMAIN-SUFFIX,reauthenticator.com,extended-matching
-DOMAIN-SUFFIX,rec.g.163.com,extended-matching
 DOMAIN-SUFFIX,rec5.visualwebsiteoptimizer.com,extended-matching
 DOMAIN-SUFFIX,recmd.html5.qq.com,extended-matching
 DOMAIN-SUFFIX,recom.api.mgtv.com,extended-matching
@@ -4738,7 +4632,6 @@ DOMAIN-SUFFIX,region1.analytics.google.com,extended-matching
 DOMAIN-SUFFIX,regionapp.adjust.com,extended-matching
 DOMAIN-SUFFIX,register.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,register.appsflyersdk.com,extended-matching
-DOMAIN-SUFFIX,register.xmpush.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,release.baidu.com,extended-matching
 DOMAIN-SUFFIX,render.shuqireader.com,extended-matching
 DOMAIN-SUFFIX,renhertfo.com,extended-matching
@@ -4764,7 +4657,6 @@ DOMAIN-SUFFIX,report.weishi.qq.com,extended-matching
 DOMAIN-SUFFIX,reporte.hicloud.com,extended-matching
 DOMAIN-SUFFIX,reporte2.hicloud.com,extended-matching
 DOMAIN-SUFFIX,reports.crashlytics.com,extended-matching
-DOMAIN-SUFFIX,reports.wes.df.telemetry.microsoft.com,extended-matching
 DOMAIN-SUFFIX,req.appads.com,extended-matching
 DOMAIN-SUFFIX,req.appads.in,extended-matching
 DOMAIN-SUFFIX,req1.appads.com,extended-matching
@@ -4779,7 +4671,7 @@ DOMAIN-SUFFIX,res.mi.baidu.com,extended-matching
 DOMAIN-SUFFIX,res.mmstat.com,extended-matching
 DOMAIN-SUFFIX,research.qq.com,extended-matching
 DOMAIN-SUFFIX,resolve.umeng.com,extended-matching
-DOMAIN-SUFFIX,responses.df.telemetry.microsoft.com,extended-matching
+DOMAIN-SUFFIX,resolver.msg.xiaomi.net,extended-matching
 DOMAIN-SUFFIX,rest.ably.io,extended-matching
 DOMAIN-SUFFIX,restapi.getui.com,extended-matching
 DOMAIN-SUFFIX,retcode.taobao.com,extended-matching
@@ -4797,7 +4689,6 @@ DOMAIN-SUFFIX,rmtp-b.rong-edge.com,extended-matching
 DOMAIN-SUFFIX,rmtp.rong-edge.com,extended-matching
 DOMAIN-SUFFIX,roadmap.adjust.com,extended-matching
 DOMAIN-SUFFIX,roastedvolt.net,extended-matching
-DOMAIN-SUFFIX,rock.reauthenticator.com,extended-matching
 DOMAIN-SUFFIX,rock2.authcaptcha.com,extended-matching
 DOMAIN-SUFFIX,rocket.snssdk.com,extended-matching
 DOMAIN-SUFFIX,rocking-hollywood-news.com,extended-matching
@@ -4865,22 +4756,20 @@ DOMAIN-SUFFIX,s.deepl.com,extended-matching
 DOMAIN-SUFFIX,s.jpush.cn,extended-matching
 DOMAIN-SUFFIX,s.qhupdate.com,extended-matching
 DOMAIN-SUFFIX,s.shuzilm.cn,extended-matching
-DOMAIN-SUFFIX,s.union.360.cn,extended-matching
 DOMAIN-SUFFIX,s.xiaohongshu.com,extended-matching
-DOMAIN-SUFFIX,s0.doubleclick.net,extended-matching
-DOMAIN-SUFFIX,s01.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s03.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s04.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s05.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s07.DOMAINcontent.live,extended-matching
+DOMAIN-SUFFIX,s01.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s03.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s04.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s05.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s07.domaincontent.live,extended-matching
 DOMAIN-SUFFIX,s1.cloud.net.cn,extended-matching
 DOMAIN-SUFFIX,s1.dcloud.net.cn,extended-matching
 DOMAIN-SUFFIX,s1.irs03.com,extended-matching
 DOMAIN-SUFFIX,s1.qiqutt.cn,extended-matching
-DOMAIN-SUFFIX,s100.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s11.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s12.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,s13.DOMAINcontent.live,extended-matching
+DOMAIN-SUFFIX,s100.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s11.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s12.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,s13.domaincontent.live,extended-matching
 DOMAIN-SUFFIX,s2.zdmimg.com,extended-matching
 DOMAIN-SUFFIX,s2s-gate.singular.net,extended-matching
 DOMAIN-SUFFIX,s2s.adjust.cn,extended-matching
@@ -4943,7 +4832,6 @@ DOMAIN-SUFFIX,sdk.adsplay.xyz,extended-matching
 DOMAIN-SUFFIX,sdk.adspruce.com,extended-matching
 DOMAIN-SUFFIX,sdk.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,sdk.appsflyer.tk,extended-matching
-DOMAIN-SUFFIX,sdk.guard.mob.com,extended-matching
 DOMAIN-SUFFIX,sdk.hk.gslb.mob.com,extended-matching
 DOMAIN-SUFFIX,sdk.jh.gslb.mob.com,extended-matching
 DOMAIN-SUFFIX,sdk.jiguang.cn,extended-matching
@@ -4951,11 +4839,8 @@ DOMAIN-SUFFIX,sdk.kaijiawan.com,extended-matching
 DOMAIN-SUFFIX,sdk.launchdarkly.us,extended-matching
 DOMAIN-SUFFIX,sdk.look.360.cn,extended-matching
 DOMAIN-SUFFIX,sdk.mob.com,extended-matching
-DOMAIN-SUFFIX,sdk.open.extension.getui.com,extended-matching
 DOMAIN-SUFFIX,sdk.open.talk.gepush.com,extended-matching
-DOMAIN-SUFFIX,sdk.open.talk.getui.com,extended-matching
 DOMAIN-SUFFIX,sdk.open.talk.getui.net,extended-matching
-DOMAIN-SUFFIX,sdk.open.talk.igexin.com,extended-matching
 DOMAIN-SUFFIX,sdk.persona.ly,extended-matching
 DOMAIN-SUFFIX,sdk.ptqy.gitv.tv,extended-matching
 DOMAIN-SUFFIX,sdk.talkingdata.com,extended-matching
@@ -5069,7 +4954,6 @@ DOMAIN-SUFFIX,seed-pol-3.inf.nimiq.network,extended-matching
 DOMAIN-SUFFIX,seed-pol-4.inf.nimiq.network,extended-matching
 DOMAIN-SUFFIX,seed.nimiq.by,extended-matching
 DOMAIN-SUFFIX,seed.nimiq.jp,extended-matching
-DOMAIN-SUFFIX,seed.nimiqpool.com,extended-matching
 DOMAIN-SUFFIX,sehrivangazetesicom.teimg.com,extended-matching
 DOMAIN-SUFFIX,sensors.cloud.tencent.com,extended-matching
 DOMAIN-SUFFIX,sentry-inc.ssr.mihoyo.com,extended-matching
@@ -5101,8 +4985,6 @@ DOMAIN-SUFFIX,sepro.baidu.com,extended-matching
 DOMAIN-SUFFIX,serie-vostfr.com,extended-matching
 DOMAIN-SUFFIX,serv1swork.com,extended-matching
 DOMAIN-SUFFIX,serve.adspruce.com,extended-matching
-DOMAIN-SUFFIX,server6.pipe.aria.microsoft.com,extended-matching
-DOMAIN-SUFFIX,server7.pipe.aria.microsoft.com,extended-matching
 DOMAIN-SUFFIX,service.singular.live,extended-matching
 DOMAIN-SUFFIX,service.weather.microsoft.com,extended-matching
 DOMAIN-SUFFIX,service4refresh.info,extended-matching
@@ -5118,7 +5000,6 @@ DOMAIN-SUFFIX,settings.data.microsoft.com,extended-matching
 DOMAIN-SUFFIX,settingsfd-geo.trafficmanager.net,extended-matching
 DOMAIN-SUFFIX,sf-ttam-static.tiktokstaticb.com,extended-matching
 DOMAIN-SUFFIX,sf19-scmcdn-va.ibytedtos.com,extended-matching
-DOMAIN-SUFFIX,sf6-be-pack.pglstatp-toutiao.com,extended-matching
 DOMAIN-SUFFIX,sfile.chatglm.cn,extended-matching
 DOMAIN-SUFFIX,sfmcaf.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,sfp.safe.baidu.com,extended-matching
@@ -5171,7 +5052,6 @@ DOMAIN-SUFFIX,skadsdkless.appsflyer.com,extended-matching
 DOMAIN-SUFFIX,skadsdkless.appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,skan-s2s.singular.net,extended-matching
 DOMAIN-SUFFIX,skan.singular.net,extended-matching
-DOMAIN-SUFFIX,skin.se.360.cn,extended-matching
 DOMAIN-SUFFIX,sl.hpplay.cn,extended-matching
 DOMAIN-SUFFIX,slog.sina.cn,extended-matching
 DOMAIN-SUFFIX,slotmagie.zendesk.com,extended-matching
@@ -5250,10 +5130,8 @@ DOMAIN-SUFFIX,staging.admin.e.mi.com,extended-matching
 DOMAIN-SUFFIX,staging.taplytics.com,extended-matching
 DOMAIN-SUFFIX,stappupgrade.vivo.com.cn,extended-matching
 DOMAIN-SUFFIX,starkgame.zijieapi.com,extended-matching
-DOMAIN-SUFFIX,start.branch.io,extended-matching
 DOMAIN-SUFFIX,stat-analytics.mediavitrina.ru,extended-matching
 DOMAIN-SUFFIX,stat.360safe.com,extended-matching
-DOMAIN-SUFFIX,stat.alibaba.com.gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,stat.gamedl.qq.com,extended-matching
 DOMAIN-SUFFIX,stat.m.360.cn,extended-matching
 DOMAIN-SUFFIX,stat.m.jd.com,extended-matching
@@ -5268,10 +5146,8 @@ DOMAIN-SUFFIX,stat6.y.qq.com,extended-matching
 DOMAIN-SUFFIX,statdynamic.com,extended-matching
 DOMAIN-SUFFIX,static-doubleclick-net.l.google.com,extended-matching
 DOMAIN-SUFFIX,static-res.qq.com,extended-matching
-DOMAIN-SUFFIX,static.ads-twitter.com,extended-matching
 DOMAIN-SUFFIX,static.adtrue.com,extended-matching
 DOMAIN-SUFFIX,static.collectui.com,extended-matching
-DOMAIN-SUFFIX,static.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,static.fengkongcloud.com,extended-matching
 DOMAIN-SUFFIX,static.flat-ads.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,static.flv.uuzuonline.com,extended-matching
@@ -5287,7 +5163,7 @@ DOMAIN-SUFFIX,static.vidazoo.com.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,static1.searchbox.baidu.com,extended-matching
 DOMAIN-SUFFIX,staticfile.net,extended-matching
 DOMAIN-SUFFIX,staticfile.org,extended-matching
-DOMAIN-SUFFIX,staticsfs.DOMAIN,extended-matching
+DOMAIN-SUFFIX,staticsfs.domain,extended-matching
 DOMAIN-SUFFIX,staticxx.facebook.com,extended-matching
 DOMAIN-SUFFIX,statis.push.netease.com,extended-matching
 DOMAIN-SUFFIX,statistic.qzone.qq.com,extended-matching
@@ -5365,7 +5241,6 @@ DOMAIN-SUFFIX,sxcdn5.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,sxcdn6.now.sh,extended-matching
 DOMAIN-SUFFIX,sy.cl2m.cn,extended-matching
 DOMAIN-SUFFIX,sync.adspruce.com,extended-matching
-DOMAIN-SUFFIX,sync.mobojoy.baidu.com,extended-matching
 DOMAIN-SUFFIX,synchrobox.adswizz.com,extended-matching
 DOMAIN-SUFFIX,syndication.twitter.com,extended-matching
 DOMAIN-SUFFIX,sys.miui.com,extended-matching
@@ -5427,7 +5302,6 @@ DOMAIN-SUFFIX,tbsrecovery.imtt.qq.com,extended-matching
 DOMAIN-SUFFIX,tc-log.mattel163.com,extended-matching
 DOMAIN-SUFFIX,tcbox.baidu.com,extended-matching
 DOMAIN-SUFFIX,tce.alicdn.com,extended-matching
-DOMAIN-SUFFIX,td.doubleclick.net,extended-matching
 DOMAIN-SUFFIX,tdc.qq.com,extended-matching
 DOMAIN-SUFFIX,tddmp.com,extended-matching
 DOMAIN-SUFFIX,tdid.m.qq.com,extended-matching
@@ -5452,9 +5326,7 @@ DOMAIN-SUFFIX,tenmaxsgads.blob.core.windows.net,extended-matching
 DOMAIN-SUFFIX,teredo.ipv6.microsoft.com,extended-matching
 DOMAIN-SUFFIX,teslaamg.obs.cn-east-3.myhuaweicloud.com,extended-matching
 DOMAIN-SUFFIX,test-sentry.chatglm.cn,extended-matching
-DOMAIN-SUFFIX,test.activity.windows.com,extended-matching
 DOMAIN-SUFFIX,test.ark.qq.com,extended-matching
-DOMAIN-SUFFIX,test.minr.pw,extended-matching
 DOMAIN-SUFFIX,test.surepush.cn,extended-matching
 DOMAIN-SUFFIX,testingcf.jsdelivr.net.cdn.cloudflare.net,extended-matching
 DOMAIN-SUFFIX,tetrack.qq.com,extended-matching
@@ -5468,7 +5340,6 @@ DOMAIN-SUFFIX,th.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,thewhizmarketing.com,extended-matching
 DOMAIN-SUFFIX,thewhizproducts.com,extended-matching
 DOMAIN-SUFFIX,thewise.com,extended-matching
-DOMAIN-SUFFIX,thind-gke-euw.prd.data.corp.unity3d.com,extended-matching
 DOMAIN-SUFFIX,thirdrcp-bj.getui.com,extended-matching
 DOMAIN-SUFFIX,thirdrcp-hz.getui.com,extended-matching
 DOMAIN-SUFFIX,time.video.ptqy.gitv.tv,extended-matching
@@ -5507,12 +5378,9 @@ DOMAIN-SUFFIX,tnc31-normal-useast1a.isnssdk.com,extended-matching
 DOMAIN-SUFFIX,tnc31-normal-useast2a.isnssdk.com,extended-matching
 DOMAIN-SUFFIX,tne.pinduoduo.com,extended-matching
 DOMAIN-SUFFIX,tns.simba.taobao.com,extended-matching
-DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com,extended-matching
 DOMAIN-SUFFIX,tobapplog.snssdk.com,extended-matching
 DOMAIN-SUFFIX,tobapplog.tobsnssdk.com,extended-matching
 DOMAIN-SUFFIX,tobapplog.volceapplog.com,extended-matching
-DOMAIN-SUFFIX,toblog-alink.ctobsnssdk.com,extended-matching
-DOMAIN-SUFFIX,toblog.ctobsnssdk.com,extended-matching
 DOMAIN-SUFFIX,toblog.ctobsnssdk.com.w.cdngslb.com,extended-matching
 DOMAIN-SUFFIX,toblog.snssdk.com,extended-matching
 DOMAIN-SUFFIX,toblog.stobsnssdk.com,extended-matching
@@ -5635,9 +5503,7 @@ DOMAIN-SUFFIX,ulogs.umeng.com,extended-matching
 DOMAIN-SUFFIX,ulogs.umengcloud.com,extended-matching
 DOMAIN-SUFFIX,ulogs1.gifshow.com,extended-matching
 DOMAIN-SUFFIX,umc.danuoyi.alicdn.com,extended-matching
-DOMAIN-SUFFIX,umeng.com.gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,umengacs.m.taobao.com,extended-matching
-DOMAIN-SUFFIX,umengcloud.com.gds.alibabadns.com,extended-matching
 DOMAIN-SUFFIX,umengjmacs.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,ums.jiguang.cn,extended-matching
 DOMAIN-SUFFIX,umtrack.com,extended-matching
@@ -5672,7 +5538,6 @@ DOMAIN-SUFFIX,up-hi.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,up-hl.3g.qq.com,extended-matching
 DOMAIN-SUFFIX,up.cm.ksmobile.com,extended-matching
 DOMAIN-SUFFIX,update.360safe.com,extended-matching
-DOMAIN-SUFFIX,update.avlyun.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,update.crashlytics.com,extended-matching
 DOMAIN-SUFFIX,updatecenter.qq.com,extended-matching
 DOMAIN-SUFFIX,updown.mobileassist.baidu.com,extended-matching
@@ -5765,7 +5630,6 @@ DOMAIN-SUFFIX,vidaa.chcatv.hismarttv.com,extended-matching
 DOMAIN-SUFFIX,video-api.mco.arcpublishing.com,extended-matching
 DOMAIN-SUFFIX,video-thumbs.stripcdn.com,extended-matching
 DOMAIN-SUFFIX,video.adspruce.com,extended-matching
-DOMAIN-SUFFIX,video.branch.io,extended-matching
 DOMAIN-SUFFIX,video.dispatch.tc.qq.com,extended-matching
 DOMAIN-SUFFIX,video.market.xiaomi.com,extended-matching
 DOMAIN-SUFFIX,video.streaming.estream.to,extended-matching
@@ -5806,12 +5670,8 @@ DOMAIN-SUFFIX,vp.html5.qq.com,extended-matching
 DOMAIN-SUFFIX,vpic.video.qq.com,extended-matching
 DOMAIN-SUFFIX,vskit.umeng.com,extended-matching
 DOMAIN-SUFFIX,vstat.v.blog.sohu.com,extended-matching
-DOMAIN-SUFFIX,vulcan.branch.io,extended-matching
-DOMAIN-SUFFIX,vulcan2.branch.io,extended-matching
-DOMAIN-SUFFIX,vulcan3.branch.io,extended-matching
 DOMAIN-SUFFIX,vuryua.ru,extended-matching
 DOMAIN-SUFFIX,w.inews.qq.com,extended-matching
-DOMAIN-SUFFIX,w.isx.unity3d.com,extended-matching
 DOMAIN-SUFFIX,w.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,w3-reporting-nel.reddit.com,extended-matching
 DOMAIN-SUFFIX,w3-reporting.reddit.com,extended-matching
@@ -5925,39 +5785,31 @@ DOMAIN-SUFFIX,wup.imtt.qq.com,extended-matching
 DOMAIN-SUFFIX,wuta.umeng.com,extended-matching
 DOMAIN-SUFFIX,wv.inner-active.mobi,extended-matching
 DOMAIN-SUFFIX,wvcfg.alicdn.com,extended-matching
-DOMAIN-SUFFIX,www.DOMAINcontent.live,extended-matching
-DOMAIN-SUFFIX,www.DOMAINingcloud.racing,extended-matching
-DOMAIN-SUFFIX,www.DOMAINingcloud.trade,extended-matching
-DOMAIN-SUFFIX,www.DOMAINingcloud.win,extended-matching
-DOMAIN-SUFFIX,www.authedwebmine.cz,extended-matching
-DOMAIN-SUFFIX,www.besocial.online,extended-matching
-DOMAIN-SUFFIX,www.branch.io,extended-matching
 DOMAIN-SUFFIX,www.cloudflane.com,extended-matching
 DOMAIN-SUFFIX,www.coinimp.com,extended-matching
 DOMAIN-SUFFIX,www.coinimp.net,extended-matching
+DOMAIN-SUFFIX,www.domaincontent.live,extended-matching
+DOMAIN-SUFFIX,www.domainingcloud.racing,extended-matching
+DOMAIN-SUFFIX,www.domainingcloud.trade,extended-matching
+DOMAIN-SUFFIX,www.domainingcloud.win,extended-matching
 DOMAIN-SUFFIX,www.freecontent.date,extended-matching
 DOMAIN-SUFFIX,www.freecontent.science,extended-matching
 DOMAIN-SUFFIX,www.freecontent.stream,extended-matching
 DOMAIN-SUFFIX,www.freecontent.win,extended-matching
 DOMAIN-SUFFIX,www.jquery-cdn.download,extended-matching
 DOMAIN-SUFFIX,www.jqwww.download,extended-matching
-DOMAIN-SUFFIX,www.jsDOMAINing.party,extended-matching
-DOMAIN-SUFFIX,www.jsDOMAINing.win,extended-matching
-DOMAIN-SUFFIX,www.jscoinminer.com,extended-matching
-DOMAIN-SUFFIX,www.lightminer.co,extended-matching
+DOMAIN-SUFFIX,www.jsdomaining.party,extended-matching
+DOMAIN-SUFFIX,www.jsdomaining.win,extended-matching
 DOMAIN-SUFFIX,www.monero-miner.com,extended-matching
 DOMAIN-SUFFIX,www.notmining.org,extended-matching
 DOMAIN-SUFFIX,www.pangolin-dsp-toutiao.com,extended-matching
 DOMAIN-SUFFIX,www.sparechange.io,extended-matching
 DOMAIN-SUFFIX,www.verifier.live,extended-matching
-DOMAIN-SUFFIX,www.webassembly.stream,extended-matching
-DOMAIN-SUFFIX,www.webmine.cz,extended-matching
 DOMAIN-SUFFIX,wxmini-log.hortorgames.com,extended-matching
 DOMAIN-SUFFIX,wxs.qq.com,extended-matching
 DOMAIN-SUFFIX,wxsnsad.tc.qq.com,extended-matching
 DOMAIN-SUFFIX,wxsnsdy.tc.qq.com,extended-matching
 DOMAIN-SUFFIX,wxsnsdy.video.qq.com,extended-matching
-DOMAIN-SUFFIX,x1.go.sohu.com,extended-matching
 DOMAIN-SUFFIX,x2.tcdn.qq.com,extended-matching
 DOMAIN-SUFFIX,xapi.juicyads.com,extended-matching
 DOMAIN-SUFFIX,xdcs-collector.ximalaya.com,extended-matching
@@ -5974,7 +5826,6 @@ DOMAIN-SUFFIX,xid.statuspage.io,extended-matching
 DOMAIN-SUFFIX,xjp-jmacs.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,xjp-msgacs.m.taobao.com,extended-matching
 DOMAIN-SUFFIX,xlirdr.com,extended-matching
-DOMAIN-SUFFIX,xlmc.sec.miui.com,extended-matching
 DOMAIN-SUFFIX,xlog.snssdk.com,extended-matching
 DOMAIN-SUFFIX,xlog.tiktokv.com,extended-matching
 DOMAIN-SUFFIX,xlog16-normal-c-useast2a.tiktokv.com,extended-matching
@@ -6041,7 +5892,6 @@ DOMAIN-SUFFIX,zlib-official.com,extended-matching
 DOMAIN-SUFFIX,zlibrary-global.com,extended-matching
 DOMAIN-SUFFIX,zlibrary.lol,extended-matching
 DOMAIN-SUFFIX,zlibrary.to,extended-matching
-DOMAIN-SUFFIX,zn1z6ngdutm8gqq18-ocbc.siteintercept.qualtrics.com,extended-matching
 DOMAIN-SUFFIX,znsv.baidu.com,extended-matching
 DOMAIN-SUFFIX,zt-sup.kwd.inkuai.com,extended-matching
 DOMAIN-SUFFIX,zt.gifshow.com,extended-matching

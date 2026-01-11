@@ -2,6 +2,7 @@ DOMAIN,alipanso.com
 DOMAIN,alixiaozhan.net
 DOMAIN,appsimg.com
 DOMAIN,appvipshop.com
+DOMAIN,cctv.com
 DOMAIN,cctvpic.com
 DOMAIN,duokan.com
 DOMAIN,fonts.googleapis.com
@@ -13,6 +14,7 @@ DOMAIN,mi.com
 DOMAIN,miui.com
 DOMAIN,miwifi.com
 DOMAIN,ntp.ubuntu.com
+DOMAIN,ocsp.digicert.com
 DOMAIN,pan.3636360.com
 DOMAIN,snapdrop.net
 DOMAIN,test-ipv6.com
@@ -143,12 +145,10 @@ DOMAIN-SUFFIX,sqlc.dev
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tover.xyz
-DOMAIN-SUFFIX,tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,vmware.com

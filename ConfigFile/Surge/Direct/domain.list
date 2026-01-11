@@ -2,6 +2,7 @@ DOMAIN,alipanso.com,extended-matching
 DOMAIN,alixiaozhan.net,extended-matching
 DOMAIN,appsimg.com,extended-matching
 DOMAIN,appvipshop.com,extended-matching
+DOMAIN,cctv.com,extended-matching
 DOMAIN,cctvpic.com,extended-matching
 DOMAIN,duokan.com,extended-matching
 DOMAIN,fonts.googleapis.com,extended-matching
@@ -13,6 +14,7 @@ DOMAIN,mi.com,extended-matching
 DOMAIN,miui.com,extended-matching
 DOMAIN,miwifi.com,extended-matching
 DOMAIN,ntp.ubuntu.com,extended-matching
+DOMAIN,ocsp.digicert.com,extended-matching
 DOMAIN,pan.3636360.com,extended-matching
 DOMAIN,snapdrop.net,extended-matching
 DOMAIN,test-ipv6.com,extended-matching
@@ -143,12 +145,10 @@ DOMAIN-SUFFIX,sqlc.dev,extended-matching
 DOMAIN-SUFFIX,taobao.com,extended-matching
 DOMAIN-SUFFIX,taobaocdn.com,extended-matching
 DOMAIN-SUFFIX,tbcache.com,extended-matching
-DOMAIN-SUFFIX,tbcdn.cn,extended-matching
 DOMAIN-SUFFIX,tencent.com,extended-matching
 DOMAIN-SUFFIX,tmall.com,extended-matching
 DOMAIN-SUFFIX,tmall.hk,extended-matching
 DOMAIN-SUFFIX,tover.xyz,extended-matching
-DOMAIN-SUFFIX,tuna.tsinghua.edu.cn,extended-matching
 DOMAIN-SUFFIX,udache.com,extended-matching
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,extended-matching
 DOMAIN-SUFFIX,vmware.com,extended-matching
