@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,itunes.com,extended-matching
 DOMAIN-SUFFIX,music.apple.com,extended-matching
-DOMAIN-SUFFIX,service.gc.apple.com,extended-matching
 DOMAIN-SUFFIX,setup.icloud.com,extended-matching
 DOMAIN-SUFFIX,sonos-music.apple.com,extended-matching
 DOMAIN-SUFFIX,swquery.apple.com,extended-matching

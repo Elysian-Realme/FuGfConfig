@@ -23,12 +23,16 @@ aod.itunes.apple.com
 mvod.itunes.apple.com
 streamingaudio.itunes.apple.com
 k128-mzstatic.gslb.ksyuncdn.com
+k128-inapp.gslb.ksyuncdn.com
+k128.gslb.gslb.ksyuncdn.com
+k128-updates.gslb.ksyuncdn.com
 # Other
 download.developer.apple.com
 downloaddispatch.itunes.apple.com
 app-site-association.cdn-apple.com
 .apple.com.w.cdngslb.com
 .apple.com.w.alikunlun.com
+.apple.com.m.alikunlun.net
 .apple.com.download.ks-cdn.com
 .apple.map.fastly.net
 .ioshost.qtlcdn.com
@@ -39,3 +43,4 @@ app-site-association.cdn-apple.com
 .idms-apple.com.akadns.net
 .ls-apple.com.akadns.net
 .ess-apple.com.akadns.net
+.gc-apple.com.akadns.net

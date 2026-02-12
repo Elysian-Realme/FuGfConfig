@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,71edge.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,air-matters.com
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alidns.com
@@ -85,6 +87,7 @@ DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
 DOMAIN-SUFFIX,download.java.net
 DOMAIN-SUFFIX,eccdnx.com
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edrawsoft.com
 DOMAIN-SUFFIX,fit2cloud.com
 DOMAIN-SUFFIX,gecimi.com
@@ -102,6 +105,7 @@ DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,jidian.im
 DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,ksyuncdn.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,liveperson.net
@@ -109,6 +113,7 @@ DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,massgrave.dev
 DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,miaopai.com
@@ -124,11 +129,14 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,qianxin.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qtlcdn.com
 DOMAIN-SUFFIX,qtlcdn.com.cdnmg.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwen.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,qzoneapp.com

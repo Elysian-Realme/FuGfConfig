@@ -133,5 +133,6 @@ tanstack.com##div > .sticky.max-h-screen.overflow-y-auto
 ||js.stripe.com^$domain=linux.do
 ||challenges.cloudflare.com^$domain=linux.do
 ||q.stripe.com^$domain=linux.do
-||res.wx.qq.com^$domain=sspai.com|www.cnblogs.com
+||res.wx.qq.com^$domain=sspai.com|www.cnblogs.com|chat.deepseek.com|www.kimi.com
 ||g.alicdn.com^$domain=sspai.com
+||appleid.cdn-apple.com^$domain=chat.deepseek.com

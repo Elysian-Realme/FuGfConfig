@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,bing.com,extended-matching
 DOMAIN-SUFFIX,bing.net,extended-matching
 DOMAIN-SUFFIX,bingapis.com,extended-matching
 DOMAIN-SUFFIX,clarity.ms,extended-matching
+DOMAIN-SUFFIX,cloud.microsoft,extended-matching
 DOMAIN-SUFFIX,hotmail.com,extended-matching
 DOMAIN-SUFFIX,live.com,extended-matching
 DOMAIN-SUFFIX,live.net,extended-matching
@@ -33,6 +34,7 @@ DOMAIN-SUFFIX,s-microsoft.com,extended-matching
 DOMAIN-SUFFIX,sfx.ms,extended-matching
 DOMAIN-SUFFIX,sharepointonline.com,extended-matching
 DOMAIN-SUFFIX,skype.com,extended-matching
+DOMAIN-SUFFIX,static.microsoft,extended-matching
 DOMAIN-SUFFIX,windows.com,extended-matching
 DOMAIN-SUFFIX,windows.net,extended-matching
 DOMAIN-SUFFIX,windowsupdate.com,extended-matching

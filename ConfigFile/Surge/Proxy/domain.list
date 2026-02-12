@@ -278,7 +278,6 @@ DOMAIN-SUFFIX,typlod.io,extended-matching
 DOMAIN-SUFFIX,typlog.com,extended-matching
 DOMAIN-SUFFIX,typlog.io,extended-matching
 DOMAIN-SUFFIX,ubnt.com,extended-matching
-DOMAIN-SUFFIX,ubuntu.com,extended-matching
 DOMAIN-SUFFIX,ui.com,extended-matching
 DOMAIN-SUFFIX,unity.com,extended-matching
 DOMAIN-SUFFIX,unity3d.com,extended-matching
@@ -334,3 +333,4 @@ DOMAIN-SUFFIX,yarnpkg.com,extended-matching
 DOMAIN-SUFFIX,yastatic.net,extended-matching
 DOMAIN-SUFFIX,ycombinator.com,extended-matching
 DOMAIN-SUFFIX,zed.dev,extended-matching
+DOMAIN-SUFFIX,zotero.org,extended-matching

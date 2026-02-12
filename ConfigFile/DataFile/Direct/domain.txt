@@ -1,16 +1,10 @@
 ## 全局
 .cn
 
-## mihoyo
-.mihoyo.com
-.mhystatic.com
-.bh3.com
-.yuanshen.com
-.juequling.com
-.bhsr.com
-
-## 人机验证
-.hcaptcha.com
+## Akamai
+.akamai.net
+.akamaiedge.net
+.edgekey.net
 
 ## alibaba
 .alidns.com
@@ -168,6 +162,17 @@ vipstatic.com
 ## Development
 .sqlc.dev
 
+## mihoyo
+.mihoyo.com
+.mhystatic.com
+.bh3.com
+.yuanshen.com
+.juequling.com
+.bhsr.com
+
+## 人机验证
+.hcaptcha.com
+
 ## 其他
 fonts.gstatic.com
 fonts.googleapis.com
@@ -213,6 +218,11 @@ ntp.ubuntu.com
 .qtlcdn.com.cdnmg.com
 .csair.com
 .qtlcdn.com
+.ksyuncdn.com
 .lmstudio.ai
 .relingo.net
 ocsp.digicert.com
+.massgrave.dev
+.qianxin.com
+.qwen.ai
+.qwen.com

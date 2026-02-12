@@ -500,6 +500,7 @@ DOMAIN-SUFFIX,ad13.adfarm1.adition.com,extended-matching
 DOMAIN-SUFFIX,ad2.apx.appier.net,extended-matching
 DOMAIN-SUFFIX,ad3.apx.appier.net,extended-matching
 DOMAIN-SUFFIX,ad6media.fr,extended-matching
+DOMAIN-SUFFIX,adalliance-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,adap.tv,extended-matching
 DOMAIN-SUFFIX,adapace.gotrackier.com,extended-matching
 DOMAIN-SUFFIX,adapex.io,extended-matching
@@ -3523,6 +3524,7 @@ DOMAIN-SUFFIX,mobad.ijinshan.com,extended-matching
 DOMAIN-SUFFIX,mobclix.com,extended-matching
 DOMAIN-SUFFIX,mobfox.com,extended-matching
 DOMAIN-SUFFIX,mobile-collector.newrelic.com,extended-matching
+DOMAIN-SUFFIX,mobile-messenger.intercom.com,extended-matching
 DOMAIN-SUFFIX,mobile-production.content-square.net,extended-matching
 DOMAIN-SUFFIX,mobile-sdk-config.gservice.emarsys.net,extended-matching
 DOMAIN-SUFFIX,mobile-sdk-resources.jumio.com,extended-matching

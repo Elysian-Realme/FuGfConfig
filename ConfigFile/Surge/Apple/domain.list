@@ -21,16 +21,10 @@ DOMAIN-SUFFIX,icloud-content.com,extended-matching
 DOMAIN-SUFFIX,icloud.com,extended-matching
 DOMAIN-SUFFIX,icloud.com.cn,extended-matching
 DOMAIN-SUFFIX,lb-apple.com.akadns.net,extended-matching
-DOMAIN-SUFFIX,lcdn-locator.apple.com,extended-matching
-DOMAIN-SUFFIX,ls.apple.com,extended-matching
 DOMAIN-SUFFIX,ls.apple.com.akadns.net,extended-matching
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net,extended-matching
 DOMAIN-SUFFIX,me.com,extended-matching
-DOMAIN-SUFFIX,push.apple.com,extended-matching
 DOMAIN-SUFFIX,push.apple.com.akadns.net,extended-matching
-DOMAIN-SUFFIX,store.apple.com,extended-matching
-USER-AGENT,%E5%9C%B0%E5%9B%BE*
-USER-AGENT,%E8%AE%BE%E7%BD%AE*
 USER-AGENT,*WeatherFoundation*
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,FMDClient*

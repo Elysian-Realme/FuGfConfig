@@ -71,7 +71,7 @@
 .debian.org
 
 ## Ubuntu
-.ubuntu.com
+# .ubuntu.com
 .snapcraft.io
 .snapcraftcontent.com
 .launchpadcontent.net
@@ -470,3 +470,4 @@ api.rc-backup.com
 .sourceforge.net
 .trancy.org
 .linux.do
+.zotero.org

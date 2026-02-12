@@ -36,3 +36,5 @@ mem.gfx.ms
 .azure.com
 .clarity.ms
 .aka.ms
+.cloud.microsoft
+.static.microsoft

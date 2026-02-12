@@ -278,7 +278,6 @@ DOMAIN-SUFFIX,typlod.io
 DOMAIN-SUFFIX,typlog.com
 DOMAIN-SUFFIX,typlog.io
 DOMAIN-SUFFIX,ubnt.com
-DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,ui.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
@@ -334,3 +333,4 @@ DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,zed.dev
+DOMAIN-SUFFIX,zotero.org

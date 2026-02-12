@@ -8037,3 +8037,7 @@ socket.freebuf.com
 .protechts.net
 .top
 .xyz
+.mobile-messenger.intercom.com
+.inmobisdk-a.akamaihd.net
+.adalliance-a.akamaihd.net
+.ds-aksb-a.akamaihd.net
