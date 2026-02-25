@@ -16,7 +16,9 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .anchor.fm
 .android.com
 .annas-archive.gs
+.annas-archive.li
 .annas-archive.org
+.api.tavily.com
 .apkpure.com
 .apkpure.net
 .appsco.pe
@@ -52,7 +54,6 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .deepl.com
 .dependabot.com
 .developer.mozilla.org
-.digicert.com
 .discord.com
 .discord.gg
 .discord.media
@@ -189,7 +190,6 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .nyaa.si
 .o3o.ca
 .obsidian.md
-.ocsp.pki.goog
 .ollama.ai
 .ollama.com
 .omdbapi.com
@@ -252,6 +252,7 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .spacex.com
 .stackoverflow.co
 .stackoverflow.com
+.starship.rs
 .stripe.com
 .stripe.network
 .sublimetext.com
@@ -320,6 +321,7 @@ zed-extensions.nyc3.digitaloceanspaces.com
 .vscodium.com
 .vuejs.org
 .wakapi.dev
+.weaviate.io
 .wikimedia.org
 .wikipedia.org
 .winget.microsoft.com

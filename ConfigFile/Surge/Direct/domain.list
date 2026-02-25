@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,71edge.com,extended-matching
 DOMAIN-SUFFIX,acg.tv,extended-matching
 DOMAIN-SUFFIX,acgvideo.com,extended-matching
 DOMAIN-SUFFIX,air-matters.com,extended-matching
+DOMAIN-SUFFIX,akadns.net,extended-matching
 DOMAIN-SUFFIX,akamai.net,extended-matching
 DOMAIN-SUFFIX,akamaiedge.net,extended-matching
 DOMAIN-SUFFIX,alibaba.com,extended-matching
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,bilivideo.com,extended-matching
 DOMAIN-SUFFIX,byteimg.com,extended-matching
 DOMAIN-SUFFIX,bytescm.com,extended-matching
 DOMAIN-SUFFIX,cctv.com,extended-matching
+DOMAIN-SUFFIX,cdn.fwupd.org,extended-matching
 DOMAIN-SUFFIX,chinaunicom.com,extended-matching
 DOMAIN-SUFFIX,chinaunicom.com.hk,extended-matching
 DOMAIN-SUFFIX,cloudfront.net,extended-matching
@@ -159,6 +161,7 @@ DOMAIN-SUFFIX,tmall.hk,extended-matching
 DOMAIN-SUFFIX,tover.xyz,extended-matching
 DOMAIN-SUFFIX,udache.com,extended-matching
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net,extended-matching
+DOMAIN-SUFFIX,ustclug.org,extended-matching
 DOMAIN-SUFFIX,vmware.com,extended-matching
 DOMAIN-SUFFIX,weibo.com,extended-matching
 DOMAIN-SUFFIX,weibocdn.com,extended-matching

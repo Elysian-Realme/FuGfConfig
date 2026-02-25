@@ -16,7 +16,9 @@ DOMAIN-SUFFIX,anaconda.org,extended-matching
 DOMAIN-SUFFIX,anchor.fm,extended-matching
 DOMAIN-SUFFIX,android.com,extended-matching
 DOMAIN-SUFFIX,annas-archive.gs,extended-matching
+DOMAIN-SUFFIX,annas-archive.li,extended-matching
 DOMAIN-SUFFIX,annas-archive.org,extended-matching
+DOMAIN-SUFFIX,api.tavily.com,extended-matching
 DOMAIN-SUFFIX,apkpure.com,extended-matching
 DOMAIN-SUFFIX,apkpure.net,extended-matching
 DOMAIN-SUFFIX,appsco.pe,extended-matching
@@ -52,7 +54,6 @@ DOMAIN-SUFFIX,decohack.com,extended-matching
 DOMAIN-SUFFIX,deepl.com,extended-matching
 DOMAIN-SUFFIX,dependabot.com,extended-matching
 DOMAIN-SUFFIX,developer.mozilla.org,extended-matching
-DOMAIN-SUFFIX,digicert.com,extended-matching
 DOMAIN-SUFFIX,discord.com,extended-matching
 DOMAIN-SUFFIX,discord.gg,extended-matching
 DOMAIN-SUFFIX,discord.media,extended-matching
@@ -189,7 +190,6 @@ DOMAIN-SUFFIX,nuget.org,extended-matching
 DOMAIN-SUFFIX,nyaa.si,extended-matching
 DOMAIN-SUFFIX,o3o.ca,extended-matching
 DOMAIN-SUFFIX,obsidian.md,extended-matching
-DOMAIN-SUFFIX,ocsp.pki.goog,extended-matching
 DOMAIN-SUFFIX,ollama.ai,extended-matching
 DOMAIN-SUFFIX,ollama.com,extended-matching
 DOMAIN-SUFFIX,omdbapi.com,extended-matching
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,sourceforge.net,extended-matching
 DOMAIN-SUFFIX,spacex.com,extended-matching
 DOMAIN-SUFFIX,stackoverflow.co,extended-matching
 DOMAIN-SUFFIX,stackoverflow.com,extended-matching
+DOMAIN-SUFFIX,starship.rs,extended-matching
 DOMAIN-SUFFIX,stripe.com,extended-matching
 DOMAIN-SUFFIX,stripe.network,extended-matching
 DOMAIN-SUFFIX,sublimetext.com,extended-matching
@@ -320,6 +321,7 @@ DOMAIN-SUFFIX,vscodeexperiments.azureedge.net,extended-matching
 DOMAIN-SUFFIX,vscodium.com,extended-matching
 DOMAIN-SUFFIX,vuejs.org,extended-matching
 DOMAIN-SUFFIX,wakapi.dev,extended-matching
+DOMAIN-SUFFIX,weaviate.io,extended-matching
 DOMAIN-SUFFIX,wikimedia.org,extended-matching
 DOMAIN-SUFFIX,wikipedia.org,extended-matching
 DOMAIN-SUFFIX,winget.microsoft.com,extended-matching

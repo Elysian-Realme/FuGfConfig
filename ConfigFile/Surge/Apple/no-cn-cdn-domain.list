@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,apple.news,extended-matching
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,blobstore.apple.com,extended-matching
 DOMAIN-SUFFIX,cdn-apple.com,extended-matching
-DOMAIN-SUFFIX,digicert.com,extended-matching
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,hls.itunes.apple.com,extended-matching
 DOMAIN-SUFFIX,ocsp.apple.com,extended-matching

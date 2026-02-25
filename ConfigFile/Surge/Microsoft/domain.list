@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,microsoftapp.net,extended-matching
 DOMAIN-SUFFIX,microsoftonline.com,extended-matching
 DOMAIN-SUFFIX,microsoftpersonalcontent.com,extended-matching
 DOMAIN-SUFFIX,microsofttranslator.com,extended-matching
+DOMAIN-SUFFIX,microsoftusercontent.com,extended-matching
 DOMAIN-SUFFIX,msauth.net,extended-matching
 DOMAIN-SUFFIX,msftauth.net,extended-matching
 DOMAIN-SUFFIX,msftconnecttest.com,extended-matching

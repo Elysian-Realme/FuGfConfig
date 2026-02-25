@@ -16,7 +16,9 @@ DOMAIN-SUFFIX,anaconda.org
 DOMAIN-SUFFIX,anchor.fm
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,annas-archive.gs
+DOMAIN-SUFFIX,annas-archive.li
 DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,api.tavily.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,appsco.pe
@@ -52,7 +54,6 @@ DOMAIN-SUFFIX,decohack.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,developer.mozilla.org
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
@@ -189,7 +190,6 @@ DOMAIN-SUFFIX,nuget.org
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,o3o.ca
 DOMAIN-SUFFIX,obsidian.md
-DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,omdbapi.com
@@ -252,6 +252,7 @@ DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,spacex.com
 DOMAIN-SUFFIX,stackoverflow.co
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,starship.rs
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,sublimetext.com
@@ -320,6 +321,7 @@ DOMAIN-SUFFIX,vscodeexperiments.azureedge.net
 DOMAIN-SUFFIX,vscodium.com
 DOMAIN-SUFFIX,vuejs.org
 DOMAIN-SUFFIX,wakapi.dev
+DOMAIN-SUFFIX,weaviate.io
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,winget.microsoft.com

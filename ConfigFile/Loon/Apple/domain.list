@@ -25,6 +25,8 @@ DOMAIN-SUFFIX,ls.apple.com.akadns.net
 DOMAIN-SUFFIX,ls.apple.com.edgesuite.net
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,push.apple.com.akadns.net
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
 USER-AGENT,*WeatherFoundation*
 USER-AGENT,*com.apple.mobileme.fmip1
 USER-AGENT,FMDClient*

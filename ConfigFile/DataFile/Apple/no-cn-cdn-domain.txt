@@ -37,7 +37,6 @@ news-client.apple.com
 USER-AGENT,com.apple.news*
 ## Apple Proxy
 developer.apple.com
-.digicert.com
 testflight.apple.com
 sandbox.itunes.apple.com
 # itunes.apple.com

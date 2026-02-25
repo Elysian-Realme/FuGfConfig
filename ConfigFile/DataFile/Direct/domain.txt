@@ -4,6 +4,7 @@
 ## Akamai
 .akamai.net
 .akamaiedge.net
+.akadns.net
 .edgekey.net
 
 ## alibaba
@@ -226,3 +227,5 @@ ocsp.digicert.com
 .qianxin.com
 .qwen.ai
 .qwen.com
+.ustclug.org
+.cdn.fwupd.org

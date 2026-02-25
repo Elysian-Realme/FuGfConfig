@@ -320,8 +320,6 @@ onedrive.live.com
 .comodoca.com
 .sectigo.com
 .positivessl.com
-.digicert.com
-.ocsp.pki.goog
 
 ## Gitea
 .gitea.io
@@ -422,6 +420,7 @@ raycast-store-extensions.s3-accelerate.amazonaws.com
 .archive.org
 .annas-archive.org
 .annas-archive.gs
+.annas-archive.li
 .openwrt.org
 .sublimetext.com
 .rfi.fr
@@ -471,3 +470,6 @@ api.rc-backup.com
 .trancy.org
 .linux.do
 .zotero.org
+.weaviate.io
+.starship.rs
+.api.tavily.com

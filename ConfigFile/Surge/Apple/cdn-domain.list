@@ -6,6 +6,7 @@ DOMAIN,download.developer.apple.com,extended-matching
 DOMAIN,downloaddispatch.itunes.apple.com,extended-matching
 DOMAIN,iosapps.itunes.apple.com,extended-matching
 DOMAIN,k128-inapp.gslb.ksyuncdn.com,extended-matching
+DOMAIN,k128-iosapps-all.gslb.ksyuncdn.com,extended-matching
 DOMAIN,k128-mzstatic.gslb.ksyuncdn.com,extended-matching
 DOMAIN,k128-updates.gslb.ksyuncdn.com,extended-matching
 DOMAIN,k128.gslb.gslb.ksyuncdn.com,extended-matching

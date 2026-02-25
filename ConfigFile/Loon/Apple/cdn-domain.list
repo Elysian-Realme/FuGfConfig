@@ -6,6 +6,7 @@ DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,iosapps.itunes.apple.com
 DOMAIN,k128-inapp.gslb.ksyuncdn.com
+DOMAIN,k128-iosapps-all.gslb.ksyuncdn.com
 DOMAIN,k128-mzstatic.gslb.ksyuncdn.com
 DOMAIN,k128-updates.gslb.ksyuncdn.com
 DOMAIN,k128.gslb.gslb.ksyuncdn.com
@@ -32,3 +33,4 @@ DOMAIN-SUFFIX,iosdomain.qtlcdn.com.cdnmg.com
 DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,origin-apple.com.akadns.net
+USER-AGENT,com.apple.appstored*

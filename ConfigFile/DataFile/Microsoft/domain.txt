@@ -28,6 +28,7 @@
 .azurewebsites.net
 .microsofttranslator.com
 .microsoftpersonalcontent.com
+.microsoftusercontent.com
 .azureedge.net
 .microsoftapp.net
 .sharepointonline.com
