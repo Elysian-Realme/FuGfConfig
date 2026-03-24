@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,cloudflare-dns.com,extended-matching
 DOMAIN-SUFFIX,cloudflare-ipfs.com,extended-matching
 DOMAIN-SUFFIX,cloudflare-quic.com,extended-matching
 DOMAIN-SUFFIX,cloudflare.com,extended-matching
+DOMAIN-SUFFIX,cloudflare.dev,extended-matching
 DOMAIN-SUFFIX,cloudflare.net,extended-matching
 DOMAIN-SUFFIX,cloudflare.tv,extended-matching
 DOMAIN-SUFFIX,cloudflareaccess.com,extended-matching

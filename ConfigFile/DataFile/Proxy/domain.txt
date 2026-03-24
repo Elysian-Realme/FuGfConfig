@@ -63,6 +63,7 @@
 .tensorflow.org
 .maven.apache.org
 .huggingface.co
+.hf.co
 
 .rust-lang.org
 .rustup.rs
@@ -473,3 +474,4 @@ api.rc-backup.com
 .weaviate.io
 .starship.rs
 .api.tavily.com
+.postgresql.org

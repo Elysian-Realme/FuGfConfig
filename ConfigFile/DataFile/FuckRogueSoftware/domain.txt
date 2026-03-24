@@ -6333,6 +6333,7 @@ dynatracegateway.ocbc.id
 .targeting.nzme.arcpublishing.com
 .targeting.tronc.arcpublishing.com
 .analytics.pgncs.notion.so
+.exp.notion.so
 .ct.sendgrid.net
 .xid.statuspage.io
 .analytics.wienerberger.al

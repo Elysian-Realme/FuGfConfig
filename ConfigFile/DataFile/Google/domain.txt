@@ -17,3 +17,4 @@
 .gvt1.com
 .blogger.com
 .research.google
+.notebooklm.google

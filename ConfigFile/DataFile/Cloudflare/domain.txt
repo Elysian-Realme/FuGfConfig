@@ -1,5 +1,6 @@
 .cloudflare.com
 .cloudflare.net
+.cloudflare.dev
 .cf-ipfs.com
 .cloudflare.tv
 .cloudflare-dns.com
